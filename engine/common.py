@@ -94,6 +94,23 @@ def read_json(p, default=None):
     return json.loads(p.read_text(encoding='utf-8')) if p.exists() else default
 
 
+def read_page(p):
+    """Read one transcription JSON. Trailing commas (a common model slip that cannot change content)
+    are tolerated; anything else invalid returns None so verify.py reports the page as bad-json."""
+    p = pathlib.Path(p)
+    if not p.exists():
+        return None
+    text = p.read_text(encoding='utf-8')
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        import re
+        try:
+            return json.loads(re.sub(r',(\s*[}\]])', r'\1', text))
+        except json.JSONDecodeError:
+            return None
+
+
 def write_json(p, data, compact=False):
     p = pathlib.Path(p)
     p.parent.mkdir(parents=True, exist_ok=True)

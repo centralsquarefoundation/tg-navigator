@@ -102,7 +102,7 @@
             ], "sections": []},
            {"number": null, "heading": "कक्षा 2", "minutes": null,
             "items": [
-              {"type": "bullet", "text": "आदर्श एवं स्वतत्र पठन: अभ्यास 18.5 ‘झूला’ पृष्ठ सं 214 साप्ताहिक आकलन: मैंने सीख लिया"},
+              {"type": "bullet", "text": "आदर्श एवं स्वतंत्र पठन: अभ्यास 18.5 ‘झूला’ पृष्ठ सं 214 साप्ताहिक आकलन: मैंने सीख लिया"},
               {"type": "bullet", "text": "स्वतंत्र पठन।"}
             ], "sections": []}
          ]},
@@ -123,7 +123,7 @@
     }
   ],
   "uncertain": [
-    "Shared 40-min row, कक्षा 2 first bullet: 'आदर्श एवं स्वतत्र पठन' - the word स्वतंत्र may be printed without anusvara (misprint) or I misread it"
+    "Shared 40-min row, कक्षा 2 first bullet: 'आदर्श एवं स्वतंत्र पठन' - the word स्वतंत्र read as having anusvara; small print, verify if needed"
   ],
   "notes": "Two columns; section 2.2 begins at the bottom of the left column and its text completes at the top of the right column."
 }

@@ -1,0 +1,70 @@
+{
+  "pdf_page": 240,
+  "printed_page": "30",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "25", "day": "6"},
+      "keys_evidence": "top-left 'सप्ताह – 25'; tab 'दिवस 6' drawn darker/bold, other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+         "items": [
+           {"type": "bullet", "text": "सुनो–सुनाओ"}
+         ], "sections": []},
+        {"number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30", "items": [], "sections": [
+          {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15", "items": [
+            {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+            {"type": "bullet", "text": "उपस्थिति चार्ट"},
+            {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+            {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+          ], "sections": []},
+          {"number": "1.2", "heading": "Introduction to English (Hello)", "minutes": "15", "items": [
+            {"type": "text", "text": "ध्यान से सुनना और छोटे वाक्यों में अपनी बात बताना।"},
+            {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+            {"type": "bullet", "text": "कहें, जब हम किसी से मिलते हैं तो ”Hello, how are you?“ कहते हैं और दूसरा बच्चा जवाब देता है– ”I am fine, thank you.“"},
+            {"type": "bullet", "text": "बच्चों को जोड़ों में बाँटें और उनसे यह संवाद दोहराने को कहें।"},
+            {"type": "bullet", "text": "सभी जोड़ियों को कक्षा के सामने आकर यह संवाद करने दें।"}
+          ], "sections": []}
+        ]},
+        {"number": "2", "heading": "मुक्त खेल", "minutes": "50", "items": [
+          {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+          {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45", "items": [
+          {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, चित्र बनाने और उनके चित्र पर बातचीत करने का मौका दें।"},
+          {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"}
+        ], "sections": []},
+        {"number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35", "items": [], "sections": [
+          {"number": "4.1", "heading": "गतिविधिः चलो दोहराएँ", "minutes": null, "items": [
+            {"type": "bullet", "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"},
+            {"type": "bullet", "text": "अंग्रेज़ी कार्यपत्रक–8 करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "5", "heading": "बाहरी खेल", "minutes": "30", "items": [], "sections": [
+          {"number": "5.1", "heading": "गतिविधिः योगा", "minutes": null, "items": [
+            {"type": "text", "text": "शारीरिक और मानसिक विकास।"},
+            {"type": "bullet", "text": "बच्चों के स्तरानुसार सरल योगा करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "6", "heading": "गुडबाय सर्कल", "minutes": "10", "items": [
+          {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []}
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": null, "minutes": null, "items": [
+      {"type": "bullet", "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"},
+      {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, स्वयं लिखने और उनके लेखन पर बातचीत करने का मौका दें।"},
+      {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"},
+      {"type": "bullet", "text": "अभिभावकों को बच्चों के पोर्टफ़ोलियों दिखाएँ और बच्चों में आ रहे सकारात्मक परिवर्तन के बारे में बताना।"},
+      {"type": "bullet", "text": "पिछले सप्ताह भरे गए अवलोकन ट्रैकर में जो बच्चे कार्य ‘‘मदद के साथ कर पा रहे थे’’ और जो बच्चे कार्य स्वयं ‘‘नहीं कर पा रहे थे’’ उनका पुनः अवलोकन करें और अवलोकन के अनुसार बच्चों की दक्षता में निपुण होने के सप्ताह को भरें।"}
+    ], "sections": []}
+  ],
+  "uncertain": ["Bottom full-width boxed note (pointing-hand icon, no printed title) put in 'shared' with null heading", "quote marks in last shared bullet printed as doubled single quotes"],
+  "notes": "Left column: prep box, period 1 (1.1, 1.2), period 2; right column: period 3 (no sub-steps), 4 (4.1), 5 (5.1), 6; full-width boxed note at bottom. Header row 'दिनांक … हस्ताक्षर …' ignored."
+}

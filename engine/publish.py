@@ -45,11 +45,27 @@ def main():
             print(f"BLOCKED {g['id']}: {checks['counts']['error']} errors (run with --allow-errors to publish the rest)")
             continue
         warned = {i['lesson'] for i in checks['issues'] if i['level'] == 'warn'}
+        # card summary: the lesson's own objectives if printed, else its most distinctive headings
+        def heads(ss):
+            for s in ss:
+                if s.get('heading'):
+                    yield s['heading']
+                yield from heads(s.get('sections', []))
+        freq = {}
+        for l in pack['lessons']:
+            for h in set(heads(l['sections'])):
+                freq[h] = freq.get(h, 0) + 1
+        def summary(l):
+            if l['intro']:
+                return ' · '.join(l['intro'][:2])
+            hs = list(dict.fromkeys(heads(l['sections'])))
+            rare = [h for h in hs if freq[h] <= max(2, len(pack['lessons']) * 0.15)]
+            return ' · '.join((rare or hs)[:3])
         lessons = []
         for l in pack['lessons']:
             if l['id'] in bad:
                 continue
-            lessons.append({'id': l['id'], 'group': l['group'], 'keys': l['keys'], 'intro': l['intro'],
+            lessons.append({'id': l['id'], 'group': l['group'], 'keys': l['keys'], 'intro': l['intro'], 'summary': summary(l),
                             'sections': [slim_section(s) for s in l['sections']],
                             'shared': [slim_section(s) for s in l.get('shared', [])],
                             'pages': l['pages'], 'printed_pages': l['printed_pages'],

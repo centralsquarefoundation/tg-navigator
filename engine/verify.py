@@ -13,7 +13,7 @@ import difflib
 import json
 import re
 
-from common import guide, load_state, parse_pages, read_json, work, write_json
+from common import guide, load_state, parse_pages, read_json, read_page, work, write_json
 
 
 def num(s):
@@ -52,10 +52,8 @@ def verify(cfg, g, pack):
         if not f.exists():
             add('error', 'not-transcribed', 'page not transcribed yet', page=p)
             continue
-        try:
-            json.loads(f.read_text(encoding='utf-8'))
-        except Exception as e:
-            add('error', 'bad-json', f'transcription is not valid JSON: {e}', page=p)
+        if read_page(f) is None:
+            add('error', 'bad-json', 'transcription is not valid JSON (re-transcribe this page)', page=p)
 
     for row in pack['page_index']:
         if row['kind'] == 'lesson' and not row['units']:

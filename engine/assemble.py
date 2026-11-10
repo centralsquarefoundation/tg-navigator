@@ -12,7 +12,7 @@ import argparse
 import difflib
 import re
 
-from common import guide, load_state, parse_pages, read_json, work, write_json
+from common import guide, load_state, parse_pages, read_json, read_page, work, write_json
 
 
 def norm(s):
@@ -108,7 +108,7 @@ def assemble(cfg, g):
     anomalies = (read_json(work(cfg['id'], 'x').parent.parent / 'anomalies.json', {}) or {}).get(g['id'], [])
     pending_opener = None
     for p in pages:
-        data = read_json(vdir / f'p{p:03d}.json')
+        data = read_page(vdir / f'p{p:03d}.json')
         if data is None:
             missing.append(p)
             continue
@@ -176,7 +176,7 @@ def assemble(cfg, g):
                     lessons[-1]['printed_keys'] = printed
     plan = []
     for p in plan_pages:
-        data = read_json(vdir / f'p{p:03d}.json')
+        data = read_page(vdir / f'p{p:03d}.json')
         if data is None:
             missing.append(p)
             continue

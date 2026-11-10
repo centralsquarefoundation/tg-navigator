@@ -54,6 +54,7 @@ function whereLabel(lesson) {
   return isNum(g?.key) ? `${groupShort(g)} · ${unitLabel(lesson)}` : `${keyLabel(GUIDE.groupBy)} ${g?.ordinal} · ${unitLabel(lesson)}`;
 }
 function summaryOf(lesson) {
+  if (lesson.summary) return lesson.summary;
   if (lesson.intro?.length) return lesson.intro.slice(0, 2).join(' · ');
   const heads = [];
   for (const s of lesson.sections) for (const c of s.sections || []) if (c.heading && heads.length < 3) heads.push(c.heading);
@@ -378,7 +379,10 @@ async function render({ keepScroll = false } = {}) {
     default: html = viewToday();
   }
   main.innerHTML = html;
-  document.documentElement.style.setProperty('--header-h', `${$('.top').offsetHeight}px`);
+  // logos + pickers scroll away; the tab bar stays pinned
+  const brandH = $('.brand-row').offsetHeight;
+  $('.top').style.top = `-${brandH}px`;
+  document.documentElement.style.setProperty('--header-h', `${$('.top').offsetHeight - brandH}px`);
   const section = qs.get('s');
   if (keepScroll) window.scrollTo(0, y);
   else if (section) document.getElementById(section === 'shared' || section === 'note' || section === 'pages' ? section : `sec-${section}`)?.scrollIntoView();
