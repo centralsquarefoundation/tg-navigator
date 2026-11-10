@@ -9,8 +9,8 @@
  "groups": 26,
  "textcheck": {
   "checked": 7017,
-  "exact": 5458,
-  "close": 1337,
+  "exact": 5468,
+  "close": 1327,
   "mismatch": 222
  },
  "issues": [
@@ -873,7 +873,7 @@
   {
    "level": "info",
    "code": "transcriber-note",
-   "msg": "Multigrade box: 'रखेगें' vs 'रखेंगें' spelling of line 'बच्चे चित्र बनाने का कार्य जारी रखेंगें।' read as printed रखेंगें (p048-049 use रखेंगें) - check",
+   "msg": "Multigrade box: 'रखेगें' vs 'रखेंगें' spelling of line 'बच्चे चित्र बनाने का कार्य जारी रखेगें।' read as printed रखेंगें (p048-049 use रखेंगें) - check",
    "lesson": "hr-hindi-g2-w06-d03",
    "page": 50,
    "doc": "hr-hindi-g2"

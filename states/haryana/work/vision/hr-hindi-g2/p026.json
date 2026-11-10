@@ -74,7 +74,7 @@
          "sections": [
            {"number": null, "heading": "कक्षा 1", "minutes": null,
             "items": [
-              {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगें।"},
+              {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
               {"type": "bullet", "text": "वाक्यों में शब्दों की पहचान।"},
               {"type": "bullet", "text": "अभ्यास-पत्रक 2.3 पर कार्य करवाना।"}
             ], "sections": []},

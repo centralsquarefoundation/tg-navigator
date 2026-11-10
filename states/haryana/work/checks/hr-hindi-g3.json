@@ -2,15 +2,15 @@
  "guide": "hr-hindi-g3",
  "counts": {
   "error": 0,
-  "warn": 265,
+  "warn": 268,
   "info": 240
  },
  "lessons": 156,
  "groups": 26,
  "textcheck": {
   "checked": 5010,
-  "exact": 4031,
-  "close": 872,
+  "exact": 4033,
+  "close": 870,
   "mismatch": 107
  },
  "issues": [
@@ -18,6 +18,14 @@
    "level": "warn",
    "code": "minutes",
    "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19,
+   "doc": "hr-hindi-g3"
+  },
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«अभ्यास- वर्ण/मात्राओं की पुनरावृत्ति» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
    "lesson": "hr-hindi-g3-w01-d01",
    "page": 19,
    "doc": "hr-hindi-g3"
@@ -95,6 +103,14 @@
    "doc": "hr-hindi-g3"
   },
   {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«अभ्यास- वर्ण/मात्राओं की पुनरावृत्ति» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20,
+   "doc": "hr-hindi-g3"
+  },
+  {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.2: the question-icon box in the right column's top is a continuation of 1.2 discussion questions; placed after 'कविता पर चर्चा करें।' in section 1.2",
@@ -130,6 +146,14 @@
    "level": "warn",
    "code": "minutes",
    "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22,
+   "doc": "hr-hindi-g3"
+  },
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«वर्ण/मात्राओं की पुनरावृत्ति» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
    "lesson": "hr-hindi-g3-w01-d03",
    "page": 22,
    "doc": "hr-hindi-g3"
@@ -234,6 +258,14 @@
    "level": "warn",
    "code": "minutes",
    "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d05",
+   "page": 26,
+   "doc": "hr-hindi-g3"
+  },
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«वर्ण/मात्राओं की पुनरावृत्ति» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
    "lesson": "hr-hindi-g3-w01-d05",
    "page": 26,
    "doc": "hr-hindi-g3"
@@ -1754,14 +1786,6 @@
    "level": "warn",
    "code": "minutes",
    "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
-   "lesson": "hr-hindi-g3-w13-d01",
-   "page": 94,
-   "doc": "hr-hindi-g3"
-  },
-  {
-   "level": "warn",
-   "code": "numbering",
-   "msg": "expected 3 but found 3.2 under 3",
    "lesson": "hr-hindi-g3-w13-d01",
    "page": 94,
    "doc": "hr-hindi-g3"

@@ -156,6 +156,8 @@ def check_numbering(les, add):
                 lo, hi = sum(k[0] for k in kids), sum(k[1] for k in kids)
                 if not (lo <= mins[1] and mins[0] <= hi):
                     add('warn', 'minutes', f"«{s.get('heading')}» says {s['minutes']} min, its steps add up to {lo}-{hi}", les['id'], les['pages'][0])
+            if s.get('items') and s.get('sections') and any(i.get('type') != 'figure' for i in s['items']):
+                add('warn', 'items-before-steps', f"«{s.get('heading')}» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation", les['id'], les['pages'][0])
             if not s.get('items') and not s.get('sections'):
                 add('warn', 'empty-section', f"«{s.get('heading')}» has no content", les['id'], les['pages'][0])
             level(s.get('sections', []), n or parent)

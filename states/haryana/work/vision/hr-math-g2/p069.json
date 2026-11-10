@@ -57,7 +57,7 @@
                {"type": "bullet", "text": "सवाल का जवाब देने के लिए प्रत्येक टीम के बच्चों के पास 10 सेकेंड का समय होगा।"},
                {"type": "bullet", "text": "जिस टीम का बच्चा सवाल का सही जवाब देगा, उस टीम को एक अंक मिलेगा।"},
                {"type": "bullet", "text": "अध्यापक/अध्यापिका इस प्रकार से बच्चों से सवाल पूछें:"},
-               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के बाई ओर कितने स्थानों को दिखाया गया है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के बाईं ओर कितने स्थानों को दिखाया गया है?"},
                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के दाईं ओर कितने स्थानों को दिखाया गया है?"},
                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - दुकान के अधिक पास कौन-सा स्थान है?"},
                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - तालाब मुख्य सड़क के किस ओर स्थित है?"},
@@ -72,6 +72,6 @@
     }
   ],
   "shared": [],
-  "uncertain": ["Col 1: 'सेकेंड, मिनट और घंटे की सुई' and 'घंटे मिनट कि सुई' as printed", "Col 2 'बाई ओर' vs 'दाईं ओर' as printed; the question list is a boxed list of » items (recorded as bullets, last bullet before the box is its lead-in)", "Map labels read at small size"],
+  "uncertain": ["Col 1: 'सेकेंड, मिनट और घंटे की सुई' and 'घंटे मिनट कि सुई' as printed", "Col 2 'बाईं ओर' vs 'दाईं ओर' as printed; the question list is a boxed list of » items (recorded as bullets, last bullet before the box is its lead-in)", "Map labels read at small size"],
   "notes": "Page starts with Block 2 bar. The rounded box with quick-quick questions in column 2 is part of the activity (» markers). Column 1 has empty space below its bullets."
 }

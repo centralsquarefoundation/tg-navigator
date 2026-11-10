@@ -1,17 +1,17 @@
-{"pdf_page": 29, "figures": [
-  {"bbox": [0.25, 0.235, 0.75, 0.34],
+{
+ "pdf_page": 29,
+ "figures": [
+  {
+   "bbox": [
+    0.235,
+    0.143,
+    0.765,
+    0.665
+   ],
    "unit": null,
    "section": null,
-   "after_text": "क्या आपने कभी इन बिंदियों की संख्या को ध्यान से देखा है?",
-   "desc": "Ladybug on dandelion flowers"},
-  {"bbox": [0.26, 0.345, 0.75, 0.57],
-   "unit": null,
-   "section": null,
-   "after_text": "कीड़े पर बनी बिंदियों की संख्या को दिए गए बॉक्स में लिखिए।",
-   "desc": "Four ladybug pictures each with an empty answer box for counting dots"},
-  {"bbox": [0.25, 0.57, 0.75, 0.66],
-   "unit": null,
-   "section": null,
-   "after_text": "प्रत्येक डिजाइन में लगे बीजों की संख्या का",
-   "desc": "Seed designs made by Chutki: groups of seeds in different patterns, with girl"}
-]}
+   "after_text": null,
+   "desc": "Chapter opener picture: textbook page 'चिंकी का जन्मदिन' with ladybirds to count and Chutki's seed designs"
+  }
+ ]
+}

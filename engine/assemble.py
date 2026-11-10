@@ -39,16 +39,34 @@ def keyslug(v):
 
 
 def same_section(a, b):
-    return norm(a.get('number')) == norm(b.get('number')) and norm(a.get('heading')) == norm(b.get('heading'))
+    """Same printed section: same number, and same heading unless one side has no heading
+    (a page-break continuation often repeats the number but not the heading)."""
+    na, nb = norm(a.get('number')), norm(b.get('number'))
+    ha, hb = norm(a.get('heading')), norm(b.get('heading'))
+    return na == nb and (ha == hb or not ha or not hb) and (na or ha == hb)
+
+
+def last_leaf(section):
+    """The step that was being printed last: the deepest last sub-step."""
+    while section.get('sections'):
+        section = section['sections'][-1]
+    return section
 
 
 def merge_sections(into, more):
-    """Append `more` sections to `into`, merging the boundary section when it continues."""
-    if into and more and (same_section(into[-1], more[0]) or (more[0].get('heading') is None and more[0].get('number') is None)):
+    """Append `more` sections to `into`, merging the boundary section when it continues.
+    Continuation text with no heading of its own belongs to the step that was being printed last
+    (not to the block above it), so it keeps its place after that step's earlier lines."""
+    if into and more:
         first = more[0]
-        into[-1].setdefault('items', []).extend(first.get('items', []))
-        merge_sections(into[-1].setdefault('sections', []), first.get('sections', []))
-        more = more[1:]
+        untitled = first.get('heading') is None and first.get('number') is None
+        if untitled or same_section(into[-1], first):
+            target = into[-1]
+            if first.get('items'):
+                (last_leaf(target) if (untitled or not first.get('sections')) and target.get('sections') else target
+                 ).setdefault('items', []).extend(first['items'])
+            merge_sections(target.setdefault('sections', []), first.get('sections', []))
+            more = more[1:]
     into.extend(more)
 
 

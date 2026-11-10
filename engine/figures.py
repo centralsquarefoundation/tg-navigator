@@ -170,8 +170,14 @@ def place(cfg, g, pack, src):
                     continue
                 les = target[0]
                 sec = find_section(les['sections'] + les.get('shared', []), fig.get('section'))
-                if sec is None:
-                    sec = les['sections'][0] if les['sections'] else None
+                if sec is None or not best_anchor(list(walk([sec])), fig.get('after_text')):
+                    # section label not found, or the line it follows is elsewhere: search the whole lesson
+                    whole = {'number': None, 'heading': None, 'items': [], 'sections': les['sections']}
+                    if best_anchor(list(walk([whole])), fig.get('after_text')) or any(
+                            it.get('type') == 'figure' and not it.get('crop') for x in walk(les['sections']) for it in x.get('items', [])):
+                        sec = whole
+                    elif sec is None:
+                        sec = les['sections'][0] if les['sections'] else None
                 if sec is None:
                     report['unplaced'].append({'doc': doc_id, 'page': p, 'n': n, 'desc': fig.get('desc'), 'unit': fig.get('unit')})
                     continue

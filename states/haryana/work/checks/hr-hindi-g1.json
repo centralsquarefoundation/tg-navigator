@@ -2,13 +2,21 @@
  "guide": "hr-hindi-g1",
  "counts": {
   "error": 0,
-  "warn": 44,
+  "warn": 49,
   "info": 425
  },
  "lessons": 156,
  "groups": 26,
  "textcheck": {},
  "issues": [
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g1-w01-d01",
+   "page": 15,
+   "doc": "hr-hindi-g1"
+  },
   {
    "level": "info",
    "code": "transcriber-note",
@@ -1427,6 +1435,14 @@
   },
   {
    "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«समूह 1 के साथ कार्य योजना» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g1-w11-d03",
+   "page": 80,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w11-d03",
@@ -1467,6 +1483,14 @@
   },
   {
    "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«समूह 1 के साथ कार्य योजना» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g1-w11-d04",
+   "page": 81,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w11-d04",
@@ -1495,6 +1519,14 @@
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d04",
    "page": 81,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«समूह 1 के साथ कार्य योजना» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g1-w11-d05",
+   "page": 82,
    "doc": "hr-hindi-g1"
   },
   {
@@ -1527,6 +1559,14 @@
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d05",
    "page": 82,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "items-before-steps",
+   "msg": "«समूह 1 के साथ कार्य योजना» has its own lines and sub-steps; the app shows its lines first — check they are not a page-break continuation",
+   "lesson": "hr-hindi-g1-w11-d06",
+   "page": 83,
    "doc": "hr-hindi-g1"
   },
   {
