@@ -1001,6 +1001,23 @@
     "Pattern figures (shapes/arrows) transcribed in text form with symbols; » markers kept",
     "Sub-step layout lines starting with » are recorded as text items"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कुछ बीज",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "इकाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "दहाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1255,6 +1272,7 @@
     "Pattern figures (shapes/arrows) transcribed in text form with symbols; » markers kept",
     "Sub-step layout lines starting with » are recorded as text items"
    ],
+   "prep": [],
    "textcheck": {
     "single-reading": 1
    }
@@ -1484,6 +1502,13 @@
     "Pattern figures (shapes/arrows) transcribed in text form with symbols; » markers kept",
     "Sub-step layout lines starting with » are recorded as text items"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1682,6 +1707,13 @@
     "Spellings 'उदहारण', 'सन्दर्भ' vs 'संदर्भ', 'ढूँढ' as printed",
     "Column 1 yellow box omits 'घन' (lists घनाभ, बेलन, शंकु, गोला) as printed on this page, unlike the opener",
     "Column 1 first bullet: 'बोर्ड पर कुछ आकृतियाँ' wording read from small text"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -1902,6 +1934,13 @@
     "Column 1 yellow box omits 'घन' (lists घनाभ, बेलन, शंकु, गोला) as printed on this page, unlike the opener",
     "Column 1 first bullet: 'बोर्ड पर कुछ आकृतियाँ' wording read from small text"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "त्रिआयामी आकृतियाँ (घन, घनाभ, बेलन, शंकु, गोला)",
+     "where": "1 मौखिक गणित बातचीत"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2081,6 +2120,13 @@
     "Column 1 yellow box printed without bullet marker: 'वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना' (wording as printed, appears to repeat 'बनाकर बनाने')",
     "Column 3 first bullet: 'पन्ने' and sentence boundaries read from small text",
     "'यानी, 100 होता हैं' punctuation and anusvara as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "16 पीले ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2268,6 +2314,23 @@
     "Column 3 first bullet: 'पन्ने' and sentence boundaries read from small text",
     "'यानी, 100 होता हैं' punctuation and anusvara as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "छोटे पीले ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "4 नीले ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2453,6 +2516,13 @@
     "Column 1 yellow box printed without bullet marker: 'वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना' (wording as printed, appears to repeat 'बनाकर बनाने')",
     "Column 3 first bullet: 'पन्ने' and sentence boundaries read from small text",
     "'यानी, 100 होता हैं' punctuation and anusvara as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गणितमाला",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2679,6 +2749,13 @@
    ],
    "uncertain": [
     "Day 7-8 'अंकित करना' wording: 'अगले संख्या को' copied as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2907,6 +2984,7 @@
    "uncertain": [
     "Day 7-8 'अंकित करना' wording: 'अगले संख्या को' copied as printed"
    ],
+   "prep": [],
    "textcheck": {
     "single-reading": 1
    }
@@ -3089,6 +3167,13 @@
    "uncertain": [
     "Day 5-6 'समझाएँकि' printed without space; 'कम करके कर बच्चों' as printed",
     "Day 1-2 intro: '(99 तक)' ends with danda after the bracket"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "11 पीले और 7 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3276,6 +3361,13 @@
    "uncertain": [
     "Day 5-6 'समझाएँकि' printed without space; 'कम करके कर बच्चों' as printed",
     "Day 1-2 intro: '(99 तक)' ends with danda after the bracket"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "34 पीले और 16 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3472,6 +3564,13 @@
     "Day 5-6 'समझाएँकि' printed without space; 'कम करके कर बच्चों' as printed",
     "Day 1-2 intro: '(99 तक)' ends with danda after the bracket"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गणितमाला",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3654,6 +3753,13 @@
    "uncertain": [
     "Day 9-10 number-line figure labels: 0 20 40 60 80 100 120 140 160 180 200 as printed although the bullet text says 0 to 20",
     "Day 11-12 last bullet in the second sub-step reads 'आगे की ओर संख्याएँ।' as printed (sentence appears incomplete)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "34 पीले और 16 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3876,6 +3982,13 @@
     "Day 9-10 number-line figure labels: 0 20 40 60 80 100 120 140 160 180 200 as printed although the bullet text says 0 to 20",
     "Day 11-12 last bullet in the second sub-step reads 'आगे की ओर संख्याएँ।' as printed (sentence appears incomplete)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4089,6 +4202,13 @@
     "Day 9-10 number-line figure labels: 0 20 40 60 80 100 120 140 160 180 200 as printed although the bullet text says 0 to 20",
     "Day 11-12 last bullet in the second sub-step reads 'आगे की ओर संख्याएँ।' as printed (sentence appears incomplete)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सैकड़ा चार्ट",
+     "where": "1 मौखिक गणित बातचीत"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4294,6 +4414,18 @@
    "uncertain": [
     "Day 13-14 block 1: word 'उंगुलियाँ' printed with this spelling (as read)",
     "Day 15-16 bullet 'चाहिए तो वे 10 प्लस 10 करके' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "7 पीले और 5 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4517,6 +4649,18 @@
     "Day 13-14 block 1: word 'उंगुलियाँ' printed with this spelling (as read)",
     "Day 15-16 bullet 'चाहिए तो वे 10 प्लस 10 करके' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "5 काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4711,6 +4855,18 @@
    "uncertain": [
     "Column 1 and 3 first-section lead-in lines 'अध्यापक/अध्यापिका बच्चों को' / 'बच्चों से पूछें' transcribed as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक दर्पण",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "बिन्दुदार कागज़",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4897,6 +5053,13 @@
    ],
    "uncertain": [
     "Column 1 and 3 first-section lead-in lines 'अध्यापक/अध्यापिका बच्चों को' / 'बच्चों से पूछें' transcribed as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5087,6 +5250,18 @@
    ],
    "uncertain": [
     "Column 1 and 3 first-section lead-in lines 'अध्यापक/अध्यापिका बच्चों को' / 'बच्चों से पूछें' transcribed as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "जियोबोर्ड",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "रबर बैंड",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5293,6 +5468,13 @@
    "uncertain": [
     "Column 1 bullet 'वर्ग कहलाता है' / 'आयत कहलाता है' endings and 'होती है' as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अखबार",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5474,6 +5656,13 @@
    ],
    "uncertain": [
     "Column 1 bullet 'वर्ग कहलाता है' / 'आयत कहलाता है' endings and 'होती है' as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5662,6 +5851,28 @@
     "Column 3 section 'अवधारणा' bullet 2: 'संख्याओं की रेखा पर 20 का अंतर' read as printed",
     "Column 3 last bullet: 'अगले संख्या को' printed as is"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक मुट्ठी चावल",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "एक मुट्ठी गेहूँ",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "सैकड़ा के ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5849,6 +6060,13 @@
    "uncertain": [
     "Column 3 section 'अवधारणा' bullet 2: 'संख्याओं की रेखा पर 20 का अंतर' read as printed",
     "Column 3 last bullet: 'अगले संख्या को' printed as is"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6068,6 +6286,13 @@
     "Column 3 section 'अवधारणा' bullet 2: 'संख्याओं की रेखा पर 20 का अंतर' read as printed",
     "Column 3 last bullet: 'अगले संख्या को' printed as is"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6273,6 +6498,13 @@
    ],
    "uncertain": [
     "Column 2 Block 1 intro line 'अध्यापक/अध्यापिका बच्चों को' in the concept bar has no verb printed (as printed)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सैंकड़े, दहाई और इकाई के ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6480,6 +6712,13 @@
    ],
    "uncertain": [
     "Column 2 Block 1 intro line 'अध्यापक/अध्यापिका बच्चों को' in the concept bar has no verb printed (as printed)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6703,6 +6942,13 @@
    "uncertain": [
     "Column 1 and 2 dash lines (– ...) written as bullets; spacing in '= 3' alignment lost",
     "Column 2 'संदर्भ' vs 'सन्दर्भ' spelling varies on page; copied as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "10 रुपये के दस नोट",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6962,6 +7208,13 @@
     "Column 1 and 2 dash lines (– ...) written as bullets; spacing in '= 3' alignment lost",
     "Column 2 'संदर्भ' vs 'सन्दर्भ' spelling varies on page; copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "दो रूपये के 10 नोट",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7200,6 +7453,13 @@
     "Column 1 and 2 dash lines (– ...) written as bullets; spacing in '= 3' alignment lost",
     "Column 2 'संदर्भ' vs 'सन्दर्भ' spelling varies on page; copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "6 बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7382,6 +7642,13 @@
    "uncertain": [
     "Column 3: 'मिलेंगें' and 'मिलेंगीं' spellings kept as printed; 'बाँटना है'/'बाँटना हो' read from image",
     "Column 3 concept bullets starting with dash (–) written as bullets"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "0 से 9 तक की संख्या की पर्चियों के दो सेट",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7577,6 +7844,13 @@
    "uncertain": [
     "Column 3: 'मिलेंगें' and 'मिलेंगीं' spellings kept as printed; 'बाँटना है'/'बाँटना हो' read from image",
     "Column 3 concept bullets starting with dash (–) written as bullets"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाँच रूपये के पाँच नोट",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7805,6 +8079,13 @@
     "Column 3: 'मिलेंगें' and 'मिलेंगीं' spellings kept as printed; 'बाँटना है'/'बाँटना हो' read from image",
     "Column 3 concept bullets starting with dash (–) written as bullets"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाँच रुपये के दस नोट",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8020,6 +8301,13 @@
    "uncertain": [
     "Col 3 first section: the two example questions use a dash (–) marker; recorded as bullets. 'चटर'/'पटर' are names as printed; 'उत्तर दें के लिए' as printed",
     "Col 1: 'बराबर.बराबर' printed with a full stop"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "12 पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8253,6 +8541,13 @@
     "Col 3 first section: the two example questions use a dash (–) marker; recorded as bullets. 'चटर'/'पटर' are names as printed; 'उत्तर दें के लिए' as printed",
     "Col 1: 'बराबर.बराबर' printed with a full stop"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाँच-पाँच लाल और हरी पर्चियों के सेट्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8448,6 +8743,13 @@
    "uncertain": [
     "Col 3 first section: the two example questions use a dash (–) marker; recorded as bullets. 'चटर'/'पटर' are names as printed; 'उत्तर दें के लिए' as printed",
     "Col 1: 'बराबर.बराबर' printed with a full stop"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8726,6 +9028,7 @@
     "The four last items use a ÷-like dash marker, recorded as bullets (they are sub-items of the preceding bullet)",
     "Page ends after last question; the block may continue on next page"
    ],
+   "prep": [],
    "textcheck": {
     "single-reading": 1
    }
@@ -8911,6 +9214,18 @@
    "uncertain": [
     "Col 2 block-1 second sub-step closing line 'परिचय दें' printed without 'एवं' (as 'स्थापित करें परिचय दें') per my reading",
     "Block 2 text in all columns may continue on the next page (no later content on this page)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सैकड़ा का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9101,6 +9416,13 @@
    "uncertain": [
     "Col 2 block-1 second sub-step closing line 'परिचय दें' printed without 'एवं' (as 'स्थापित करें परिचय दें') per my reading",
     "Block 2 text in all columns may continue on the next page (no later content on this page)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9294,6 +9616,13 @@
    "uncertain": [
     "Col 2 block-1 second sub-step closing line 'परिचय दें' printed without 'एवं' (as 'स्थापित करें परिचय दें') per my reading",
     "Block 2 text in all columns may continue on the next page (no later content on this page)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सैकड़ा, दहाई और इकाई के ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9509,6 +9838,13 @@
    "uncertain": [
     "Column 2 Block 2 bullet 'पैटर्न में कहाँ गलती हो रही है' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "1 से 9 तक संख्याओं को कार्ड्स पर लिखकर उनके दो सेट",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9711,6 +10047,13 @@
    ],
    "uncertain": [
     "Column 2 Block 2 bullet 'पैटर्न में कहाँ गलती हो रही है' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9936,6 +10279,23 @@
     "Col 1 Block 2 third-level dash lines recorded as bullets; 'उंगुली' read as printed in col 1 Block 2 last bullet",
     "Col 2 Block 1 sub-step lead-in 'अध्यापक/अध्यापिका अब संदर्भ के आधार पर' is the text above the bullets"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गणितमाला",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "धागे के टुकड़े",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉकस",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10147,6 +10507,23 @@
     "Col 1 Block 2 third-level dash lines recorded as bullets; 'उंगुली' read as printed in col 1 Block 2 last bullet",
     "Col 2 Block 1 sub-step lead-in 'अध्यापक/अध्यापिका अब संदर्भ के आधार पर' is the text above the bullets"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्लेस वैल्यू स्ट्रिप्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "स्केल",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10323,6 +10700,33 @@
    "uncertain": [
     "Col 1 Block 1 sub-step 2 second bullet reads 'इस प्रकार अवधारणा का परिचय दें एवं अवधारणा से संदर्भ स्थापित करें' as printed",
     "'ज़्यादा' nukta read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "खाली गिलास",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "जग",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पानी से भरी एक बाल्टी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कटोरी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "मग",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10516,6 +10920,23 @@
    "uncertain": [
     "Col 1 Block 1 sub-step 2 second bullet reads 'इस प्रकार अवधारणा का परिचय दें एवं अवधारणा से संदर्भ स्थापित करें' as printed",
     "'ज़्यादा' nukta read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "खाली गिलास",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "जग",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पानी से भरी एक बाल्टी",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10741,6 +11162,53 @@
     "Col 1 yellow-box 'वज़न' nukta read as printed",
     "'ब्लॉक्स की यानी 100 ग्राम' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पानी भरी बोतल",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "टिफ़िन",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "दो दोने",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "6 समान लम्बाई के धागे के टुकड़े",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक छड़ी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक पेंसिल",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक रबर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10945,6 +11413,28 @@
     "Col 1 yellow-box 'वज़न' nukta read as printed",
     "'ब्लॉक्स की यानी 100 ग्राम' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कंचे",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "मिट्टी की गोलियाँ",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "एक इकाई का बेस–10 ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "सैकड़े को दर्शाने वाला ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11129,6 +11619,13 @@
    "uncertain": [
     "Column 1 and 2 section 1 bullets: 'सैकड़ा/सैकड़े' spellings as read",
     "Column 3 block 2 bullet: 'देती/देते' slash form as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11323,6 +11820,13 @@
     "Column 1 and 2 section 1 bullets: 'सैकड़ा/सैकड़े' spellings as read",
     "Column 3 block 2 bullet: 'देती/देते' slash form as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11511,6 +12015,13 @@
    "uncertain": [
     "Column 1 and 2 section 1 bullets: 'सैकड़ा/सैकड़े' spellings as read",
     "Column 3 block 2 bullet: 'देती/देते' slash form as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11713,6 +12224,18 @@
     "Column 3 block 2 first bullet: 'बेस 10' printed without dash as read",
     "Column 2 block 1 'सैकड़ा के अंकों' vs 'अंको' spelling as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11910,6 +12433,13 @@
     "Column 3 block 2 first bullet: 'बेस 10' printed without dash as read",
     "Column 2 block 1 'सैकड़ा के अंकों' vs 'अंको' spelling as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12094,6 +12624,13 @@
    "uncertain": [
     "Column 3 block 2 first bullet: 'बेस 10' printed without dash as read",
     "Column 2 block 1 'सैकड़ा के अंकों' vs 'अंको' spelling as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12300,6 +12837,13 @@
    "uncertain": [
     "Column 1 block 1: the first text line 'अध्यापक/अध्यापिका बच्चों से' is a lead-in line, then a dash-marked sub-line 'यदि एक बच्चे को 6 सेब...' printed with a '–' marker (typed here as bullet)",
     "Column 2 block 2: '85 रूपये का मूल्य' wording as read; 'अवधारणा से संदर्भ' spelled with anusvara in one place as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "तिकोन के आकार की कुछ पर्चियाँ",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12519,6 +13063,13 @@
     "Column 1 block 1: the first text line 'अध्यापक/अध्यापिका बच्चों से' is a lead-in line, then a dash-marked sub-line 'यदि एक बच्चे को 6 सेब...' printed with a '–' marker (typed here as bullet)",
     "Column 2 block 2: '85 रूपये का मूल्य' wording as read; 'अवधारणा से संदर्भ' spelled with anusvara in one place as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सभी सिक्के और प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12730,6 +13281,13 @@
    "uncertain": [
     "Column 2 intro bullets are printed with bullet markers; kept as plain intro lines",
     "Column 2 concept bullet 5: 'ज़ीरो' with nukta as printed; 'चिह्न' spelling as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बड़ा कैलेंडर",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12958,6 +13516,13 @@
     "Column 2 intro bullets are printed with bullet markers; kept as plain intro lines",
     "Column 2 concept bullet 5: 'ज़ीरो' with nukta as printed; 'चिह्न' spelling as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "घड़ी के मॉडल",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -13167,6 +13732,13 @@
    "uncertain": [
     "Block 1 bar read as 'ब्लॉक 1 – मौखिक गणित बातचीत'",
     "Day 1-2 column: 'संदर्भ के आधार विभिन्न' printed without 'पर' as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13384,6 +13956,28 @@
    "uncertain": [
     "Block 1 bar read as 'ब्लॉक 1 – मौखिक गणित बातचीत'",
     "Day 1-2 column: 'संदर्भ के आधार विभिन्न' printed without 'पर' as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "दर्पण",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "ज्यामिति बॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कंचा",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "2 कौशल शिक्षण"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13685,6 +14279,13 @@
     "hi": "संदर्शिका में इस अध्याय के ‘दिवस 1-2 / 3-4’ दो बार छपे हैं। यह दूसरा भाग है (मूल पृष्ठ देखें)।",
     "en": "The guide prints Day 1-2 / 3-4 twice in this chapter. This is the second set (see original page)."
    },
+   "prep": [
+    {
+     "kind": "material",
+     "name": "वर्गाकार कागज",
+     "where": "1 मौखिक गणित बातचीत"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -13942,6 +14543,7 @@
     "hi": "संदर्शिका में इस अध्याय के ‘दिवस 1-2 / 3-4’ दो बार छपे हैं। यह दूसरा भाग है (मूल पृष्ठ देखें)।",
     "en": "The guide prints Day 1-2 / 3-4 twice in this chapter. This is the second set (see original page)."
    },
+   "prep": [],
    "textcheck": {
     "single-reading": 1
    }
@@ -15993,6 +16595,12 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 0
+ },
+ "materials": {
+  "lessons_with_list": 59,
+  "kept": 96,
+  "dropped": [],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {},

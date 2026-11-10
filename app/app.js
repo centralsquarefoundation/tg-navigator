@@ -21,7 +21,7 @@ function loadStore() {
   const key = `tg:${INDEX.state.id}`;
   let data = {};
   try { data = JSON.parse(localStorage.getItem(key) || '{}'); } catch { data = {}; }
-  data.taught ||= {}; data.notes ||= {}; data.saved ||= {}; data.last ||= {};
+  data.taught ||= {}; data.notes ||= {}; data.saved ||= {}; data.last ||= {}; data.ready ||= {};
   return {
     data,
     save() { try { localStorage.setItem(key, JSON.stringify(this.data)); } catch { toast(t('इस फ़ोन में जगह नहीं बची।', 'Storage is full.')); } },
@@ -122,13 +122,62 @@ function position() {
   return { next: seq[last + 1] || null, prev: last >= 0 ? seq[last] : null, taught: seq.filter((l) => store.data.taught[l.id]).length, total: seq.length };
 }
 
+// ---------- preparation (तैयारी) ----------
+// lesson.prep = [{kind: 'material'|'book', name, where}] — names copied from the lesson's own text
+const prepOf = (l, kind) => (l.prep || []).filter((p) => p.kind === kind);
+function keepReady(l, max = 5) {
+  const m = prepOf(l, 'material');
+  if (!m.length) return '';
+  const shown = m.slice(0, max).map((p) => p.name).join(', ');
+  return `${shown}${m.length > max ? ` ${t(`+${m.length - max} और`, `+${m.length - max} more`)}` : ''}`;
+}
+function sectionIndexOf(l, where) {
+  const label = (s) => [s.number, s.heading].filter(Boolean).join(' ');
+  const k = l.sections.findIndex((s) => label(s) === where);
+  if (k >= 0) return `sec-${k}`;
+  return (l.shared || []).some((s) => label(s) === where) ? 'shared' : null;
+}
+function periodsLine(l) {
+  // the guide's own periods with their printed minutes — the lesson at a glance
+  return l.sections.filter((s) => s.heading).map((s) => `${s.number ? s.number + '. ' : ''}${s.heading}${s.minutes ? ` · ${s.minutes} ${t('मि', 'min')}` : ''}`);
+}
+function renderPrep(l) {
+  const ready = store.data.ready[l.id] || {};
+  const list = (kind) => prepOf(l, kind).map((p) => {
+    const key = `${kind}:${p.name}`;
+    const target = sectionIndexOf(l, p.where);
+    return `<li><label class="check"><input type="checkbox" data-ready="${esc(key)}"${ready[key] ? ' checked' : ''}><span>${esc(p.name)}</span></label>${target ? `<a class="where-link" href="#/lesson/${l.id}?s=${target.replace('sec-', '')}" data-jump="${target}">${esc(p.where.slice(0, 30))} ↓</a>` : ''}</li>`;
+  }).join('');
+  const mats = list('material'), books = list('book');
+  const periods = periodsLine(l);
+  return `<section class="card prep" id="prep"><h2>${t('तैयारी', 'Preparation')}</h2>
+    ${periods.length ? `<h3>${t('पाठ एक नज़र में', 'Lesson at a glance')}</h3><ol class="glance">${periods.map((p) => `<li>${esc(p)}</li>`).join('')}</ol>` : ''}
+    ${mats ? `<h3>${t('सामग्री (TLM) — तैयार रखें', 'Materials (TLM) to keep ready')}</h3><ul class="checklist">${mats}</ul>` : ''}
+    ${books ? `<h3>${t('किताबें और पृष्ठ', 'Books and pages')}</h3><ul class="checklist">${books}</ul>` : ''}
+    ${mats || books ? `<p class="muted">${t('यह सूची इसी पाठ के शब्दों से ली गई है; हर चीज़ के आगे उस हिस्से का नाम है जहाँ वह आती है। तैयार होने पर ✓ लगाएँ — यह सिर्फ़ इसी फ़ोन में रहता है।', 'Copied from this lesson’s own words; each item names the part where it is used. Tick what is ready — stays on this phone.')}</p>`
+      : `<p class="muted">${t('इस पाठ के शब्दों में अलग से तैयार करने वाली कोई सामग्री नहीं मिली। पूरे निर्देश नीचे देखें।', 'No separate material is named in this lesson’s text. See the full steps below.')}</p>`}
+  </section>`;
+}
+
 // ---------- views ----------
 function lessonCard(l, full = false) {
   const taught = store.data.taught[l.id];
+  const ready = keepReady(l, 3);
   return `<a class="lesson-card${taught ? ' taught' : ''}" href="#/lesson/${l.id}">
     <span class="kicker">${esc(full ? whereLabel(l) : unitLabel(l))}${taught ? `<span class="badge">✓ ${t('पढ़ा दिया', 'Taught')}</span>` : ''}${l.notice ? `<span class="badge warn">${t('ध्यान दें', 'Note')}</span>` : ''}</span>
     <span class="summary">${esc(summaryOf(l))}</span>
+    ${ready ? `<span class="ready">${t('तैयार रखें', 'Keep ready')}: ${esc(ready)}</span>` : ''}
     <span class="open">${t('पाठयोजना खोलें →', 'Open lesson plan →')}</span></a>`;
+}
+function weekStrip(lesson) {
+  // the days of the next lesson's week/chapter: taught ones ticked, the next one outlined
+  const days = PACK.lessons.filter((l) => l.group === lesson.group);
+  if (days.length < 2) return '';
+  const g = groupById(lesson.group);
+  return `<section class="card week"><h2>${t('यह', 'This')} ${esc(groupShort(g))}</h2><div class="days">${days.map((l) => {
+    const done = store.data.taught[l.id];
+    return `<a class="day${done ? ' done' : ''}${l.id === lesson.id ? ' next' : ''}" href="#/lesson/${l.id}" aria-label="${esc(unitLabel(l))}${done ? ' ✓' : ''}">${done ? '✓ ' : ''}${esc(unitLabel(l))}</a>`;
+  }).join('')}</div><p class="muted">${t('✓: पढ़ाया गया। गहरा किनारा: अगला पाठ।', '✓ taught. Dark border: next lesson.')}</p></section>`;
 }
 
 function viewToday() {
@@ -143,10 +192,15 @@ function viewToday() {
     <h1>${esc(whereLabel(lesson))}</h1>
     ${isNum(g.key) ? '' : `<p>${esc(g.title)}</p>`}
     <p>${esc(summaryOf(lesson))}</p>
+    ${prepOf(lesson, 'material').length || prepOf(lesson, 'book').length ? `<div class="hero-prep"><strong>${t('तैयारी — तैयार रखें', 'Prepare — keep ready')}:</strong>
+      ${prepOf(lesson, 'material').length ? `<span>${esc(keepReady(lesson, 6))}</span>` : ''}
+      ${prepOf(lesson, 'book').length ? `<span class="books">📖 ${esc(prepOf(lesson, 'book').slice(0, 3).map((p) => p.name).join(' · '))}</span>` : ''}
+      <a href="#/lesson/${lesson.id}?s=prep">${t('पूरी तैयारी सूची →', 'Full preparation list →')}</a></div>` : ''}
     <a class="btn" href="#/lesson/${lesson.id}">${t('पाठयोजना खोलें →', 'Open lesson plan →')}</a>
     <div class="progress" aria-hidden="true"><span style="width:${pct}%"></span></div>
     <div>${t(`${pos.taught} / ${pos.total} पाठ पढ़ा दिए`, `${pos.taught} of ${pos.total} lessons taught`)}</div>
   </section>
+  ${weekStrip(lesson)}
   ${pos.prev ? `<p class="muted">${t('पिछला पढ़ाया', 'Last taught')}: <a href="#/lesson/${pos.prev.id}">${esc(whereLabel(pos.prev))}</a></p>` : `<p class="muted">${t('“पढ़ा दिया है” पर चिह्न लगाने से अगला पाठ यहाँ अपने-आप आएगा।', 'Mark a lesson as taught and the next one appears here.')}</p>`}
   <div class="btn-row">
     <a class="btn secondary" href="#/year">${t('पूरा साल देखें', 'See the whole year')}</a>
@@ -250,7 +304,7 @@ function viewLesson(id) {
   const prev = PACK.lessons[i - 1], next = PACK.lessons[i + 1];
   const taught = store.data.taught[l.id];
   const saved = store.data.saved[l.id];
-  const chips = l.sections.map((s, k) => `<a href="#/lesson/${l.id}?s=${k}" data-jump="sec-${k}">${esc(s.number ? s.number + '. ' : '')}${esc((s.heading || t('जारी', 'Continued')).slice(0, 28))}</a>`).join('')
+  const chips = `<a href="#/lesson/${l.id}?s=prep" data-jump="prep">${t('तैयारी', 'Preparation')}</a>` + l.sections.map((s, k) => `<a href="#/lesson/${l.id}?s=${k}" data-jump="sec-${k}">${esc(s.number ? s.number + '. ' : '')}${esc((s.heading || t('जारी', 'Continued')).slice(0, 28))}</a>`).join('')
     + (l.shared?.length ? `<a href="#/lesson/${l.id}?s=shared" data-jump="shared">${esc((l.shared[0].heading || t('और', 'More')).slice(0, 28))}</a>` : '')
     + `<a href="#/lesson/${l.id}?s=note" data-jump="note">${t('मेरा नोट', 'My note')}</a><a href="#/lesson/${l.id}?s=pages" data-jump="pages">${t('मूल पृष्ठ', 'Original pages')}</a>`;
   const nav = `<nav class="prevnext" aria-label="${t('पाठ बदलें', 'Change lesson')}">${prev ? `<a href="#/lesson/${prev.id}">← ${esc(whereLabel(prev))}</a>` : '<span></span>'}${next ? `<a href="#/lesson/${next.id}">${esc(whereLabel(next))} →</a>` : ''}</nav>`;
@@ -271,6 +325,7 @@ function viewLesson(id) {
       <button class="btn secondary" data-act="bigger">${t('अक्षर बड़े करें', 'Larger text')}</button>
       <button class="btn secondary" data-act="smaller">${t('अक्षर छोटे करें', 'Smaller text')}</button>
     </div></details>
+  ${renderPrep(l)}
   ${l.sections.map((s, k) => renderSection(s, k, 'sec-')).join('')}
   ${l.shared?.length ? `<div class="shared" id="shared">${l.shared.map((s, k) => renderSection(s, 9 + k, 'shared-')).join('')}</div>` : ''}
   <section class="card" id="note"><h2>${t('मेरा नोट', 'My note')}</h2>
@@ -315,7 +370,8 @@ function viewHelp() {
   return `<h1>${t('मदद', 'Help')}</h1>
   <div class="card"><h2>${t('यह ऐप क्या है', 'What this app is')}</h2>
     <p>${esc(L(s.sourceNotice))}</p>
-    <p>${t('ऊपर कक्षा और विषय चुनें। “आज” पर अगला पाठ दिखता है। “पूरा साल” में हर सप्ताह/अध्याय के दिन हैं। “सभी पाठ” में शब्द से खोजें।', 'Choose class and subject at the top. Today shows the next lesson; Whole year lists every week/chapter; All lessons lets you search.')}</p></div>
+    <p>${t('ऊपर कक्षा और विषय चुनें। “आज” पर अगला पाठ दिखता है। “पूरा साल” में हर सप्ताह/अध्याय के दिन हैं। “सभी पाठ” में शब्द से खोजें।', 'Choose class and subject at the top. Today shows the next lesson; Whole year lists every week/chapter; All lessons lets you search.')}</p>
+    <p>${t('हर पाठ में सबसे ऊपर “तैयारी” है: पाठ एक नज़र में, तैयार रखने वाली सामग्री (TLM) और किताबों के पृष्ठ। यह सूची पाठ के अपने शब्दों से ली गई है। “आज” पर अगले पाठ की तैयारी भी दिखती है, ताकि एक दिन पहले सामग्री जुटा सकें।', 'Each lesson starts with “Preparation”: the lesson at a glance, the materials (TLM) to keep ready and the book pages, copied from the lesson’s own words. Today also shows the next lesson’s preparation so you can gather materials the day before.')}</p></div>
   <div class="card"><h2>${t('आपका डेटा', 'Your data')}</h2>
     <p>${t('“पढ़ा दिया है” के चिह्न, नोट और मेरी सूची सिर्फ़ इसी फ़ोन के ब्राउज़र में रहते हैं। ये कहीं भेजे नहीं जाते। ब्राउज़र का डेटा मिटाने पर ये भी मिट जाएँगे।', 'Taught marks, notes and My list stay only in this phone’s browser. Nothing is sent anywhere. Clearing browser data removes them.')}</p></div>
   <div class="card"><h2>${t('पाठ कैसे बनाए गए', 'How lessons were made')}</h2>
@@ -359,6 +415,17 @@ main.addEventListener('click', async (e) => {
     } catch { toast(t('अभी नहीं हो पाया। इंटरनेट जाँचकर फिर कोशिश करें।', 'Could not save. Check the connection and retry.')); }
   }
 });
+// preparation checklist ticks (per lesson, this phone only)
+main.addEventListener('change', (e) => {
+  const key = e.target.dataset?.ready;
+  if (!key) return;
+  const id = (location.hash.match(/^#\/lesson\/([^?]+)/) || [])[1];
+  if (!id) return;
+  const r = (store.data.ready[id] ||= {});
+  if (e.target.checked) r[key] = 1; else delete r[key];
+  if (!Object.keys(r).length) delete store.data.ready[id];
+  store.save();
+});
 // a typed note is kept even if the teacher leaves without pressing “नोट सहेजें”
 main.addEventListener('input', (e) => {
   if (e.target.id !== 'note-text') return;
@@ -400,7 +467,7 @@ async function render({ keepScroll = false } = {}) {
   document.documentElement.style.setProperty('--header-h', `${$('.top').offsetHeight - brandH}px`);
   const section = qs.get('s');
   if (keepScroll) window.scrollTo(0, y);
-  else if (section) document.getElementById(section === 'shared' || section === 'note' || section === 'pages' ? section : `sec-${section}`)?.scrollIntoView();
+  else if (section) document.getElementById(['shared', 'note', 'pages', 'prep'].includes(section) ? section : `sec-${section}`)?.scrollIntoView();
   else window.scrollTo(0, 0);
   if (!keepScroll && parts[0] === 'year') document.querySelector('details.group[open]')?.scrollIntoView({ block: 'start' });
 }

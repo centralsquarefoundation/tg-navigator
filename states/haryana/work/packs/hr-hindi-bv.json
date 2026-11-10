@@ -608,6 +608,18 @@
     "hi": "सप्ताह 1–6 के लिए संदर्शिका में अलग दैनिक पृष्ठ नहीं हैं; उनकी योजना ‘मूल संदर्शिका’ में है (भाग-1, PDF पृष्ठ 14–16)।",
     "en": "The guide has no daily pages for weeks 1–6; their plan is in the original guide (part 1, PDF pages 14–16)."
    },
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 1",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -866,6 +878,28 @@
     "14"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः हाथी और बकरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 2",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1138,6 +1172,33 @@
    "uncertain": [
     "5.1: 'खीचें' printed without anusvara/ee-matra as written (kept as read)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः हाथी और बकरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पज़ल",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 3",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1405,6 +1466,43 @@
    ],
    "uncertain": [
     "materials: 'कोरा कागज़' printed without a bullet mark (first item of right column); '3.1 दिखाई रहा' printed as is"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियो की चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कोरा कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पज़ल",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 4",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -1679,6 +1777,38 @@
    "uncertain": [
     "materials: 'सब्जियों का चित्र' read (left column; could be 'सब्जियों'); 3.2 'प्रत्येक समूह को को' doubled 'को' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियों का चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कोरा कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 5",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1890,6 +2020,18 @@
     "18"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "आज के लिए तैयारी सामग्री"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2141,6 +2283,23 @@
    ],
    "uncertain": [
     "5.1: aim icon sits beside the first bullet; no separate aim line printed, so all lines given as bullets"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंट/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 6",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2405,6 +2564,33 @@
    ],
    "uncertain": [
     "5.1: aim icon sits beside the first bullet; no separate aim line printed. 'रखें चलना है' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः सोनू के लड्डू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईट/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 7",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2686,6 +2872,48 @@
    "uncertain": [
     "5.1 heading 'फेकों' printed without anusvara; kept as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः हाथी और बकरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पज़ल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पानी के 5 गिलास",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वाटर कलर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 8",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2953,6 +3181,48 @@
    ],
    "uncertain": [
     "materials: 'सब्जियो का चित्र, कोरा कागज़' wraps across two lines in left column; read as one item"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियो का चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कोरा कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पानी के 5 गिलास",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वाटर कलर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 9",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3231,6 +3501,38 @@
    "uncertain": [
     "1.2 'हाँथ' printed with that spelling; 5.1 'बिना पैर नीचे रखें चलना है' on this page reads 'रखें' (earlier pages 'रखकर'/'रखें' varied) - kept as read; 3.2 quote marks around ‘माला‘ read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सुतली/ऊन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 10",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3443,6 +3745,13 @@
    ],
    "uncertain": [
     "shared box has a pointing-hand icon and no printed heading (heading left empty)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3717,6 +4026,38 @@
     "5.1 second bullet ends with a doubled danda 'कहें।।' as printed",
     "3.1 heading printed bold with the parenthetical in lighter weight on a second line"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "वास्तविक सब्जियाँ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "खिलौने की सब्जियाँ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियों के चित्र कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 11",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3980,6 +4321,28 @@
    ],
    "uncertain": [
     "3.2 heading spelled 'जागरुकताः' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "जानवरों की सूची",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 12",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4251,6 +4614,33 @@
     "3.2 bullet 2 'मे' printed without nasal dot, copied as printed",
     "5.1 heading 'चढ़ों–उतरों–कूदो' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चौकी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चौकी/कुर्सी/स्टूल",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "अलग–अलग रंग के बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 13",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4511,6 +4901,38 @@
    "uncertain": [
     "3.2 'मे' printed without nasal dot, copied as printed",
     "1.2 'कहें की' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चौकी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "अलग–अलग रंग के बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चौकी/कुर्सी/स्टूल",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 14",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4791,6 +5213,33 @@
     "1.2 'भावनाए' and 'मुस्कराएं' spelling as printed",
     "5.1 second bullet ends 'कहें।।' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "नदी का चित्र",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "भावनाओं के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 15",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5000,6 +5449,13 @@
    "uncertain": [
     "1.1 step bar prints no heading text (only number and 15 minutes); heading null",
     "shared box (pointing-hand icon) has no printed heading, heading left empty"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5262,6 +5718,43 @@
     "tab-box items: two columns each begin with 'सुनो–सुनाओ' (listed as printed)",
     "5.1 last bullet ends 'कहें।।' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "नींबू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चीनी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "नमक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "करेला",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "किताब/रुमाल/छोटा पत्थर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 16",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5522,6 +6015,33 @@
    "uncertain": [
     "3.2 bullet 2: 'पूछें कहें कि' printed with no punctuation between, copied as printed",
     "1.2 aim line and 3.2 aim line have no final danda as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः हाथी और बकरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "किताब/रुमाल/छोटा पत्थर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 17",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5795,6 +6315,48 @@
    "uncertain": [
     "5.1 second bullet begins with a printed leading dash '–फिर' copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुकः हाथी और बकरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पज़ल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पानी के 5 गिलास",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वाटर कलर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "लकड़ी का फट्टा",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 18",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6066,6 +6628,63 @@
     "3.1 last bullet 'पढें' printed without chandrabindu-style matra as read",
     "prep list: 'फूल,किताब, पत्ता' no space after first comma as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियों की चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कोरा कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पानी के 5 गिलास",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वाटर कलर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ता",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 19",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6328,6 +6947,33 @@
     "35"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "मोटा कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रंगीन कागज़ की पट्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कलर/पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 20",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6550,6 +7196,28 @@
     "section 1.1 has no printed heading text beside the number",
     "section 1.2 bullet 1 'ले जैसे' printed as is (likely 'लें')",
     "section 3: items printed directly under the 3 bar with no step bar"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फुल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ता",
+     "where": "आज के लिए तैयारी सामग्री"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6807,6 +7475,63 @@
    "uncertain": [
     "section 3.2 'घेरे मे' printed with 'मे'"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्थर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "टोपी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "1 डिब्बा",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 21",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7063,6 +7788,23 @@
    "uncertain": [
     "5.1 heading 'जिराफ' printed without nukta in this page (previous page had 'जिराफ़')",
     "3.2 'इन शब्दों मे बच्चों से एक जैसी आवाज़ पूछें कहें कि' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "तुकांत शब्दों की सूची",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 22",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7324,6 +8066,58 @@
    "uncertain": [
     "top-right 'दिनांक/हस्ताक्षर' line shows a doubled print artifact; ignored as blank form field"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पानी से भरा टब",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पत्थर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ते",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रुई",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बीज",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 23",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7576,6 +8370,63 @@
    "uncertain": [
     "3.2 last bullet ends 'डूबती हैं।' (previous day printed '?')",
     "1.2 aim line has a double space 'प्रयोग  करने'"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "पानी से भरा टब",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्थर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ते",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रुई",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बीज",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 24",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7851,6 +8702,43 @@
     "1.2 'सफ़ाई ज़रूरी' nukta forms as read",
     "bottom boxed hand-icon note has no printed heading"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "रंगीन कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चार्ट पेपर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सुनो – सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "प्लास्टिक कैंची",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "डोरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 25",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8068,6 +8956,18 @@
    "uncertain": [
     "section 1.1 has no printed heading text beside the number",
     "section 3: items printed directly under the 3 bar with no step bar"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8316,6 +9216,28 @@
    ],
    "uncertain": [
     "3.2 'दें।।' double danda as printed; 'बनाओं' printed with chandrabindu-like anusvara"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 26",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8567,6 +9489,23 @@
     "44"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 27",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8839,6 +9778,58 @@
    "uncertain": [
     "3.2 printed 'पूछें बारिश क्यों होती है?' sentence kept as printed ('गर्म क्यों हो जाती है?')"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चुंबक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पिन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रबर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 28",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9103,6 +10094,53 @@
    "uncertain": [
     "3.2: 'चीज़ें धूप मे गर्म' printed with 'मे' (no anusvara) as read",
     "3.1 spans left column bottom into right column top; merged into one section"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चुंबक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पिन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रबर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 29",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9371,6 +10409,38 @@
     "5.1 'खेल मैदान मे दौड़ेगे' printed without anusvara as read",
     "shared note box at page bottom right has a pointing-hand icon and no heading"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गीली मिट्टी/क्ले",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंटिंग के रंग",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल, कागज़ और रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 30",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9587,6 +10657,23 @@
    ],
    "uncertain": [
     "shared box at page bottom spans both columns, has a pointing-hand icon and no heading"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9833,6 +10920,23 @@
     "3.1 last bullet 'बनवाएँ।' partly overlapped by the 3.2 header band, read as 'बनवाएँ'",
     "5.1 bullet 2 'रेखाएं', 'बताएं', 'उन्हे' printed with anusvara/no anusvara as read",
     "3.1 spans left column bottom into right column top; merged into one section"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पपेट/मुखौटे",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 31",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10082,6 +11186,28 @@
    "uncertain": [
     "5.1 bullet 2/3 minor spellings (बताए, उन्हे, रखे, चले) read as printed",
     "3.1 spans left column bottom into right column top; merged into one section"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 32",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10337,6 +11463,33 @@
     "5.1 'उन्हे' printed without anusvara as read",
     "3.1 spans left column bottom into right column top; merged into one section"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल, कागज़ और रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 33",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "बोरी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10591,6 +11744,33 @@
     "5.1 heading 'फेकों और पकड़ो' with body text about बोरी (sack) — appears copied from the previous day; transcribed as printed",
     "3.1 spans left column bottom into right column top; merged into one section",
     "1.2 quotes “Hands up“ / “Hands down“ use matching opening-style quote marks as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 34",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "बोरी",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10855,6 +12035,43 @@
     "3.1 spans left column bottom into right column top; merged into one section",
     "shared note box at page bottom right has a pointing-hand icon and no heading"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "जानवरों के रेखाचित्र",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पुराने अख़बार",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल, कागज़ और रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 35",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11067,6 +12284,18 @@
    ],
    "uncertain": [
     "shared box at page bottom spans both columns, has a pointing-hand icon and no heading"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11312,6 +12541,28 @@
    "uncertain": [
     "3.1 spans left column bottom into right column top; merged into one section",
     "5.1 'घूमना हैं', 'बैठना हैं', 'पुन संगीत' printed as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पपेट/मुखौटे",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 36",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कुर्सियों",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11565,6 +12816,33 @@
    "uncertain": [
     "3.1 spans left column bottom into right column top; merged into one section",
     "5.1 'घूमना हैं', 'बैठना हैं', 'पुन संगीत' printed as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 37",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कुर्सियों",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11822,6 +13100,43 @@
    "uncertain": [
     "3.1 heading: printed on two lines 'बिग बुक पर कार्यः पढ़कर / सुनना और संबंधित चित्र (मुर्गी और मगरमच्छ)'; word 'पढ़कर' read as printed; 3.2 and 5.1 'माँसपेशियों' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "टॉर्च",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 38",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक/कंकड़ का ढेर",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "खाली डिब्बे",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12065,6 +13380,38 @@
    ],
    "uncertain": [
     "5.1 first bullet printed 'रेखाएं बनाएं' with anusvara (differs from page 61); quote marks around Walk/Stop/Sit/Stand rendered as “ ”"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "टॉर्च",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 39",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक/कंकड़ का ढेर",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "खाली डिब्बे",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12343,6 +13690,53 @@
     "1.2 last bullet: opening quote “ without closing quote as printed; 'प्रश्नों पूछें' as printed",
     "materials box printed in two columns; order read left column then right"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वाटर कलर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "भिंडी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "प्याज़ का ऊपरी हिस्सा",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सफेद कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल, कागज़ और रंग",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 40",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कुर्सियों",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12551,6 +13945,18 @@
    ],
    "uncertain": [
     "1.2 first bullet 'किसी खाली जगह ले जाए' (no 'पर') as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12801,6 +14207,33 @@
     "3.2 aim line: 'बच्चे आसपास की वस्तुओं/घटनाओं के बीच समानता और अंतर को 1–2 वाक्यों में बता सकें।' last words read 'बता सकें' (printed 'बता सकें')",
     "3.2 second bullet: closing quote after नहीं उछलता printed as ” with opening “ only before पत्थर"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पत्थर",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 41",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -13048,6 +14481,28 @@
    ],
    "uncertain": [
     "3.2 second bullet: phoneme slashes '/सी/ /मा/ ।' wrapped across two lines; read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 42",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13300,6 +14755,53 @@
    ],
    "uncertain": [
     "3.1 third bullet: printed text 'बिग बुक के मुख्य पृष्ठ पर चर्चा करें: यहाँ कौन है? कहानी का नाम क्या हो सकता है?' is followed on the next line by 'रखते हुए कहानी दोबारा पढ़ें।' which seems to be a fragment of a line missing in print (e.g. finger-on-words instruction); copied exactly as printed in one bullet"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "तराजू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 43",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13559,6 +15061,63 @@
     "1.2 first bullet 'वस्तुएँ ले जैसे–' as printed",
     "5.1 uses 'रेखाएं बनाएं' with anusvara as printed",
     "3.1 'पूछे' and 'गए है' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "तराजू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ता",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 44",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13826,6 +15385,68 @@
     "1.2 'चित्र के बारे मे' as printed; quote marks in 1.2 bullet rendered as “ ”",
     "materials box printed in two columns, read left then right"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अख़बार/पुरानी पत्रिका से सड़क का दृश्य",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गत्ते के छोटे टुकड़े",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सफेद चार्ट पेपर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "स्केच पेन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 45",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "अवलोकन ट्रैकर",
+     "where": ""
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -14046,6 +15667,28 @@
    ],
    "uncertain": [
     "1.2 first bullet 'वस्तुएँ ले जैसे फूल' as printed (no dash after जैसे)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फूल",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "पत्ता",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -14299,6 +15942,23 @@
     "5.1 heading read 'सीधी पर चाल' as printed",
     "5.1 second bullet 'पकड़े,बिना' printed without space"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 46",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "किताब",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -14550,6 +16210,33 @@
    ],
    "uncertain": [
     "3.1 heading: 'चुने' printed as such; 5.1 bullet 'बताएं' printed with anusvara"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "‘सुनो–सुनाओ’",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 47",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -14807,6 +16494,53 @@
    "uncertain": [
     "3.2 bullets: 'दाएं/दाएँ' variation between anusvara and chandrabindu as read; 'सम्बंधित' printed in 3.1 aim"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "तराजू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 48",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15055,6 +16789,33 @@
    "uncertain": [
     "3.1 bullets: 'बैठाएं', 'बच्चो', 'पूछे' printed forms as read"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "जानवरों के रेखाचित्र",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पुराने अख़बार",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 49",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15272,6 +17033,13 @@
    "uncertain": [
     "Bottom boxed note (pointing-hand icon) has no printed heading; placed in shared with heading null"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रगति कार्ड 1",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15469,6 +17237,13 @@
    "uncertain": [
     "Bottom boxed note (pointing-hand icon) has no printed heading; placed in shared with heading null",
     "1.2 bullet: 'कहें की' printed as such"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रगति कार्ड 1",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -15718,6 +17493,33 @@
    "uncertain": [
     "5.1 aim line printed without final danda"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "रंग/आकार बोर्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कट–आउट थैली",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 50",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15961,6 +17763,33 @@
    ],
    "uncertain": [
     "Several lines in 1.2 and 5.1 printed without final danda as read; 'ऊंचाई' vs 'ऊँचाई' and 'उन्हे' as read"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "रंग/आकार बोर्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कट–आउट थैली",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 51",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -16212,6 +18041,38 @@
     "75"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "आकार बोर्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 52",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ईंट या कुर्सी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -16464,6 +18325,38 @@
     "hi": "इस दिन के बाद संदर्शिका में सप्ताह 17 के दिवस 5–6 के अलग पृष्ठ नहीं हैं; उनकी जगह ‘खेल मेला’ के पृष्ठ हैं (मूल संदर्शिका, भाग-1, PDF पृष्ठ 81–82)।",
     "en": "After this day the guide has no separate pages for week 17 days 5–6; it prints the 'games fair' pages instead (original guide, part 1, PDF pages 81–82)."
    },
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पपेट/मुखौटे",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "आकार बोर्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 53",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ईंट या कुर्सी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -16706,6 +18599,18 @@
     "79"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 54",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -16945,6 +18850,23 @@
    ],
    "uncertain": [
     "3.2 bullet 2: printed 'शब्द मे पहली ध्वनि/ बो/ है' (slash-delimited sound); spacing around slashes approximate"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 55",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -17193,6 +19115,33 @@
    ],
    "uncertain": [
     "3.1 bullet 1: colon after 'पूछें' read as printed (looks like ':' ); 5.1 aim line printed without final danda"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "बिंदी वाला पासा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 56",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -17446,6 +19395,33 @@
    "uncertain": [
     "1.2 quote marks around 'यह apple है।' and 'apple शब्द ...' printed as straight-ish double quotes; written as curly quotes",
     "3.2 and 5.1 content on this page is identical to day 3 (page 81) as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2) की कहानी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "बिंदी वाला पासा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 57",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -17701,6 +19677,33 @@
     "shared box at bottom right (hand-pointing icon) has no printed heading; 'अवलोकन ट्रैकर' heading is taken from its first words",
     "1.2 aim: printed 'आस पास मे' (spacing/spelling as printed)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2) की कहानी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़ के नोट",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "1–2 रुपये के सिक्के",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सब्ज़ियों के खिलौने",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 58",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -17925,6 +19928,13 @@
    ],
    "uncertain": [
     "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -18168,6 +20178,18 @@
     "85"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पानी का गिलास",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 59",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -18418,6 +20440,28 @@
     "86"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 60",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -18668,6 +20712,33 @@
     "87"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली कार्टन/बाल्टी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "5–5 गेंदें",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 61",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -18924,6 +20995,33 @@
    "uncertain": [
     "prep box: 'गेंद' is printed in a second column of the box, read as third item",
     "1.2 bullet 2: 'दिखाए' printed (not 'दिखाएँ')"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास–पुस्तिका (भाग 2) की कहानी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली कार्टन/बाल्टी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "5–5 गेंदें",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 62",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -19191,6 +21289,28 @@
     "shared box at bottom right (hand-pointing icon) has no printed heading; heading is null",
     "prep box: 'कागज़ से बनी गेंद।' printed in a second column of the box, read as third item"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2) की कहानी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "ढपली/मंजीरा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 63",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -19415,6 +21535,13 @@
    ],
    "uncertain": [
     "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -19673,6 +21800,18 @@
     "1.2 aim and bullets appear printed without final danda (clipped at column edge?)",
     "3.2 heading: 'अक्षर पहचान की गतिविधि 1ः' colon form as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "‘न’ का वर्ण कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 64",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -19923,6 +22062,23 @@
     "92"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कविता पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 65",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -20171,6 +22327,28 @@
    "uncertain": [
     "3.1 aim printed without final danda",
     "3.2 bullet 2: 'बिंदिओं' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पासा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 66",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -20432,6 +22610,28 @@
    "uncertain": [
     "prep box printed in two columns; read left column then right column",
     "5.1 bullets 1-2 spelling/word breaks as printed ('खड़ा करवाकर के', 'चुकें'); on p097 same line read 'खड़ाकर के' and 'चूकें' - compare"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास–पुस्तिका (भाग 2) की कहानी",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पासा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 67",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -20696,6 +22896,28 @@
     "prep box printed in two columns; read left then right",
     "3.1 aim and 2nd bullet printed without final danda"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 68",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -20921,6 +23143,23 @@
    "uncertain": [
     "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null",
     "1.2 aim printed without final danda"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "एक गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–3",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -21201,6 +23440,28 @@
    "uncertain": [
     "3.2: opening quote marks around र in 'अक्षर ‘‘र’’ को पहचानना' and 'इस शब्द की पहली आवाज़ क्या है' approximated",
     "4.1 aim not printed with target icon; 4 heading wraps 'पर कार्य' to second line (joined)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 69",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -21486,6 +23747,38 @@
     "5.1: first bullet printed without final danda",
     "3.2 first bullet: 'यदि उसकी पहली आवाज़ ‘र’ तो' printed without 'है'; 'मे' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 70",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 12,
@@ -21755,6 +24048,38 @@
    "uncertain": [
     "3.1 heading 'लोगोग्रफ़िक' spelling (could be लोगोग्राफ़िक); 'किताब' vs 'किताब' form read as printed",
     "5.1 last bullet ends with double danda as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "10 गेंदें (प्लास्टिक/कागज़/अख़बार/बोतल के ढक्कन)",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली डिब्बे/कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 71",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -22037,6 +24362,43 @@
     "3.1 'चित्र कहानी का नाम' bullet: wording read from image",
     "opening/closing quote marks approximated"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "10 गेंदें (प्लास्टिक/कागज़/अख़बार/बोतल के ढक्कन)",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली डिब्बे/कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास–पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 72",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 15,
@@ -22310,6 +24672,23 @@
     "shared: boxed note at bottom of right column with pointing-hand icon; its 'heading' is my label, printed text has no heading (printed text starts 'अवलोकन ट्रैकर भरें')",
     "3.1 and 3.2 text bullets some without final danda as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 73",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "exact": 14,
@@ -22551,6 +24930,23 @@
    "uncertain": [
     "shared box: 'पोर्टफ़ोलियों' printed as such; heading is my placeholder label (no printed heading)",
     "Period 3 has no sub-steps; bullets sit directly under period 3"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–4",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 37,
@@ -22828,6 +25224,28 @@
     "5.1 heading printed 'तीन पेरों की चाल' (read as printed); 3.2 'बुझो' as printed",
     "3.2 first bullet 'अंदाज़ा' vs 'अंदाजा' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 74",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "exact": 13,
@@ -23099,6 +25517,33 @@
    "uncertain": [
     "4.1 heading 'किताबें–उतने पत्ते' read as printed; 3.1 'होते है' as printed",
     "quote marks around न approximated"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 75",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -23383,6 +25828,43 @@
     "3.1 heading 'लोगोग्रफ़िक' and '(कक्षा1 से ...)' as printed",
     "quote marks approximated"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "10 गेंदें (प्लास्टिक/कागज़/अख़बार/बोतल के ढक्कन)",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली डिब्बे/कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 76",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 15,
@@ -23663,6 +26145,43 @@
    "uncertain": [
     "1.2 quote marks around English sentences approximated",
     "3.1 bullet 'चित्र कहानी का नाम' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "10 गेंदें (प्लास्टिक/कागज़/अख़बार/बोतल के ढक्कन)",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "2 खाली डिब्बे/कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 77",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -23954,6 +26473,28 @@
     "1.2 spellings 'उन्हे', 'मुस्कराते' as printed; 5.1 'सिखाएं जा चुकें हैं' as printed",
     "3.1 last bullet 'बोले' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "भावनाओं के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 78",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "exact": 15,
@@ -24230,6 +26771,23 @@
     "3.1 'ध्यान देने योग्य बातें' is a bold line inside the 3.1 box, placed as text item; 'लोगोग्राफीक', 'रोके–टोके', 'उन्हे', 'पढ़ रहें है' as printed",
     "1.2 first bullet: word order 'अंग्रेज़ी उनके नाम' read as printed",
     "prep material printed as 'फलों के' ... 'चित्र' with wide gap (joined)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 79",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–5",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -24512,6 +27070,33 @@
    "uncertain": [
     "quote marks approximated"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "खाली कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 80",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "exact": 14,
@@ -24789,6 +27374,43 @@
    "uncertain": [
     "3.1 heading 'मुर्गी के तीन चूजे' as printed",
     "3.2 first bullet printed without 'है' after 'ल' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "खाली कार्टन/बाल्टी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 81",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -25070,6 +27692,43 @@
     "3.1 heading 'चूज़े' vs 'चूजे' (nukta) uncertain",
     "3.2 spellings 'बिंदिओं', 'हैं', 'बच्चें' as printed; 1.2 'चुने' as printed (no chandrabindu/anusvara)",
     "quote marks approximated"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बिंदियों वाला पासा",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "मुर्गी के तीन चूज़े",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 82",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -25359,6 +28018,38 @@
     "3.1 second bullet wraps from left column bottom to right column top (joined as one item)",
     "1.2 closing quotes approximated; 3.2 spellings as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "एक गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "बिंदियों वाला पासा",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 83",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "exact": 16,
@@ -25644,6 +28335,53 @@
     "1.2 aim line 'ध्यान केंद्रित करना' vs heading 'केन्द्रित' as printed; 'माँसपेशियों' spelling",
     "1.2 last bullet: opening quote ‘‘ printed, closing quote not seen"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सब्जियों के चित्र कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "खाली कार्टन/बाल्टी",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 84",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 14,
@@ -25892,6 +28630,23 @@
    "uncertain": [
     "shared box heading is a placeholder (no printed heading); 'पोर्टफ़ोलियों' as printed",
     "Period 3 has no sub-steps; bullets directly under period 3"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "एक गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–6",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 38,
@@ -26161,6 +28916,23 @@
    "uncertain": [
     "Section 3.2 and 5.1 aim lines (beside target icon) given as first text item; 3.1 heading subtitle '(सुनो–सुनाओ से कहानी चुनें)' kept in heading"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "‘क’ का वर्ण कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 85",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "exact": 14,
@@ -26414,6 +29186,33 @@
    ],
    "uncertain": [
     "3.2 first bullet prints 'घेरे मे' and 'आपको' as 'आपको' possibly 'आपको'; 'हम कुछ शब्द बोलेंगे, आपको ध्यान से सुनना है' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "मुर्गी और मगरमच्छ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 86",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -26672,6 +29471,53 @@
    ],
    "uncertain": [
     "3.1 prints 'किताब' and 'पहुचनें' (5.1) as printed misprints; prep box order of the 3 bullets (two columns) read left then right"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "टॉर्च",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कुर्सी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मुर्गी और मगरमच्छ",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 87",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -26948,6 +29794,53 @@
     "prep box order (two columns) read left column then right column",
     "misprints kept: 'की सभी', 'thankyou', 'पहुचनें'"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "खिलौना",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "टॉर्च",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कुर्सी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 88",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "exact": 18,
@@ -27208,6 +30101,38 @@
     "Final boxed line with hand icon (अवलोकन ट्रैकर ...) placed as unnamed last section of the day",
     "prep box order (two columns) read left then right"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बड़े आकार के मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "सुतली/ऊन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "अख़बार/पुरानी पत्रिका से सड़क का दृश्य",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 89",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "exact": 16,
@@ -27440,6 +30365,23 @@
     "Bottom full-width boxed note (pointing-hand icon, no printed title) put in 'shared' with null heading",
     "quote marks in last shared bullet are printed as doubled single quotes ‘‘ ’’",
     "3 section items: right column period 3 is printed without sub-step bars"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "खिलौना",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–7",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 37,
@@ -27703,6 +30645,23 @@
     "25"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "‘स’ का वर्ण कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 90",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "exact": 14,
@@ -27973,6 +30932,43 @@
     "3.2 first bullet: printed 'आवाज़ ‘स’ तो नीचे बैठना है' (no 'हो'); read as printed",
     "prep box order (two columns) read left then right"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चॉक",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "गिलास/कटोरी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "कक्षा 1 से बिग बुक चुनें",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 91",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "exact": 16,
@@ -28230,6 +31226,63 @@
    ],
    "uncertain": [
     "3.2 second bullet printed without 'कि' before 'दूसरी तरफ' ('...क्या देखा दूसरी तरफ ब्लॉक्स रखेंगे तो क्या होगा?'); read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "material",
+     "name": "तराजू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कक्षा 1 से बिग बुक चुनें",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 92",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -28494,6 +31547,58 @@
     "3.1: top-of-right-column line 'जैसेः कहानी किसके बारे में होगी?' joined to the last left-column bullet as continuation",
     "prep box order (two columns) read left then right"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "तराजू",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक्स",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "मोती",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बटन",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 93",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 19,
@@ -28752,6 +31857,38 @@
     "Final boxed line with pointing-hand icon placed as unnamed last section of the day",
     "misprint-looking forms kept as printed: 'इसमे', 'आउट लाईन', 'चीज़े'"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "नदी का चित्र",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "चाक",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "डॉक्टर से संबंधित कोई वस्तु",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 94",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "exact": 14,
@@ -28975,6 +32112,18 @@
    "uncertain": [
     "Bottom full-width boxed note (pointing-hand icon, no printed title) put in 'shared' with null heading",
     "quote marks in last shared bullet printed as doubled single quotes"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–8",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 35,
@@ -29234,6 +32383,28 @@
    "uncertain": [
     "Week heading 'सप्ताह – 26 (सावधिक पुनरावृत्ति और प्रगति कार्ड–2 भरना)' is printed on two lines at top-left; stored in header",
     "3.2 second bullet: 'वर्ण (जैसे ‘र’) से शुरू शब्द' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "ईंट या कुर्सी",
+     "where": "5 बाहरी खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 95",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -29500,6 +32671,43 @@
     "3.2 first bullet 'ध्यान से कुछ शब्द सुनेंगे' read as printed",
     "5.1 first bullet: 'ऊंचाई' with anusvara in first bullet vs 'ऊँचाई' in third, as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "पोस्टर",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "कक्षा 1 से बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 96",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "5 बाहरी खेल"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "exact": 15,
@@ -29758,6 +32966,53 @@
    "uncertain": [
     "3.1 first bullet wraps across the column break (left column bottom to right column top) and is written as one item",
     "prep box order: left column then right column"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "ईंटें/टायर",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "कक्षा 1 से बिग बुक",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द कार्ड",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "बिंदी वाला पासा",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 97",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -30019,6 +33274,48 @@
     "prep box order: left column then right column",
     "1.2 second bullet printed 'दिखाए' as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सुनो–सुनाओ",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "बड़ी मोती",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "सुतली",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "material",
+     "name": "फलों के चित्र",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "material",
+     "name": "रस्सी",
+     "where": "आज के लिए तैयारी सामग्री"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका (भाग 2)",
+     "where": "3 कहानियाँ और निर्देशित खेल"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पुस्तिका के पाठ 98",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "exact": 19,
@@ -30242,6 +33539,18 @@
     "Bottom full-width boxed note (pointing-hand icon, no title) put in 'shared' with null heading; second bullet 'दें पिछली की गई गतिविधियाँ' read as printed",
     "Period 4 has no sub-step; single bullet directly under period bar"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "खिलौना",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "प्रगति कार्ड 2",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "exact": 12,
@@ -30458,6 +33767,23 @@
     "Week heading printed over two lines at top-left; stored in header",
     "Bottom full-width boxed note (pointing-hand icon, no title) put in 'shared' with null heading",
     "Periods 3 and 4 have no sub-step bars; bullets sit directly under the period bar"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मॉर्निंग सर्कल टाइम"
+    },
+    {
+     "kind": "book",
+     "name": "प्रगति कार्ड 2",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अंग्रेज़ी कार्यपत्रक–9",
+     "where": "4 गतिविधि और अभ्यास पुस्तिका पर कार्य"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -32369,6 +35695,28 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 4
+ },
+ "materials": {
+  "lessons_with_list": 118,
+  "kept": 618,
+  "dropped": [
+   {
+    "lesson": "hr-hindi-bv-w14-d03",
+    "name": "कुर्सी",
+    "why": "quote not in lesson text"
+   },
+   {
+    "lesson": "hr-hindi-bv-w26-d05",
+    "name": "सुनो–सुनाओ",
+    "why": "quote not in lesson text"
+   },
+   {
+    "lesson": "hr-hindi-bv-w26-d06",
+    "name": "सुनो–सुनाओ",
+    "why": "quote not in lesson text"
+   }
+  ],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {

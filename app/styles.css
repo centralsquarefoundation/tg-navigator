@@ -172,3 +172,22 @@ mark { background: var(--accent-tint); }
 #toast { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 999px; font-size: var(--fs-small); opacity: 0; pointer-events: none; transition: opacity .2s; max-width: 90vw; text-align: center; }
 #toast.show { opacity: 1; }
 @media print { .top, .chips, .prevnext, .btn-row, details.options { display: none; } .section { break-inside: avoid; } }
+
+/* ---------- preparation (तैयारी) ---------- */
+.lesson-card .ready { display: block; margin-top: 4px; font-size: 13px; color: var(--muted); }
+.hero-prep { margin: 10px 0 12px; padding: 10px 12px; border-radius: var(--radius-s); background: rgba(255, 255, 255, .12); border-left: 4px solid var(--accent); font-size: var(--fs-small); display: grid; gap: 4px; }
+.hero-prep a { color: #fff; font-weight: 700; }
+.prep h3 { margin: 12px 0 6px; font-size: var(--fs-body); }
+.prep .glance { margin: 0; padding-left: 0; list-style: none; display: grid; gap: 4px; font-size: var(--fs-small); }
+.prep .glance li { background: var(--brand-tint); border-radius: var(--radius-s); padding: 4px 10px; }
+.checklist { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.checklist li { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2px 10px; border: 1px solid var(--line); border-radius: var(--radius-s); padding: 4px 10px; }
+.check { display: flex; align-items: center; gap: 10px; min-height: 44px; cursor: pointer; flex: 1 1 200px; min-width: 0; }
+.check input { width: 22px; height: 22px; flex: none; accent-color: var(--ok); }
+.check span { overflow-wrap: anywhere; }
+.check input:checked + span { text-decoration: line-through; color: var(--muted); }
+.where-link { font-size: 13px; color: var(--muted); }
+.week .days { display: grid; grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); gap: 6px; }
+.week .day { display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 4px; border: 1px solid var(--line); border-radius: var(--radius-s); text-decoration: none; color: var(--ink); font-size: 13px; font-weight: 600; text-align: center; }
+.week .day.done { background: var(--ok-tint); color: var(--ok); border-color: var(--ok); }
+.week .day.next { border: 3px solid var(--brand); }

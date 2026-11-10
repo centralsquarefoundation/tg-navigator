@@ -806,6 +806,23 @@
    "notes": [
     "page 16 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ. सं. 1-2",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ.सं. 6",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक ‘मुर्गी के तीन चूजे’",
+     "where": "आज किए जाने वाले कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1128,6 +1145,23 @@
    "notes": [
     "page 18 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृ. सं. 3",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ.सं. 7",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक ‘मुर्गी के तीन चूजे’",
+     "where": "आज किए जाने वाले कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1423,6 +1457,28 @@
    "notes": [
     "page 20 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृ. सं. 4",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ.सं. 8",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1655,6 +1711,28 @@
     "Chat-box lines in 1.2/2.1/2.2 were printed as bullet dots inside speech boxes without '>' marks; given as 'text' items; 2.2 'गतिविधि 1-3' were bold-label dot lines (given as text)",
     "2.1: printed \"‘हरी‘\" with closing quote mark of the same shape; copied as printed",
     "Left column ends with 1.3 last line 'चित्र को देखें और उनके साथ बात करें।'"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "दोहरान पृ. सं. 5",
+     "where": "आज किए जाने वाले कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक ‘मुर्गी के तीन चूजे’",
+     "where": "आज किए जाने वाले कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ.सं. 9",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -1889,6 +1967,18 @@
     "2.1 and 2.2 speech-box dot lines given as 'text' items",
     "Quote marks in 2.1 ‘हरी’ copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ.सं. 10",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2105,6 +2195,13 @@
     "Right column's first two lines ('बच्चों को चित्र बनाने...', 'बच्चों द्वारा बनाए चित्र पर चर्चा करें।') continue step 1.3 from the left column",
     "Speech-box dot lines given as 'text' items; 2.2 bullet line printed with wide spacing 'बैठाकर  अलग-अलग'",
     "Summary-table row for डिकोडिंग lists only two bullets"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2464,6 +2561,23 @@
     "Multigrade box: the two sub-rows in the 40 and 20 minute rows are written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order (left cell then right cell of each sub-row)",
     "2.1 heading colon printed as 'चेतनाः'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘लालू और पीलू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.1 (पृ. सं. 16)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी “हाथी और बकरी”",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2791,6 +2905,23 @@
     "Section 2 heading appears in the left column; 2.2 continues in the right column",
     "1.1 text printed as 'कविता/बालगीत सुनाना शिक्षक ...' with no separating punctuation"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘लालू और पीलू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.2(पृ. सं. 17)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी “हाथी और बकरी”",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3105,6 +3236,28 @@
     "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
     "Section 2 heading in left column; 2.2 continues in right column",
     "3.1 bullet 5 printed 'करें।पढ़ते' without space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘लालू और पीलू’ (पृ.सं.14)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.3 (पृ.सं.18)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘हाथी और बकरी’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3422,6 +3575,28 @@
     "1.2 'दोहराने करने के लिए' as printed",
     "3.1 bullet 2 list of words: 'बकरी, हाथी, खरगोश, सवारी' (word 'जंगल' absent as printed on this page)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता “तलाश में” (पृ. सं. 15)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.4(पृ.सं. 19)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘हाथी और बकरी’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3716,6 +3891,18 @@
     "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order; last sub-row has no कक्षा 2 text",
     "2.1 bullets in the right column top are continuation of 2.1 (left box holds only the first bullet)",
     "Multigrade 30-min row printed 'स्कूल से घर आने पर' (differs from 1.2 wording)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.5(पृ. सं. 20)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4039,6 +4226,13 @@
     "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
     "Multigrade 30-min lekhan line: 'जितने मुंह उतनी’ बात' quote placement as printed",
     "1.2 'करवाएं' vs 'करवाएँ' spelling checked as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4409,6 +4603,23 @@
     "2.1 continues in right column top (three-plus bullets)",
     "Big-book title printed 'बंदर की पूँछ' in 3.1 and 'बन्दर की पूँछ' in multigrade box"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृ. सं. 21-22",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.1(पृ. सं. 26)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘बंदर की पूँछ’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4741,6 +4952,23 @@
     "2.1 last bullet 'अवश्यकता' spelling as printed",
     "3.1 last bullet is a round-dot sub-bullet under the question bullet; written as bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-3 ‘आड़ू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.2 (पृ. सं. 27)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘बंदर की पूँछ’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5061,6 +5289,28 @@
     "2.1 last bullet 'अवश्यकता' (left-col print) vs 'अवश्यकता' read; right-col top of this page read as 'अवश्यकता' - verify",
     "2.2 bullet printed 'स्पष्ट निर्देश कार्य करवाएँ ।' (no 'देकर')"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-3 ‘आडू’ (पृ. सं. 24)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.3 (पृ. सं. 28)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘बंदर की पूँछ’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5361,6 +5611,28 @@
     "2.1 continues in the right column top",
     "1.2 'पृ. सं. 25)दी' spacing as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृ. सं. 25)दी गई गतिविधि ‘पत्तियों की छाप बनाना’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.4 (पृ. सं. 29)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘बंदर की पूँछ’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5659,6 +5931,18 @@
     "Multigrade box: the 40 and 20 minute rows each have two sub-rows per group; bullets listed in order top to right-column pairing, sub-row boundaries not separated.",
     "2.1 last bullet: 'अवश्यकता' printed as such; double space after 'कहें' (a gap) kept as single gap."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.5 (पृ. सं. 30)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5953,6 +6237,18 @@
     "Multigrade box: each of the 40 and 20 minute rows has two sub-rows; bullets are listed per group in reading order without sub-row separation.",
     "Multigrade 20 min, कक्षा 2: second sub-row has an icon but no text.",
     "2.1 last bullet: 'अवश्यकता' as printed."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6278,6 +6574,23 @@
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
     "1.3 first bullet 'अपनी मनपसंद का चित्र' as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘दीदी और मैं’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक के 4.1 (पृ. सं. 36)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘चिड़िया’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6588,6 +6901,23 @@
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
     "1.1 bullet ends without danda as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘दीदी और मैं’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृ. सं. 37 के 4.2",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘चिड़िया’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6886,6 +7216,28 @@
     "Period 2 starts in left column (2.1) and 2.2 is at top of right column; kept inside section 2.",
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘दीदी और मैं’ (पृ. सं. 34)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.3 (पृ. सं. 38)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘चिड़िया’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7172,6 +7524,28 @@
     "1.3: 'प्रोत्साहित' preceded by 'के' as printed.",
     "2.1: 'यदिकिसी' printed run together.",
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता “गौरैया”",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.4 (पृ. सं. 39)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘चिड़िया’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7479,6 +7853,18 @@
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
     "Section 2 starts in left column (2.1) and continues in right column (2.1 items, then 2.2)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.5 (पृ. सं. 40)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7778,6 +8164,13 @@
     "Dot placeholders (‘......’ vs ‘....’) copied as they appear; count of dots approximate.",
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8067,6 +8460,28 @@
    "uncertain": [
     "2.1 second bullet wraps from left column bottom ('...बोलें( नल-') to right column top ('न/ल), (न/ल- नल)। ...'); joined as one item; exact bracket/slash text approximate.",
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘जीव-जगत’ ( पृ. सं. 41-42 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘न’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.1 (पृ. सं. 46)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी और मगरमच्छ’",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8361,6 +8776,23 @@
    "uncertain": [
     "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
     "1.3 second bullet wording ('प्रश्नों का संबंधित चर्चा') copied as printed."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘जीव-जगत’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.2 (पृ. सं. 47)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक से कहानी ‘मुर्गी और मगरमच्छ’",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8669,6 +9101,33 @@
     "1.3 'उनमे' and 'दिए गये' copied as printed",
     "Multigrade 40-min row: sub-row pairing of bullets across class 1/class 2 merged per group"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘जीव-जगत’ (पृ. सं. 44)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘र’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.3 (पृ. सं. 48)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी और मगरमच्छ’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8949,6 +9408,33 @@
    ],
    "uncertain": [
     "Multigrade 40-min row: bullets grouped per class across the two sub-rows"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘मुर्गा बोला कुकड़ू कूँ’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘र’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.4 (पृ. सं. 49)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी और मगरमच्छ’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9244,6 +9730,18 @@
     "2.2 last three lines are indented sub-bullets, written as flat bullets",
     "Multigrade 30-min lekhan bullet has unmatched ')' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक5.5 (पृ. सं. 50)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "कहानियों की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9513,6 +10011,18 @@
    "uncertain": [
     "2.1 numbered items 1-6 kept with printed numbers inside text; 'सुनकर लिखें' line is a bold sub-line after item 3",
     "Multigrade 20-min row: class 2 has one printed bullet in the second sub-row's position (empty second cell)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-5 पृष्ठ संख्या 51",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9833,6 +10343,28 @@
     "Sub-bullets (dot bullets) written as flat bullets",
     "Multigrade bullets grouped per class across sub-rows"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘चींटियाँ’ (पृ. सं. 52-53)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ल’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.1 (पृ. सं. 57)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘शेर की गुफा’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10144,6 +10676,28 @@
     "Sub-bullets written as flat bullets",
     "Multigrade bullets grouped per class across sub-rows"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘चींटियाँ’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ल’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.2 (पृ. सं. 58)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘शेर की गुफा’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10441,6 +10995,38 @@
    "uncertain": [
     "Bullet 'उसके बाद पाठ्यपुस्तक' wording read from image; multigrade bullets grouped per class across sub-rows"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘चींटियाँ’ (पृ. सं. 55)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘खोजें और जानें’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘क’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.3 (पृ. सं. 59)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘शेर की गुफा’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10722,6 +11308,33 @@
    "uncertain": [
     "Multigrade bullets grouped per class across sub-rows",
     "'लोगोग्रफिक' in multigrade row printed without ा as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘टी-टी और चींटी’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘क’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.4 (पृ. सं. 60)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘शेर की गुफा’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11026,6 +11639,23 @@
     "Multigrade 20-min row: second sub-row 'बच्चे पठन कार्य करेंगे।' printed for class 2 alongside the library bullet",
     "Multigrade bullets grouped per class across sub-rows"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग- पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.5 (पृ. सं. 61)",
+     "where": "2 डिकोडिंग- पुनरावृति कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानियों की किताबें",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11316,6 +11946,23 @@
     "The period-3 bar ('3. पठन' with minutes) is NOT printed at the top of the right column; step 3.1 appears without it, so the level-1 section has null number/heading/minutes",
     "Left-column 1.2 text is printed in a smaller font; read carefully",
     "Multigrade bullets grouped per class across sub-rows"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की एक गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-6 पृष्ठ संख्या 62",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": ""
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -11655,6 +12302,28 @@
     "Section 2.1 first bullets: quote marks around letters and 'उच्चारण करने' wording read at small print size",
     "Section 3.1 'लड्डूओं' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘चूहा पंसारी’ (पृ. सं.63-64)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.1 (पृ. सं. 68)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सोनू के लड्डू’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -11985,6 +12654,28 @@
     "Section 3.1: 'के पकड़ा हों' wording read as printed; numbered questions 2 and 3 given as text items",
     "Section 2.2 third bullet spans left column bottom into right column top; joined"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘चूहा पंसारी’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.2 (पृ. सं. 69)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सोनू के लड्डू’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12303,6 +12994,38 @@
     "Section 2.1 second bullet: punctuation spacing 'बोलें(सड़क-स/ड़/क)' as printed",
     "Section 2.2 third bullet spans columns (left bottom of 'a' to right top); joined"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘पंसारी’ (पृ. सं. 66)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘स’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.3 (पृ. सं. 70)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सोनू के लड्डू’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -12616,6 +13339,48 @@
    "uncertain": [
     "Second sub-section under period 2 in right column is printed with number 2.2 (same as ब्लेंडिंग), copied as printed",
     "Section 3.1 first bullet says 'शेर की गुफा' while multigrade row says 'सोनू के लड्डू' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘अंगूठे की छाप से आकृतियाँ बनाना’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पानी वाले रंग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "स्टैंप पैड",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ब’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.4 (पृ. सं. 71)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘शेर की गुफा’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12944,6 +13709,23 @@
     "Section 3.2 first bullet 'बैठाएँऔर' printed without space",
     "Multigrade (40 मिनट) कक्षा 1/2 bullets mention 6.5 as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग- पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.5 (पृ. सं. 72)",
+     "where": "2 डिकोडिंग- पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 1 (पृ.सं. 73)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -13230,6 +14012,38 @@
     "Section 2.1 item 5: line end printed 'सके द्य' (probably misprinted danda); written as 'सके।'",
     "Section 2.1 spans left column bottom (items 1-2) into right column (continuation), joined",
     "Section 1.2 'सभी कि बातों' copied as printed; numbering 1-6 in 2.1 copied as printed prefixes; items 'निर्देश:', 'सुनकर लिखें :', 'समूह-1/2' are unnumbered bold lead-ins"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अखबार",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेंट/रंग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "स्टैम्प",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "चार्ट पेपर पर पेड़ की आकृति",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-7 पृष्ठ संख्या 74",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -13553,6 +14367,33 @@
     "Section 2.1 fourth bullet: spacing in 'और‘म’' as printed",
     "Section 3.1 spans left/right columns; bottom of 'a' overlaps top of 'b', written once"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘मन करता है’ (पृ. सं.75-76)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘म’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.1 (पृ. सं. 80)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सुरीली और मोनी’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -13858,6 +14699,33 @@
    "uncertain": [
     "Section 3.1 'के पकड़ा हों' wording as printed",
     "Section 2.1 spacing 'बोलें(पपीता' and 'और‘प’' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘मन करता है’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘प’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.2 (पृ. सं. 81)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सुरीली और मोनी’",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -14169,6 +15037,33 @@
     "Period 2 in right column starts with 2.3 शब्द पठन and a second heading also numbered 2.3 अभ्यास कार्य; no 2.2 printed; copied as printed",
     "Multigrade (20 मिनट) कक्षा 1 says '7.3' as printed",
     "Section 2.1 bullets 4-5: split as printed on page; second bullet 'बच्चों से ‘द’ की आवाज़...' is a separate bullet"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘मन करता है’ (पृ. सं. 78)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘द’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.3 (पृ. सं. 82)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सुरीली और मोनी’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -14484,6 +15379,33 @@
     "Section 1.3 'दिखाई रहा है' as printed",
     "Section 2.2 second bullet has no final danda as printed",
     "Multigrade (20 मिनट) कक्षा 1 'लोगोग्रफिक' spelling as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘चित्र देखकर कहानी बनाएँ और सुनाएँ’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘त’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.4 (पृ. सं. 83)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘सुरीली और मोनी’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -14819,6 +15741,23 @@
     "The first right-column bullet (बनाये हुए शब्द...) is placed under 2.2 as its continuation across the column break; 'पृ.स. 85' printed as such in 3.1",
     "Multigrade rows: pairing of the two printed sub-rows per group in the 40 and 20 minute rows is merged into one list per group"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.5 (पृ. सं. 84)",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 1 (पृ.स. 85)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15100,6 +16039,23 @@
    "uncertain": [
     "Right column begins mid-section 2.1 (numbered items 3-6 continue the left-column list); numbering kept in item text as printed",
     "Multigrade rows: the two printed sub-rows per group are merged into one list per group; second sub-row of कक्षा 2 in 20-minute row is empty"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-8 पृष्ठ संख्या 86",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -15424,6 +16380,28 @@
     "1.2 and 3.1 round-bullet sub-items written as separate bullets; 'उनमे' printed without anusvara",
     "Multigrade sub-rows merged per group"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘घोंघा’ (पृ. सं.87-88)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.1 (पृ. सं. 92)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी के तीन चूजे’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -15743,6 +16721,28 @@
     "3.1 'पकड़ा हों' and 'के पकड़ा' read as printed (possible misprints)",
     "'उनमे' printed without anusvara in 2.2",
     "Multigrade sub-rows merged per group"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘घोंघा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.2 (पृ. सं. 93)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी के तीन चूजे’",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -16067,6 +17067,33 @@
     "'उनमे' printed without anusvara in 2.2; 'पढ़ा जाता हैं' as printed in 3.1",
     "Multigrade sub-rows merged per group"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘घोंघा’ (पृ. सं. 90)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ट’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.3 (पृ. सं. 94)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी के तीन चूजे’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -16385,6 +17412,38 @@
     "2.2 heading and bullets are at the top of the right column (2.1 ends bottom of left column)",
     "'उनमे' printed without anusvara in 2.2; 'लोगोग्रफिक' (multigrade) vs 'लोगोग्राफीक'/'लोगोग्राफिक' (body) as printed",
     "Multigrade sub-rows merged per group"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 91)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ग’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.4 (पृ. सं. 95)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘मुर्गी के तीन चूजे’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -16729,6 +17788,23 @@
     "'उनमे' printed without anusvara in 2.2; 'घुमने' as printed",
     "Multigrade sub-rows merged per group"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.5 (पृ. सं. 96)",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग-1 (पृ.स. 97)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -16984,6 +18060,18 @@
     "Right column continues 2.1 (items after 'सुनकर लिखें'); numbering kept in item text as printed",
     "'ज़्यादा' in समूह-1 read with nukta; page 65 style printed 'ज्यादा' on earlier page, check",
     "Multigrade sub-rows merged per group"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-9 पृष्ठ संख्या 98",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -17301,6 +18389,28 @@
     "'आवाज़' with nukta in 2.1 read from image; 'आवाजों' vs 'आवाज़ों' possibly nukta-less in print",
     "Multigrade sub-rows merged per group"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘पालतू-घरेलू’ (पृ. सं.-99-100)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘च’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.1 (पृ. सं. 104)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘हाथी और बकरी’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -17615,6 +18725,33 @@
     "2.2 heading is at the bottom of the left column; its bullets are at the top of the right column (only four bullets, no 'बच्चों के पास जाकर' bullet)",
     "'उनमे' printed without anusvara in 2.2; 'बैठें हों' as printed in 3.1",
     "Multigrade sub-rows merged per group"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘पालतू-घरेलू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ख’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.2 (पृ. सं. 105)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिगबुक",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -17954,6 +19091,28 @@
     "1.2 and 2.1 headings/text read at image resolution; 2.1 heading symbol ‘ा’ approximated",
     "multigrade: row 40 and 20 each have two sub-rows; group labels repeated per sub-row in order"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘पालतू-घरेलू’ (पृ. सं. 102)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.3 (पृ. सं. 106)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘हाथी और बकरी’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -18271,6 +19430,33 @@
    "uncertain": [
     "2.1 heading symbol ‘ा’ approximated",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 103)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.4 (पृ. सं. 107)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "बिग बुक से कहानी ‘हाथी और बकरी’",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "शब्द दीवार",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -18638,6 +19824,23 @@
     "2.1 heading matra symbols (ा, ी, ॅ) approximated from small glyphs",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.5 (पृ. सं. 108)",
+     "where": "2 डिकोडिंग-पुनरावृति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग-1 ‘चेतन की कार’ (पृ.स. 109)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -18940,6 +20143,18 @@
     "2.1 numbered steps 1-6 plus unnumbered bullets (निर्देश, नोट) kept in reading order across columns; step 1 is in the left column, steps 2-6 in the right",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-10 पृष्ठ संख्या 110",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -19226,6 +20441,18 @@
     "2.1 bullet 'आकलन प्रपत्र/। चर्चा से...' printed with an odd slash; copied as seen",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘गिलहरी और गौरैया’ (पृ. सं.-111-112)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -19496,6 +20723,18 @@
     "Section 1 period bar (मौखिक भाषा विकास एवं लेखन) is not printed on this page; steps 1.1-1.3 written as top-level sections with printed numbers",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
     "multigrade 30-minute quote punctuation “न्यौता ( पृष्ठ 115 )’ copied as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘गिलहरी और गौरैया’",
+     "where": "1.2 पाठ का दोहराव"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -19829,6 +21068,33 @@
     "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout (2.1 box follows that bar; its bullets continue at top of right column); the printing does not state this explicitly",
     "multigrade 30-min lekhan line: missing closing bracket after 'पृष्ठ सं. 113' as printed",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘गिलहरी और गौरैया’ (पृ. सं. 113)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 11.1 (पृ. सं. 116)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "(न,र) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -20165,6 +21431,33 @@
     "Step numbering jumps 2.2 to 2.4 as printed (no 2.3 on page)",
     "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout; 2.1 bullets continue into the right column",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘न्यौता’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 11.2 (पृ. सं. 117)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "(ल,क) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -20511,6 +21804,28 @@
     "multigrade misspellings copied as read: 'घरे', 'पुरावृत्ति' (40 and 20 minute rows)",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 11.3 (पृ. सं. 118)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "(स,ब) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -20855,6 +22170,28 @@
     "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout; 2.1 bullets continue into the right column",
     "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 11.4 (पृ. सं. 119)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "‘द’ वर्ण कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -21166,6 +22503,33 @@
     "2.2 heading mark ‘ा’ read from print",
     "Multigrade 40-min row, class 1 second bullet: 'सावधिक' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘कीचड़ में शेर’ (पृ. सं.120-121)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.1 (पृ. सं. 125)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "(म,प) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -21463,6 +22827,33 @@
    "uncertain": [
     "Sections 2.1-2.5 placed under period 2 as sub-sections after the two group plans",
     "2.2 heading/body mark ‘ा’ read from print"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘कीचड़ में शेर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.2 (पृ. सं. 126)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "‘त’ वर्ण कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -21764,6 +23155,33 @@
     "Multigrade 40-min class 1 'पुनरावृति' vs class 2 'पुनरावृत्ति' spelling as printed",
     "Multigrade class 1 writing: closing bracket missing before danda as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘कीचड़ में शेर’ (पृ. सं. 123)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.3 (पृ. सं. 127)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "(ट,ग) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -22058,6 +23476,33 @@
     "2.1 third matra symbol read as ‘े’ (printed glyph small/unclear)",
     "Multigrade 40-min class 2 first bullet spelling 'पुनरावृति' vs earlier pages unsure; read as printed 'पुनरावृति'",
     "Right column begins at 2.2 (2.1 is in left column)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘पत्तियों का कोलाज’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पत्तियों",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.4 (पृ. सं. 128)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -22362,6 +23807,28 @@
     "Multigrade 'पुनरावृति'/'पुनरावृत्ति' spellings: read as printed (दोनों जगह 'पुनरावृति' अनुमानित)",
     "Multigrade quote marks around ‘दिनचर्या’ as printed (unbalanced)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.5 (पृ. सं. 129)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -22663,6 +24130,23 @@
    "uncertain": [
     "Right column begins mid-2.1 (lines merged into 2.1)",
     "'पुनरावृति' vs 'पुनरावृत्ति' spellings in multigrade box hard to distinguish"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 12.6 (पृ. सं. 130)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -23074,6 +24558,28 @@
    "notes": [
     "page 91 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृ. सं. 131-132",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ज’ का कार्ड",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.1 (पृ.सं. 136)",
+     "where": "2.2 शब्द पठन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ ‘जलेबी’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -23460,6 +24966,33 @@
    "notes": [
     "page 93 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृ. सं. 133",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘य’ का कार्ड",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2.2 ब्लेंडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.2 (पृ.सं. 137)",
+     "where": "2.3 शब्द पठन"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘जलेबी’ (पृ.स. 141)",
+     "where": "आज किए जाने वाले कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -23835,6 +25368,28 @@
    "notes": [
     "page 95 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृ. सं. 134",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.3 (पृ.सं. 138)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ ‘चंदन’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -24148,6 +25703,28 @@
    ],
    "notes": [
     "page 97 prints no keys; joined as a continuation of the previous page"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘जामुन’ कविता",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास पत्रक 13.4 (पृ.सं. 139)",
+     "where": "2.2 शब्द पठन"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘चंदन’ (पृ.स. 142)",
+     "where": "आज किए जाने वाले कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -24565,6 +26142,33 @@
    "notes": [
     "page 99 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.4 (पृ.सं. 139)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड सं. 7-10",
+     "where": "2.4 ग्रिड सं.7-10 से अक्षर पहचान,ब्लेंडिंग, शब्द पठन अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "13.5 (पृ.सं. 140)",
+     "where": "2.5 अभ्यास-पत्रक पर कार्य- 13.5 (पृ.सं. 140)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ ‘हाथी आया’",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -24814,6 +26418,23 @@
     "Section 2 heading 'डिकोडिंग साप्ताहिक आकलन' is printed with a small icon before it",
     "Top of right column (three '>' items about emoji) continues 1.3 from the left column; placed inside 1.3",
     "Item numbers 1-6 in 2.1 kept as printed prefix inside item text; 'निर्देश:' and 'सुनकर लिखें' lines placed in reading order"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-13 पृष्ठ संख्या 144",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘हाथी आया’ (पृ.स. 143)",
+     "where": "आज किए जाने वाले कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -25133,6 +26754,28 @@
     "No 'आज किए जाने वाले कार्य' summary table on this page",
     "Top of right column ('और उनको बोर्ड पर लिखें...' and following) continues 2.1 from the left column; merged into the last 2.1 bullet and following bullets",
     "Multigrade box: the 40-minute and 20-minute rows have कक्षा 1 and कक्षा 2 columns with two bullets each; assignment of the two bullets per column read from the row layout"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘आलू की सड़क’ (पृ. सं. 145-146)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘छ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.1 (पृ. सं. 150)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘पानी बरसने लगा’ (पृ.स. 155)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -25454,6 +27097,33 @@
     "Top of right column ('बनने वाले शब्द लिखें।...') continues 2.2 from left column; merged into 2.2",
     "2.1 wording 'शब्द/नामपूछें' printed without space"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘आलू की सड़क’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘श’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.2 (पृ. सं. 151)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘पानी बरसने लगा’ (पृ.स. 155)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -25757,6 +27427,28 @@
     "Top of right column (वाक्य ... पढ़ें) continues after the 2.2 heading at bottom of left column; placed under 2.2",
     "Multigrade 30-min lekhan line has 'पृष्ठ सं....' with page number not printed; 'कक्षा 2:' on same printed line, merged into one bullet",
     "Multigrade 40-min कक्षा 2 first bullet text tightly set; approximate"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘आलू की सड़क’ (पृ. सं. 148)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.3 (पृ. सं. 152)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘मोहन छोलेवाला’ (पृ.स. 156)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -26076,6 +27768,23 @@
     "Multigrade 30-minute row second bullet: text '(पाठ-14 ‘आलू की सड़क’ ....।' is partly illegible/elided in print and has no closing bracket",
     "Section 2.4 printed twice (ग्रिड से शब्द बनाना and अभ्यास कार्य) as printed",
     "2.2 continues into right column; bullets in right column top assigned to 2.2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 149)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.4 (पृ. सं. 153)",
+     "where": "2 डिकोडिंग"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -26408,6 +28117,23 @@
     "Multigrade class 2 40-minute: 'स्वतत्र' printed (missing ं) as read; page number 166 read as printed",
     "1.2: the bold title line ‘मिट्टी के बरतनों पर’ is preceded by a '>' marker but recorded as a text item"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.5 (पृ. सं. 154)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘किसान का डर’ (पृ.स. 157)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -26666,6 +28392,18 @@
     "The right-column box (निर्देश ... नोट ...) continues the numbered list 1-2 of section 2.1 from the left column; assigned to 2.1",
     "Numbers 1-6 kept as printed inside bullet text; items 'निर्देश' and 'नोट' were '>' bullets",
     "Multigrade 30-min: blank page number 'पृष्ठ सं........' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-14 पृष्ठ संख्या 158",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -26982,6 +28720,28 @@
     "In 2.1 the last bullet wraps from left column into top of right column; joined as one bullet",
     "Multigrade class 1 vs 'रागिनी-1' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘आम’ (पृ. सं. 159-160)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ह’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.1 (पृ. सं. 164)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘हलवा’ (पृ.स. 169)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -27292,6 +29052,28 @@
     "Multigrade 30-min first bullet ends with a stray closing quote ’ as printed",
     "Multigrade class 1 20-min second bullet is a tightly packed line; reading 'पृष्ठ न. 169 3-4 बच्चों द्वारा पाठ पढ़कर सुनाना' fairly certain"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘आम’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘व’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.2 (पृ. सं. 165)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -27600,6 +29382,28 @@
     "Multigrade class 2 40-min first bullet is tightly set; reading reasonably certain",
     "2.1 last two bullets sit at the top of the right column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘आम’ (पृ. सं. 162)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘अ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.3 (पृ. सं. 166)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘बाज़ार में बारिश’ (पृ.स. 170)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -27900,6 +29704,28 @@
     "Multigrade class 1 20-min bullet ends 'पृष्ठ सं.' with no number as printed",
     "Multigrade class 1 40-min 'अभ्यास-पत्रक 14.4 पृष्ठ 167' as printed (section 2.4 says 15.4)",
     "'बच्चें से' (with chandrabindu-like form) in 2.1 as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मिठाइयों की दौड़’ (पृ. सं. 163)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘आ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.4 (पृ. सं. 167)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘बाज़ार में बारिश’ (पृ.स. 170)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -28220,6 +30046,23 @@
     "1.2 line ‘व्यक्तिगत स्वच्छता पर’ preceded by '>' marker, recorded as text",
     "Multigrade class 2 40-min: 'स्वतत्र' (missing ं) as read; 'अभ्यास-पत्रक 15 .5' spacing as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.5 (पृ. सं. 168)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘मेंढक का गाना’ (पृ.स. 171)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -28477,6 +30320,18 @@
    "uncertain": [
     "Right-column box (3-6, नोट) continues the numbered list of 2.1 from the left column; assigned to 2.1",
     "Multigrade class 2 40-min first bullet printed 'आकलन पर आधार पर' as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-15 पृष्ठ संख्या 172",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -28794,6 +30649,23 @@
     "Multigrade class 1 40-min says ‘ई’ ग्रिड while the section teaches ‘इ’, as printed",
     "Multigrade class 2 40-min page numbers 186/186 as read"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘लौकी का रायता’ (पृ. सं. 173-174)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘इ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.1 (पृ. सं. 178)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -29083,6 +30955,28 @@
    "uncertain": [
     "Section 2.1 bullet 'ईख शब्द' etc. read from overlap; 1.3 'ढूंढ़कर' spelling as printed (ढूंढ़कर)",
     "Multigrade box: 40-minute and 20-minute rows have two sub-rows each (stacked) per class column; assigned in reading order"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘लौकी का रायता’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ई’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.2 (पृ. सं. 179)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘नईम की ताई’ (पृ.स. 183)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -29383,6 +31277,28 @@
     "112"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘लौकी का रायता’ (पृ. सं. 176)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ए’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.3 (पृ. सं. 180)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘उमा और अमन’ (पृ.स. 184)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -29704,6 +31620,28 @@
    "uncertain": [
     "2.2 bullet 'उनमे' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘पकौड़ी’ (पृ. सं. 177)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘उ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.4 (पृ. सं. 181)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -30013,6 +31951,23 @@
    "uncertain": [
     "Multigrade 30-min first bullet quote marks: ‘अनुभव सुनना व सुनाना- ‘आस-पास की स्वच्छता’ as printed (nested quotes)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.5 (पृ. सं. 182)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘दो चींटी’ (पृ.स. 185)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -30270,6 +32225,18 @@
    "uncertain": [
     "Section 2.1: numbered items 1-6 are mixed with arrow bullets; numbers kept in text as printed; 'सुनकर लिखें' and 'समूह-1/2' recorded as text items (bold lead-ins)",
     "Multigrade 30-min first bullet: closing quote printed as ‘क्या हो अगर…? ।"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-16 पृष्ठ संख्या 186",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -30568,6 +32535,33 @@
    "uncertain": [
     "Section 2.1 and 2.2 are printed as run-on paragraphs with a single arrow before 'बच्चों को ‘ओ’ वर्ण' (2.1); sentence-level bullet splits not applied, kept as printed paragraphs",
     "2.2 'उनमे' spelling as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘मेला’ (पृ. सं. 187-188)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ओ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.1 (पृ. सं. 192)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘ओमी का घर’ (पृ.स. 197)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -30881,6 +32875,33 @@
    ],
    "uncertain": [
     "2.2 'उनमे' spelling as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘मेला’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘घ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.2 (पृ. सं. 193)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 ‘ओमी का घर’ (पृ.स. 197)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -31212,6 +33233,28 @@
     "Section 2.1 heading and bullets: the matra symbol is printed as ‘ु’ inside quotes with a dotted-circle base; transcribed as ‘ु’",
     "2.3 'उनमे' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘मेला’ (पृ. सं. 190)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.3 (पृ. सं. 194)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘तालाब’ (पृ.स. 198)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -31525,6 +33568,28 @@
    "uncertain": [
     "The matra in section 2.1 (‘ु’) is printed small with a dotted-circle base; could be ‘ु’ or ‘ू’ - transcribed as ‘ु’",
     "Section number '2.2' is printed twice (वर्ण/अक्षर पहचान in left column, ब्लेंडिंग in right column); kept as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 191)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.4 (पृ. सं. 195)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘तालाब’ (पृ.स. 198)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -31840,6 +33905,23 @@
     "Multigrade class-2 40-min: printed 'स्वतत्र' (missing nasal) in 'आदर्श एवं स्वतत्र पठन' — transcribed as printed",
     "2.2 'उनमे' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.5 (पृ. सं. 196)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘गोलू का गुब्बारा’ (पृ.स. 199)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -32095,6 +34177,18 @@
     "121"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-17 पृष्ठ संख्या 200",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -32402,6 +34496,33 @@
     "122"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘होली’ (पृ. सं. 201-202)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ध’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.1 (पृ. सं. 206)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘झबला’ (पृ.स. 211)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -32705,6 +34826,33 @@
     "123"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘होली’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘झ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.2 (पृ. सं. 207)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘झबला’ (पृ.स. 211)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -33020,6 +35168,28 @@
     "Section 2.1 and shared 40-min row: the matra glyph in quotes looks like a legacy-font 'f' glyph, transcribed as the i-matra ‘ि’",
     "Section 2.1 fourth bullet: word printed 'बताााएँ' (extra ा), copied as printed",
     "Section 2.4: 'दिए गये' read in this page (previous pages print 'दिये गये')"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘होली’ (पृ. सं. 204)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.3 (पृ. सं. 208)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘अनिल और सियार’ (पृ.स.212)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -33342,6 +35512,28 @@
    "uncertain": [
     "Section 2.1 and shared 40-min row: the matra glyph in quotes looks like a legacy-font 'f' glyph, transcribed as the i-matra ‘ि’"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 205)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.4 (पृ. सं. 209)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘अनिल और सियार’ (पृ.स.212)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -33659,6 +35851,23 @@
    "uncertain": [
     "Shared 40-min row, कक्षा 2 first bullet: 'आदर्श एवं स्वतंत्र पठन' - the word स्वतंत्र read as having anusvara; small print, verify if needed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.5 (पृ. सं. 210)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘रामसहाय की साइकिल’ (पृ.स. 213)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -33923,6 +36132,23 @@
    ],
    "uncertain": [
     "Section 1.2 heading: closing quote printed as an opening-style quote mark ‘ after तारीफ, copied as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद या खिलौना",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-18 पृष्ठ संख्या 214",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -34239,6 +36465,33 @@
     "Section 2.3: the words 'मिलकर बनने' are tightly spaced in print (possibly 'मिलकरबनने'); written with a space",
     "Shared 30-min row: 'त्योंहार' as printed (differs from 'त्योहार' elsewhere)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘हमारे त्योहार’ (पृ. सं. 215-216)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ठ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.1 (पृ. सं. 220)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘ठेला’ (पृ.स. 225)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -34540,6 +36793,33 @@
    "uncertain": [
     "Shared 30-min row: 'मिटटी' read as printed (differs from 'मिट्टी' in the next bullet)",
     "Section 2.3 text 'मिलकर बनने' tightly spaced in print; written with a space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘हमारे त्योहार’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘फ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.2 (पृ. सं. 221)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘ठेला’ (पृ.स. 225)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -34846,6 +37126,28 @@
    "uncertain": [
     "Section 2.1 heading/bullets and shared 40-min row: the matra shown in quotes is printed as a small hook mark; read as the u-matra ‘ु’",
     "Section 2.3 text 'मिलकर बनने' tightly spaced in print; written with a space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘त्योहार’ (पृ. सं. 218)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.3 (पृ. सं. 222)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘सोनू के फल’ (पृ.स.226)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -35165,6 +37467,28 @@
     "1.2 heading printed 'आओ मिलकर बनाएं' (read as printed); matra symbol in 2.1 and bullets is a halant-like sign ‘ ् ’ - exact glyph unclear",
     "Multigrade (40 मिनट) कक्षा 1 second bullet: 'ग्रिड  से अभ्यास' spacing as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 219)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.4 (पृ. सं. 223)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘सोनू के फल’ (पृ.स.226)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -35480,6 +37804,23 @@
     "Multigrade 40 min कक्षा 2 first bullet: text is cramped/overlapping in print; reading order approximate",
     "2.4 'पढ़ें। फिर' full stop placement as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.5 (पृ. सं. 224)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘रीता की गुड़िया’ (पृ.स.227)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -35738,6 +38079,18 @@
     "Right column (instructions 'निर्देश' through 'नोट') placed inside section 2.1 as continuation of the numbered list; numbers 1-6 kept as printed prefixes",
     "'रेमेडिअल' / 'रमेडियल' spellings as printed",
     "Multigrade (40 मिनट) कक्षा 2 'आकलन पर आधार पर' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-19 पृष्ठ संख्या 228",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -35998,6 +38351,18 @@
     "'आकलन प्रपत्र/। चर्चा से' read as printed (slash/danda unclear)",
     "'समूह निर्धारित करने के लिए निर्देश' is a bold arrow line, recorded as bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘मेला’ (पृ. सं. 229-230)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-2)",
+     "where": "सावधिक आकलन-2"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -36244,6 +38609,18 @@
     "Section 'सावधिक आकलन-2' has no printed number (null)",
     "'आकलन प्रपत्र/। चर्चा से' read as printed",
     "Section 1.2 heading 'पुन:पढ़कर' colon as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘मेला’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-2)",
+     "where": "सावधिक आकलन-2"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -36539,6 +38916,38 @@
     "Section 2 sub-boxes 'समूह 2 के साथ कार्य योजना' and 'समूह 1 के साथ कार्य योजना' are unnumbered (number null); 2.1-2.4 placed under section 2 as printed",
     "Right column opening bullets (फिर कोई एक वर्ण कार्ड...) treated as continuation of 2.1 from the left column",
     "2.1 letter list '(न,र,ल,क,स,ब,द,म. प,त,ट,ग)' punctuation as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘मेला’ (पृ. सं. 232)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 20.1 (पृ. सं. 234)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण (न,र,ल,क,स,ब,द,म. प,त,ट,ग) कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्णों (ज,य) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -36838,6 +39247,23 @@
     "Anusvara sign in 2.1 heading/bullets is a small mark inside quotes; written as ‘ ं ’",
     "Section 2 sub-boxes समूह 2/समूह 1 unnumbered (number null); 2.1-2.4 in the right column placed under section 2",
     "'जिनमे' and '235)पर' spellings/spacing as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "चित्र कथा चार्ट ‘समझदार नन्हा मेंढक’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 20.2 (पृ. सं. 235)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -37143,6 +39569,23 @@
     "Right column's opening bullet (पिछले दिन सिखाई मात्रा...) assigned to 2.1 whose heading is at the bottom of the left column",
     "Multigrade 30 min first bullet quote marks as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 20.3 (पृ. सं. 236)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -37433,6 +39876,23 @@
     "Printed numbering in section 2 is 2.1, 2.3 (शब्द पठन), 2.3 (श्रुतलेखन), 2.4 - kept as printed (no 2.2, 2.3 appears twice)",
     "Section 2 group boxes समूह 2/समूह 1 unnumbered (number null)",
     "Multigrade 40 min कक्षा 2 'पृष्ठ 236' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 20.4 (पृ. सं. 237)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्णों (छ,श) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -37738,6 +40198,23 @@
     "Multigrade 20 min cells have cramped/overlapping text; reading approximate",
     "1.2 dot sub-bullets recorded as bullet items; 'झुला' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘खरगोश, बंदर और हाथी’ (पृ. सं. 238-239)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.1 (पृ. सं. 243)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -38036,6 +40513,33 @@
     "Section 2.4 heading printed 'अभ्यास-पत्रक 20.2' while its text says 21.2 (copied as printed)",
     "Section 2.1 bullet: the comma between 'म' and 'प' is where the line wraps across columns",
     "Second step numbered '2.3' (श्रुतलेखन) printed as 2.3 as in the original"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘खरगोश, बंदर और हाथी’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.2 (पृ. सं. 244)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्णों (ह,व) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -38337,6 +40841,28 @@
    ],
    "uncertain": [
     "2.1 bullet: the list of letters wraps across two lines; the comma between 'म' and 'प' assumed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘खरगोश, बंदर और हाथी’ (पृ. सं. 241)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.3 (पृ. सं. 245)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्णों (अ,आ) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -38640,6 +41166,33 @@
     "Two sections both numbered 2.4 as printed",
     "2.1 bullet letter list wraps across two lines; comma between 'म' and 'प' assumed",
     "Multigrade kaksha 1 first row 40 min: 'पाठ आधारित लेखन कार्य रखें।' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "आओ, कुछ बनाएँ ‘बिल्ली का चेहरा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.4 (पृ. सं. 246)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "वर्णों (इ,ई) के कार्ड",
+     "where": "2 रेमेडियल कार्य"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -38952,6 +41505,18 @@
     "2.1 bullets in the right column continue section 2.1 without a new heading",
     "Multigrade 20-min kaksha 1 second row refers to 21.2/244 as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.5 (पृ. सं. 247)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -39262,6 +41827,18 @@
     "Section 2.1 heading and its TLM bullet show a small matra symbol (printed in a legacy-font glyph, read as ‘ु’; could not be certain which matra)",
     "2.1 bullets 2-4 are in the right column and continue 2.1 without a new heading"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 21.6 (पृ. सं. 248)",
+     "where": "2 रेमेडियल कार्य"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से कहानी की किताबें",
+     "where": "2 रेमेडियल कार्य"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -39568,6 +42145,33 @@
     "Section 1.2 has no printed heading text (only number and minutes); heading left empty",
     "Section 2.4 text: line breaks in right column; 'बच्चों को अभ्यास-पत्रक पर अभ्यास करने के उदाहरण देकर...' read as printed",
     "Multigrade kaksha 1 40-min bullet says अभ्यास-पत्रक 21.1 as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘हरी भरी दुनिया’ (पृ. सं. 249-250)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ड’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.1 (पृ. सं. 254)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘ढेलाराम हलवाई’ (पृ.स. 259)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -39880,6 +42484,33 @@
     "Multigrade kaksha 1 20-min second bullet is cramped; reading approximate",
     "Multigrade kaksha 2 40-min first bullet text is cramped"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘हरी भरी दुनिया’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ढ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.2 (पृ. सं. 255)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘ढेलाराम हलवाई’ (पृ.स. 259)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -40191,6 +42822,33 @@
     "Multigrade kaksha 2 40-min first bullet is small print",
     "'उडाई' in multigrade 30-min row printed without nukta/with ड as read"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘हरी भरी दुनिया’ (पृ. सं. 252)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘भ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.3 (पृ. सं. 256)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘मोहन के कंगन’ (पृ.स. 260)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -40498,6 +43156,33 @@
     "1.2 second bullet has an opening ‘ quote with no closing quote, as printed",
     "'उडाई' read without nukta/ड as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 253) में दी गई कविता “शब्दों का खेल”",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘औ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.4 (पृ. सं. 257)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘मोहन के कंगन’ (पृ.स. 260)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -40780,6 +43465,18 @@
     "Right-column top bullets (उपसमूह में अभ्यास के लिए..., बच्चों के पास जाकर...) continue section 2.1 without a heading; placed under 2.1",
     "Multigrade 40-min kaksha 1 and kaksha 2 first bullets are small print; reading approximate"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘चिड़िया की हँसी’ (पृ.स. 261)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -41037,6 +43734,18 @@
    "uncertain": [
     "Numbered items 1.-6. under 2.1 are recorded as bullet items with the printed number prefixed; the nested bullets (>) are separate items.",
     "Multigrade table: items were paired by row (two rows per group for 40 and 20 minute blocks)."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-22 पृष्ठ संख्या 262",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -41360,6 +44069,33 @@
     "Section 2.2 heading sits at the bottom of the left column; its single item is at the top of the right column.",
     "Multigrade table items paired by row."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘ढेला और पत्ता’ (पृ. सं. 263-264)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ण’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.1 (पृ. सं. 268)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘चाची का घर’ (पृ.स. 273)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -41665,6 +44401,33 @@
    "uncertain": [
     "Second section numbered '2.4' (अभ्यास कार्य) is printed as 2.4 after the 2.4 शब्द पठन; kept as printed.",
     "Multigrade table items paired by row."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘ढेला और पत्ता’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘थ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.2 (पृ. सं. 269)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘चाची का घर’ (पृ.स. 273)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -41994,6 +44757,28 @@
     "Multigrade class 2 40-minute row: 'अभ्यास 22.3 पृष्ठ 269' read as printed.",
     "Multigrade table items paired by row."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘ढेला और पत्ता’ (पृ. सं. 266)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.3 (पृ. सं. 270)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘बगीचे के फूल’ (पृ.स. 274)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -42312,6 +45097,28 @@
     "The matra glyph in 2.1 is printed in quotes as the ai-matra; transcribed as ‘ै’.",
     "Multigrade table items paired by row."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 267) में दी गई कविता “एक पत्ता गिरा”",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.4 (पृ. सं. 271)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘बगीचे के फूल’ (पृ.स. 274)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -42610,6 +45417,23 @@
     "Right column top bullet ('बच्चों के पास जाकर पढ़ते हुए सुनें...') placed as last item of 2.2, continuing from the left column.",
     "Multigrade table items paired by row."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.5 (पृ. सं. 272)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘चिड़िया की हँसी’ (पृ.स. 261)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -42867,6 +45691,18 @@
    "uncertain": [
     "Numbered items 1.-6. under 2.1 recorded as bullet items with printed number prefixed.",
     "Multigrade table items paired by row."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-23 पृष्ठ संख्या 276",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -43171,6 +46007,33 @@
     "Section 2.2 heading is at the bottom of the left column; its item is at the top of the right column.",
     "Multigrade class 1 20-minute row printed 'पृष्ठ सं. 28' (possibly cut off).",
     "Multigrade table items paired by row."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पाठ ‘चाँद का तोहफा’ (पृ. सं. 277-278)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ड़’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.1 (पृ. सं. 282)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘एकतारा’ (पृ.स. 287)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -43482,6 +46345,33 @@
     "Section 2.2 heading is at the bottom of the left column; its item is at the top of the right column.",
     "Section 3.1 printed as a single bullet block.",
     "Multigrade table items paired by row."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘चाँद का तोहफा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ष’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.2 (पृ. सं. 283)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘एकतारा’ (पृ.स. 287)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -43807,6 +46697,28 @@
     "Multigrade class 1 30-minute lekhan page number printed 'पृष्ठ सं 2279' (as printed, possibly 279).",
     "Multigrade table items paired by row."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘चाँद का तोहफा’ (पृ. सं. 280)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.3 (पृ. सं. 284)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘रवि का कड़ा’ (पृ.स. 288)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -44125,6 +47037,28 @@
     "2.1 heading and bullets: the matra symbol shown in quotes is a small glyph (likely ‘ै’) that rendered as a detached mark; transcribed as ‘ै’",
     "Multigrade 40 and 20 minute rows: कक्षा 1/कक्षा 2 columns each have two sub-rows; bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक (पृ. सं. 281) में दी गई कविता “पानी उतरा टीन पर”",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.4 (पृ. सं. 285)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘रवि का कड़ा’ (पृ.स. 288)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -44423,6 +47357,23 @@
     "Multigrade कक्षा 2 first 40-minute bullet: printed text is 'आदर्श एवं स्वतंत्र पठन: अभ्यास 24.5' (letters partly cut in print: 'स्वतंत्र' appears as 'स्वतंत्र'); reading is best guess",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.5 (पृ. सं. 286)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘चूहा और ताई’ (पृ.स. 289)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -44681,6 +47632,18 @@
     "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
     "Multigrade 30-minute row: page reference printed as 'पृष्ठ सं. 27)' with the '27' wrapped under the line (possibly truncated, e.g. 27x)",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-24 पृष्ठ संख्या 290",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -45002,6 +47965,33 @@
     "Multigrade 20-minute row, कक्षा 1: only one bullet printed (second sub-row empty in the कक्षा 1 column)",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-25 ‘परेशान पहिया’ (पृ. सं. 291-292)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ऐ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.1 (पृ. सं. 296)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘नानी का पत्र’ (पृ.स. 301)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -45316,6 +48306,33 @@
     "Section 2 continues from left column into right column (2.3-2.6); section 3 is in the right column",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-25 ‘परेशान पहिया’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘त्र’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.2 (पृ. सं. 297)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘नानी का पत्र’ (पृ.स. 301)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -45627,6 +48644,28 @@
     "2.1: the whole section is printed as consecutive '>' lines wrapped in one paragraph; line starts not clearly distinguishable, so kept as one bullet",
     "Multigrade कक्षा 2 40-minute first bullet: small compressed text, 'पृ 293' partly overlapped by the next row",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-25 ‘परेशान पहिया’ (पृ. सं. 294)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.3 (पृ. सं. 298)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘हाथी और गैंडा’ (पृ.स. 302)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -45943,6 +48982,23 @@
     "Section 2 continues from left column into right column (2.3-2.6); section 3 is in the right column",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.4 (पृ. सं. 299)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘हाथी और गैंडा’ (पृ.स. 302)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -46242,6 +49298,23 @@
     "Section 3.1 heading prints ‘सपना का मकान’ while the multigrade box prints ‘सपना का घर’ (both copied as printed)",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.5 (पृ. सं. 300)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘सपना का मकान’ (पृ.स. 303)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -46499,6 +49572,18 @@
    "uncertain": [
     "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-25 पृष्ठ संख्या 304",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -46820,6 +49905,33 @@
     "1.2: the last bullet (नानी अगर ...) is printed as a smaller dot sub-bullet; written as a separate bullet",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-26 ‘गरमी की छुट्टियाँ’ (पृ. सं. 305-306)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ऋ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.1 (पृ. सं. 310)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘जामुन का पेड़’ (पृ.स. 315)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -47132,6 +50244,33 @@
     "3.1 is printed as one bullet paragraph (no separate '>' lines)",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-26 ‘गरमी की छुट्टियाँ’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘ऊ’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.2 (पृ. सं. 311)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘जामुन का पेड़’ (पृ.स. 315)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -47435,6 +50574,33 @@
     "2.1 is printed as one dense paragraph (single '>' bullet) in tight line spacing; kept as one bullet",
     "Multigrade कक्षा 1 40-minute second bullet prints ‘अ’ (not ‘अं’/‘श्र’) as printed",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-26 ‘गरमी की छुट्टियाँ’ (पृ. सं. 308)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘अं’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.3 (पृ. सं. 312)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘भालू का नाच’ (पृ.स. 316)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -47752,6 +50918,33 @@
     "Multigrade कक्षा 1 40-minute second bullet prints ‘मात्रा ‘ज्ञ’ पहचान’ as printed",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘पानियों की गाड़ियों में’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "‘क्ष’ का कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.4 (पृ. सं. 313)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "‘भालू का नाच’ (पृ.स. 316)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -48051,6 +51244,23 @@
     "Section 3.1 and 3.2 begin at the bottom of the right column of the top half; read from the overlap, no duplicates written",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.5 (पृ. सं. 314)",
+     "where": "2 डिकोडिंग-पुनरावृत्ति कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "‘भालू का गाना’ (पृ.स. 317)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -48309,6 +51519,18 @@
     "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
     "समूह-1 text prints 'यदि किसी 1 दक्षता में एक 50% से ज्यादा' (digit 1 and 'एक' both printed; copied as printed)",
     "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने सीख लिया’-26 पृष्ठ संख्या 318",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    },
+    {
+     "kind": "material",
+     "name": "अच्छे चित्रों वाली कहानी की किताबें",
+     "where": "2 डिकोडिंग साप्ताहिक आकलन"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -50684,6 +53906,18 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 0
+ },
+ "materials": {
+  "lessons_with_list": 156,
+  "kept": 582,
+  "dropped": [
+   {
+    "lesson": "hr-hindi-g1-w25-d04",
+    "name": "पाठ्यपुस्तक (पृ. सं. 295)",
+    "why": "quote not in lesson text"
+   }
+  ],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {},

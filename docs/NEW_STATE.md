@@ -55,6 +55,12 @@ its original page, plus a report showing what was checked. Expect every state to
      in the source numbering is reported as a jump.
    - **pictures**: `figures.py` must end with 0 unplaced; any text-only picture note left without a
      crop needs a targeted `x###.json` box (same format as the picture pass).
+7c. **Preparation lists (तैयारी)**: after the lessons are assembled,
+   `python engine/jobs.py <state> --guide <id> --kind materials --batch 16` (7 for long lessons) and give
+   each sheet to a text-only agent ("Read the job sheet … use only Read and Write"). They list the
+   TLM and book pages each lesson names; `engine/materials.py` (in the pipeline) keeps only items whose
+   name and quote occur in that lesson's own text, so nothing invented reaches teachers. The app shows
+   them as the lesson's “तैयारी” card (with a tick list) and on Today for the next lesson.
 8. **Fix every error** (and look at warnings): open the page image; either fix the transcription
    JSON (re-run that page) or, if the page itself is misprinted, add an entry to
    `states/<state>/anomalies.json` with evidence (and a `keys` correction + teacher-facing `notice`

@@ -1088,6 +1088,38 @@
     "Day 1-2 block 1 and Day 3-4 block 1 pages: the first-bar level-2 heading's trailing icon ignored",
     "Block 2 heading text 'कौशल शिक्षण' read from the orange bar 'ब्लॉक 2 – कौशल शिक्षण'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 2",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "खाली कागज़",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 3",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 11",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1302,6 +1334,38 @@
     "Day 1-2 block 1 and Day 3-4 block 1 pages: the first-bar level-2 heading's trailing icon ignored",
     "Block 2 heading text 'कौशल शिक्षण' read from the orange bar 'ब्लॉक 2 – कौशल शिक्षण'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 5",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "खाली डिब्बा",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 5, 12",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 11",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1513,6 +1577,33 @@
    "uncertain": [
     "Column 1 intro-to-concept text 'बच्चों से रंगों के नाम पूछें तथा अवधारणा के आधार पर...' read as printed; wording possibly misprinted in source."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 4",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "इकाई और दहाई मान की एक-एक स्ट्रिप्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "सैकड़े की स्ट्रिप",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "हज़ार की स्ट्रिप",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 6, 7",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -1707,6 +1798,38 @@
    ],
    "uncertain": [
     "Column 1 intro-to-concept text 'बच्चों से रंगों के नाम पूछें तथा अवधारणा के आधार पर...' read as printed; wording possibly misprinted in source."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 8",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 9",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -1921,6 +2044,18 @@
    "uncertain": [
     "Column 1 intro-to-concept text 'बच्चों से रंगों के नाम पूछें तथा अवधारणा के आधार पर...' read as printed; wording possibly misprinted in source."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 10",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2131,6 +2266,53 @@
     "'फटबॉल' printed as such (likely misprint of फुटबॉल); kept as printed. Title in orange band uses 'लम्बा–क्या' with en dash; chapter opener used hyphen.",
     "Page ends right after the line 'इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।'; the activity bullets follow on next page."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 14",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "माचिस की डिब्बी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "डाइस",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "शंक्वाकार टोपी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "खराब सेल",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 15, 16",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 18",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2337,6 +2519,38 @@
     "'फटबॉल' printed as such (likely misprint of फुटबॉल); kept as printed. Title in orange band uses 'लम्बा–क्या' with en dash; chapter opener used hyphen.",
     "Page ends right after the line 'इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।'; the activity bullets follow on next page."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 22",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "चिकनी तख्ती",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "टॉर्च का एक सेल",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कार्ड्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 22, 23",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2517,6 +2731,28 @@
    "uncertain": [
     "Page ends mid-activity in Block 2 for all three columns; remaining bullets follow on next page.",
     "Column 1 first bullet is split across the two image halves; joined as one item."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 28",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक इकाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 29, 30, 44",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 30",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -2711,6 +2947,28 @@
     "Page ends mid-activity in Block 2 for all three columns; remaining bullets follow on next page.",
     "Column 1 first bullet is split across the two image halves; joined as one item."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 32",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 32, 33",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 33",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -2891,6 +3149,28 @@
    "uncertain": [
     "Page ends mid-activity in Block 2 for all three columns; remaining bullets follow on next page.",
     "Column 1 first bullet is split across the two image halves; joined as one item."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 30",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कार्ड्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 34–43",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 31",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3082,6 +3362,13 @@
     "Column 1/3 'TLM एवं गतिविधियों' bar: printed 'समझाएँ' in col spanning bar; bar text read as 'समझाएँ।'",
     "Column 1 block 2 paragraph ends 'अवधारणा को समझाएँ' (col 2 prints 'अवधारण को')",
     "Heading bar spelling 'समझाएं' vs 'समझाएँ' in column 1 section heading may differ"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 45",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3290,6 +3577,23 @@
     "Column 1 block 2 paragraph ends 'अवधारणा को समझाएँ' (col 2 prints 'अवधारण को')",
     "Heading bar spelling 'समझाएं' vs 'समझाएँ' in column 1 section heading may differ"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 45, 47",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 50",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -3484,6 +3788,18 @@
     "Column 1/3 'TLM एवं गतिविधियों' bar: printed 'समझाएँ' in col spanning bar; bar text read as 'समझाएँ।'",
     "Column 1 block 2 paragraph ends 'अवधारणा को समझाएँ' (col 2 prints 'अवधारण को')",
     "Heading bar spelling 'समझाएं' vs 'समझाएँ' in column 1 section heading may differ"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 46",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3691,6 +4007,28 @@
    "uncertain": [
     "Column 1 intro 'ज़ीरो' printed with nukta (read as ज़ीरो)",
     "Column 3 intro printed as two bullets in yellow box (bullet marker not kept)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 53",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "5 लाल काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़ की 10 पर्चियाँ",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 55, 56",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -3903,6 +4241,28 @@
     "Column 1 intro 'ज़ीरो' printed with nukta (read as ज़ीरो)",
     "Column 3 intro printed as two bullets in yellow box (bullet marker not kept)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक दहाई मान का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक इकाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 57",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4110,6 +4470,28 @@
    "uncertain": [
     "Column 1 intro 'ज़ीरो' printed with nukta (read as ज़ीरो)",
     "Column 3 intro printed as two bullets in yellow box (bullet marker not kept)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "9 काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कुछ कार्ड्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 58, 59",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 61",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4323,6 +4705,18 @@
    "uncertain": [
     "Col 3 intro '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
     "Col 2 bullet 'बीचे में दो कूद पर' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 62, 63",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -4541,6 +4935,18 @@
     "Col 3 intro '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
     "Col 2 bullet 'बीचे में दो कूद पर' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 64",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4754,6 +5160,28 @@
     "Col 3 intro '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
     "Col 2 bullet 'बीचे में दो कूद पर' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 66",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 67",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 68",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -4960,6 +5388,23 @@
    ],
    "uncertain": [
     "Column 1 and 2 first paragraph words 'एक अंकीय संख्याओं की अवधारणा' read from top half; col 3 reads 'के जोड़ की'."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 71",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "5 पीले और 1 हरा काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 72–73",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5172,6 +5617,33 @@
    ],
    "uncertain": [
     "Column 1 and 2 first paragraph words 'एक अंकीय संख्याओं की अवधारणा' read from top half; col 3 reads 'के जोड़ की'."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 73",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "2 पीले और 5 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 74, 81",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 74",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5388,6 +5860,28 @@
    ],
    "uncertain": [
     "Column 1 and 2 first paragraph words 'एक अंकीय संख्याओं की अवधारणा' read from top half; col 3 reads 'के जोड़ की'."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 84",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "2 पीले और 5 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 80",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -5607,6 +6101,28 @@
     "Col 1 Block 2 text 'करवा कर विडियो की सहायता' (no 'और') as read.",
     "Col 2 intro line 'अध्यापक/अध्यापिका बच्चों को अवधारणा का परिचय दें।' read as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 86",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "4 लाल काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 85",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -5816,6 +6332,28 @@
     "Col 1 'किताबे' printed as such.",
     "Col 1 Block 2 text 'करवा कर विडियो की सहायता' (no 'और') as read.",
     "Col 2 intro line 'अध्यापक/अध्यापिका बच्चों को अवधारणा का परिचय दें।' read as printed."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 89",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "7 पीले और 2 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 88",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6036,6 +6574,38 @@
     "Col 1 intro quote marks around 'कुछ नहीं' read as ‘ ’.",
     "Col 2 Block 2 text lacks 'पाठ्यपुस्तक' as printed.",
     "Page ends mid Block 2; likely continues on next page."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 90",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पीले रंग के काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "हरे काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "इकाई के 4 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 91",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6258,6 +6828,23 @@
     "Col 2 Block 2 text lacks 'पाठ्यपुस्तक' as printed.",
     "Page ends mid Block 2; likely continues on next page."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "2 पीले और 5 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 92",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6466,6 +7053,33 @@
    "uncertain": [
     "Col 1 'उंगलियाँ' (anusvara) vs 'उँगलियाँ' as printed in this page.",
     "Page ends mid Block 2; continues on next page."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 94",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "10 पीले और 7 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 96",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -6676,6 +7290,33 @@
     "Col 1 'उंगलियाँ' (anusvara) vs 'उँगलियाँ' as printed in this page.",
     "Page ends mid Block 2; continues on next page."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 95",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "13 पीले और 5 हरे काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ संख्या 97",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -6883,6 +7524,28 @@
     "36"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेंसिलें",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 99",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "गणितमाला",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "44 मोती",
+     "where": "2 कौशल शिक्षण"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7098,6 +7761,28 @@
     "36"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस 10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 98, 100",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 102",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7287,6 +7972,43 @@
    "uncertain": [
     "Column 2, block 2: 'ओर अच्छी तरह' appears printed with ओर (not और); copied as read."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 107",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "लाल रंग के काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "हरा काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 105–109",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 109",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7458,6 +8180,33 @@
    ],
    "uncertain": [
     "Column 2, block 2: 'ओर अच्छी तरह' appears printed with ओर (not और); copied as read."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "टिफिन बॉक्स",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "जिओमेट्री बॉक्स",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "एक काउंटर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 106",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -7686,6 +8435,63 @@
     "Col 1 block 1 intro bullet 'अलग.अलग' printed with a period between the words (as read).",
     "Col 2 block 1 first discussion: the two '–' lines (बाल्टी / गिलास questions) are sub-lines under the bullet; recorded as separate bullet items with leading dash."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पानी भरी बोतल",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "टिफ़िन",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "material",
+     "name": "गेंद",
+     "where": "1 मौखिक गणित बातचीत"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 111",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "दो दोने",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "6 समान लम्बाई के धागे के टुकड़े",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक छड़ी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक पेंसिल",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक रबर",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 113–115",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 112",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -7884,6 +8690,38 @@
    "uncertain": [
     "Col 1 block 1 intro bullet 'अलग.अलग' printed with a period between the words (as read).",
     "Col 2 block 1 first discussion: the two '–' lines (बाल्टी / गिलास questions) are sub-lines under the bullet; recorded as separate bullet items with leading dash."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 116",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "खाली कटोरी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "जग",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पानी से भरी एक बाल्टी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 118–119",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 120",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8099,6 +8937,28 @@
     "Day 3-4 col, block 2: bullet 'गणितमाला को दो कीलों पर...' second sentence printed as separate wrapped line; joined into one bullet",
     "'आस.पास' printed with a dot as seen"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "20 काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक दहाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक इकाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 123–125",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8304,6 +9164,28 @@
    "uncertain": [
     "Day 3-4 col, block 2: bullet 'गणितमाला को दो कीलों पर...' second sentence printed as separate wrapped line; joined into one bullet",
     "'आस.पास' printed with a dot as seen"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 125",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "गणितमाला",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्लेस वैल्यू स्ट्रिप्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 126–128",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8530,6 +9412,33 @@
     "Col 1 'बोर्ड पर 50 काउंटर्स ... 50 के आगे आता है 50' copied as printed",
     "Col 1 'बच्चों से पूछें कि' vs earlier page 'पूछे' - read as printed on this page"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "50 काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक दहाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "एक इकाई का ब्लॉक",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 130–132",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "material",
+     "name": "रंग बिरंगी गिनती दौड़",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -8746,6 +9655,28 @@
     "Col 1 'पृष्ठ संख्या मैं' (मैं) and 'आस.पास' (dot) copied as seen",
     "Col 1 'बोर्ड पर 50 काउंटर्स ... 50 के आगे आता है 50' copied as printed",
     "Col 1 'बच्चों से पूछें कि' vs earlier page 'पूछे' - read as printed on this page"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 135",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 133–134",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "material",
+     "name": "नंबर दौड़",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -8967,6 +9898,23 @@
     "Col 2 'पैटर्न की चित्र' vs 'के चित्र' - read as 'की' as printed; recheck",
     "Col 1 'पेंसिल' read as anusvara form",
     "Col 2 last bullet: two lines '53, 55, ____, 59' and '68, 66, ____, 62' joined in one bullet"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 138",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 139, 140",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9195,6 +10143,18 @@
     "Col 1 'पेंसिल' read as anusvara form",
     "Col 2 last bullet: two lines '53, 55, ____, 59' and '68, 66, ____, 62' joined in one bullet"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "संख्या चार्ट",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 141",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9389,6 +10349,28 @@
     "Col 2 'बच्चों ऊपर बताए गए' copied as printed",
     "Col 3 'ऊपर पूछें गए' copied as printed",
     "Column 1 yellow box wording 'समय के आधार पर घटनाओं को क्रम में लगाना और दिनचर्या।' is a single sentence, not a bullet"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 147",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "कार्ड्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 145",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 152",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -9613,6 +10595,23 @@
     "Col 3 'ऊपर पूछें गए' copied as printed",
     "Column 1 yellow box wording 'समय के आधार पर घटनाओं को क्रम में लगाना और दिनचर्या।' is a single sentence, not a bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 149",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पतले कार्डबोर्ड",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 147–148",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -9824,6 +10823,23 @@
     "Col 3 'ऊपर पूछें गए' copied as printed",
     "Column 1 yellow box wording 'समय के आधार पर घटनाओं को क्रम में लगाना और दिनचर्या।' is a single sentence, not a bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 150",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "8 पर्चियाँ",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 151",
+     "where": "3 कौशल अभ्यास"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10034,6 +11050,38 @@
     "Block 1 first paragraph: printed 'मौखिक चर्चा। बच्चों से प्रश्न पूछें जैसे –' (sentence appears without a verb, copied as printed)",
     "Spelling 'कूल संख्या' copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 155",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "10 रुपये के दस नोट",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "काउंटर्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "बेस–10 ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 154–157",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 158",
+     "where": "4 गणित खेल"
+    }
+   ],
    "textcheck": {
     "single-reading": 1
    }
@@ -10239,6 +11287,33 @@
    "uncertain": [
     "Block 1 bullet 1: 'जब उनके बड़े दुकान से' read as printed (likely misprint, copied as printed)",
     "Block 2 bullets: spellings 'रूपये' vs 'रुपये' mixed as printed; verify 'एक रूपये, दो रूपये, पाँच रुपये, दस रूपये और बीस रूपये'"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 160",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "सिक्के",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 160–164",
+     "where": "3 कौशल अभ्यास"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 165",
+     "where": "4 गणित खेल"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -10465,6 +11540,28 @@
    "uncertain": [
     "Block 2: a thin horizontal rule separates the pattern-block bullets from the play-money bullets; kept in one list",
     "Spellings 'इकठ्ठा', 'इकट्ठी', 'ज़्यादा' as read from small print"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में, पृष्ठ संख्या 166",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "पैटर्न ब्लॉक्स",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "material",
+     "name": "प्ले–मनी",
+     "where": "2 कौशल शिक्षण"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ संख्या 167–168",
+     "where": "3 कौशल अभ्यास"
+    }
    ],
    "textcheck": {
     "single-reading": 1
@@ -12115,6 +13212,12 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 0
+ },
+ "materials": {
+  "lessons_with_list": 46,
+  "kept": 201,
+  "dropped": [],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {},

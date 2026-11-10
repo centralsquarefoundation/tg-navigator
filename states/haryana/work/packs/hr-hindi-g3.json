@@ -754,6 +754,23 @@
     "Summary table cells combined from bullets; column grouping approximate",
     "2.1 letters 'न र ल क' read as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-1 ‘धम चिक-चिक धम’ पृष्ठ सं. 1-2",
+     "where": "आज किए जाने वाले कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 6 के 1.1",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं.11",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "exact": 34,
@@ -1073,6 +1090,28 @@
    ],
    "notes": [
     "page 21 prints no keys; joined as a continuation of the previous page"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 3",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 7 के 1.2",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं.11",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 48,
@@ -1417,6 +1456,28 @@
    "notes": [
     "page 23 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 4",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 8 के 1.3",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 12",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "exact": 44,
@@ -1733,6 +1794,23 @@
    "notes": [
     "page 25 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 5",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 9 के 1.4",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं.12",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "exact": 43,
@@ -1976,6 +2054,23 @@
     "Sections 2.1 and 2.2 sit under the sub-bar 'वर्ण/मात्राओं की पुनरावृत्ति' (20 मिनट), which has no printed number; headings for 2.1/2.2 are not printed (left empty)",
     "Nukta on 'कागज़' and 'पड़' approximate"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की एक गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 10 अभ्यास 1.5",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "exact": 26,
@@ -2207,6 +2302,13 @@
     "Section 2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-1, पृष्ठ सं. 13'",
     "Section 2 has no printed 3rd period bar on this page (no 'पठन' period) although the table lists it"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-1, पृष्ठ सं. 13",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "exact": 27,
@@ -2413,6 +2515,28 @@
    ],
    "uncertain": [
     "3.1 'पढ़कर बताना।' printed as such (verb form kept)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘आसमान गिरा’ ( पृष्ठ सं. 14-16 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.1 (पृष्ठ सं. 20)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 25",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 32,
@@ -2640,6 +2764,38 @@
    "uncertain": [
     "Heading of 1.2 wraps over two lines beside the clock icon; joined as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘आसमान गिरा’ ( पृष्ठ सं. 14-16 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में दिए प्रश्नों",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.2 (पृष्ठ सं. 21)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ-गरमी का मौसम",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 25",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 6,
@@ -2848,6 +3004,28 @@
     "25"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 18",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक अभ्यास-पत्रक 2.3 ( पृष्ठ सं. 22 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 26",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 33,
     "close": 3,
@@ -3036,6 +3214,33 @@
     "26"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 19",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.4 (पृष्ठ सं. 23)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "‘बरसात का मौसम’ पाठ",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 26",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 28,
     "close": 3,
@@ -3222,6 +3427,18 @@
    ],
    "uncertain": [
     "Nukta words 'तक़रीबन', 'चीज़ों' read as printed (nukta approximate)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 24 अभ्यास 2.5",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -3425,6 +3642,13 @@
    ],
    "uncertain": [
     "2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-2, पृष्ठ सं. 27'"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-2, पृष्ठ सं. 27",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -3641,6 +3865,28 @@
    "uncertain": [
     "Section 1.2 bullet 3: 'उस चित्र में क्या हो रहा?' printed without 'है'",
     "Nukta words 'आवाज़', 'चीज़ों' approximate"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-3 ‘चूहा निकल कर भागा’ ( पृष्ठ सं. 28-29 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.1 (पृष्ठ सं. 33)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 38",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -3874,6 +4120,33 @@
     "Last bullet at top of right column ('8-10 शब्द ...') continues section 2.1 from the left column; placed in 2.1",
     "1.3 heading wraps to a second line '( पृष्ठ सं. 30 )'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-3 ‘चूहा निकल कर भागा’ ( पृष्ठ सं. 28-29 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 30)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.2 (पृष्ठ सं. 34)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "सप्ताह 3 पाठ्यपुस्तक पृष्ठ सं. 38",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 5,
@@ -4101,6 +4374,28 @@
     "3.2 fourth bullet: text read as 'अच्छा, क्या लिख रहा है? मिलाकर एक साथ दुबारा पढ़ने'",
     "1.2 second bullet wording as printed (possible misprint in 'चर्चा')"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 31",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक अभ्यास-पत्रक 3.3 (पृष्ठ सं. 35)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 39",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 4,
@@ -4309,6 +4604,28 @@
     "32"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "आओ मिलकर पढ़ें ( पृष्ठ सं. 32 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.4 (पृष्ठ सं. 36)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 39",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 32,
     "close": 3,
@@ -4493,6 +4810,23 @@
    "uncertain": [
     "1.2: the line beginning 'बच्चों को अपने आस-पास की चीजों...' has a different icon instead of '>' so typed as text",
     "2.2 is in the right column top, placed under period 2 after 2.1 from left column"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 37 अभ्यास 3.5",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 26,
@@ -4697,6 +5031,13 @@
    "uncertain": [
     "2.1 first bullet: 'जोड़ों' as printed",
     "1.2: first line and 'कहानी पर अभिनय:-' typed as text (not '>' bullets)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-3, पृष्ठ सं. 40",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -4918,6 +5259,28 @@
    ],
    "uncertain": [
     "1.2: the four dot-bulleted questions sit in a boxed callout after the colon line; typed as bullets"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘जोहड़’ ( पृष्ठ सं. 41-42 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.1 (पृष्ठ सं. 46)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 51 से पठन",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 36,
@@ -5163,6 +5526,33 @@
     "Period 2: 2.1 is bottom of left column, 2.2 and 2.3 top of right column",
     "1.2: the four dot-bulleted questions are in a boxed callout; typed as bullets"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘जोहड़’ ( पृष्ठ सं. 41-42 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 43)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.2 (पृष्ठ सं. 47)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 51 से पठन",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 6,
@@ -5389,6 +5779,28 @@
    "uncertain": [
     "1.3: last three bullets (चित्र देखकर वाक्य लिखें... श्रुतलेख) are in a continuation box at top of right column; assigned to 1.3 (box has no heading)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 44",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक अभ्यास-पत्रक 4.3 ( पृष्ठ सं. 48 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 52 से पठन ( दिवस 3-4 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 4,
@@ -5591,6 +6003,28 @@
    "uncertain": [
     "1.2 bullet: 'पहेली बूझे' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘बूझो तो जाने’ ( पृष्ठ सं. 45 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.4 (पृष्ठ सं. 49)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक पृष्ठ सं. 52 से पठन, दिवस 3-4",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 3,
@@ -5778,6 +6212,23 @@
    ],
    "uncertain": [
     "1.2: the two lines after the gatividhi title (icon line) typed as text; 'Dumb Sharades' spelling as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 50 अभ्यास 4.5",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -5981,6 +6432,13 @@
    ],
    "uncertain": [
     "2.1 first bullet: 'जोड़ों' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-4, पृष्ठ सं. 53",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -6225,6 +6683,28 @@
    "uncertain": [
     "Column placement: periods 2 and 3 are in the right column; period 1 in the left column. Section 1.2 box bullets (questions) are inside a bordered box with a speech icon."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘किन्नू का पेड़’ (पृष्ठ सं. 54-55)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "5.1 ‘जंगल में दावत’ (पृष्ठ सं. 59)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 59",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-1 (पृष्ठ सं. 64)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 5,
@@ -6443,6 +6923,33 @@
    "uncertain": [
     "Period 2 heading bar is in the left column; section 2.2 continues at top of right column without its own period bar."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘किन्नू का पेड़’ (पृष्ठ सं. 54-55)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 56)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 5.1 (पृष्ठ सं. 59)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 5.2 (पृष्ठ सं. 60)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-2 (पृष्ठ सं. 64)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 7,
@@ -6650,6 +7157,28 @@
    "uncertain": [
     "Period 3 (पठन) is in the right column at top; period 2 is in the left column below period 1 and spans the half-image overlap."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 57) पर दिए गए अभ्यास-कार्य",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "5.3 ‘जिराफ’ (पृष्ठ सं. 61)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 61",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-3 (पृष्ठ सं. 64)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 6,
@@ -6843,6 +7372,28 @@
     "44"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘आम’ (पृष्ठ सं. 58)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 5.4 (पृष्ठ सं. 61)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 5.4 (पृष्ठ सं. 62)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-4 (पृष्ठ सं. 64)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 26,
     "close": 6,
@@ -7033,6 +7584,23 @@
    ],
    "uncertain": [
     "Section 1.2: line 'बच्चे संकेतों के माध्यम से...' is printed with a spiral/target-like icon (aim line), written as type text. Section 2.1 heading text printed in the heading bar including minutes 10; 'मुंह' as printed."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कुछ संकेत",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "5.5 ‘गरमा-गरम जलेबियाँ’ (पृष्ठ सं. 63)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -7240,6 +7808,13 @@
    ],
    "uncertain": [
     "Section 1.2: first line 'बच्चों को पहले से सुनी...' printed with a spiral/target-like icon, written as type text. Section 2 heading prints minutes '60' in a lighter weight. 'समूह 1/2' lines are plain paragraphs (no arrow). Heading 2.2 is two printed lines: 'साप्ताहिक आकलन-' and 'मैंने सीख लिया-5, पृष्ठ सं. 65'."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-5, पृष्ठ सं. 65",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -7472,6 +8047,23 @@
    "uncertain": [
     "Section 1.2 box: 'मिठ्ठू' as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘आजा बादल भैया’ (पृष्ठ सं. 66-67)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "6.1 ‘लड्डू’ (पृष्ठ सं. 71)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-5 (पृष्ठ सं. 76)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 5,
@@ -7688,6 +8280,33 @@
     "48"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘आजा बादल भैया’ (पृष्ठ सं. 66-67)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 68)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 6.1 (पृष्ठ सं. 71)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 6.2 (पृष्ठ सं. 72)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-6 (पृष्ठ सं. 76)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 8,
@@ -7874,6 +8493,23 @@
     "49"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 69)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "6.3 ‘शेरू’ (पृष्ठ सं. 73)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-7 (पृष्ठ सं. 76)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 26,
     "close": 5,
@@ -8071,6 +8707,48 @@
     "50"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘आओ पतंग बनाएँ’ (पृष्ठ सं. 70)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पतले कागज़ या अखबार",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कैंची",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "झाड़ू की तीलियाँ",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 6.3 (पृष्ठ सं. 73)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "6.4 (पृष्ठ सं. 74)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-8 (पृष्ठ सं. 76)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 27,
     "close": 6,
@@ -8267,6 +8945,23 @@
     "51"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "6.5 ‘नेहा और नुपुर’ (पृष्ठ सं. 75)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 28,
     "close": 7,
@@ -8469,6 +9164,13 @@
     "52"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-6, पृष्ठ सं. 77",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 7,
@@ -8714,6 +9416,28 @@
     "Two consecutive steps in period 2 are both printed with number 2.2 (मार्गदर्शन पठन and पाठ आधारित लेखन); kept as printed",
     "Section 1.2 question box: written as one figure text item; the printed bullets are separate questions"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘तेंदुए का घर’ (पृष्ठ सं. 78-79)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.1 ‘आरव और सुरभि’ (पृष्ठ सं. 83)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-7.1 (पृष्ठ सं. 84)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-9 (पृष्ठ सं. 90)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 7,
@@ -8917,6 +9641,33 @@
    ],
    "uncertain": [
     "Section 1.2 question box written as one figure text item; printed bullets are separate questions"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘तेंदुए का घर’ (पृष्ठ सं. 78-79)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 80)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 7.1 (पृष्ठ सं. 83)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.2 (पृष्ठ सं. 85)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-10 (पृष्ठ सं. 90)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -9124,6 +9875,28 @@
     "55"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 81)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.3 ‘सहेलियाँ’ (पृष्ठ सं. 86)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.3 (पृष्ठ सं. 87)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-11 (पृष्ठ सं. 90)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 6,
@@ -9324,6 +10097,28 @@
    "uncertain": [
     "Section 2.2 first bullet: first word read as 'शेरू' (printed form)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘बिजली का खंबा’ (पृष्ठ सं. 82)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 7.3 (पृष्ठ सं. 86)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.4 (पृष्ठ सं. 88)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-12 (पृष्ठ सं. 90)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 28,
     "close": 6,
@@ -9521,6 +10316,23 @@
     "57"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "7.5 ‘बरसात का दिन’ (पृष्ठ सं. 89)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 6,
@@ -9723,6 +10535,13 @@
     "58"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-7, पृष्ठ सं. 91",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 7,
@@ -9969,6 +10788,28 @@
     "Two consecutive steps in period 2 both printed 2.2; kept as printed",
     "Section 1.2 question box written as one figure text item"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘गिलहरी की चिट्ठी’ (पृष्ठ सं. 92)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "8.1 ‘ऊँट पर साँप’ (पृष्ठ सं. 96)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-8.1 (पृष्ठ सं. 97)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-13 (पृष्ठ सं. 102)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 6,
@@ -10172,6 +11013,33 @@
    ],
    "uncertain": [
     "Section 1.2 question box written as one figure text item"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘गिलहरी की चिट्ठी’ (पृष्ठ सं. 92)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 93)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 8.1 (पृष्ठ सं. 96)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "8.2 (पृष्ठ सं. 98)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-14 (पृष्ठ सं. 102)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -10378,6 +11246,23 @@
     "Section 3.2 heading printed with 'आकलन, पठन अभ्यास-15' (heading text slightly clipped at right edge)",
     "The last step in period 2 is printed with number 2.2 (duplicate of the preceding step), kept as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 94)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "8.3 ‘बंदर का चश्मा’ ( पृष्ठ सं. 99 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-15 ( पृष्ठ सं. 102 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 6,
@@ -10582,6 +11467,33 @@
    "uncertain": [
     "Section 3.2 heading clipped at right edge"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘गिलहरी’ ( पृष्ठ सं. 95 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 95)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 8.3 (पृष्ठ सं. 99)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "8.4 ( पृष्ठ सं. 100 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-16 ( पृष्ठ सं. 102 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 6,
@@ -10774,6 +11686,23 @@
    "uncertain": [
     "Section 1.2: the line 'वस्तुओं की विशेषताओं...' is printed with a special icon instead of '>' (treated as aim line, type text)",
     "Sections 2.2 heading wraps over two lines: 'स्वतंत्र पठन एवं पाठ आधारित लेखन ( पृष्ठ सं. 101 )'"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "शब्दों की गड्डी",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "8.5 ‘खरगोश की भूख’ ( पृष्ठ सं.101 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -10979,6 +11908,13 @@
    "uncertain": [
     "Section 1.2 first line (and bold 'कहानी पर अभिनय:-') printed with icon/bold rather than '>'; typed as text",
     "Section 2.2 heading is two printed lines: 'साप्ताहिक आकलन-' and 'मैंने सीख लिया-8, पृष्ठ सं. 103'"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-8, पृष्ठ सं. 103",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -11240,6 +12176,28 @@
     "Section 3.2 mark printed as ']' (quote marks around it), reading as best seen",
     "Section 3.3 heading says 'पठन अभ्यास-2' as printed (3.1/3.2 say 'पठन अभ्यास-1')"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘हाथी और मेंढक’ ( पृष्ठ सं. 104-105 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "9.1 ‘काला भालू’ ( पृष्ठ सं. 109 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-9.1 ( पृष्ठ सं. 110 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-1 ( पृष्ठ सं. 116 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 5,
@@ -11443,6 +12401,33 @@
    "uncertain": [
     "Section 1.2 question box is one figure item (round bullets); box spans the image overlap",
     "Section 3.2 mark printed as ']' with quote marks, reading as best seen"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘हाथी और मेंढक’ ( पृष्ठ सं. 104-105 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 106)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 9.1 (पृष्ठ सं. 109)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 9.2 ( पृष्ठ सं. 111 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-2 ( पृष्ठ सं. 116 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -11693,6 +12678,28 @@
     "'मजे़दार' printed with nukta",
     "Section 3.2 mark printed as ']'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 107)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "9.3 ‘पतंग’ ( पृष्ठ सं. 112 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-9.3 ( पृष्ठ सं. 112 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-3 ( पृष्ठ सं. 116 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 7,
@@ -11891,6 +12898,28 @@
    "uncertain": [
     "Section 3.2 mark printed as ']'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘हमारे खेल’ ( पृष्ठ सं. 108 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 9.3 (पृष्ठ सं. 112)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 9.4 ( पृष्ठ सं. 114 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-4 ( पृष्ठ सं. 116 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 4,
@@ -12088,6 +13117,23 @@
    ],
    "uncertain": [
     "Section 1.2 line 'बच्चे अलग-अलग तरह की विधा...' printed with a special icon instead of '>' (treated as aim line, type text)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "लिखी हुई कुछ पर्चियाँ",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "9.5 ‘चूहा और हाथी’ ( पृष्ठ सं.115 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -12296,6 +13342,13 @@
    "uncertain": [
     "Section 1.2 first line (and bold 'कहानी पर अभिनय:-') printed with icon/bold rather than '>'; typed as text",
     "'खराब' printed with nukta in 1.3"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-9, पृष्ठ सं. 117",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -12546,6 +13599,28 @@
     "2.1 'ऊँगली' spelling as printed; 3.1 heading minutes not printed",
     "Period 2 has two sub-sections both numbered 2.2 as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘दो दोस्त’ (पृष्ठ सं. 118-119)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "10.1 ‘आलसी खरगोश’ (पृष्ठ सं. 124)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-10.1 (पृष्ठ सं. 125)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-5 (पृष्ठ सं. 130)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 7,
@@ -12751,6 +13826,33 @@
    ],
    "uncertain": [
     "1.2 text line printed 'पाठ-9' (not 10) as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘दो दोस्त’ (पृष्ठ सं. 118-119)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 120)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 10.1 (पृष्ठ सं. 124)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 10.2 (पृष्ठ सं. 126)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-6 (पृष्ठ सं. 130)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -12962,6 +14064,28 @@
    "uncertain": [
     "Period 2 has two steps numbered 2.2 as printed (second one in right column top)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "(पृष्ठ सं. 121-122)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "10.3 ‘किसान की भैंस’ (पृष्ठ सं. 127)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "लेखन 10.3 (पृष्ठ सं. 127)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-7 (पृष्ठ सं. 130)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 32,
     "close": 3,
@@ -13166,6 +14290,28 @@
     "74"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘चिड़िया’ (पृष्ठ सं. 123)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 10.3 (पृष्ठ सं. 127)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 10.4 (पृष्ठ सं. 128)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-8 (पृष्ठ सं. 130)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 3,
@@ -13364,6 +14510,18 @@
    ],
    "uncertain": [
     "1.2 the first line under the activity title has a different (spiral) icon instead of '>'; treated as a bullet"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "10.5 ‘भूरा बकरा’ (पृष्ठ सं.129)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -13573,6 +14731,13 @@
     "1.2 first line has a spiral icon instead of '>'; treated as a bullet",
     "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-10, पृष्ठ सं. 131'; no minutes printed for 2.1/2.2"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-10, पृष्ठ सं. 131",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 8,
@@ -13769,6 +14934,23 @@
    "uncertain": [
     "The five discussion questions under 1.2 are indented with round bullet dots; recorded as bullet items after the lead-in bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘राज्य में कितने कौए’ (पृष्ठ सं. 132-133)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 7,
@@ -13963,6 +15145,28 @@
    "uncertain": [
     "The five discussion questions under 1.2 are indented with round bullet dots; recorded as bullet items after the lead-in bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘राज्य में कितने कौए’ (पृष्ठ सं. 132-133)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 134",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 6,
@@ -14146,6 +15350,28 @@
     "The last box in the right column has no printed heading; recorded as an unnamed section (number null, heading null) under period 2",
     "'समूह-2' bar is unnumbered; recorded as unnumbered section under period 2"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 135",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 137 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 27,
     "close": 3,
@@ -14319,6 +15545,38 @@
     "The last box in the right column has no printed heading; recorded as an unnamed section under period 2",
     "'समूह-2' bar is unnumbered; recorded as unnumbered section under period 2",
     "1.2 'पेंसिल' printed as रंगीन पेंसिल (anusvara form) as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘कागज़ की नाव बनाना’ (पृष्ठ सं. 136)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंगीन शीट या साधारण सफेद कागज़",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंगीन पेंसिल या मोम रंग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 137 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 24,
@@ -14509,6 +15767,28 @@
    ],
    "uncertain": [
     "Section 2: the last unheaded box (items about सीखने में पिछड़े बच्चे) has no printed heading; placed as heading null under section 2."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 138",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -14716,6 +15996,23 @@
     "Tab 'दिवस 3' also has dark text but pale fill; day 6 has the strong fill so day=6 chosen.",
     "Last unheaded box under section 2 has no printed heading."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 138",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 7,
@@ -14908,6 +16205,28 @@
    "uncertain": [
     "Section 1.2: the question list in the boxed speech-icon panel is recorded as bullets.",
     "Last unheaded box under section 2 has no printed heading."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘चार मित्र’ ( पृष्ठ सं. 139-141 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 145",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -15116,6 +16435,33 @@
    "uncertain": [
     "Last unheaded box under section 2 has no printed heading."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘चार मित्र’ ( पृष्ठ सं. 139-141 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 142)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 145",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 32,
     "close": 5,
@@ -15284,6 +16630,28 @@
    ],
    "uncertain": [
     "Last unheaded box under section 2 has no printed heading."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 143",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 146",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 24,
@@ -15464,6 +16832,28 @@
    ],
    "uncertain": [
     "Last unheaded box under section 2 has no printed heading."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘चालाक चीकू’ ( पृष्ठ सं. 144 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 146",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 26,
@@ -15659,6 +17049,28 @@
    "uncertain": [
     "Last unheaded box under section 2 has no printed heading.",
     "Section 2.2 group-2 box page number 146 as printed (same as days 3-4)."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 146",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -15864,6 +17276,23 @@
    ],
    "uncertain": [
     "Last unheaded box under section 2 has no printed heading."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 147",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 30,
@@ -16137,6 +17566,28 @@
    "notes": [
     "page 95 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-13 ‘चिड़िया के बच्चे की जान कैसे बची’ ( पृष्ठ सं. 148-149 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.1 ‘भूखा बगुला’ ( पृष्ठ सं. 153 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-9 ( पृष्ठ सं. 159 )",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "exact": 37,
@@ -16380,6 +17831,38 @@
    "uncertain": [
     "Summary table 'आज किए जाने वाले कार्य' cells flattened into one string per column; exact line breaks not preserved",
     "3.2 closing mark ’]’ transcribed as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-13 ‘चिड़िया के बच्चे की जान कैसे बची’ (पृष्ठ सं. 148-149)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 150)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 13.1 (पृष्ठ सं. 153) ‘भूखा बगुला’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-13.2 (पृष्ठ सं. 154)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-10 (पृष्ठ सं. 159)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 36,
@@ -16627,6 +18110,33 @@
     "Section numbering: the third step under period 2 is printed '2.2' (a second time), kept as printed",
     "Summary table cells flattened"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 151",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.3 ‘तोता’ (पृष्ठ सं. 155)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.3 (पृष्ठ सं. 156)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-11 (पृष्ठ सं. 159)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "exact": 34,
@@ -16840,6 +18350,48 @@
     "Summary table cells flattened",
     "3.2 heading printed 'पठन आकलन, पठन अभ्यास-12' (without 'प्रवाहपूर्ण'), kept as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मूंगफली के छिलकों से कोलाज बनाना’ (पृष्ठ सं. 152)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "गोंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "गत्ता या पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "मूंगफली/पिस्ता के छिलके",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 13.3 (पृष्ठ सं. 155)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 13.4 (पृष्ठ सं. 157)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-12 (पृष्ठ सं. 159)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "exact": 26,
@@ -17026,6 +18578,33 @@
    ],
    "uncertain": [
     "Summary table cells flattened"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र बनाने के लिए पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.5 ‘खिचड़ी’ (पृष्ठ सं.158)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 25,
@@ -17254,6 +18833,13 @@
     "Summary table cells flattened",
     "First item of 1.2 has a different (spiral) bullet icon; treated as bullet",
     "'समूह 1:' and 'समूह 2:' lead-ins are bold in print; kept as text items"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-13, पृष्ठ सं. 160",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 35,
@@ -17509,6 +19095,33 @@
     "The five discussion questions printed in a boxed callout under 1.2 were written as bullets after the 'चर्चा करें :' item",
     "No 'आज किए जाने वाले कार्य' summary table on this page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘गुल्ली-डंडा’ (पृष्ठ सं. 161-162)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "14.1 ‘चालाक बकरी’ (पृष्ठ सं. 166)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-14.1 (पृष्ठ सं. 167)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-13 (पृष्ठ सं. 173)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "close": 3,
@@ -17743,6 +19356,38 @@
     "The five discussion questions printed in a boxed callout under 1.2 were written as bullets",
     "No summary table on this page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘गुल्ली-डंडा’ (पृष्ठ सं. 161-162)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 163)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 14.1 (पृष्ठ सं. 166) ‘चालाक बकरी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-14.2 (पृष्ठ सं. 168)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-14 (पृष्ठ सं. 173)",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "मोबाइल में 60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 4,
@@ -17973,6 +19618,28 @@
     "Third step under period 2 is printed '2.2' (second time), kept as printed",
     "No summary table on this page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 164",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "14.3 ‘मोर’ (पृष्ठ सं. 169)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन 14.3 (पृष्ठ सं. 170)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-15 (पृष्ठ सं. 173)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 5,
@@ -18169,6 +19836,28 @@
    "uncertain": [
     "No summary table on this page",
     "Printed page numbers on neighbouring pages (97, 99, 100) are not consecutive; recorded as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘कहानी में चित्र की जगह नाम लिखकर कहानी बनाना’ (पृष्ठ सं. 165)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 14.3 (पृष्ठ सं. 169)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 14.4 (पृष्ठ सं. 171)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-16 (पृष्ठ सं. 173)",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -18384,6 +20073,18 @@
     "Two boxed callouts under 1.2 (activity instructions) were written as bullets in reading order",
     "No summary table on this page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "14.5 ‘नीम का पेड़’ (पृष्ठ सं.172)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय की किताबों से",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 4,
@@ -18588,6 +20289,13 @@
    "uncertain": [
     "Section 2.2 heading printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-14, पृष्ठ सं. 174' joined with a space.",
     "Line 'बच्चों को पहले से सुनी कोई कहानी पुनः सुनाएँ ।' in 1.2 has a different icon (not '>'), recorded as text."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-14, पृष्ठ सं. 174",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -18849,6 +20557,28 @@
     "Section 1.2: the four questions are in a speech-bubble box (icon), recorded as bullets.",
     "Right column starts with 2.2 (continuation of period 2 from left column); period 2 minutes '40' printed in left column bar."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘खेलों की धरती-हरियाणा’ ( पृष्ठ सं. 175-176 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "15.1 ‘खट्टे अंगूर’ ( पृष्ठ सं. 180 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-15.1 ( पृष्ठ सं. 181 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-17 ( पृष्ठ सं. 187 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 6,
@@ -19089,6 +20819,33 @@
     "Section 1.2: the six questions are in a speech-bubble box, recorded as bullets.",
     "Right column starts with 2.2 (continuation of period 2 from left column)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘खेलों की धरती-हरियाणा’ ( पृष्ठ सं. 175-176 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 177)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 15.1 (पृष्ठ सं. 180) ‘खट्टे अंगूर’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-15.2 ( पृष्ठ सं. 182 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-18 ( पृष्ठ सं. 187 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 6,
@@ -19303,6 +21060,28 @@
     "Two steps are both numbered '2.2' in print: 'मार्गदर्शन पठन' (left column, 20 मिनट) and 'पाठ आधारित लेखन 15.3 ( पृष्ठ सं. 184 )' (right column, 20 मिनट); kept as printed.",
     "In step 2.2 मार्गदर्शन पठन the line '15.3 ‘गाजर ही गाजर’ ( पृष्ठ सं. 183 )10 मिनट' is printed with '10 मिनट' attached at its end."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 178",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "15.3 ‘गाजर ही गाजर’ ( पृष्ठ सं. 183 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन 15.3 ( पृष्ठ सं. 184 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-19 ( पृष्ठ सं. 187 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 32,
     "close": 4,
@@ -19506,6 +21285,28 @@
     "106"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘गड़बड़ झाला’ ( पृष्ठ सं. 179 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 15.3 (पृष्ठ सं. 183)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 15.4 ( पृष्ठ सं. 185 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-20 ( पृष्ठ सं. 187 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 4,
@@ -19706,6 +21507,48 @@
    "uncertain": [
     "Section 1.2: 'गतिविधि:- महसूस करें' recorded as text; the aim line beside a different icon recorded as text.",
     "Word 'बक्कल' in 1.2 as printed (possibly 'बकल')."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "डस्टर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेन",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "बैग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कंकड़",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "बक्कल",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आलू",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "15.5 ‘लालची लोमड़ी’ ( पृष्ठ सं.186 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय की किताबों से",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 30,
@@ -19913,6 +21756,13 @@
    ],
    "uncertain": [
     "Line 'बच्चों को पहले से सुनी कोई कहानी पुन: सुनाएँ ।' in 1.2 has a different icon (not '>'), recorded as text."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-15, पृष्ठ सं. 188",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -20163,6 +22013,28 @@
    "uncertain": [
     "Right column starts with 2.2 (continuation of period 2 from left column)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-13 ‘लाल पतंग और लालू’ ( पृष्ठ सं. 189-190 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "16.1 ‘ईशान और शेर’ ( पृष्ठ सं. 194 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-16.1 ( पृष्ठ सं. 195 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-21 ( पृष्ठ सं. 201 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 7,
@@ -20392,6 +22264,33 @@
     "Section 1.2: the five questions are in a speech-bubble box, recorded as bullets.",
     "Right column starts with 2.2 (continuation of period 2 from left column).",
     "Line 'पाठ-16 ‘लाल पतंग और लालू’' printed as पाठ-16 here (पाठ-13 on previous page's day 1)."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘लाल पतंग और लालू’ ( पृष्ठ सं. 189-190 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 191)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 16.1 (पृष्ठ सं. 194) ‘चालाक बकरी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-16.2 ( पृष्ठ सं. 196 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-22 ( पृष्ठ सं. 201 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 35,
@@ -20623,6 +22522,28 @@
     "Two steps are both numbered '2.2' in print: 'मार्गदर्शन पठन' (left column, 10 मिनट) and 'पाठ आधारित लेखन अभ्यास, 16.3 ( पृष्ठ सं. 198 )' (right column, 20 मिनट); kept as printed.",
     "In मार्गदर्शन पठन the line '16.3 ‘अमियाँ’ ( पृष्ठ सं. 197 )10 मिनट' is printed with '10 मिनट' attached."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 192",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "16.3 ‘अमियाँ’ ( पृष्ठ सं. 197 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास, 16.3 ( पृष्ठ सं. 198 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-23 ( पृष्ठ सं. 201 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 4,
@@ -20834,6 +22755,28 @@
    "uncertain": [
     "Layout: sections 1 and 2 are in left column, section 3 in right column; unit column set to 1."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘चुटकुले’ (पृष्ठ सं. 193)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 16.3 (पृष्ठ सं. 197)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 16.4 (पृष्ठ सं. 199)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-24 (पृष्ठ सं. 201)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 6,
@@ -21025,6 +22968,18 @@
    ],
    "uncertain": [
     "Sections 1 in left column; sections 2 and 3 in right column."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "16.5 ‘टपका का डर’ (पृष्ठ सं.200)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय की किताबों से",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -21232,6 +23187,13 @@
    ],
    "uncertain": [
     "Section 1 in left column; section 2 in right column. Unclear whether 2.2 heading line 'मैंने सीख लिया-16, पृष्ठ सं. 202' is part of heading (written as such)."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-16, पृष्ठ सं. 202",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -21491,6 +23453,28 @@
    "uncertain": [
     "1.2: the four question bullets appear in a speech-bubble box beside a chat icon; kept as bullets after the discussion line. 2.1 is at bottom of left column; 2.2, 2.3 and section 3 are in right column (2.2 printed above 2.1 in the right column's top, reading order left then right)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘हम भी होते काश कबूतर’ (पृष्ठ सं. 203-204)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "17.1 ‘हिरण का बच्चा’ (पृष्ठ सं. 208)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-17.1 (पृष्ठ सं. 209)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-25 (पृष्ठ सं. 215)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 6,
@@ -21723,6 +23707,33 @@
    "uncertain": [
     "1.2: the five question bullets sit in a speech-bubble box beside a chat icon; kept as bullets. Sections 1 and 2.1 in left column; 2.2 and section 3 in right column."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘हम भी होते काश कबूतर’ (पृष्ठ सं. 203-204)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 205)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 17.1 (पृष्ठ सं. 208) ‘हिरण का बच्चा’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-17.2 (पृष्ठ सं. 210)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-26 (पृष्ठ सं. 215)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 5,
@@ -21948,6 +23959,28 @@
    "uncertain": [
     "Section 2 has two sub-sections both numbered 2.2 as printed (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास in right column top); numbering kept as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 206",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "17.3 ‘मिट्ठू तोता’ (पृष्ठ सं. 211)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास, 17.3 (पृष्ठ सं. 212)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-27 (पृष्ठ सं. 215)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 4,
@@ -22152,6 +24185,28 @@
    "uncertain": [
     "3.2 heading printed 'पठन आकलन, पठन अभ्यास-28' while the first bullet says 'प्रवाहपूर्ण पठन आकलन'; copied as printed. Sections 1 and 2 in left column; section 3 in right column."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘शब्दों से कहानी बनाना’ (पृष्ठ सं. 207)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 17.3 (पृष्ठ सं. 211)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 17.4 (पृष्ठ सं. 213)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-28 (पृष्ठ सं. 215)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 30,
     "close": 5,
@@ -22347,6 +24402,28 @@
    ],
    "uncertain": [
     "1.2: the two question bullets (class work / smileys) sit in a speech-bubble box beside a chat icon; kept as bullets. Last 1.2 bullet has an opening parenthesis without a closing one as printed."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "17.5 ‘रामू हाथी’ (पृष्ठ सं.214)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -22554,6 +24631,13 @@
    ],
    "uncertain": [
     "Section 1 in left column; section 2 in right column."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-17, पृष्ठ सं. 216",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -22816,6 +24900,28 @@
    "uncertain": [
     "1.2: the four question bullets sit in a speech-bubble box beside a chat icon; kept as bullets. Sections 1 and 2.1 in left column; 2.2, 2.3 and section 3 in right column."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘वो शानदार जीत’ (पृष्ठ सं. 217-218)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "18.1 ‘चिड़िया की चिट्ठी’ (पृष्ठ सं. 222)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-18.1 (पृष्ठ सं. 223)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-29 (पृष्ठ सं. 229)",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 7,
@@ -23055,6 +25161,33 @@
     "Section 1.2: the boxed discussion questions are given as bullets (box with speech icon)",
     "Section 3.2: the mark printed as ']' is read from a quoted symbol"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘वो शानदार जीत’ ( पृष्ठ सं. 217-218 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 219)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 18.1 (पृष्ठ सं. 222) ‘चिड़िया की चिट्ठी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-18.2 ( पृष्ठ सं. 224 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-30 ( पृष्ठ सं. 229 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 7,
@@ -23276,6 +25409,33 @@
    "uncertain": [
     "Two sections in section 2 are both printed with number 2.2 (left column 'मार्गदर्शन पठन' and right column 'पाठ आधारित लेखन अभ्यास, 18.3'); kept as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 220",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "क्रिकेट के अपने पसंदीदा खिलाड़ी का चित्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "18.3 ‘मुर्गा और लोमड़ी’ ( पृष्ठ सं. 225 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास, 18.3 ( पृष्ठ सं. 226 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-31 ( पृष्ठ सं. 229 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 33,
     "close": 5,
@@ -23483,6 +25643,28 @@
     "124"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘क्रिकेट कविता वाचन’ ( पृष्ठ सं. 221 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 18.3 (पृष्ठ सं. 225)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 18.4 ( पृष्ठ सं. 227 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-32 ( पृष्ठ सं. 229 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 4,
@@ -23660,6 +25842,33 @@
    ],
    "uncertain": [
     "Section 2.1 bar: the '2.1 आदर्श पठन' bar and its content straddle the page halves; read from the -b image"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पेंसिल",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंग",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "18.5 ‘रेगिस्तान का जहाज़’ ( पृष्ठ सं.228 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 24,
@@ -23868,6 +26077,13 @@
    "uncertain": [
     "Section 1.2: first line (marked with a swirl icon rather than '>') recorded as a text item",
     "Section 2.2: heading printed on two lines ('साप्ताहिक आकलन-' / 'मैंने सीख लिया-18, पृष्ठ सं. 230') joined with a space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-18, पृष्ठ सं. 230",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -24127,6 +26343,28 @@
    "uncertain": [
     "Section 1.2: the four boxed discussion questions (speech icon) are recorded as bullets after the preceding bullet that ends with ':'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘अगर मैं ऐसी होती’ ( पृष्ठ सं. 231-232 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "19.1 ‘मैं सड़क हूँ’ ( पृष्ठ सं. 236 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-19.1 ( पृष्ठ सं. 237 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-33 ( पृष्ठ सं. 243 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 6,
@@ -24362,6 +26600,33 @@
    "uncertain": [
     "Section 1.2: the five boxed discussion questions (speech icon) are recorded as bullets"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘अगर मैं ऐसी होती’ ( पृष्ठ सं. 231-232 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 233)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 19.1 (पृष्ठ सं. 236) ‘चालाक बकरी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-19.2 ( पृष्ठ सं. 238 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-34 ( पृष्ठ सं. 243 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 6,
@@ -24571,6 +26836,28 @@
    "uncertain": [
     "Section 1.2 second bullet reads oddly as printed ('दिए गए क्या बनना पसंद करेंगे') - copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 234",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "19.3 ‘मम्मी-पापा के लिए पत्र’ ( पृष्ठ सं. 239 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास, 19.3 ( पृष्ठ सं. 240 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-35 ( पृष्ठ सं. 243 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 4,
@@ -24778,6 +27065,28 @@
     "130"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘गर्मी की छुट्टी’ ( पृष्ठ सं. 235 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 19.3 (पृष्ठ सं. 239)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 19.4 ( पृष्ठ सं. 241 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-36 ( पृष्ठ सं. 243 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 4,
@@ -24960,6 +27269,18 @@
     "131"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताबें",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "19.5 ‘माली और बंदर की दोस्ती’ ( पृष्ठ सं.242 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 26,
     "close": 5,
@@ -25164,6 +27485,13 @@
    "uncertain": [
     "1.2: the line 'बच्चों को पहले से सुनी कोई कहानी पुनः सुनाएँ ।' is preceded by a spiral icon rather than '>'; recorded as text"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-19, पृष्ठ सं. 244",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 7,
@@ -25351,6 +27679,23 @@
    ],
    "uncertain": [
     "1.2: the line ending 'समझ रहे हैं –' appears to introduce nothing before the next bullet; copied as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘ऋतुओं का स्कूल’ ( पृष्ठ सं. 245-246 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -25546,6 +27891,28 @@
     "134"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘ऋतुओं का स्कूल’ ( पृष्ठ सं. 245-246 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 247)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 8,
@@ -25705,6 +28072,28 @@
     "week": "11",
     "day": "3"
    },
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 248",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 250",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 20,
     "close": 3,
@@ -25890,6 +28279,28 @@
     "week": "11",
     "day": "4"
    },
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘पहेलियों के जवाब बूझें और लिखें’ ( पृष्ठ सं. 249 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 250",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 25,
     "close": 4,
@@ -26070,6 +28481,33 @@
     "week": "11",
     "day": "5"
    },
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर एवं लेखन सामग्री",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "2-3 पर्ची",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 251 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 26,
     "close": 4,
@@ -26267,6 +28705,23 @@
     "week": "11",
     "day": "6"
    },
+   "prep": [
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 251 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 5,
@@ -26440,6 +28895,28 @@
    ],
    "uncertain": [
     "1.2: the four discussion questions sit in a boxed speech-icon panel with round bullets; recorded as bullets"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘साझे की खेती’ ( पृष्ठ सं. 252-253 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 257 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -26627,6 +29104,33 @@
    "uncertain": [
     "1.2: the five discussion questions sit in a boxed speech-icon panel with round bullets; recorded as bullets"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘साझे की खेती’ ( पृष्ठ सं. 252-253 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 254)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 257 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 3,
@@ -26779,6 +29283,28 @@
     "141"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 255",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 258 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 23,
     "close": 2,
@@ -26945,6 +29471,28 @@
    "uncertain": [
     "Section 2: the unnumbered heading 'समूह-2 ‘सावधिक पुनरावृत्ति’ दिवस 3-4' placed as an unnumbered sub-section of 2; the first item's bold 'अभ्यास-कार्य-' prefix kept inline",
     "1.2: bullet inside the boxed speech-bubble 'चिड़िया को भूख लगने पर...' recorded as a bullet"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘चिड़िया’ (पृष्ठ सं. 256)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 258 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 25,
@@ -27150,6 +29698,33 @@
     "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
     "1.2: the two survey question lines are in a boxed table-form; recorded as one text item with newline"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "सर्वेक्षण पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 259 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
+   ],
    "textcheck": {
     "checked": 23,
     "close": 6,
@@ -27345,6 +29920,28 @@
    ],
    "uncertain": [
     "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "वर्ण/अक्षर कार्ड",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के पृष्ठ सं. 259 अभ्यास-पत्रक",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    }
    ],
    "textcheck": {
     "checked": 22,
@@ -27604,6 +30201,28 @@
     "2.2: the text line '22.1 ‘हामिद और माचिस’ (पृष्ठ सं. 266)' printed under 2.2 heading (first line wrapped after the heading bar); 3.2: the mark ‘]’ read from print",
     "1.2: speech-box bullets in the boxed list recorded as plain bullets, in the same order as printed (first bullet 'मोरनी हिल्स के रास्ते में क्या-क्या देखा?' printed before the box)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘मोरनी हिल्स की यात्रा’ ( पृष्ठ सं. 260-262 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "22.1 ‘हामिद और माचिस’ ( पृष्ठ सं. 266 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-22.1 ( पृष्ठ सं. 267 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-37 ( पृष्ठ सं. 273 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "close": 4,
@@ -27844,6 +30463,33 @@
     "3.2: the mark ‘]’ read from print",
     "1.2: bullets in the boxed speech-bubble list recorded as plain bullets in printed order"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘मोरनी हिल्स की यात्रा’ ( पृष्ठ सं. 260-262 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 263)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 22.1 (पृष्ठ सं. 266) ‘हामिद और माचिस’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-22.2 ( पृष्ठ सं. 268 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-38 ( पृष्ठ सं. 273 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 7,
@@ -28074,6 +30720,28 @@
     "Section 2 starts in the left column (2.1, 2.2 मार्गदर्शन पठन) and continues in the right column where the heading 'पाठ आधारित लेखन 22.3' is printed with number 2.2 again (duplicate number as printed; not renumbered)",
     "3.2: the mark ‘]’ read from print"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 264",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "22.3 ‘खरगोश’ ( पृष्ठ सं. 269 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन 22.3 ( पृष्ठ सं. 270 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-39 ( पृष्ठ सं. 273 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 5,
@@ -28271,6 +30939,28 @@
    "uncertain": [
     "Section 3 (पठन) is in the right column; sections 1 and 2 in the left column; all kept in one unit (one day per page)",
     "3.2: the mark ‘]’ read from print"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मैंने यात्रा में क्या देखा’ ( पृष्ठ सं. 265 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 22.3 (पृष्ठ सं. 269)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 22.4 ( पृष्ठ सं. 271 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-40 ( पृष्ठ सं. 273 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -28485,6 +31175,23 @@
     "Section 3 (पठन) is in the right column; sections 1 and 2 in the left column; all kept in one unit (one day per page)",
     "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "22.5 ‘राजू और काजू’ ( पृष्ठ सं.272 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 24,
     "close": 5,
@@ -28690,6 +31397,18 @@
     "1.2: 'सामग्री: प्रश्न-पत्र का नमूना और प्रश्न-पत्र' is printed with a bullet arrow on this page (plain text on the previous page); recorded as bullet",
     "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
     "2.2: heading printed on two lines ('साप्ताहिक आकलन-' / 'मैंने सीख लिया-22, पृष्ठ सं. 274'); the 'समूह 1/2' lines are un-bulleted paragraphs with bold labels"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-22, पृष्ठ सं. 274",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 25,
@@ -28944,6 +31663,28 @@
     "Section 2 starts in the left column (2.1) and continues in the right column (2.2, 2.3); section 3 is in the right column; all kept in one unit (one day per page)",
     "1.2: last speech-box bullet 'चाँद के बारे में आपको क्या-क्या पाता है?' printed so (पाता); 3.2: the mark ‘]’ read from print"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘मिशन चंद्रयान’ ( पृष्ठ सं. 275-276 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "23.1 ‘आओ कुछ नया बनाएँ’ ( पृष्ठ सं. 280 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-23.1 ( पृष्ठ सं. 281 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-41 ( पृष्ठ सं. 287 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 4,
@@ -29176,6 +31917,33 @@
     "1.2 discussion box (bullets with speech icon) placed as items of 1.2; has no printed heading",
     "3.2 timer bullet: the bracket mark printed as ']'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘मिशन चंद्रयान’ ( पृष्ठ सं. 275-276 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 277)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 23.1 (पृष्ठ सं. 280) ‘आओ कुछ नया बनाएँ’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-23.2 ( पृष्ठ सं. 282 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-42 ( पृष्ठ सं. 287 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 6,
@@ -29401,6 +32169,28 @@
    "uncertain": [
     "The second step in period 2 in the right column is printed with number 2.2 (duplicate of the left-column 2.2 मार्गदर्शन पठन); kept as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 278",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "23.3 ‘बाघ के बच्चे’ ( पृष्ठ सं. 283 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन 23.3 ( पृष्ठ सं. 284 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-43 ( पृष्ठ सं. 287 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 5,
@@ -29600,6 +32390,28 @@
    "uncertain": [
     "2.2 bullet about अनुनासिक: the chandrabindu mark inside quotes read as ‘ ँ ’",
     "3.2 heading printed 'पाठ आकलन' (no 'प्रवाहपूर्ण पठन') on this page"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘मेरी यात्रा अनुभव लेखन’ ( पृष्ठ सं. 279 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 23.3 (पृष्ठ सं. 283)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 23.4 ( पृष्ठ सं. 285 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-44 ( पृष्ठ सं. 287 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -29824,6 +32636,23 @@
    "uncertain": [
     "Survey table in 1.2: header cells flattened into two rows; blank row count read as 2 plus 'कुल' row"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और चार प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "23.5 ‘चिट्ठी’ ( पृष्ठ सं.286 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 26,
     "close": 6,
@@ -30038,6 +32867,18 @@
    ],
    "uncertain": [
     "Survey table: header cells flattened; 2 blank rows plus 'कुल'"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "प्रश्न-पत्र का नमूना और चार प्रश्न-पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-23, पृष्ठ सं. 288",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 27,
@@ -30292,6 +33133,28 @@
     "1.2 discussion box (speech icon) bullets placed as items of 1.2; no printed heading",
     "'ऊँगली' printed spelling in 2.1 kept as read"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘यह मेरा हरियाणा’ ( पृष्ठ सं. 289 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "24.1 ‘रीना की भूरी’ ( पृष्ठ सं. 293-294 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-24.1 ( पृष्ठ सं. 294 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-45 ( पृष्ठ सं. 300 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 4,
@@ -30526,6 +33389,33 @@
    "uncertain": [
     "1.2 discussion box (speech icon) bullets placed as items of 1.2; no printed heading"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘यह मेरा हरियाणा’ ( पृष्ठ सं. 289 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 290)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 24.1 (पृष्ठ सं. 293) ‘चालाक बकरी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास-24.2 ( पृष्ठ सं. 295 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-46 ( पृष्ठ सं. 300 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 7,
@@ -30729,6 +33619,23 @@
    ],
    "uncertain": [
     "Title '24.3 फिर?...फुर्र...फुर?...फुर्र...' punctuation/spelling as read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 291",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "24.3 ‘फिर?...फुर्र...फुर?...फुर्र...’ ( पृष्ठ सं. 296-297 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-47 ( पृष्ठ सं. 300 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 29,
@@ -30935,6 +33842,28 @@
     "1.2 heading has an icon between title and minutes; heading spacing 'आओ  मिलकर' as printed",
     "3.2 heading printed 'पाठ आकलन' (no 'प्रवाहपूर्ण पठन')"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "आओ मिलकर गाएँ ( पृष्ठ सं. 292 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 24.3 (पृष्ठ सं. 296-297)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ आधारित लेखन अभ्यास 24.4 ( पृष्ठ सं. 298 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-48 ( पृष्ठ सं. 300 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 29,
     "close": 5,
@@ -31126,6 +34055,28 @@
    ],
    "uncertain": [
     "1.2 bullet 3: 'उत्तर दूसरों से साथ साझा' read as printed 'दूसरों से साथ साझा'"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर एवं लेखन सामग्री",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "2 पर्ची",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "24.5 ‘चिड़िया का बच्चा’ ( पृष्ठ सं.299 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 28,
@@ -31331,6 +34282,13 @@
    "uncertain": [
     "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-24, पृष्ठ सं. 301'; joined with a space",
     "Period 2 reads in column 2 (right); its step 2.1 has no printed minutes"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-24, पृष्ठ सं. 301",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -31576,6 +34534,23 @@
     "1.2 discussion questions are in a bordered speech-icon box under the last bullet; written as bullets as printed",
     "3.2 mobile-timer bullet: closing bracket mark printed as ']'",
     "Period 2 continues into the right column (steps 2.2 has no repeated period bar); period 3 bar is in the right column"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-25 ‘जिद और जुनून का नाम-रानी रामपाल’ ( पृष्ठ सं. 302-303 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "25.1 ‘छुटकू गिलहरी ’ ( पृष्ठ सं. 307-308 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-49 ( पृष्ठ सं. 314 )",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 39,
@@ -31826,6 +34801,33 @@
     "1.2 'हक्की' printed in the last question (looks like a misprint of हॉकी), copied as printed",
     "Step 3.1-3.3 minutes not printed individually"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-25 ‘जिद और जुनून का नाम-रानी रामपाल’ (पृष्ठ सं. 302-303 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 304)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 25.1 (पृष्ठ सं. 307-308) ‘चालाक बकरी’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-25.2 ( पृष्ठ सं. 309 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-50 ( पृष्ठ सं. 314 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 10,
@@ -32048,6 +35050,33 @@
     "Period 2 has two steps both printed as '2.2' (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास-25.3 at top of right column); numbers copied as printed",
     "1.3 'महिला खिलाड़ियों से समाचार' copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 305",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पिछले सप्ताह के अख़बार",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "25.3 ‘तौसी’ ( पृष्ठ सं. 310 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-25.3 ( पृष्ठ सं. 311 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-51 ( पृष्ठ सं. 314 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 33,
     "close": 4,
@@ -32246,6 +35275,28 @@
     "1.2 text 'पृष्ठ सं, 306' printed with a comma",
     "3.2 heading printed as 'पठन आकलन, पठन अभ्यास-52' (no 'प्रवाहपूर्ण' unlike other days)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं, 306",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 25.3 (पृष्ठ सं. 310)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 25.4 ( पृष्ठ सं. 312 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-52 ( पृष्ठ सं. 314 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 28,
     "close": 4,
@@ -32426,6 +35477,38 @@
     "2.2 bullet says 'पाठ 26.5' while the day's text is 25.5; copied as printed",
     "1.2 'बनाएँ जा सकते हैं' copied as printed",
     "1.2 quote marks around punch line: opening ' and closing ।' as printed (straight-looking quotes)"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक मजबूत पेपर की शीट",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंग और लिखने के लिए सामान",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कुछ विज्ञापन (अख़बार, पेम्पलेट आदि के नमूने)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पैकेट के आवरण (wrapper)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "25.5 ‘अशोक का घर’ ( पृष्ठ सं.313 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 25,
@@ -32631,6 +35714,13 @@
    "uncertain": [
     "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-25, पृष्ठ सं. 315'; joined with a space",
     "Step 2.1/2.2 minutes not printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-25, पृष्ठ सं. 315",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -32881,6 +35971,28 @@
     "1.2 discussion questions are in a bordered speech-icon box; written as bullets as printed",
     "2.3 'दिए गए कहानी' copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-26 ‘हरियाली तीज’ ( पृष्ठ सं. 316-318 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "26.1 ‘खो गए पापा !’ ( पृष्ठ सं. 322 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 8.2 ( पृष्ठ सं. 323 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-53 ( पृष्ठ सं. 329 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 4,
@@ -33117,6 +36229,33 @@
     "1.2 discussion questions are in a bordered speech-icon box; written as bullets as printed",
     "3.1 says पठन अभ्यास-54 with page 329 (same page as 3.2 in print)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-26 ‘हरियाली तीज’ ( पृष्ठ सं. 316-318 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के (पृष्ठ सं. 319)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 26.1 (पृष्ठ सं. 322) ‘खो गए पापा !’",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-26.2 ( पृष्ठ सं. 324 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-54 ( पृष्ठ सं. 329 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 7,
@@ -33342,6 +36481,23 @@
    "uncertain": [
     "Period 2 has two steps both printed as '2.2' (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास-26.3 at top of right column); copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "26.3 ‘शेर बना जंगल का राजा’ ( पृष्ठ सं. 325 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-26.3 ( पृष्ठ सं. 326 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-55 ( पृष्ठ सं. 329 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 4,
@@ -33551,6 +36707,28 @@
    "uncertain": [
     "2.2 'कहानी से आधार पर' and 'बच्चों के कुछ उदाहरण' copied as printed (possible misprints)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "आओ मिलकर गाएँ ( पृष्ठ सं. 321 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ 26.3 (पृष्ठ सं. 325)",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 26.4 ( पृष्ठ सं. 327 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास-56 ( पृष्ठ सं. 329 )",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 31,
     "close": 4,
@@ -33726,6 +36904,38 @@
    "uncertain": [
     "1.2 'बनाएँ जा सकते हैं' copied as printed",
     "1.2 quote marks around punch line printed as straight-looking quotes"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक मजबूत पेपर की शीट",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "रंग और लिखने के लिए सामान",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कुछ विज्ञापन (अख़बार, पेम्पलेट आदि के नमूने)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पैकेट के आवरण (wrapper)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "26.5 ‘रावण ने पहना रेनकोट’ ( पृष्ठ सं.328 )",
+     "where": "2 डिकोडिंग एवं पठन लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 24,
@@ -33930,6 +37140,13 @@
    ],
    "uncertain": [
     "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-26, पृष्ठ सं. 330'; joined with a space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-26, पृष्ठ सं. 330",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 34,
@@ -36204,6 +39421,12 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 0
+ },
+ "materials": {
+  "lessons_with_list": 156,
+  "kept": 581,
+  "dropped": [],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {

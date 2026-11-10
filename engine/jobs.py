@@ -10,7 +10,7 @@ Pages whose JSON already exists are skipped, so jobs can be regenerated after a 
 import argparse
 import json
 
-from common import ROOT, build, guide, load_state, parse_pages, work
+from common import ROOT, build, guide, load_state, parse_pages, read_json, read_page, work
 
 
 def figure_sheet(cfg, g, pages, out_dir, doc):
@@ -55,6 +55,50 @@ def keys_sheet(cfg, g, pages, out_dir, doc):
     return '\n'.join(lines)
 
 
+def lesson_text(les):
+    """The lesson as plain numbered lines (headings and items), for text-only passes."""
+    out = []
+    def walk(ss, depth):
+        for s in ss:
+            head = ' '.join(x for x in (s.get('number'), s.get('heading')) if x)
+            if head:
+                out.append('  ' * depth + '## ' + head)
+            for it in s.get('items', []):
+                t = it.get('text') or ''
+                if it.get('rows'):
+                    t = ' | '.join(' ; '.join(str(c) for c in r) for r in it['rows'])
+                if t:
+                    out.append('  ' * depth + '- ' + t)
+            walk(s.get('sections', []), depth + 1)
+    for t in les.get('intro') or []:
+        out.append('- ' + t)
+    walk(les['sections'], 0)
+    return '\n'.join(out)
+
+
+def materials_jobs(cfg, g, batch):
+    """One sheet per batch of lessons; skips lessons already present in an output file."""
+    pack = read_json(work(cfg['id'], 'packs', f"{g['id']}.json"))
+    out_dir = work(cfg['id'], 'materials', g['id'], 'x').parent
+    done = set()
+    for f in out_dir.glob('*.json'):
+        done |= set((read_page(f) or {}).keys())
+    todo = [l for l in pack['lessons'] if l['id'] not in done]
+    head = (ROOT / 'engine/prompts/materials.md').read_text(encoding='utf-8')
+    made = []
+    for i in range(0, len(todo), batch):
+        chunk = todo[i:i + batch]
+        out = out_dir / f"{chunk[0]['id']}--{chunk[-1]['id']}.json"
+        body = [head, '', f'## OUTPUT FILE\nWrite `{out}` (one JSON object with all {len(chunk)} lesson ids below).', '', '## LESSONS']
+        for les in chunk:
+            where = ', '.join(f'{k} {v}' for k, v in les['keys'].items())
+            body += ['', f"### {les['id']}  ({where})", lesson_text(les)]
+        path = build(cfg['id'], 'jobs', f"mat-{chunk[0]['id']}.md")
+        path.write_text('\n'.join(body), encoding='utf-8')
+        made.append(str(path))
+    return len(todo), made
+
+
 def sheet(cfg, g, pages, out_dir, doc):
     prof = g['profileData']
     lines = [(ROOT / 'engine/prompts/transcribe.md').read_text(encoding='utf-8'), '',
@@ -84,10 +128,14 @@ def main():
     ap.add_argument('--doc', help='only this volume of a multi-volume guide')
     ap.add_argument('--batch', type=int, default=8)
     ap.add_argument('--tag', default='')
-    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures', 'proofread', 'keys'])
+    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures', 'proofread', 'keys', 'materials'])
     a = ap.parse_args()
     cfg = load_state(a.state)
     g = guide(cfg, a.guide)
+    if a.kind == 'materials':      # works on assembled lessons, not pages
+        n, made = materials_jobs(cfg, g, a.batch)
+        print(json.dumps({'guide': g['id'], 'lessons': n, 'jobs': made}, indent=1))
+        return
     made, total = [], 0
     for part in g['parts']:
         if a.doc and part['doc'] != a.doc:

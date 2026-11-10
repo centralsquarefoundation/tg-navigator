@@ -70,6 +70,7 @@ def main():
                             'shared': [slim_section(s) for s in l.get('shared', [])],
                             'doc': l.get('doc', g['doc']), 'pages': l['pages'], 'printed_pages': l['printed_pages'],
                             **({'notice': l['notice']} if l.get('notice') else {}),
+                            **({'prep': l['prep']} if l.get('prep') else {}),
                             **({'printed_keys': l['printed_keys']} if l.get('printed_keys') else {}),
                             'check': 'flagged' if l['id'] in warned else 'auto-checked'})
         used = {l['group'] for l in lessons}

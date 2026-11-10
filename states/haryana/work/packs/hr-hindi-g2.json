@@ -820,6 +820,28 @@
    "notes": [
     "page 17 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाठ 1 चित्र चार्ट (परिवार)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 1.1 (पृष्ठ सं.6)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठयपुस्तक रागिनी भाग 1 पृष्ठ सं.11",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 62,
     "exact": 54,
@@ -1129,6 +1151,33 @@
    "notes": [
     "page 19 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाठ 1 चित्र चार्ट (परिवार)",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "ग्रिड कार्ड",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 3",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 1.2 (पृष्ठ सं. 7)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास पेज. 11",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "exact": 46,
@@ -1373,6 +1422,23 @@
     "1.3 first bullet 'विकस' printed as read",
     "Prompt boxes given as bullet items; table cell bullets joined per column",
     "Left column: table, 1, 1.1, 1.2; right column: 1.3, 2, 2.1, 2.2, 3, 3.1, 3.2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक में पृष्ठ सं. 4",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 1.3 (पृष्ठ सं. 8)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.12",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 38,
@@ -1631,6 +1697,18 @@
     "Prompt boxes given as bullet items; table cell bullets joined per column",
     "Left column: table, 1, 1.1, 1.2, 1.3; right column: 2, 2.1, 2.2, 3, 3.1, 3.2"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 1.4 (पृष्ठ सं.9)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास पेज. 12",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "exact": 36,
@@ -1843,6 +1921,18 @@
     "Table 'साप्ताहिक आकलन ‘मैंने सीख लिया’' appears in the डिकोडिंग column",
     "Prompt boxes given as bullet items; table cell bullets joined per column",
     "Left column: table, 1, 1.1, 1.2 (to 'लगी थी?'); right column: continuation of 1.2, 1.3, 2, 2.1, 2.2, 3, 3.1"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की एक गेंद या खिलौना",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 1.5 (पृष्ठ सं.10)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    }
    ],
    "textcheck": {
     "checked": 30,
@@ -2062,6 +2152,13 @@
     "Prompt box given as bullet items; table cell bullets joined per column",
     "समूह 1 / समूह 2 lines are plain (unbulleted) text with bold labels",
     "Left column: table, 1, 1.1, 1.2, 1.3 (start); right column: 1.3 continuation, 2, 2.1, 2.2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-1, पृष्ठ सं. 12",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -2393,6 +2490,23 @@
     "Prompt box given as bullet items",
     "No 'आज किए जाने वाले कार्य' table on this page. Left column: 1, 1.1-1.3; right column: 2, 2.1, 2.2, 3, 3.1, 3.2; multigrade box across the bottom"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘जितने मुँह उतनी बात’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.1 (पृष्ठ सं.19)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं. 24",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 54,
     "close": 6,
@@ -2691,6 +2805,23 @@
     "Section 2.1 heading: the matra shown in quotes is ु as printed.",
     "Multigrade 40 and 20 minute rows each have two printed sub-rows; merged under the group label in print order (Class 2 second row of 20 min has no text, only an icon)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘जितने मुँह उतनी बात’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.2 (पृष्ठ सं. 20)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 24",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 5,
@@ -2985,6 +3116,23 @@
    "uncertain": [
     "Section 2.1 heading: the matras inside the quotes read as ु , ू but the second glyph is small and may differ.",
     "Multigrade 40 and 20 minute rows each have two printed sub-rows; merged under the group label in print order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-2 ‘जितने मुँह उतनी बात’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.3 (पृष्ठ सं. 21)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं. 25",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -3328,6 +3476,23 @@
     "Multigrade 40/20-minute rows have two sub-rows per class (separated by a line); items listed top-to-bottom per class",
     "Left column: 1, 1.1-1.3, 2, 2.1; right column: 2.2, 3, 3.1, 3.2; multigrade box across the bottom"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘मटर देखकर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.4 (पृष्ठ सं. 22)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.25",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 54,
     "close": 7,
@@ -3606,6 +3771,13 @@
     "Section 2.1 heading: the matra marks between quotes printed as ‘ ु , ू ’ (small marks, hard to read)",
     "Multigrade box: row assignment of the last two bullets in 40/20 minute rows inferred from row layout; the 40-minute row has two sub-rows per class, the 20-minute row's class 2 has one bullet"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 2.5 (पृष्ठ सं. 23)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 6,
@@ -3883,6 +4055,13 @@
    "uncertain": [
     "Multigrade box: quote placement in 'जितने मुंह उतनी’ बात — the closing quote is printed after 'उतनी' (opening quote before जितने)",
     "2.2 heading printed over two lines (साप्ताहिक आकलन- / मैंने सीख लिया-2, पृष्ठ सं. 26), joined with a space"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-2, पृष्ठ सं. 26",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -4224,6 +4403,18 @@
     "1.2 question box (speech-bubble box with 3 bullets) recorded as bullet items of 1.2",
     "Multigrade: in the 40-minute row class 2 has two sub-rows each with bullets"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.1 (पृष्ठ सं. 32)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्सपुस्तक रागिनी भाग 1 पृष्ठ सं.37",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 55,
     "close": 6,
@@ -4530,6 +4721,23 @@
     "2.1 heading: the four matra marks between quotes are small and hard to read (best reading ा , ी , ` , ै)",
     "Multigrade 30-min: 'पेड़ों के पत्तियों' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-3 ‘ऊन का गोला’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.2 (पृष्ठ सं. 33)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.37",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 7,
@@ -4831,6 +5039,18 @@
    ],
    "uncertain": [
     "1.2 and multigrade text print 'पाठ-2'/'रागिनी-2' for ऊन का गोला as printed (earlier pages say पाठ-3)"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.3 (पृष्ठ सं. 34)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.38",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -5164,6 +5384,23 @@
     "'हाथो' printed without chandrabindu/anusvara (as printed)",
     "Multigrade: 'पृष्ठ सं. 25' as printed (day 3-4 textbook page was 38)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘हाथो से परछाई बनाएँ’ ( पेज -31 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.4 (पृष्ठ सं. 35)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.38",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "close": 7,
@@ -5483,6 +5720,13 @@
     "2.1 heading and 2.2 matra mark in quotes is a small mark (read as ै)",
     "1.2 'पीने का पानी' as printed in the example list"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 3.5 (पृष्ठ सं. 36)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    }
+   ],
    "textcheck": {
     "checked": 48,
     "close": 8,
@@ -5771,6 +6015,13 @@
    "uncertain": [
     "Multigrade 40-min class 1: 'मिलकर' printed as 'मिलकर' (read as printed)",
     "2.1 first bullet of the right column (कहानी पढ़ने के बाद...) is a continuation of 2.1, placed as third item"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-3, पृष्ठ सं. 39",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -6111,6 +6362,18 @@
     "1.2 question box (3 bullets) recorded as bullet items of 1.2",
     "Multigrade 30-min says 'दीदी और मैं' while period 1.2 is 'फौजी चाचा' (as printed)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.1 (पृष्ठ सं. 45)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.50",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 55,
     "close": 6,
@@ -6420,6 +6683,23 @@
    "uncertain": [
     "2.1 heading: matra marks inside quotes are small and hard to read; best reading given"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘फौजी चाचा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.2 (पृष्ठ सं. 46)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.50",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 7,
@@ -6725,6 +7005,23 @@
    "uncertain": [
     "Section 2.1 heading is a full sentence printed in the step bar; kept as heading",
     "Multigrade 40 and 20 minute rows each have two printed sub-rows per group; merged in reading order under the group label"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-4 ‘फौजी चाचा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.3 (पृष्ठ सं. 47)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.51",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -7045,6 +7342,23 @@
     "Multigrade 30 minute row: 'तोते का चित्र बनाओ।' printed as 'तोते का चित्र बनाओ।' (line wraps)",
     "Section 2.2 'वाक्य बनने' as printed (likely misprint)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘तोता कहता है’ ( खेल ) पृष्ठ सं. 44",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.4 (पृष्ठ सं. 48)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.51",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 50,
     "close": 5,
@@ -7338,6 +7652,13 @@
    ],
    "uncertain": [
     "Section 1.3 first heading line 'आस-पास के चीज़ों के चित्र बनाना' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 4.5 (पृष्ठ सं.49)",
+     "where": "2 डिकोडिंग (अभ्यास एवं पुनरावृत्ति)"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -7634,6 +7955,13 @@
    ],
    "uncertain": [
     "Section 2.1 third bullet is at the top of the right column (continuation of period 2 from the left column); placed under 2.1"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-4, पृष्ठ सं. 52",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -7958,6 +8286,18 @@
    "uncertain": [
     "Section 1.2 discussion-question box placed as figure item at end of 1.2"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.1 (पृष्ठ सं. 58)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1, पृष्ठ सं.63, पाठ 1",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 50,
     "close": 8,
@@ -8258,6 +8598,23 @@
    "uncertain": [
     "Section 1.3 first bullet: quote ‘मिलते-जुलते’ has no closing quote as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘आलू-मालू-कालू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.2 (पृष्ठ सं. 59)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.63 से पाठ 2",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "close": 7,
@@ -8555,6 +8912,23 @@
    ],
    "uncertain": [
     "Section 2.2 starts at top of right column (continuation of period 2 from left column); placed under period 2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-5 ‘आलू-मालू-कालू’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.3 (पृष्ठ सं. 60)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.63 से पाठ 3",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -8875,6 +9249,23 @@
     "Day key: both 'दिवस 1' and 'दिवस 4' tabs have dark text; day 4 has the stronger fill and content says पठन-4/पाठ 4, so day = 4",
     "Section 2.2 'छटनी' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘चिड़िया रानी’ पेज 57",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.4 (पृष्ठ सं. 61)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.63 से पाठ 4",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 50,
     "close": 6,
@@ -9149,6 +9540,18 @@
    "uncertain": [
     "Section 1.3 first bullet opens with ‘ that is never closed, as printed",
     "Multigrade 40-min Class 2 first row: 'ब्लेंडिंग और शब्द पठन पर कार्य। अभ्यास-पत्रक 5.5' printed as one block without bullet marks; recorded as text"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की एक गेंद या खिलौना",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 5.5 (पृष्ठ सं. 62)",
+     "where": "2 डिकोडिंग"
+    }
    ],
    "textcheck": {
     "checked": 40,
@@ -9431,6 +9834,18 @@
    "uncertain": [
     "Section 2.1 third bullet and 2.2 are in the right column (continuation of period 2); third bullet placed under 2.1",
     "Multigrade 20 minute Class 2 second row is empty (only an icon) as printed"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र चार्ट",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-5, पृष्ठ सं. 64",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -9756,6 +10171,18 @@
    "uncertain": [
     "Multigrade box: row-to-time grouping of the 40/20 minute rows inferred from layout; the line 'अभ्यास-पत्रक की गतिविधियों पर कार्य।' right of the 'पुनरावृत्ति' row placed under 40 मिनट कक्षा 2; 'पुस्तकालय की किताबों' printed as 'किताबें' possibly (read as किताबों/किताबें unclear)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.1 (पृष्ठ सं. 70)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1, पृष्ठ सं.75, पाठ 5",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 50,
     "close": 7,
@@ -10057,6 +10484,23 @@
    "uncertain": [
     "Multigrade box: grouping of two-row cells under 40/20 minute inferred from layout; a few items are in the second row of each time block"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘छोटी इंजीनियर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.2 (पृष्ठ सं. 71)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.75 से पाठ 6",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 7,
@@ -10355,6 +10799,23 @@
    "uncertain": [
     "Section 2 spans both columns: 2.1 at bottom of left column, 2.2 at top of right column",
     "Multigrade box: 'रखेगें' vs 'रखेंगें' spelling of line 'बच्चे चित्र बनाने का कार्य जारी रखेगें।' read as printed रखेंगें (p048-049 use रखेंगें) - check"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-6 ‘छोटी इंजीनियर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.3 (पृष्ठ सं. 72)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.75 से पाठ 7",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -10657,6 +11118,23 @@
    "uncertain": [
     "'रखेगें'/'रखेंगें' spelling in multigrade line; 'लोगोग्रफिक' (printed लोगोग्रफिक vs लोगोग्राफिक) read as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "‘पर्चियों के माध्यम से अभिनय खेल’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.4 (पृष्ठ सं. 73)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.75 से पाठ 8",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 7,
@@ -10958,6 +11436,18 @@
     "Section 3 has only 3.1 on this page (no 3.2 आकलन printed); bullets under 1.2 'तुम्हें कैसा लगा?' / 'तुमने क्या किया?' are in a speech-box, recorded as bullets",
     "'रखेगें' vs 'रखेंगें' spelling in multigrade line"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "भावनात्मक स्थितियों के संकेत",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 6.5 (पृष्ठ सं. 74)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 44,
     "close": 6,
@@ -11243,6 +11733,13 @@
    "uncertain": [
     "Top of right column has an unheaded bullet 'कहानी पढ़ने के बाद...' placed as last item of 2.1 (it sits in a box above 2.2, continuing 2.1 from the left column)",
     "Multigrade 'रखेगें' spelling"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-6, पृष्ठ सं. 76",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -11565,6 +12062,23 @@
    "uncertain": [
     "Heading of 2.1 is the quoted title ‘नील कमल’ as printed; 'रखेगें' vs 'रखेंगें' spelling in multigrade line; 'नीली कलम' in multigrade vs 'नील कमल' in main body as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाठ-7 चित्र चार्ट- ‘रंग ही रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.1 (पृष्ठ सं. 82)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1, पृष्ठ सं.87, पाठ 9",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 7,
@@ -11877,6 +12391,28 @@
     "Section 2 spans both columns: 2.1 at bottom of left column (continues onto b half), 2.2 at top of right column",
     "3.2 first bullet comma placement 'कर रहे हैं, उसके' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘चित्र चार्ट रंग ही रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.82 से पाठ ‘नील कमल’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.2 (पृष्ठ सं. 83)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.87 से पाठ 10",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 9,
@@ -12177,6 +12713,23 @@
    "uncertain": [
     "Section 2 spans both columns: 2.1 in left column, 2.2 at top of right column",
     "In the multigrade 20-minute block, the two bullets of the top-left cell are class 1 items; 'साझा पठन' is the second row"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-7 ‘चित्र चार्ट -रंग ही रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.3 (पृष्ठ सं. 84)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.87 से पाठ 11",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -12504,6 +13057,23 @@
     "Section 2 spans both columns: 2.1 at bottom of left column, 2.2 at top of right column",
     "'ज़रुरत' and 'लोगोग्रफिक' spellings as printed; 'रखेगें' spelling in multigrade line"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.84 से पाठ ‘सूप’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.4 (पृष्ठ सं. 85)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.87 से पाठ 12",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 6,
@@ -12812,6 +13382,18 @@
    "uncertain": [
     "Multigrade box: the 40 and 20 minute rows each have two printed sub-rows (class 1 / class 2 side by side); items merged per class in row order."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 7.5 (पृष्ठ सं. 86)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 6,
@@ -13104,6 +13686,13 @@
    "uncertain": [
     "Right column starts with an unheaded bullet ('कहानी पढ़ने के बाद ...') above box 2.2; placed as the last item of 2.1 following reading order.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-7, पृष्ठ सं. 88",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -13438,6 +14027,23 @@
     "Section 1.2: the three question lines sit in a boxed callout with a speech icon; recorded as bullets.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘गली के रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.1 (पृष्ठ सं. 94)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1, पृष्ठ सं.99 से पाठ 13",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "close": 7,
@@ -13742,6 +14348,28 @@
    "uncertain": [
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘गली के रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.94 से पाठ ‘खीरा ककड़ी’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.2 (पृष्ठ सं. 95)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.99 से पाठ 14",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 7,
@@ -14041,6 +14669,23 @@
    ],
    "uncertain": [
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-8 ‘गली के रंग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.3 (पृष्ठ सं. 96)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 99 से पाठ 15",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -14347,6 +14992,28 @@
    "uncertain": [
     "Heading of 1.2 printed with a closing quote ’ but no opening quote; copied as printed.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पुराने अखबार, गोंद, गत्ते",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.96 से पाठ ‘बादल बरसा’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.4 (पृष्ठ सं. 97)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 99 से पाठ 16",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -14657,6 +15324,18 @@
    "uncertain": [
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "10-12 पर्चियों की गड्डी",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 8.5 (पृष्ठ सं. 98)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 5,
@@ -14949,6 +15628,13 @@
    "uncertain": [
     "Right column starts with an unheaded bullet ('कहानी पढ़ने के बाद ...') above box 2.2; placed as the last item of 2.1 following reading order.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order; the second 20-minute class 2 sub-row shows only icons, no text."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-8, पृष्ठ सं. 100",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -15285,6 +15971,23 @@
     "Section 1.2: the third question bullet's closing '?' wraps below the box edge; read as 'भागे?'.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘शहरी सियार’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.1 (पृष्ठ सं.106)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.111",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 54,
     "close": 6,
@@ -15594,6 +16297,28 @@
    "uncertain": [
     "Section 3.1: second bullet runs two sentences together as printed.",
     "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘शहरी सियार’ पर पुन: चर्चा करें व पेज 103",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.106",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.2 (पृष्ठ सं.107)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.111",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 47,
@@ -15905,6 +16630,28 @@
    ],
    "uncertain": [
     "Multigrade box: the 40 and 20 minute rows each have two sub-rows; items are merged per class group in printed order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-9 ‘शहरी सियार’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 104",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.3 (पृष्ठ सं. 108)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.111",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -16231,6 +16978,23 @@
    "uncertain": [
     "Multigrade box: 40 and 20 minute rows each have two sub-rows; items merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.108",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.4 (पृष्ठ सं. 109)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.111",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 7,
@@ -16540,6 +17304,23 @@
     "Multigrade 40-min class 1: matra glyphs between quotes read as ा and ी; exact quoting uncertain.",
     "Multigrade box: sub-rows merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पर्चियाँ",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कागज़ की गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 9.5 (पृष्ठ सं.110)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 6,
@@ -16833,6 +17614,13 @@
    "uncertain": [
     "Right column top bullet (कहानी पढ़ने के बाद...) has no heading above it; placed as third item of 2.1 (continuation across columns).",
     "Multigrade box: sub-rows merged per class group in printed order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-9, पृष्ठ सं. 112",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 47,
@@ -17179,6 +17967,23 @@
     "In 1.2 the three question lines inside the speech-bubble box are given as bullets after the discussion bullets.",
     "Multigrade box: sub-rows merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘इन्द्रधनुष’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.1 (पृष्ठ सं.118)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.123",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 55,
     "close": 5,
@@ -17491,6 +18296,28 @@
    ],
    "uncertain": [
     "Multigrade box: sub-rows merged per class group in printed order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘इन्द्रधनुष’ पर पुन: चर्चा करें व पेज 115",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.118",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.2 (पृष्ठ सं. 119)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.123",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 48,
@@ -17819,6 +18646,28 @@
     "Multigrade 40-min class 1: the matra shown in quotes is a small mark; read as ‘ै’, uncertain.",
     "Multigrade box: sub-rows merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-10 ‘इन्द्रधनुष’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 116",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक पृष्ठ सं. 120 (10.3)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.123",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 9,
@@ -18136,6 +18985,28 @@
     "2.2: 'सब्ज़ियों' nukta/spelling read as printed best-effort.",
     "Multigrade box: sub-rows merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पाठ में दी गई सामग्री",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.120",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.4 (पृष्ठ सं.121)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.123",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 9,
@@ -18449,6 +19320,18 @@
     "Multigrade 40-min class 2: 'शहद' (10.5) printed although the day's text is 'जंगल में बरसात'; copied as printed.",
     "Multigrade box: sub-rows merged per class group in printed order."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कागज़ की एक गेंद",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 10.5 (पृष्ठ सं.122)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 6,
@@ -18734,6 +19617,13 @@
    "uncertain": [
     "Right column top bullet (कहानी पढ़ने के बाद...) has no heading above it; placed as third item of 2.1 (continuation across columns).",
     "Multigrade box: sub-rows merged per class group in printed order."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-10, पृष्ठ सं. 124",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -19035,6 +19925,23 @@
    ],
    "uncertain": [
     "Multigrade box: the 40 and 20 minute rows each have two sub-rows; items listed in printed top-to-bottom order per group"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘सर्दी आई’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
    ],
    "textcheck": {
     "checked": 40,
@@ -19344,6 +20251,23 @@
    "uncertain": [
     "Multigrade 30-min row: quote marks around न्यौता ( पृष्ठ 115 ) are printed mismatched (opening “ closing ’)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘सर्दी आई’ पर पुन: चर्चा करें व पेज 127",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-1"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-1"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 9,
@@ -19632,6 +20556,23 @@
    "uncertain": [
     "Section 1.3: 'वर्दी' word read as printed, may be 'वर्दी'; Multigrade 30-min lekhan line: closing bracket missing after 'पृष्ठ सं. 113' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘सर्दी आई’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 128",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "11.3 पेज 130",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 6,
@@ -19916,6 +20857,18 @@
    ],
    "uncertain": [
     "Multigrade lekhan line: closing bracket missing after 'पृष्ठ सं 114' as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कहानी ‘दोस्त के जूते’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "11.4 पेज 131",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 38,
@@ -20207,6 +21160,13 @@
    "uncertain": [
     "Multigrade rows: 'पुरावृत्ति' (class 1 side) and 'घरे' printed as such (apparent misprints kept); item 1.2 bullet 'प्रतिक्रया' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "11.5 पेज 132",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 11,
@@ -20487,6 +21447,13 @@
     "81"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "11.6 पेज 133",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 39,
     "close": 12,
@@ -20785,6 +21752,18 @@
     "Section 1.3 appears at top of right column without a repeated period-1 bar; placed under section 1 as the continuation of period 1",
     "Group-2 bullet 'कार्य करें दें' printed as such"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-11 ‘गिलहरी का घर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "12.1 पेज 139",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 43,
     "close": 12,
@@ -21059,6 +22038,23 @@
     "83"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-12 ‘गिलहरी का घर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 136",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "12.2 पेज 140",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 13,
@@ -21332,6 +22328,18 @@
    "uncertain": [
     "Multigrade lekhan line: bracket/danda after 'पृष्ठ सं. 122' read as '।' (closing bracket absent)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 137",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "12.3 पेज 141",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 12,
@@ -21591,6 +22599,18 @@
     "85"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "फिंगर पपेट",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "12.4 पेज 142",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 35,
     "close": 12,
@@ -21898,6 +22918,18 @@
     "Multigrade row 40/20: group assignment of left/right columns inferred from कक्षा 1/कक्षा 2 header bars",
     "सावधिक vs सावधिक spelling: 'सावधिक पुनरावृत्ति' in period heading vs 'पुनरावृति' in multigrade box, copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पेपर",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "12.5 पेज 145",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 12,
@@ -22177,6 +23209,13 @@
    ],
    "uncertain": [
     "Multigrade rows 40/20: left/right columns assigned to कक्षा 1/कक्षा 2 per header bars"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "12.6 पेज 146",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 38,
@@ -22523,6 +23562,28 @@
    "notes": [
     "page 91 prints no keys; joined as a continuation of the previous page"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "चित्र-कथा वाला पाठ",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.1 राखी की बकरी, पृष्ठ 150",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.1 (पेज.न.150)",
+     "where": "2.3 अभ्यास-कार्य"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.155 से पाठ 25",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 58,
     "exact": 49,
@@ -22770,6 +23831,28 @@
     "Boxed question lists written as text items starting with '•'",
     "Right-column top items (पृष्ठ सं. 147 ...) placed in 1.3 as continuation of left column; they appear before heading 2",
     "2.1 'पर पर' printed doubled in the abhyas-karya box"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 147",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास पेज 150",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.2 (पृष्ठ सं.151)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.155 से पाठ 26",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 40,
@@ -23035,6 +24118,28 @@
     "Boxed question lists written as text items starting with '•'",
     "1.2 last bullet: printed 'कौवे ने छाते में अपने बच्चों को रखा?' appears to lack a word, copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 148",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "13.3 इमरती, पृष्ठ 152",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.3 (पेज.न.152)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.155 से पाठ 27",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "exact": 32,
@@ -23292,6 +24397,23 @@
     "2.1 'पर पर' printed doubled in the abhyas-karya line",
     "1.2 sub-line 'पाठ-13 ‘चित्र-कथा’' copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पठन अभ्यास पेज 152",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.4 (पृष्ठ सं.153)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.155 से पाठ 28",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "exact": 37,
@@ -23514,6 +24636,23 @@
     "2.1 heading printed 'अभ्यास एवं पुनरावृति' (copied as printed); 2.2 'अभ्यास-कार्य' is the bold lead of its line with no printed minutes",
     "1.2 'मिलता हैं)' misprint copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "चित्र कार्ड",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 13.5 (पेज.न. 154)",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 33,
     "exact": 27,
@@ -23727,6 +24866,18 @@
     "Boxed question lists written as text items starting with '•'",
     "2.2 heading 'पृ. स.' abbreviation copied as printed; its body (indented under the bar) written as a text item",
     "2.2 heading minutes not printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-13, पृ. स. 156",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 31,
@@ -24094,6 +25245,23 @@
     "2.1 heading 'अभ्यास-14.1 ‘सूजी का हलवा’' has no printed minutes; 2.2 minutes not printed",
     "Multigrade 'पृष्ठ सं 162' lacks full stop, copied as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘पेड़ का सफर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.1 (पेज.न. 162)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.167 से प्रवाहपूर्ण पठन-29",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 56,
     "close": 10,
@@ -24447,6 +25615,28 @@
     "Multigrade box: in the 30-minute row the two bullets (लेखन: कक्षा 1 / कक्षा 2) are printed side by side on one line; split by me into two bullets",
     "Multigrade box: row-group assignment of the 40/20-minute rows inferred from layout (left = कक्षा 1, right = कक्षा 2)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पेज 159",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.162 से पाठ ‘सूजी का हलवा’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 14.2 (पृष्ठ सं. 163)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.167 से पाठ 30",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 11,
@@ -24782,6 +25972,23 @@
     "Multigrade 40-min कक्षा 1: the matra symbol before 'ग्रिड' is a small glyph that could not be read",
     "Multigrade 40-min कक्षा 2: 'करन का गाना' (printed spelling differs from 'करण का गाना' elsewhere), text squeezed and hard to read",
     "Multigrade 30-min: 'पृष्ठ सं....' printed with dots"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-14 ‘पेड़ का सफर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 14.3 (पृष्ठ सं. 164)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.167 से प्रवाह पूर्ण पठन-31",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -25148,6 +26355,28 @@
     "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me; कक्षा 1 text ends with '....।'",
     "Multigrade 40-min कक्षा 2: 'करन का गाना' and page 'सं-166' as printed, text squeezed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘गाँव की सैर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.164 से पाठ ‘करण का गाना’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 14.4 (पृष्ठ सं.165)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.167 से प्रवाह पूर्ण पठन-32",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "close": 10,
@@ -25473,6 +26702,18 @@
     "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me; 'पृष्ठ सं.....' printed with dots",
     "Multigrade 40-min कक्षा 2: 'स्वतत्र' as printed (missing nasal)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के अभ्यास 14.5 (पृष्ठ सं. 166)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 9,
@@ -25784,6 +27025,13 @@
     "2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-14, पृष्ठ सं. 168'; joined",
     "समूह 1/2 lines are bold plain lines; recorded as text",
     "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-14, पृष्ठ सं. 168",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -26132,6 +27380,23 @@
     "Multigrade 30-min row: the second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
     "Multigrade 40-min कक्षा 1 'ह' quote marks and grid text as read"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘धान’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.1 (पेज.न. 174)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.179 से प्रवाहपूर्ण पठन-33",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "close": 9,
@@ -26452,6 +27717,28 @@
    "uncertain": [
     "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
     "Multigrade 20-min कक्षा 1: text crowded, 'पृष्ठ न. 169 3-4' read as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘धान’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.174 से पाठ ‘कागज़ की नाव’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के अभ्यास 15.2 (पृष्ठ सं. 175)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.179 से पाठ 34",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -26777,6 +28064,23 @@
     "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
     "Multigrade 20-min कक्षा 1: 'बाजार में बारिश' 17 (page number as printed, no 'पृष्ठ सं.')",
     "Multigrade 40-min कक्षा 2: 'बन्दर' spelling differs from 'बंदर' elsewhere, as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-15 ‘धान’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 15.3 (पृष्ठ सं. 176)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.179 से प्रवाह पूर्ण पठन-35",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -27130,6 +28434,28 @@
     "Multigrade 40-min: spacing in '14. 4', '15. 3', '15 .4' as printed; कक्षा 1 'अभ्यास-पत्रक 14. 4 पृष्ठ 167' may be misprint",
     "'दोहरान' as printed in 30-min row"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "कविता ‘कित्ता-बित्ता’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.176 से पाठ ‘बंदर और खरगोश’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 15.4 (पृष्ठ सं.177)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.179 से प्रवाह पूर्ण पठन-36",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 12,
@@ -27422,6 +28748,18 @@
     "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines; kept as one bullet",
     "Multigrade 40-min कक्षा 1: spacing '15 .5' and '168 )' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के अभ्यास 15.5 (पृष्ठ सं. 178)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 9,
@@ -27709,6 +29047,13 @@
    "uncertain": [
     "The boxed bullet at the top of the right column (कहानी पढ़ने के बाद ...) has no heading; placed as the third item of 2.1 as it appears to continue that section.",
     "Multigrade box: in the 20 minute row the left-class column (कक्षा 1) reads 'स्वतंत्र अभ्यास।' then (second row) 'बच्चे पुस्तकालय की किताबों से स्वतंत्र पठन।'; right-class column reads 'बच्चे पुस्तकालय की किताबों से स्वतंत्र पठन।' then 'स्वतंत्र पठन।' — row-wise order as printed in a 2x2 grid."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-15, पृष्ठ सं. 180",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -28052,6 +29397,23 @@
     "Section 1.2: the three question bullets sit inside a rounded speech box under the bullet 'पढ़कर सुनाने के दौरान ...'; kept as flat bullets, the box's first line written as a bullet.",
     "Multigrade 20-minute row: grid read row-wise (class 1 / class 2 per row)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘कलेसर नेशनल पार्क की सैर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.1 (पेज.न. 186)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.191 से प्रवाहपूर्ण पठन-37",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 53,
     "close": 9,
@@ -28375,6 +29737,28 @@
    "uncertain": [
     "Section 1.2: 'पुन:' printed with colon-like visarga; transcribed as 'पुन:'.",
     "Multigrade box text is partly cramped; some words in the 40/20 minute rows may differ slightly."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘कलेसर नेशनल पार्क’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.186 से पाठ ‘छाछ’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के अभ्यास 16.2 (पृष्ठ सं. 187)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.191 से पाठ 38",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -28705,6 +30089,23 @@
    ],
    "uncertain": [
     "Multigrade 40-minute class 2 bullet is cramped; wording 'पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 16.3 ...' read from small print."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘कलेसर नेशनल पार्क’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 16.3 (पृष्ठ सं.188)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.191 से प्रवाह पूर्ण पठन-39",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -29054,6 +30455,28 @@
     "The top-right boxed bullet (बच्चों के पास जाकर ...) continues 2.1 from the left column's last bullet; placed as 2.1's second item.",
     "Multigrade box small print in 30 and 40 minute rows partly cramped."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पत्र ( पेज -185 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.188 से पाठ ‘दशहरे का मेला’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 16.4 (पृष्ठ सं.189)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.191 से प्रवाह पूर्ण पठन-40",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 13,
@@ -29363,6 +30786,18 @@
     "1.2: the speech-box lines (three bullets) follow the bullet 'बच्चों को निम्नलिखित निर्देश दें–'; kept as flat bullets.",
     "Multigrade class 2 40-minute row prints 'तरंग का बकरा' (differs from section 2.1 'तरंग का बछड़ा'); copied as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक के अभ्यास 16.5 (पृष्ठ सं.190)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 43,
     "close": 9,
@@ -29649,6 +31084,13 @@
    ],
    "uncertain": [
     "The boxed bullet at the top of the right column (कहानी पढ़ने के बाद ...) has no heading; placed as the third item of 2.1 as it appears to continue that section."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-16, पृष्ठ सं. 192",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -29987,6 +31429,23 @@
     "Multigrade: 'किहीं' (30-minute class 1 writing) and 'चमकीला कीड़ा' (class 2, 40-minute) copied as printed, differing from 'चमकीला कड़ा' in section 2.1.",
     "Section 1.2: only one bullet appears inside the speech box (प्रश्नों की मदद से चर्चा)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘जंगल में आग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.1 (पेज.न. 198)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.203",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 50,
     "close": 8,
@@ -30316,6 +31775,33 @@
    "uncertain": [
     "Multigrade 20-minute class 1 second bullet is cramped small print; 'पुन:' vs 'पुनः' ambiguous."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘जंगल में आग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 195",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.198",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 17.2 (पृष्ठ सं. 199)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.203",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 14,
@@ -30643,6 +32129,28 @@
    "uncertain": [
     "Multigrade 40-minute class 1: matra shown in the grid is the 'ु' sign (u-matra), read from a small glyph.",
     "Multigrade class 2 40-minute bullet is cramped small print."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-17 ‘जंगल में आग’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 196",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 17.3 (पृष्ठ सं.200)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.203",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -30993,6 +32501,23 @@
     "Multigrade 20-minute rows: label order assumed kaksha 1 left / kaksha 2 right per header bars",
     "Multigrade box: the 'मात्रा ‘ ु ’' glyph in class 1 row"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.200",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 17.4 (पृष्ठ सं. 201)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.203",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 12,
@@ -31289,6 +32814,23 @@
    "uncertain": [
     "Multigrade 40-min class 2 text 'स्वतत्र' printed as such (missing nukta/anusvara-like misprint)"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "एक खाली पन्ना या कॉपी",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 17.5 (पृष्ठ सं.202)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 41,
     "close": 10,
@@ -31573,6 +33115,13 @@
    "uncertain": [
     "Right column top bullet (कहानी पढ़ने के बाद...) placed under 2.1 as continuation across columns",
     "2.2 heading printed on two lines, joined"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-17, पृष्ठ सं. 204",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -31919,6 +33468,23 @@
     "Section 2.1 starts at bottom of left column and its items finish in the 2.1 box; right column begins with 2.2",
     "Multigrade 'पेज.न.' printed as such in 2.2"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘तीन अलबेले खरगोश’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.1 (पेज.न. 210)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.215",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 8,
@@ -32245,6 +33811,33 @@
     "2.1 'पृष्ठ सं.2' printed as such (page number appears truncated in print)",
     "Multigrade class 1 20-min second bullet is tightly overprinted; reading best effort"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 चित्र-कथा",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 207",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.2",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 18.2 (पृष्ठ सं.211)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.215",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 45,
     "close": 14,
@@ -32570,6 +34163,28 @@
    ],
    "uncertain": [
     "Multigrade 40-min class 1: matra glyph read as ‘ि’"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-18 ‘चित्र-कथा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 208",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 18.3 (पृष्ठ सं. 212)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.215",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -32899,6 +34514,28 @@
     "Multigrade 40-min class 1: matra glyph printed as ‘f’ (font rendering of ि); copied as printed",
     "1.2 'एक-दुसरे' printed spelling kept"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मुखौटा बनवाएँ ( पृष्ठ सं. 209 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.212",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 18.4 (पृष्ठ सं.213)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.215",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 48,
     "close": 12,
@@ -33186,6 +34823,18 @@
    "uncertain": [
     "Multigrade class 2 40-min 'स्वतत्र' printed as such"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास 18.5 (पृष्ठ सं. 214)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "material",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 39,
     "close": 11,
@@ -33469,6 +35118,13 @@
    ],
    "uncertain": [
     "2.2 heading printed on two lines, joined"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-18, पृष्ठ सं. 216",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -33813,6 +35469,23 @@
     "1.2 question box (speech-bubble icon) recorded as one figure item with questions separated by ' / '",
     "Multigrade class 1 40-min 'कार्यपृ. सं. 220' printed run together"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘दोस्त की मदद’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.1 (पेज.न. 222)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.227",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 10,
@@ -34143,6 +35816,33 @@
    "uncertain": [
     "Multigrade box: 'मिटटी' as printed; class 2 40-minute first bullet text is small and tightly spaced (अभ्यास 19.1 / पृष्ठ सं. 222); class 1 20-minute second bullet text is cramped (पृष्ठ स. 225 3-4)."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-16 ‘दोस्त की मदद’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 219",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.222",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.2 (पृष्ठ सं. 223)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.227",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 13,
@@ -34465,6 +36165,28 @@
    ],
    "uncertain": [
     "Multigrade 40-minute class 1: matra symbol in quotes after 'मात्रा पहचान पर कार्य' is a small ू sign; written 'ू' (best reading)."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-19 ‘दोस्त की मदद’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 220",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक 19.3 (पृष्ठ सं.224)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.227",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -34810,6 +36532,28 @@
    "uncertain": [
     "Multigrade 40-minute class 1: the matra symbol in quotes ('ॅ') is small and unclear; best reading."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘रेल’ कविता सुनाएँ ( पेज -221 )",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.224",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 19.4 (पृष्ठ सं.225)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.227",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 11,
@@ -35107,6 +36851,18 @@
    "uncertain": [
     "Multigrade 40-minute class 2: 'स्वतत्र' printed without anusvara (as printed, text cramped)."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "कहानी की किताब",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 19.5 (पृष्ठ सं. 226)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "close": 9,
@@ -35391,6 +37147,13 @@
    "uncertain": [
     "Top of right column: a boxed bullet 'कहानी पढ़ने के बाद ...' has no heading of its own; placed as third item of 2.1 (continuation from left column).",
     "Multigrade 40-minute class 2: 'आकलन पर आधार पर' as printed."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-19, पृष्ठ सं. 228",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 44,
@@ -35723,6 +37486,23 @@
     "2.1 first bullet: 'सावधि आकलन' as read (possibly 'सावधिक'); the two bullets under 1.2 'मुर्गी के बच्चे...' and 'बिल्ली ने...' are printed on one line as sub-bullets, split into two bullets.",
     "Last 2.1 bullet: 'शिक्षक प्रतिदिन कार्य के लिए योजनाएँ' as printed."
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘नन्हा चूजा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-2"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-2"
+    }
+   ],
    "textcheck": {
     "checked": 43,
     "close": 8,
@@ -36014,6 +37794,28 @@
     "132"
    ],
    "uncertain": [],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘नन्हा चूजा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 231",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "आकलन प्रपत्र",
+     "where": "2 सावधिक आकलन-2"
+    },
+    {
+     "kind": "book",
+     "name": "स्किल पासबुक ट्रैकर (सावधिक आकलन-1)",
+     "where": "2 सावधिक आकलन-2"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 8,
@@ -36278,6 +38080,23 @@
    "uncertain": [
     "Period 2 'समूह-2': right-aligned label '20.3 पेज 234' placed as first text item.",
     "Misprints kept as printed: 'कार्यो', 'स्वत्रंत', 'उसमें में'."
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-20 ‘नन्हा चूजा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 232",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "20.3 पेज 234",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -36567,6 +38386,23 @@
     "Period 2 'समूह-2': right-aligned label '20.4 पेज 235' placed as first text item.",
     "Multigrade 30-min class 2 line: 'फोटो चिपकाए गए खिलाड़ियों के नाम लिखो' as printed (misprint 'खिलाड़ियों' vs 'खिलाड़ियों' not distinguishable)."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अखबारों",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "material",
+     "name": "कॉपी/चार्ट",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "20.4 पेज 235",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 39,
     "close": 9,
@@ -36845,6 +38681,18 @@
     "Period 2 'समूह-2': right-aligned label '20.5 पेज 236' placed as first text item.",
     "'रेमेडियल' (class 1) vs 'रेमिडियल' (class 2) spelled differently as printed."
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "पर्ची",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "20.5 पेज 236",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 40,
     "close": 9,
@@ -37101,6 +38949,13 @@
    "uncertain": [
     "समूह-2 heading has '20.6 पेज 237' printed at right on the same bar; placed as first text item",
     "Multigrade rows: left/right cell pairing of bullets inferred from table layout; the 20-minute row's second line for कक्षा 1 and the first for कक्षा 2 are the two sub-rows"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "20.6 पेज 237",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 35,
@@ -37392,6 +39247,18 @@
     "Group-1 bullet 1 prints 'वर्ण/अक्षरों मिलाकर' as written",
     "Multigrade cell pairing inferred from layout"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘कबूतर और मधुमक्खी की दोस्ती’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "21.1 पेज 243",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 42,
     "close": 9,
@@ -37648,6 +39515,23 @@
    "uncertain": [
     "Multigrade cell pairing inferred from layout"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘कबूतर और मधुमक्खी की दोस्ती’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 240",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "21.1 पेज 243",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 10,
@@ -37898,6 +39782,23 @@
    ],
    "uncertain": [
     "Multigrade cell pairing inferred from layout"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-21 ‘कबूतर और मधुमक्खी की दोस्ती’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं. 241",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "21.3 पेज 245",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -38169,6 +40070,13 @@
     "Multigrade cell pairing inferred from layout",
     "40-min कक्षा 1 first bullet 'पाठ आधारित लेखन कार्य रखें।' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "21.4 पेज 246",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 39,
     "close": 8,
@@ -38437,6 +40345,18 @@
     "1.2 two survey questions sit in a boxed callout; recorded as bullets",
     "Multigrade cell pairing inferred from layout"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "2 प्रश्न वाला कागज़",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "21.5 पेज 247",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 10,
@@ -38677,6 +40597,13 @@
    ],
    "uncertain": [
     "Multigrade cell pairing inferred from layout"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "21.6 पेज 248",
+     "where": "2 डिकोडिंग ‘सावधिक पुनरावृत्ति’"
+    }
    ],
    "textcheck": {
     "checked": 33,
@@ -39040,6 +40967,28 @@
     "1.2 'चित्र-कथा' lines read from the printed text; shared 40-min कक्षा 1 'अभ्यास-पत्रक 21.1' as printed",
     "Multigrade cell pairing inferred from layout"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘चित्र-कथा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.1 (पेज.न.254)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 पृष्ठ सं.259",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 52,
     "close": 13,
@@ -39388,6 +41337,33 @@
     "3.1/3.2 no minutes printed",
     "Multigrade cell pairing inferred from layout"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 चित्र-कथा",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पेज 251",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.2 (पृष्ठ सं. 255)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "रागिनी भाग 2 पृष्ठ सं.259",
+     "where": "3 पठन"
+    },
+    {
+     "kind": "material",
+     "name": "60 सेकंड का टाइमर",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 15,
@@ -39729,6 +41705,23 @@
     "Multigrade 40-min कक्षा 2 text prints 'विमला की खीर' (vs 'सेवई' in 2.1) as read",
     "2.2 inline bar with no minutes; 3.1/3.2 no minutes printed",
     "Multigrade cell pairing inferred from layout"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-22 ‘चित्र-कथा’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.3 (पृष्ठ सं. 256)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.259 से पाठ 55",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -40077,6 +42070,23 @@
     "Section 2.2 has no number/minutes bar printed; heading taken from bold 'अभ्यास-कार्य'; its number 2.2 appears in a small badge (read as 2.2)",
     "Multigrade class 2 40-min: 'विमला की खीर' as printed (differs from 'सेवई' in 2.1)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.256 से पाठ ‘विमला की सेवई’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 22.4 (पृष्ठ सं.257)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.259 से प्रवाह पूर्ण पठन-56",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 48,
     "close": 11,
@@ -40364,6 +42374,23 @@
     "2.2 sentence reads as printed: 'आम के अलावा किन-किन फलों का रस बनाया जा सकता है। छाँटकर लिखने पर' (wording odd in print)",
     "'पुनरावृति' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "2 प्रश्नों वाला पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 22.5 (पृष्ठ सं.258)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 38,
     "close": 9,
@@ -40649,6 +42676,18 @@
    ],
    "uncertain": [
     "Section 2.2 heading printed across two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-22, पृष्ठ सं. 260', joined"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "2 प्रश्नों वाला पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-22, पृष्ठ सं. 260",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 45,
@@ -41006,6 +43045,18 @@
    "uncertain": [
     "Right-column top bullet 'बच्चों को स्वयं व जोड़ों में पढ़वाएँ...' (above badge 2.2) placed under 2.1 as its continuation"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.1 (पेज.न.267)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.272 से प्रवाह पूर्ण पठन-57",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 10,
@@ -41361,6 +43412,28 @@
    "uncertain": [
     "Multigrade 20-min class 1 second bullet text is tightly typeset; read as above"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘रूहानी का चाँद मिशन’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ 266-267 से पाठ ‘बबलू हाथी’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.2 (पृष्ठ सं. 268)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.272 से पाठ 58",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 10,
@@ -41700,6 +43773,23 @@
     "Multigrade 40-min class 1: the matra mark inside quotes after 'मात्रा पहचान पर कार्य' is hard to read; best reading ‘ ै’",
     "Multigrade 20-min class 2: 'पृष्ठ सं. 27' printed (probably 272 but printed as 27); 'अभ्यास 22.3 पृष्ठ 269' in class 2 40-min as printed",
     "'जाते है?' spelling as printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-23 ‘रूहानी का चाँद मिशन’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.3 (पृष्ठ सं. 269)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.272 से पाठ 59",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -42056,6 +44146,28 @@
     "1.2 'ज़रुरत' spelling: printed as ज़रुरत/जरुरत, nukta uncertain",
     "'होती हैं' in multigrade class 2 30-min as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "‘चंदा के गाँव में’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.269 से पाठ ‘गाँव में शेर’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 23.4 (पृष्ठ सं.270)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.272 से प्रवाह पूर्ण पठन-60",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 12,
@@ -42348,6 +44460,23 @@
     "Title spelled 'जेबरा की सवारी' in 2.1 heading but 'जेब्रा की सवारी' in multigrade box (as printed)",
     "'पुनरावृति' spelling as printed"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सर्वेक्षण पत्र का नमूना",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 23.5 (पृष्ठ सं.271)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 36,
     "close": 10,
@@ -42619,6 +44748,18 @@
    ],
    "uncertain": [
     "Section 2.2 heading printed across two lines, joined"
+   ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "सर्वेक्षण पत्र",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-23, पृष्ठ सं. 273",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 42,
@@ -42971,6 +45112,18 @@
     "Right-column top bullet 'बच्चों को स्वयं व जोड़ों में पढ़वाएँ...' placed under 2.1 as continuation",
     "Multigrade 20-min class 1: 'पृष्ठ सं. 28' printed (probably 285)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.1 (पेज.न.279)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.284 से प्रवाह पूर्ण पठन-61",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 9,
@@ -43322,6 +45475,28 @@
     "2.2 step bar: heading 'अभ्यास-कार्य' printed bold followed by '-' and text; no minutes printed",
     "multigrade box: row/column pairing of the 40 and 20 minute rows read from layout"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘एक चिट्ठी सूरज के नाम’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.279 से पाठ ‘चाँद पर गिलहरी’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.2 (पृष्ठ सं. 280)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.284 से पाठ 62",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 13,
@@ -43668,6 +45843,23 @@
     "multigrade 40-min class 1 matra symbol in quotes unclear (read as ‘ ै ’)",
     "2.2 step bar has no minutes printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ-24 ‘एक चिट्ठी सूरज के नाम’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.3 (पृष्ठ सं. 281)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.284 से पाठ 63",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 11,
@@ -44009,6 +46201,23 @@
     "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ै ’)",
     "2.2 step bar has no minutes printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पृष्ठ सं.281 से पाठ ‘सर्र सर्र’",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 24.4 (पृष्ठ सं.282)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.284 से प्रवाह पूर्ण पठन-64",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 47,
     "close": 13,
@@ -44297,6 +46506,23 @@
     "2.2 step bar has no minutes printed",
     "layout: day 5 has period 2 and 3 in the right column; period 1 in left column"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "4 पर्ची",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 24.5 (पृष्ठ सं.283)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पुस्तकालय से मनपसंद किताब",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 37,
     "close": 8,
@@ -44578,6 +46804,13 @@
     "2.2 साप्ताहिक आकलन printed in right column top with number 2.2 under period 2 (no separate bar); placed under section 2",
     "multigrade 30-min: 'पृष्ठ सं. 27' printed (cut by overlay, possibly 27x)",
     "2.1 and 2.2 have no minutes printed"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-24, पृष्ठ सं. 285",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -44934,6 +47167,18 @@
     "multigrade 30-min class 2 line: last word 'लिखो।' partly overlapped by label",
     "multigrade 20-min: 'पृष्ठ सं. 30' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.1 (पेज.न.291)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.296",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 9,
@@ -45280,6 +47525,28 @@
    "uncertain": [
     "2.2 step bar has no minutes printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक से पाठ-25 ‘चाँद की खातिर’",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.291",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.2 (पृष्ठ सं. 292)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.296",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 14,
@@ -45618,6 +47885,18 @@
     "2.2 step bar has no minutes printed",
     "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ँ ’)",
     "multigrade 40-min class 2: text is compressed and slightly overlapped; ending 'पृ 293' read"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.3 (पृष्ठ सं. 293)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.296",
+     "where": "3 पठन"
+    }
    ],
    "textcheck": {
     "checked": 46,
@@ -45961,6 +48240,23 @@
     "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ॅ ’)",
     "multigrade class 2 text prints 'साईकिल' while other places print 'साइकिल'"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.293",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 25.4 (पृष्ठ सं.294)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.296",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 12,
@@ -46289,6 +48585,18 @@
     "1.2 'पेम्पलेट' as printed",
     "figure bubble examples are inside the 1.2 step; position after the 'उदाहरण:' bullet"
    ],
+   "prep": [
+    {
+     "kind": "material",
+     "name": "अखबार/पेम्पलेट/रैपर से बने कुछ विज्ञापन",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास 25.5 (पृष्ठ सं.295)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 43,
     "close": 12,
@@ -46572,6 +48880,13 @@
    ],
    "uncertain": [
     "2.1 and 2.2 have no minutes printed; 2.2 printed at top of right column continuing period 2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-25, पृष्ठ सं. 297",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -46932,6 +49247,18 @@
     "multigrade 40-min class 2: 'पृष्ठ सं. 204' as printed (likely misprint for 304)",
     "multigrade 40-min class 1: 'ऋ' letter read from grid label"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.1 (पेज.न. 304)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.310",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 51,
     "close": 10,
@@ -47279,6 +49606,28 @@
    "uncertain": [
     "2.2 step bar has no minutes printed (its badge overlaps the last line of 2.1)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक से पाठ-26 अधिक बलवान कौन?",
+     "where": "1 मौखिक भाषा विकास एवं लेखन"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.303",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.2 (पृष्ठ सं. 305)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.310",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 12,
@@ -47624,6 +49973,18 @@
     "2.2 step bar has no minutes printed",
     "multigrade 40-min class 2: text is compressed; pages 306 read as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.3 (पृष्ठ सं. 307)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.310",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 11,
@@ -47961,6 +50322,23 @@
     "2.2 step bar has no minutes printed",
     "1.2 'चुटकलों' as printed (differs from 'चुटकुला' elsewhere)"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.306",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "अभ्यास-पत्रक 26.4 (पृष्ठ सं.308)",
+     "where": "2 डिकोडिंग"
+    },
+    {
+     "kind": "book",
+     "name": "पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.310",
+     "where": "3 पठन"
+    }
+   ],
    "textcheck": {
     "checked": 46,
     "close": 13,
@@ -48242,6 +50620,13 @@
     "multigrade 40-min class 2: 'स्वतत्र' as printed (missing anusvara)",
     "'त्योंहार' as printed"
    ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "अभ्यास 26.5 (पृष्ठ सं.309)",
+     "where": "2 डिकोडिंग"
+    }
+   ],
    "textcheck": {
     "checked": 34,
     "close": 7,
@@ -48521,6 +50906,13 @@
    ],
    "uncertain": [
     "2.1 and 2.2 have no minutes printed; 2.2 printed at top of right column continuing period 2"
+   ],
+   "prep": [
+    {
+     "kind": "book",
+     "name": "मैंने सीख लिया-26, पृष्ठ सं. 311",
+     "where": "2 डिकोडिंग एवं पठन-लेखन"
+    }
    ],
    "textcheck": {
     "checked": 43,
@@ -50922,6 +53314,23 @@
   "unplaced": [],
   "blank": [],
   "whole_page": 0
+ },
+ "materials": {
+  "lessons_with_list": 156,
+  "kept": 416,
+  "dropped": [
+   {
+    "lesson": "hr-hindi-g2-w17-d04",
+    "name": "कविता ‘मस्त कलंदर’ ( पृष्ठ सं. 197 )",
+    "why": "name not in quote"
+   },
+   {
+    "lesson": "hr-hindi-g2-w21-d04",
+    "name": "कविता ‘सपने क्यों आते है’ (पृष्ठ सं. 242)",
+    "why": "name not in quote"
+   }
+  ],
+  "missing_lessons": []
  },
  "reconcile": {
   "totals": {
