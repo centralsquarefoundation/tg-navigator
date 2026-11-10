@@ -92,7 +92,7 @@
   "shared": [
     {"number": null, "heading": null, "minutes": null,
      "items": [
-       {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं रिकल पासबुक पर अंकित करें।"}
+       {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
      ], "sections": []}
   ],
   "uncertain": ["Footer yellow bar: word 'रिकल' (could be 'स्किल') and quote marks around 'सम्पर्क दीदी के सवाल' are my best reading at small print"],

@@ -604,6 +604,10 @@
     "13"
    ],
    "uncertain": [],
+   "notice": {
+    "hi": "सप्ताह 1–6 के लिए संदर्शिका में अलग दैनिक पृष्ठ नहीं हैं; उनकी योजना ‘मूल संदर्शिका’ में है (भाग-1, PDF पृष्ठ 14–16)।",
+    "en": "The guide has no daily pages for weeks 1–6; their plan is in the original guide (part 1, PDF pages 14–16)."
+   },
    "textcheck": {
     "single-reading": 1
    }

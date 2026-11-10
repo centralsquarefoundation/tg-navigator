@@ -2,7 +2,10 @@
 // Page images: cache first (they never change for a given content version).
 const VERSION = '__VERSION__';
 const SHELL = ['./', 'index.html', 'styles.css?v=__VERSION__', 'app.js?v=__VERSION__', 'manifest.webmanifest', 'icon.svg',
-  'fonts/noto-sans-devanagari.woff2', 'fonts/noto-sans-latin.woff2', 'data/index.json', __DATA_FILES__, __BRAND_FILES__];
+  'fonts/noto-sans-devanagari.woff2', 'fonts/noto-sans-latin.woff2', 'data/index.json', __BRAND_FILES__];
+// Guide data (~1 MB each) is cached the first time that class/subject is opened, not up front:
+// a teacher usually needs one or two guides, and mobile data is precious.
+const NETWORK_WAIT_MS = 4000;   // on a weak connection, fall back to the saved copy after this
 const SHELL_CACHE = `tg-shell-${VERSION}`;
 
 self.addEventListener('install', (e) => {
@@ -25,8 +28,17 @@ self.addEventListener('fetch', (e) => {
     }));
     return;
   }
-  e.respondWith(fetch(e.request).then((r) => {
-    if (r.ok) { const copy = r.clone(); caches.open(SHELL_CACHE).then((c) => c.put(e.request, copy)); }
-    return r;
-  }).catch(async () => (await caches.match(e.request, { ignoreSearch: true })) || (await caches.match('index.html'))));
+  e.respondWith((async () => {
+    const net = fetch(e.request).then((r) => {
+      if (r.ok) { const copy = r.clone(); caches.open(SHELL_CACHE).then((c) => c.put(e.request, copy)); }
+      return r;
+    });
+    const saved = () => caches.match(e.request, { ignoreSearch: true });
+    const slow = new Promise((res) => setTimeout(res, NETWORK_WAIT_MS)).then(async () => (await saved()) || net);
+    try {
+      return await Promise.race([net, slow]);
+    } catch {
+      return (await saved()) || (await caches.match('index.html'));
+    }
+  })());
 });

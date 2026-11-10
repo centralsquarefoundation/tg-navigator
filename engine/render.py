@@ -21,16 +21,28 @@ from common import build, document, load_state, read_json, sha256, source_path, 
 APP_WIDTH = 1100        # px; legible on phones when zoomed, ~100-200 KB as WebP
 VISION_WIDTH = 1400     # px per half; keeps each half under the vision model's resize limit
 HALVES = {'a': (0.0, 0.54), 'b': (0.46, 1.0)}
+# Sharper bands for proofreading single matras/nukta (made only with --quarters).
+QUARTERS = {'q1': (0.0, 0.29), 'q2': (0.24, 0.53), 'q3': (0.48, 0.77), 'q4': (0.72, 1.0)}
+QUARTER_WIDTH = 1500
 
 
-def render_guide(state, gid, src):
+def render_guide(state, gid, src, quarters=False, only=None):
     cfg = load_state(state)
     g = document(cfg, gid)
     pdf = source_path(g, src)
     doc = fitz.open(pdf)
     done = 0
     for i, page in enumerate(doc, start=1):
+        if only and i not in only:
+            continue
         r = page.rect
+        if quarters:
+            for q, (y0, y1) in QUARTERS.items():
+                out = build(state, 'vision', gid, f'p{i:03d}-{q}.png')
+                if not out.exists():
+                    clip = fitz.Rect(0, r.height * y0, r.width, r.height * y1)
+                    z = QUARTER_WIDTH / r.width
+                    page.get_pixmap(matrix=fitz.Matrix(z, z), clip=clip).save(out)
         app = build(state, 'site', 'pages', gid, f'p{i:03d}.webp')
         if not app.exists():
             z = APP_WIDTH / r.width
@@ -52,13 +64,17 @@ def main():
     ap.add_argument('state')
     ap.add_argument('--doc')
     ap.add_argument('--sources')
+    ap.add_argument('--quarters', action='store_true', help='also render 4 sharper bands per page for proofreading')
+    ap.add_argument('--pages', help='only these pages, e.g. 27-38')
     a = ap.parse_args()
     cfg = load_state(a.state)
     ids = [a.doc] if a.doc else [d['id'] for d in cfg['documents']]
     lock_path = state_dir(a.state) / 'sources.lock.json'
     lock = read_json(lock_path, {})
     with ProcessPoolExecutor(max_workers=min(6, len(ids))) as ex:
-        for gid, n, pdf in ex.map(render_guide, [a.state] * len(ids), ids, [a.sources] * len(ids)):
+        from common import parse_pages
+        only = set(parse_pages(a.pages)) if a.pages else None
+        for gid, n, pdf in ex.map(render_guide, [a.state] * len(ids), ids, [a.sources] * len(ids), [a.quarters] * len(ids), [only] * len(ids)):
             digest = sha256(pdf)
             if gid in lock and lock[gid]['sha256'] != digest:
                 print(f'WARNING {gid}: source PDF changed since last lock ({lock[gid]["sha256"][:12]} -> {digest[:12]})')

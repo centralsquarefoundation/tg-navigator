@@ -13,6 +13,7 @@ chapter-opener pages go to the chapter intro. Anything that cannot be placed is 
 unplaced (verify.py warns) instead of being put somewhere wrong.
 """
 import argparse
+import difflib
 import re
 
 import fitz
@@ -47,28 +48,42 @@ def find_section(sections, key):
     return None
 
 
+def best_anchor(subtree, after_text):
+    """The item whose text best matches the line printed just before the picture (start or end)."""
+    if not after_text:
+        return None
+    a = norm(after_text)
+    best, where = 0.0, None
+    for s in subtree:
+        for i, it in enumerate(s.get('items', [])):
+            t = norm(it.get('text', ''))
+            if not t:
+                continue
+            for part in (t[:len(a)], t[-len(a):]):
+                r = difflib.SequenceMatcher(None, a, part, autojunk=False).ratio()
+                if r > best:
+                    best, where = r, (s, i)
+    return where if best >= 0.6 else None
+
+
 def insert(section, fig, after_text):
     """Search the section and all its sub-steps: the exact spot is usually inside a sub-step."""
     subtree = list(walk([section]))
-    a = norm(after_text)[:14] if after_text else ''
-    # 1. the line the picture follows, anywhere in the subtree
-    for s in subtree:
-        items = s.setdefault('items', [])
-        for i, it in enumerate(items):
-            if a and a in norm(it.get('text', '')):
-                nxt = items[i + 1] if i + 1 < len(items) else None
-                if nxt and nxt.get('type') == 'figure' and not nxt.get('crop'):   # transcriber's text-only note
-                    nxt['crop'] = fig['crop']; nxt.setdefault('desc', fig.get('desc'))
-                    return 'merged'
-                items.insert(i + 1, {'type': 'figure', 'desc': fig.get('desc'), 'crop': fig['crop']})
-                return 'inserted'
-    # 2. a text-only figure note the transcriber recorded in this subtree
+    hit = best_anchor(subtree, after_text)
+    if hit:
+        s, i = hit
+        items = s['items']
+        for j in (i + 1, i + 2):   # transcriber's text-only note for this picture right after the line
+            if j < len(items) and items[j].get('type') == 'figure' and not items[j].get('crop'):
+                items[j]['crop'] = fig['crop']; items[j].setdefault('desc', fig.get('desc'))
+                return 'merged'
+        items.insert(i + 1, {'type': 'figure', 'desc': fig.get('desc'), 'crop': fig['crop']})
+        return 'inserted'
     for s in subtree:
         for it in s.get('items', []):
             if it.get('type') == 'figure' and not it.get('crop'):
                 it['crop'] = fig['crop']; it.setdefault('desc', fig.get('desc'))
                 return 'merged'
-    # 3. end of the section
     section.setdefault('items', []).append({'type': 'figure', 'desc': fig.get('desc'), 'crop': fig['crop']})
     return 'inserted'
 
@@ -136,9 +151,14 @@ def place(cfg, g, pack, src):
                     continue
                 fig = dict(fig, crop=rel)
                 if (doc_id, p) in openers:
-                    openers[(doc_id, p)].setdefault('intro', []).append(
-                        {'number': None, 'heading': None, 'minutes': None, 'sections': [],
-                         'items': [{'type': 'figure', 'desc': fig.get('desc'), 'crop': rel}]})
+                    intro = openers[(doc_id, p)].setdefault('intro', [])
+                    note = next((it for sec in walk(intro) for it in sec.get('items', [])
+                                 if it.get('type') == 'figure' and not it.get('crop')), None)
+                    if note:   # the transcriber's text-only note for this picture: attach, don't duplicate
+                        note['crop'] = rel
+                    else:
+                        intro.append({'number': None, 'heading': None, 'minutes': None, 'sections': [],
+                                      'items': [{'type': 'figure', 'desc': fig.get('desc'), 'crop': rel}]})
                     report['opener'] += 1
                     continue
                 cands = by_page.get((doc_id, p), [])

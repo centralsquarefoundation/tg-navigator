@@ -37,7 +37,8 @@
       {
        "type": "figure",
        "text": "कितने संतरे | अरे! इतने संतरे | चलो गिनकर देखें कितने संतरे! | कितने संतरे | बच्चों के समूह बनाएँ। अब बच्चों के आगे कुछ चीज़ें जैसे बीज, कंकड़ बिखेर दें। शिक्षक बच्चों से कहे कि जो समूह ज़्यादा तरीकों से चीज़ों को गिनेगा वही विजेता होगा। अध्यापक ध्यान रखे कि तरीकों में दोहराव न हो। गिनने के तरीकों पर बच्चों से खुली चर्चा करें। चित्र का उद्देश्य गिनते समय समूह की आवश्यकता महसूस करवाना है कि चीज़ें समूह में आसानी से गिन सकते हैं। | गणित भाग–1 | 1",
-       "desc": "Chapter 1 opener illustration: children and a vendor street scene with many oranges scattered on a road, a fallen cart, a cow and an old man; a teacher note panel is overlaid at the bottom."
+       "desc": "Chapter 1 opener illustration: children and a vendor street scene with many oranges scattered on a road, a fallen cart, a cow and an old man; a teacher note panel is overlaid at the bottom.",
+       "crop": "figs/hr-math-g2/p013-1.webp"
       },
       {
        "type": "bullet",
@@ -65,19 +66,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: children and an old man on a road with scattered oranges, market stalls beside it",
-       "crop": "figs/hr-math-g2/p013-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -105,7 +93,8 @@
       {
        "type": "figure",
        "text": "ढोलक की बारात | चित्र में दिखाए गए संगीत उपकरणों के आकारों में समानता की चर्चा कीजिए और आस-पास उपलब्ध संगीत उपकरणों के विषय में चर्चा कीजिए। संगीत उपकरणों को बजाए जाने के तरीके के आधार पर भी उपकरणों को वर्गीकरण कीजिए जैसे– ढ़म एवं तबला पीटकर बजाए जाते हैं, गिटार और सितार तार से और शहनाई और बाँसुरी फूँक से बजाए जाते हैं। | गणित भाग–1 | 20",
-       "desc": "Chapter 2 opener illustration: a street procession with cartoon musical instruments (dholak on a horse, harmonium, drums, tabla, sitar, shehnai, speaker) and houses; a teacher note panel is overlaid at the bottom."
+       "desc": "Chapter 2 opener illustration: a street procession with cartoon musical instruments (dholak on a horse, harmonium, drums, tabla, sitar, shehnai, speaker) and houses; a teacher note panel is overlaid at the bottom.",
+       "crop": "figs/hr-math-g2/p019-1.webp"
       },
       {
        "type": "bullet",
@@ -117,19 +106,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: cartoon musical instruments with faces on a village road, horse with rider",
-       "crop": "figs/hr-math-g2/p019-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -154,7 +130,8 @@
       {
        "type": "figure",
        "text": "संख्याओं का आनन्द | साँप सीढ़ी पर संख्याएँ लिखो और खेलो | 100 | 1 | (क) बच्चे को गेंद तक पहुँचने के लिए किन-किन संख्याओं से गुजरना पड़ेगा? (ख) 100 तक पहुँचने में सबसे ज्यादा मदद करने वाली सीढ़ी किस संख्या से शुरू होती है तथा किस संख्या तक पहुँचती है? (ग) शेर से बचने के लिए बंदर किस संख्या वाली सीढ़ी पर पहुँचना चाहेगा? (घ) आप सबसे लम्बी सीढ़ी हटाकर किस संख्या से किस संख्या तक लगाना चाहोगे। आप भी ऐसे अन्य प्रश्न बनाकर अपने दोस्त से पूछो। | गणित भाग–1 | 29",
-       "desc": "Chapter 3 opener illustration: a snakes-and-ladders board numbered 1 to 100 with animals, snakes and ladders, and a question panel below."
+       "desc": "Chapter 3 opener illustration: a snakes-and-ladders board numbered 1 to 100 with animals, snakes and ladders, and a question panel below.",
+       "crop": "figs/hr-math-g2/p022-1.webp"
       },
       {
        "type": "bullet",
@@ -178,19 +155,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: snakes and ladders number board from 1 to 100 with animals and questions",
-       "crop": "figs/hr-math-g2/p022-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -218,7 +182,8 @@
       {
        "type": "figure",
        "text": "परछाइयाँ | नीकू और सहज परछाई बना कर खेल रही हैं। | यो के बणा! | अरे वाह! ये कैसे किया ये परछाई क्या गज़ब है। | चलो ऐसी और परछाई बनाकर देखें। | वे दोनों अपनी उँगालियों से विभिन्न पशु/पक्षियों की परछाई बनाने का प्रयास करने लगी। | आप भी कुछ परछाइयाँ बनाने का प्रयास कीजिए। | 40 | गणित भाग-1",
-       "desc": "Reproduced textbook opening page for chapter 4: two girls making hand shadows on a wall, with shadow animals and a signpost marked 40"
+       "desc": "Reproduced textbook opening page for chapter 4: two girls making hand shadows on a wall, with shadow animals and a signpost marked 40",
+       "crop": "figs/hr-math-g2/p028-1.webp"
       },
       {
        "type": "bullet",
@@ -246,19 +211,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: two children making hand shadows on a curtain, with animal hand-shadow examples",
-       "crop": "figs/hr-math-g2/p028-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -295,23 +247,11 @@
       {
        "type": "figure",
        "text": "रेखाओं से खेल | खड़ी रेखा ये ऊपर जाती ऊपर से नीचे तक आती पेड़ बाग में खड़ा हो जैसे गड़ा हो राह में खम्बा वैसे। | पड़ी रेखाएँ बिछती जमीं पर जैसे बाँस पड़ा हो कहीं पर बाएँ से दाएँ ये हैं जाती क्या तुमको बनानी हैं आती? | पहाड़ों के ढ़लान के जैसी पतंग की उड़ान के जैसी टेढ़ी चलती हैं तिरछी रेखा सोचो तुमने कहाँ है देखा? | आधा चाँद, आधी रोटी गोल गोल घूमती रस्सी मोटी इन्द्रधनुष के आकार जैसी घुमावदार रेखा होती है ऐसी। | 53 | गणित भाग-1",
-       "desc": "Reproduced textbook page 53 with title 'रेखाओं से खेल' and a poem with four illustrations (curved road with trees, truck on road with wires, children flying kites near hills, rainbow over river)"
+       "desc": "Reproduced textbook page 53 with title 'रेखाओं से खेल' and a poem with four illustrations (curved road with trees, truck on road with wires, children flying kites near hills, rainbow over river)",
+       "crop": "figs/hr-math-g2/p035-1.webp"
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener page: poem with four scene pictures (road, truck on road, kites over hills, rainbow over river)",
-       "crop": "figs/hr-math-g2/p035-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -352,23 +292,11 @@
       {
        "type": "figure",
        "text": "कितनी मालाएँ–कितने फूल | बन्नो की आई बारात | रानो बिल्ली और भूरू कुत्ता छत पर रस्सी-कूद खेल रहे थे। रानों बिल्ली ने पहली बारी में 15 और दूसरी बारी में 13 कूदें लगाई। | मेरी कुल कूदें हुई 15 + 13 = 25 | नहीं-नहीं! तुम्हारी कुल कूदें हुई 15 + 13 = 29 | आपके हिसाब से कितनी कूदें हुई? | कैसे किया? | मेरे पास एक गिनलड़ी है। चलो गिनलड़ी से पता लगाते हैं कि कुल कितनी कूदें हुई? | 62",
-       "desc": "Reproduced textbook page 62 with animal characters (cat, dog, mouse, monkey, bird, bear, giraffe, rabbit) around a story box with speech bubbles and a 'कैसे किया?' answer box; sum labels 12+15, 12+13, 12+16, 12+17, 13+16, 13+15, 13+14, 13+13 on the border"
+       "desc": "Reproduced textbook page 62 with animal characters (cat, dog, mouse, monkey, bird, bear, giraffe, rabbit) around a story box with speech bubbles and a 'कैसे किया?' answer box; sum labels 12+15, 12+13, 12+16, 12+17, 13+16, 13+15, 13+14, 13+13 on the border",
+       "crop": "figs/hr-math-g2/p038-1.webp"
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter opener page with animals jumping rope, addition problem 15+13 and surrounding animals with sums",
-       "crop": "figs/hr-math-g2/p038-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -389,13 +317,14 @@
    "intro": [
     {
      "number": null,
-     "heading": "दक्षताएँ",
+     "heading": "दक्षताएँ :",
      "minutes": null,
      "items": [
       {
        "type": "figure",
-       "text": "कितने बचे। पीहू अपने पिताजी के साथ गाँव में रहती है। दीवाली आने वाली है तो उसके पिताजी ने बहुत सारे दीये बनाए हैं। आओ देखें वे कैसे दीये बेचने का काम कर रहे हैं। पीहू के पिताजी ने 75 दीये बनाए थे और 35 दीये बेच दिए। कैसे पता लगाएँ कि उनके पास कितने दिए बचे? रुको, मैं अपनी गिनलड़ी लेकर आता हूँ। मैंने पहले 75 गिनें और मैंने 35 कदम पीछे गिना। इसका अर्थ यह है कि अगर हम 35 को 75 में से निकाल लें तो उसका उत्तर 40 होगा। 75 - 35 = 40। बच्चों से चर्चा करें कि कैसे पता लगाया कितने दीये बचे? ऐसे ही प्रश्न बनवाएँ और गिनलड़ी की सहायता से हल करवाएँ। 77 गणित भाग-2",
-       "desc": "Chapter 7 opener illustration: Peehu's father with children and a woman beside a board of diyas, a number line with 75 marked, and a girl showing 75 - 35 = 40; textbook page 77"
+       "text": "कितने बचे | पीहू अपने पिताजी के साथ गाँव में रहती है। दीवाली आने वाली है तो उसके पिताजी ने बहुत सारे दीये बनाए हैं। आओ देखें वे कैसे दीये बेचने का काम कर रहे हैं। पीहू के पिताजी ने 75 दीये बनाए थे और 35 दीये बेच दिए। कैसे पता लगाएँ कि उनके पास कितने दिए बचे? रुको, मैं अपनी गिनलड़ी लेकर आता हूँ। मैंने पहले 75 गिनें और मैंने 35 कदम पीछे गिना। इसका अर्थ यह है कि अगर हम 35 को 75 में से निकाल लें तो उसका उत्तर 40 होगा। 75 - 35 = 40। बच्चों से चर्चा करें कि कैसे पता लगाया कितने दीये बचे? ऐसे ही प्रश्न बनवाएँ और गिनलड़ी की सहायता से हल करवाएँ। 77 गणित भाग-2",
+       "desc": "Chapter 7 opener illustration: Peehu's father with children and a woman beside a board of diyas, a number line with 75 marked, and a girl showing 75 - 35 = 40; textbook page 77",
+       "crop": "figs/hr-math-g2/p043-1.webp"
       },
       {
        "type": "bullet",
@@ -415,19 +344,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter opener page showing diya-selling scene, number line with 75 and subtraction 75-35=40",
-       "crop": "figs/hr-math-g2/p043-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -448,13 +364,14 @@
    "intro": [
     {
      "number": null,
-     "heading": "दक्षताएँ",
+     "heading": "दक्षताएँ :",
      "minutes": null,
      "items": [
       {
        "type": "figure",
-       "text": "रानी का उपहार। एक बार जगदीप नाम का राजा अपनी रानी के लिए नक्काशी वाला बहुत सुंदर पलंग बनवाना चाहता था। उसने अपने नगर का सबसे अच्छा बढ़ई बुलवाया। मैं चाहता हूँ कि पलंग 10 बालिश्त लंबा हो। जी, महाराज। 10। बढ़ई ने पलंग बनाना शुरु किया। 1, 2, 3, ..... 8 यह केवल 8 बालिश्त लंबा है। 8। मैं पलंग पर पूरी तरह नहीं आ पा रही हूँ। ऐसा कैसे हो सकता है?",
-       "desc": "Chapter 8 opener comic: a king asks carpenters for a bed 10 balisht long; carpenters build it; it turns out only 8 balisht long and the queen cannot fit"
+       "text": "रानी का उपहार | एक बार जगदीप नाम का राजा अपनी रानी के लिए नक्काशी वाला बहुत सुंदर पलंग बनवाना चाहता था। उसने अपने नगर का सबसे अच्छा बढ़ई बुलवाया। मैं चाहता हूँ कि पलंग 10 बालिश्त लंबा हो। जी, महाराज। 10। बढ़ई ने पलंग बनाना शुरु किया। 1, 2, 3, ..... 8 यह केवल 8 बालिश्त लंबा है। 8। मैं पलंग पर पूरी तरह नहीं आ पा रही हूँ। ऐसा कैसे हो सकता है?",
+       "desc": "Chapter 8 opener comic: a king asks carpenters for a bed 10 balisht long; carpenters build it; it turns out only 8 balisht long and the queen cannot fit",
+       "crop": "figs/hr-math-g2/p048-1.webp"
       },
       {
        "type": "bullet",
@@ -482,19 +399,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter opener page: story of a king, carpenter and queen with a bed, with length labels 10 and 8",
-       "crop": "figs/hr-math-g2/p048-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -522,7 +426,8 @@
       {
        "type": "figure",
        "text": "बगीचे में बेलपत्र; राजू के घर में बेलपत्र का पेड़ लगा है।; अरे देखो! हर छोटी टहनी पर 3-3 पत्ते लगे हैं।; हाँ! चलो देखें, बड़ी टहनी पर कुल कितने पत्ते हैं?; हर एक टहनी पर 3 पत्ते लगे हैं।; और 5 टहनियाँ हैं।; 109; गणित भाग-2",
-       "desc": "Four-panel comic of two boys counting bael leaves on branches in a garden"
+       "desc": "Four-panel comic of two boys counting bael leaves on branches in a garden",
+       "crop": "figs/hr-math-g2/p054-1.webp"
       },
       {
        "type": "bullet",
@@ -558,19 +463,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter opener comic: two children counting leaves on bael tree branches, 3 leaves per branch",
-       "crop": "figs/hr-math-g2/p054-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -602,7 +494,8 @@
       {
        "type": "figure",
        "text": "मौसम का आनंद 10 पहचानो मौसम भरे बगीचे फूलों से, कोयल, पपीहा गाना गाएँ। पेड़ों पर नए पत्ते आएँ, डाली झूलें, धूम मचाएँ। सूरज चमक रहा है खूब, धरती पर फैली है धूप। बहे पसीना, जलते पाँव, लगे भली पेड़ों की छाँव। बिजली कड़के कड़-कड़-कड़, बादल गरजे गड़-गड़-गड़। पानी बरसा झम-झम-झम, बच्चे दौड़े धम-धम-धम। 129 गणित भाग-2",
-       "desc": "Reproduced textbook page 129 titled 'मौसम का आनंद' (chapter 10) with illustrations of spring flowers and birds, children walking in the sun, and a peacock and frog in the rain, with four short poem stanzas"
+       "desc": "Reproduced textbook page 129 titled 'मौसम का आनंद' (chapter 10) with illustrations of spring flowers and birds, children walking in the sun, and a peacock and frog in the rain, with four short poem stanzas",
+       "crop": "figs/hr-math-g2/p064-1.webp"
       },
       {
        "type": "bullet",
@@ -630,19 +523,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter-opener page 'मौसम का आनंद' with seasonal scenes (spring garden, summer children, rainy peacock) and poem boxes",
-       "crop": "figs/hr-math-g2/p064-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -670,8 +550,9 @@
      "items": [
       {
        "type": "figure",
-       "text": "रुपये-पैसे 11 ईशा अपने मित्रों के साथ मेले में गई। उसकी माँ ने उसे 100 रुपए दिए। ₹ 50 ₹ 32 ₹ 18 ₹ 40 ₹ 28 ₹ 28 ₹ 18 ₹ 32 ₹ 40 ₹ 50 बताओ ईशा किन तीन झूलों पर झूले कि उसके पूरे ₹100 खर्च हो जाएं? सबसे सस्ते और सबसे मंहगे झूलने में झूलने के बाद ईशा के पास कितने रुपये बचेंगें? 149",
-       "desc": "Reproduced textbook page 149 titled 'रुपये-पैसे' (chapter 11): a fair with a Ferris wheel, carousel, swing ride, toy train and children, each ride with a price tag"
+       "text": "रुपये-पैसे 11 ईशा अपने मित्रों के साथ मेले में गई। उसकी माँ ने उसे 100 रुपए दिए। ₹ 50 ₹ 32 ₹ 18 ₹ 40 ₹ 28 ₹ 28 ₹ 18 ₹ 32 ₹ 40 ₹ 50 बताओ ईशा किन तीन झूलों पर झूले कि उसके पूरे ₹100 खर्च हो जाएं? सबसे सस्ते और सबसे मंहगे झूलों में झूलने के बाद ईशा के पास कितने रुपये बचेंगें? 149",
+       "desc": "Reproduced textbook page 149 titled 'रुपये-पैसे' (chapter 11): a fair with a Ferris wheel, carousel, swing ride, toy train and children, each ride with a price tag",
+       "crop": "figs/hr-math-g2/p071-1.webp"
       },
       {
        "type": "bullet",
@@ -687,19 +568,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter-opener page 'रुपये-पैसे' showing a fair with rides priced in rupees and two questions",
-       "crop": "figs/hr-math-g2/p071-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -724,7 +592,8 @@
       {
        "type": "figure",
        "text": "गुब्बारे वाला 12 (क) कौन से रंग के गुब्बारे सबसे ज्यादा हैं? (ख) कौन से रंग के गुब्बारे सबसे कम हैं? 161 गणित भाग-2",
-       "desc": "Reproduced textbook page 161 titled 'गुब्बारे वाला' (chapter 12): balloon seller with a bicycle and three children looking at many coloured balloons in the sky"
+       "desc": "Reproduced textbook page 161 titled 'गुब्बारे वाला' (chapter 12): balloon seller with a bicycle and three children looking at many coloured balloons in the sky",
+       "crop": "figs/hr-math-g2/p074-1.webp"
       },
       {
        "type": "bullet",
@@ -736,19 +605,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Textbook chapter-opener page 'गुब्बारे वाला' showing a balloon seller with children and balloons of different colours, with two questions",
-       "crop": "figs/hr-math-g2/p074-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -1477,7 +1333,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     16,
     17,
@@ -1662,7 +1531,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     16,
     17,
@@ -1838,7 +1720,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     16,
     17,
@@ -2192,7 +2087,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -2397,7 +2292,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -2575,7 +2470,7 @@
         },
         {
          "type": "bullet",
-         "text": "संख्या चार्ट की सहायता से संख्याओं में पैटर्न के नियम के अनुसार दर्शाना और लिखना सिखाएं।"
+         "text": "संख्या चार्ट की सहायता से संख्याओं में पैटर्न के नियम के अनुसार दर्शाना और लिखना सिखाएँ।"
         },
         {
          "type": "bullet",
@@ -2583,7 +2478,7 @@
         },
         {
          "type": "bullet",
-         "text": "अब बच्चों को 99, 89, 79, 69 में उल्टा क्रम दर्शाएं। जब बड़ी संख्या से छोटी संख्या की तरफ जाते हैं, तो वह उल्टा क्रम होता है।"
+         "text": "अब बच्चों को 99, 89, 79, 69 में उल्टा क्रम दर्शाएँ। जब बड़ी संख्या से छोटी संख्या की तरफ जाते हैं, तो वह उल्टा क्रम होता है।"
         },
         {
          "type": "bullet",
@@ -2591,7 +2486,7 @@
         },
         {
          "type": "bullet",
-         "text": "10, 8, 6, 4 से 2 तक पहुंचने के पैटर्न के नियम को दर्शाएं।"
+         "text": "10, 8, 6, 4 से 2 तक पहुंचने के पैटर्न के नियम को दर्शाएँ।"
         }
        ],
        "sections": []
@@ -2655,7 +2550,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     25,
     26,
@@ -2792,7 +2700,7 @@
         },
         {
          "type": "bullet",
-         "text": "फिर उन्हें समझाएँ कि 2 काउंटर्स के समूह से 4 काउंटर्स के समूह तक जाने में दो संख्याएँ कूदी गई हैं। ऐसे ही 4 से 6 और 6 से 8 काउंटर्स तक जाने में भी दो-दो संख्याएँ कूदी गई हैं।"
+         "text": "फिर उन्हें समझाएँ कि 2 काउंटर्स के समूह से 4 काउंटर्स के समूह तक जाने में दो संख्याएँ कूदी गई हैं। ऐसे ही 4 से 6 और 6 से 8 काउंटर्स तक जाने में भी दो.दो संख्याएँ कूदी गई हैं।"
         },
         {
          "type": "bullet",
@@ -2896,7 +2804,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     25,
     26,
@@ -3056,7 +2977,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -3255,7 +3176,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -3458,7 +3379,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -3495,7 +3416,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     32,
     33,
@@ -3656,7 +3590,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -3693,7 +3627,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     32,
     33,
@@ -3773,7 +3720,7 @@
         },
         {
          "type": "bullet",
-         "text": "उन्हें बताएं कि सीधी रेखा भी तीन प्रकार की होती हैं – खड़ी, पड़ी और तिरछी।"
+         "text": "उन्हें बताएँ कि सीधी रेखा भी तीन प्रकार की होती हैं – खड़ी, पड़ी और तिरछी।"
         },
         {
          "type": "bullet",
@@ -4474,7 +4421,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     41,
     42
@@ -4663,7 +4623,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     41,
     42
@@ -4776,7 +4749,7 @@
         },
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब कक्षा में दी गई गतिविधियों करके अवधारणा को सुदृढ़ करें।"
+         "text": "अध्यापक/अध्यापिका अब कक्षा में दी गई गतिविधियाँ करके अवधारणा को सुदृढ़ करें।"
         },
         {
          "type": "bullet",
@@ -4977,7 +4950,7 @@
         },
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब कक्षा में दी गई गतिविधियों करके अवधारणा को सुदृढ़ करें।"
+         "text": "अध्यापक/अध्यापिका अब कक्षा में दी गई गतिविधियाँ करके अवधारणा को सुदृढ़ करें।"
         },
         {
          "type": "bullet",
@@ -5029,7 +5002,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाए। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाए। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -5214,7 +5187,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह आपस में समझ सके।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सके।"
         }
        ],
        "sections": []
@@ -5258,7 +5231,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     46,
     47
@@ -5399,7 +5385,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -5443,7 +5429,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     46,
     47
@@ -5609,7 +5608,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सके।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -6497,7 +6496,7 @@
         },
         {
          "type": "bullet",
-         "text": "विभिन्न मान के नोटों से विभिन्न पहाड़े बना कर दिखाएं।"
+         "text": "विभिन्न मान के नोटों से विभिन्न पहाड़े बना कर दिखाएँ।"
         },
         {
          "type": "bullet",
@@ -7633,7 +7632,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     61,
     62,
@@ -7664,8 +7676,7 @@
    "column": 2,
    "keys_evidence": "calendar badge 'Day 15-16' in second column; orange band 'बगीचे में बेलपत्र'",
    "intro": [
-    "भाग के इबारती प्रश्न।",
-    "भाग के इबारती प्रश्न"
+    "भाग के इबारती प्रश्न।"
    ],
    "sections": [
     {
@@ -7821,7 +7832,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     61,
     62,
@@ -8558,7 +8582,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     68,
     69,
@@ -8682,11 +8719,6 @@
          "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
         },
         {
-         "type": "figure",
-         "desc": "Simple map with main road, shop, cricket ground, pond, bank and hotel for direction questions",
-         "crop": "figs/hr-math-g2/p069-1.webp"
-        },
-        {
          "type": "text",
          "text": "अध्यापक/अध्यापिका पाठ्यपुस्तक में, पृष्ठ संख्या 144 पर दी गई गतिविधि करवाएँ। इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।"
         },
@@ -8701,7 +8733,8 @@
         {
          "type": "figure",
          "text": "दुकान क्रिकेट ग्राउंड तालाब मुख्य सड़क बैंक होटल",
-         "desc": "Simple map with a vertical main road (मुख्य सड़क), a side road on the left with a shop and bank, a green oval cricket ground, a blue pond and an orange hotel on the right"
+         "desc": "Simple map with a vertical main road (मुख्य सड़क), a side road on the left with a shop and bank, a green oval cricket ground, a blue pond and an orange hotel on the right",
+         "crop": "figs/hr-math-g2/p069-1.webp"
         },
         {
          "type": "bullet",
@@ -8821,7 +8854,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     68,
     69,
@@ -9026,7 +9072,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     72,
     73
@@ -9144,7 +9203,7 @@
         },
         {
          "type": "bullet",
-         "text": "फिर उन्हें समझाएँ कि वे 85 से छोटे मान वाले सिक्कों और नोटों को जोड़कर 85 रुपये का मूल्य चुका सकते हैं।"
+         "text": "फिर उन्हें समझाएँ कि वे 85 से छोटे मान वाले सिक्कों और नोटों को जोड़कर 85 रूपये का मूल्य चुका सकते हैं।"
         },
         {
          "type": "bullet",
@@ -9228,7 +9287,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     72,
     73
@@ -9422,7 +9494,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     75,
     76
@@ -9545,7 +9630,7 @@
         },
         {
          "type": "bullet",
-         "text": "चित्रालेख की सहायता से बच्चों को विभिन्न जानकारियां प्राप्त करना सिखाएँ जैसे कौन–सा फल सबसे अधिक बच्चों को पसंद है और कौन–सा सबसे कम बच्चों को, आदि।"
+         "text": "चित्रालेख की सहायता से बच्चों को विभिन्न जानकारियाँ प्राप्त करना सिखाएँ जैसे कौन–सा फल सबसे अधिक बच्चों को पसंद है और कौन–सा सबसे कम बच्चों को, आदि।"
         },
         {
          "type": "bullet",
@@ -9633,7 +9718,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     75,
     76
@@ -11166,8 +11264,8 @@
  ],
  "missing_pages": [],
  "figures": {
-  "placed": 1,
-  "merged": 2,
+  "placed": 0,
+  "merged": 3,
   "opener": 12,
   "unplaced": [],
   "blank": []

@@ -37,7 +37,8 @@
       {
        "type": "figure",
        "text": "चक धूम धूम – चक धूम धूम चक धूम धूम – चक। मम्मी मेरे पास, मामा मेरे दूर दादी का घर पास, नानी का घर दूर। | चक धूम धूम – चक धूम धूम चक धूम धूम – चक। किताबें बस्ते के अंदर, बोतल मेरी बाहर मटका घर के अंदर, नलका घर के बाहर। | चक धूम धूम – चक धूम धूम चक धूम धूम – चक। पंखा मेरे ऊपर, बस्ता मेरा नीचे फल लगा है ऊपर, पत्ते गिरे हैं नीचे। चक धूम धूम – चक।",
-       "desc": "Illustration of a village scene with a house, children and a mango tree, with four speech bubbles containing a rhyme and a QR code"
+       "desc": "Illustration of a village scene with a house, children and a mango tree, with four speech bubbles containing a rhyme and a QR code",
+       "crop": "figs/hr-math-g1/p015-1.webp"
       },
       {
        "type": "bullet",
@@ -73,19 +74,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener scene: children and a house with speech bubbles of chak dhoom dhoom rhyme, mango tree",
-       "crop": "figs/hr-math-g1/p015-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -113,7 +101,8 @@
       {
        "type": "figure",
        "text": "क्या है लंबा? क्या है गोल? जल्दी बोल, जल्दी बोल। | पेंसिल बॉक्स है लंबा, गेंद है गोल। क्या है लंबा, क्या है गोल, जल्दी बोल, जल्दी बोल। | देखो, देखो मेरी टाँगें हैं लंबी, मेरा चेहरा है गोल। | यह खेल बच्चों के साथ कक्षा में खेलें। बच्चों को लंबाई एवं गोलाई के आधार पर दो-दो वस्तुओं के नाम बताने के लिए कहें। हर बार नई वस्तुओं का नाम लेना है, दोहराना नहीं है। बच्चे वस्तुओं के एक ही आयाम की ओर ध्यान देकर भी उनका वर्गीकरण कर सकते हैं। जैसे कोई गिलास को लंबा और कोई अन्य बच्चा उसे गोल कह सकता है। दोनों तरह के उत्तरों को तर्क के आधार पर सही माना जाए। बच्चों को अपने वर्गीकरण का तर्क देने के लिए कहें।",
-       "desc": "Classroom illustration with a teacher and children sitting on a rug with objects, labelled 'अपने आस-पास देखो', with speech bubbles and a teacher note box"
+       "desc": "Classroom illustration with a teacher and children sitting on a rug with objects, labelled 'अपने आस-पास देखो', with speech bubbles and a teacher note box",
+       "crop": "figs/hr-math-g1/p021-1.webp"
       },
       {
        "type": "bullet",
@@ -125,19 +114,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener scene: teacher and children sitting on a rug with objects, speech bubbles about long and round things",
-       "crop": "figs/hr-math-g1/p021-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -162,7 +138,8 @@
       {
        "type": "figure",
        "text": "गिलहरी खा रही थी आम | आम पेड़ से गिरा | धड़ाम! | 1 पक्षी आता है। अब 2 पशु-पक्षी आम खा रहे हैं। | एक और पक्षी आता है। अब 3 पशु-पक्षी आम खा रहे हैं। | एक और पक्षी आता है। अब 4 पशु-पक्षी आम खा रहे हैं। | एक और अन्य पक्षी आता है। अब 5 पशु-पक्षी आम खा रहे हैं।",
-       "desc": "Six-panel comic of a squirrel with a fallen mango and animals and birds arriving one by one to eat it"
+       "desc": "Six-panel comic of a squirrel with a fallen mango and animals and birds arriving one by one to eat it",
+       "crop": "figs/hr-math-g1/p024-1.webp"
       },
       {
        "type": "bullet",
@@ -190,19 +167,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Six-panel picture story of a squirrel, mango and birds arriving to eat, with counts 1 to 5 animals eating mango",
-       "crop": "figs/hr-math-g1/p024-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -229,7 +193,8 @@
       {
        "type": "figure",
        "text": "चिंकी का जन्मदिन | बिंदियों वाला कीड़ा | क्या आपने कभी ऐसा कीड़ा देखा है? इसके शरीर पर बहुत सारी बिंदियाँ होती हैं। क्या आपने कभी इन बिंदियों की संख्या को ध्यान से देखा है? | कीड़े पर बनी बिंदियों की संख्या को दिए गए बॉक्स में लिखिए। | चुटकी कुछ बीज चुनकर लाई है उसने चुने हुए बीजों से कुछ डिजाइन बनाएँ हैं। आइए, प्रत्येक डिजाइन में लगे बीजों की संख्या का पता लगाने में चुटकी की मदद करें।",
-       "desc": "Reproduced textbook page: squirrel on a rock, ladybirds with spots on flowers and leaves each with an empty answer box, a girl with seeds arranged in designs"
+       "desc": "Reproduced textbook page: squirrel on a rock, ladybirds with spots on flowers and leaves each with an empty answer box, a girl with seeds arranged in designs",
+       "crop": "figs/hr-math-g1/p029-1.webp"
       },
       {
        "type": "bullet",
@@ -249,19 +214,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Ladybug on dandelion flowers",
-       "crop": "figs/hr-math-g1/p029-1.webp"
-      }
-     ]
     },
     {
      "number": null,
@@ -316,7 +268,8 @@
       {
        "type": "figure",
        "text": "कितने मेरी मुट्ठी में | दादाजी के साथ सैर | चित्रों को देखने के पश्चात बच्चों को कहानी सुनाने के लिए कहें। बच्चों से पूछें कि वे उद्यान (पार्क) में क्या करते हैं, कौन-सा खेल खेलते हैं? अपने बड़ों जैसे–दादा-दादी, नाना-नानी इत्यादि के साथ किस प्रकार बातचीत करते हैं। उद्यान में एकत्र होने वाले लोगों की संख्या में वृद्धि के विषय में चर्चा करें। उदाहरण के लिए, पहले चित्र में कितने बच्चे खेल रहे हैं और कितने बच्चे बाद में आए? बच्चों से बातचीत करें कि बड़े-बूढ़ों के साथ समय क्यों बिताना चाहिए और उनके प्रति सम्मान दिखाने के तरीकों पर भी बात करें।",
-       "desc": "Reproduced textbook page: park scene with elderly people on a bench and in a wheelchair, children playing with a ball, a teacher character at the bottom right"
+       "desc": "Reproduced textbook page: park scene with elderly people on a bench and in a wheelchair, children playing with a ball, a teacher character at the bottom right",
+       "crop": "figs/hr-math-g1/p036-1.webp"
       },
       {
        "type": "bullet",
@@ -340,19 +293,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Park scene panels: elderly people on bench and wheelchair, children playing with a ball (walk with grandfather)",
-       "crop": "figs/hr-math-g1/p036-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -410,7 +350,8 @@
       {
        "type": "figure",
        "text": "चिड़िया उड़ | पाँच छोटी चिड़ियाँ घूम रही बाज़ार एक चिड़िया उड़ गई बच गई चार | चार छोटी चिड़ियाँ बजा रही थी बीन एक चिड़िया उड़ गई बच गई तीन | तीन छोटी चिड़ियाँ खेल रही थी खो एक चिड़िया उड़ गई बच गई दो | दो छोटी चिड़ियाँ खा रही थी केक एक चिड़िया उड़ गई बच गई एक | एक छोटी चिड़िया बन रही थी हीरो वो भी उड़ गई अब बच गई जीरो",
-       "desc": "Chapter illustration: a rock with the number 6, small birds in a market, on a wall playing horns, at a running track, at a birthday party, and a bird leaving a nest, with a QR code"
+       "desc": "Chapter illustration: a rock with the number 6, small birds in a market, on a wall playing horns, at a running track, at a birthday party, and a bird leaving a nest, with a QR code",
+       "crop": "figs/hr-math-g1/p040-1.webp"
       }
      ],
      "sections": []
@@ -438,19 +379,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener story page with illustrated bird rhyme scenes and talk questions",
-       "crop": "figs/hr-math-g1/p040-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -501,23 +429,11 @@
       {
        "type": "figure",
        "text": "मैं कहाँ से आया! कैसे हुआ इतना बड़ा? | कल तुम बीज गुठलियाँ लेकर आना, फिर सब बताऊँगा! | देखो! कितना बड़ा पेड़? | तुम कहाँ से आए? इतने बड़े कैसे हुए?",
-       "desc": "Chapter illustration: a talking tree with a face and four children in a meadow, with a rock numbered 7 and a QR code"
+       "desc": "Chapter illustration: a talking tree with a face and four children in a meadow, with a rock numbered 7 and a QR code",
+       "crop": "figs/hr-math-g1/p045-1.webp"
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: talking tree and children in a park with speech bubbles",
-       "crop": "figs/hr-math-g1/p045-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -549,7 +465,8 @@
       {
        "type": "figure",
        "text": "अनवी स्टूल पर खड़ी है। उसे लंबा दिखना बहुत पसंद है।",
-       "desc": "Illustration of Anvi's family standing together: father, mother, grandmother, grandfather, a boy with crutches and a girl standing on a stool"
+       "desc": "Illustration of Anvi's family standing together: father, mother, grandmother, grandfather, a boy with crutches and a girl standing on a stool",
+       "crop": "figs/hr-math-g1/p051-1.webp"
       }
      ],
      "sections": []
@@ -585,19 +502,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Illustration of Anvi's family: parents, grandparents, brother on crutches and Anvi standing on a stool",
-       "crop": "figs/hr-math-g1/p051-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -628,7 +532,8 @@
       {
        "type": "figure",
        "text": "रै! जी सा आग्या",
-       "desc": "Illustration of a large tree laden with gulgule, children climbing and eating, a child collecting them in a basket, and a boy asleep in bed dreaming"
+       "desc": "Illustration of a large tree laden with gulgule, children climbing and eating, a child collecting them in a basket, and a boy asleep in bed dreaming",
+       "crop": "figs/hr-math-g1/p056-1.webp"
       }
      ],
      "sections": []
@@ -668,19 +573,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: children eating guava-like fruit under a large fruit tree, child sleeping in bed",
-       "crop": "figs/hr-math-g1/p056-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -707,7 +599,8 @@
       {
        "type": "figure",
        "text": "आई तीज़ बो गई बीज; लोहड़ी की आ गई बारी भंगड़े की करो तैयारी",
-       "desc": "Illustration of festival scenes: a woman on a swing, a family holding sparklers, a kite, a drummer, children dancing around a bonfire, decorated pots; QR code N4K6N3"
+       "desc": "Illustration of festival scenes: a woman on a swing, a family holding sparklers, a kite, a drummer, children dancing around a bonfire, decorated pots; QR code N4K6N3",
+       "crop": "figs/hr-math-g1/p061-1.webp"
       },
       {
        "type": "bullet",
@@ -727,19 +620,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration: festival scene with Teej swing, diyas, kite, Lohri bonfire and dancers",
-       "crop": "figs/hr-math-g1/p061-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -765,7 +645,8 @@
       {
        "type": "figure",
        "text": "हैलो दोस्तों! मैं हूँ सूरज। चलो आज मैं आपको अपनी दोस्त शीनू से मिलवाता हूँ। देखो वह मेरे आने पर कितनी खुश होती है और क्या-क्या करती है? मुर्गा बोला कुक्कड़-कू तुम सोए हो अब तक क्यों? चिड़िया बोली चीं-चीं-चीं, तड़के उठ कर पानी पी। मेंढक करता टर-टर-टर ब्रश-कुल्ला रोज कर। अब मैं आसमान में ऊपर आ गया दोपहर का समय हो गया",
-       "desc": "Illustration of a girl's daily routine around a smiling sun: waking up, brushing, combing, breakfast, leaving home, school, lunch, returning home; QR code F2P1B4"
+       "desc": "Illustration of a girl's daily routine around a smiling sun: waking up, brushing, combing, breakfast, leaving home, school, lunch, returning home; QR code F2P1B4",
+       "crop": "figs/hr-math-g1/p065-1.webp"
       },
       {
        "type": "bullet",
@@ -773,7 +654,7 @@
       },
       {
        "type": "bullet",
-       "text": "एक घटना में घटित होने में लगे समय का कम या ज्यादा के आधार पर अनुमान लगाना।"
+       "text": "एक घटना में घटित होने में लगे समय का कम या ज़्यादा के आधार पर अनुमान लगाना।"
       },
       {
        "type": "bullet",
@@ -785,19 +666,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Chapter opener illustration of the smiling sun and a girl's daily routine from morning to afternoon",
-       "crop": "figs/hr-math-g1/p065-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -827,7 +695,8 @@
       {
        "type": "figure",
        "text": "12 घूमने का आनन्द",
-       "desc": "Illustration of a lake with children in swan-shaped paddle boats, ducks, trees, benches, and a balloon seller with a girl on the shore; chapter number 12 on a rock and a small QR code at top"
+       "desc": "Illustration of a lake with children in swan-shaped paddle boats, ducks, trees, benches, and a balloon seller with a girl on the shore; chapter number 12 on a rock and a small QR code at top",
+       "crop": "figs/hr-math-g1/p069-1.webp"
       }
      ],
      "sections": []
@@ -863,19 +732,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Scene of children in swan boats on Sukhna lake with ducks, a balloon seller and a dustbin",
-       "crop": "figs/hr-math-g1/p069-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -904,7 +760,8 @@
       {
        "type": "figure",
        "text": "13 गुल्लक",
-       "desc": "Illustration of a girl kneeling on a blue mat beside a broken piggy bank with coins and notes spread out; chapter number 13 on a rock and a small QR code at top"
+       "desc": "Illustration of a girl kneeling on a blue mat beside a broken piggy bank with coins and notes spread out; chapter number 13 on a rock and a small QR code at top",
+       "crop": "figs/hr-math-g1/p072-1.webp"
       },
       {
        "type": "table",
@@ -968,19 +825,6 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Girl kneeling on a blue mat with a broken piggy bank and a pile of coins and notes",
-       "crop": "figs/hr-math-g1/p072-1.webp"
-      }
-     ]
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
        "desc": "Table with coin and note pictures (columns सिक्के, कितने, नोट, कितने) with blank count lines",
        "crop": "figs/hr-math-g1/p072-2.webp"
       }
@@ -1013,7 +857,8 @@
       {
        "type": "figure",
        "text": "बाल दिवस; पर मुझे पता नहीं है किसको कौन सा फल पसंद है?; क्या आप कोई तरीका बता सकते हो जिससे पता लगाया जा सके कितने बच्चों को कौन-सा फल पसंद है?; हाँ, हम पर्ची पर बच्चे का नाम और फल का नाम लिखवा सकते हैं।",
-       "desc": "Classroom scene: a teacher standing beside a blackboard reading 'बाल दिवस', children seated at desks, one child raising a hand; chapter number 14 on a rock and a small QR code at top"
+       "desc": "Classroom scene: a teacher standing beside a blackboard reading 'बाल दिवस', children seated at desks, one child raising a hand; chapter number 14 on a rock and a small QR code at top",
+       "crop": "figs/hr-math-g1/p075-1.webp"
       },
       {
        "type": "text",
@@ -1033,19 +878,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Classroom with Bal Diwas board, teacher and seated children, with a speech bubble",
-       "crop": "figs/hr-math-g1/p075-1.webp"
-      }
-     ]
     },
     {
      "number": null,
@@ -1232,7 +1064,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -1446,7 +1278,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
        "minutes": null,
        "items": [
         {
@@ -1583,7 +1415,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएं।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -1631,7 +1463,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएं।",
+       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -1680,7 +1512,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     18,
     19,
@@ -1769,7 +1614,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएं।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -1813,7 +1658,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएं।",
+       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -1862,7 +1707,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     18,
     19,
@@ -1960,7 +1818,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएं।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -2013,7 +1871,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएं।",
+       "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -2062,7 +1920,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     18,
     19,
@@ -2216,7 +2087,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -2260,7 +2131,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     22,
     23
@@ -2409,7 +2293,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -2453,7 +2337,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     22,
     23
@@ -2590,7 +2487,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -2783,7 +2680,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -2964,7 +2861,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटें और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
+         "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"
         }
        ],
        "sections": []
@@ -3104,7 +3001,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएं।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -3114,22 +3011,14 @@
         {
          "type": "bullet",
          "text": "फिर बच्चों से पूछें कि किस संख्या के लिए काउंटर्स की संख्या अधिक है?"
-        }
-       ],
-       "sections": []
-      },
-      {
-       "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
-       "minutes": null,
-       "items": [
+        },
         {
          "type": "bullet",
          "text": "फिर बच्चों को बताएँ कि जिस संख्या के लिए काउंटर्स की संख्या अधिक है, वह संख्या बड़ी है और जिस संख्या के लिए काउंटर्स की संख्या कम है, वह संख्या छोटी है।"
         },
         {
          "type": "bullet",
-         "text": "अब उन्हें समझाएँ कि जब हम संख्याओं को छोटे से बड़े के क्रम में लिखते हैं यानी 1, 2, 3, 4, 5 तो यह क्रम संख्याओं का सीधा क्रम कहलाता है और जब हम संख्याओं को बड़े से छोटे के क्रम में लिखते हैं यानि 5, 4, 3, 2, 1 तो वह क्रम संख्याओं का उल्टा क्रम कहलाता है।"
+         "text": "अब उन्हें समझाएँ कि जब हम संख्याओ को छोटे से बड़े के क्रम में लिखते हैं यानी 1, 2, 3, 4, 5 तो यह क्रम संख्याओं का सीधा क्रम कहलाता है और जब हम संख्याओं को बड़े से छोटे के क्रम में लिखते हैं यानि 5, 4, 3, 2, 1 तो वह क्रम संख्याओं का उल्टा क्रम कहलाता है।"
         }
        ],
        "sections": []
@@ -3193,7 +3082,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     27,
     28
@@ -3267,7 +3169,7 @@
         },
         {
          "type": "bullet",
-         "text": "ज्यादा और कम की अवधारणा क्या होती है?"
+         "text": "ज़्यादा और कम की अवधारणा क्या होती है?"
         },
         {
          "type": "bullet",
@@ -3307,7 +3209,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारण को समझाएँ।"
+         "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
         },
         {
          "type": "bullet",
@@ -3319,7 +3221,7 @@
         },
         {
          "type": "bullet",
-         "text": "अब उनसे पूछें कि किस काउंटर समूह में काउंटर्स की संख्या दूसरे समूह के काउंटर्स से अधिक या कम है।"
+         "text": "अब उनसे पूछें कि किस काउंटर समूह में काउंटर्स की संख्या दूसरे समूह के काउंटर से अधिक या कम है।"
         },
         {
          "type": "bullet",
@@ -3359,7 +3261,7 @@
         },
         {
          "type": "text",
-         "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"
+         "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"
         }
        ],
        "sections": []
@@ -3387,7 +3289,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     27,
     28
@@ -3505,7 +3420,7 @@
         },
         {
          "type": "text",
-         "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
+         "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
         }
        ],
        "sections": []
@@ -3569,7 +3484,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     27,
     28
@@ -3890,11 +3818,11 @@
         },
         {
          "type": "bullet",
-         "text": "अध्यापक/अध्यापिका बच्चों से पूछे कि उनके हाथ में कितनी उँगलियाँ हैं, फिर उन्हें बताएं कि 10 हैं और 10 काउंटर को बोर्ड पर चिपका दें।"
+         "text": "अध्यापक/अध्यापिका बच्चों से पूछे कि उनके हाथ में कितनी उँगलियाँ हैं, फिर उन्हें बताएं कि 10 हैं और 10 काउंटर्स को बोर्ड पर चिपका दें।"
         },
         {
          "type": "bullet",
-         "text": "अब उन्हें बताएं कि 10 के आगे आता है 11 और बोर्ड पर 11 काउंटर चिपका दें।"
+         "text": "अब उन्हें बताएं कि 10 के आगे आता है 11 और बोर्ड पर 11 काउंटर्स चिपका दें।"
         },
         {
          "type": "bullet",
@@ -3922,7 +3850,7 @@
         },
         {
          "type": "text",
-         "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
+         "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
         }
        ],
        "sections": []
@@ -4130,7 +4058,7 @@
         },
         {
          "type": "text",
-         "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
+         "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
         }
        ],
        "sections": []
@@ -4162,7 +4090,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 58, 59 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएं।"
+         "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 58, 59 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"
         },
         {
          "type": "text",
@@ -4394,7 +4322,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     33,
     34,
@@ -4598,7 +4539,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     33,
     34,
@@ -4798,7 +4752,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     33,
     34,
@@ -4993,7 +4960,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     37,
     38,
@@ -5192,7 +5172,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     37,
     38,
@@ -5395,7 +5388,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     37,
     38,
@@ -6029,7 +6035,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     43,
     44
@@ -6145,7 +6164,7 @@
         },
         {
          "type": "bullet",
-         "text": "काउंटर्स की सहायता से बच्चों को 2 पीले और 5 हरे काउंटर लगा कर दिखायें।"
+         "text": "काउंटर्स की सहायता से बच्चों को 2 पीले और 5 हरे काउंटर लगा कर दिखाएँ।"
         },
         {
          "type": "bullet",
@@ -6157,7 +6176,7 @@
         },
         {
          "type": "bullet",
-         "text": "बेस 10 ब्लॉक्स में से 8 इकाई के ब्लॉक्स बोर्ड पर लगाएँ।"
+         "text": "बेस 10 ब्लॉक्स में से 8 इकाई के ब्लॉक बोर्ड पर लगाएँ।"
         },
         {
          "type": "bullet",
@@ -6237,7 +6256,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     43,
     44
@@ -6704,7 +6736,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका 20 तक संख्याओं के घटाव की अवधारणा पर मौखिक चर्चा करें। बच्चों से प्रश्न पूछें –"
+         "text": "अध्यापक/अध्यापिका 20 तक संख्याओं के घटाव की अवधारणा पर मौखिक चर्चा करें। बच्चों से प्रश्न पूछें जैसे –"
         },
         {
          "type": "bullet",
@@ -6856,7 +6888,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     49,
     50
@@ -7058,7 +7103,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     49,
     50
@@ -7208,7 +7266,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -7380,7 +7438,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -7630,7 +7688,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     54,
     55
@@ -7816,7 +7887,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     54,
     55
@@ -7926,7 +8010,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियों करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
+         "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
         },
         {
          "type": "bullet",
@@ -8060,7 +8144,7 @@
    "keys_evidence": "orange band 'गुलगुले का पेड़'; calendar badge 'Day 3-4'",
    "intro": [
     "50 तक वस्तुओं/संख्याओं को 10 के समूह बनाकर दर्शाना।",
-    "50 तक इकाई और दहाई की अवधारणा समझाना।"
+    "50 तक इकाई और दहाई की अवधारणा समझना।"
    ],
    "sections": [
     {
@@ -8128,7 +8212,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियों करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
+         "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"
         },
         {
          "type": "text",
@@ -8322,7 +8406,7 @@
         },
         {
          "type": "bullet",
-         "text": "50 से 99 तक की उल्टी और सीधी गिनती कैसी की जाती है।"
+         "text": "50 से 99 तक की उल्टी और सीधी गिनती कैसे की जाती है।"
         },
         {
          "type": "text",
@@ -8446,7 +8530,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     59,
     60
@@ -8578,7 +8675,7 @@
         },
         {
          "type": "bullet",
-         "text": "अध्यापक/अध्यापिका बच्चों से पूछें यदि 6 दहाई और 7 इकाई हों, तो कौन–सी संख्या बनेगी?"
+         "text": "अध्यापक/अध्यापिका बच्चों से पूछे यदि 6 दहाई और 7 इकाई हों, तो कौन–सी संख्या बनेगी?"
         },
         {
          "type": "bullet",
@@ -8650,7 +8747,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     59,
     60
@@ -8819,7 +8929,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -8856,7 +8966,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     62,
     63,
@@ -9033,7 +9156,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9070,7 +9193,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     62,
     63,
@@ -9214,7 +9350,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9251,7 +9387,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     66,
     67,
@@ -9285,8 +9434,7 @@
    "column": 2,
    "keys_evidence": "orange band 'हँसता सूरज'; calendar badge 'Day 3-4'",
    "intro": [
-    "एक घटना के घटित होने में लगे समय का कम या ज्यादा के आधार पर अनुमान लगाना।",
-    "एक घटना होने में लगे समय का कम या ज़्यादा के आधार पर अनुमान लगाना।"
+    "एक घटना के घटित होने में लगे समय का कम या ज़्यादा के आधार पर अनुमान लगाना।"
    ],
    "sections": [
     {
@@ -9425,7 +9573,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9462,7 +9610,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     66,
     67,
@@ -9623,7 +9784,7 @@
       },
       {
        "number": null,
-       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+       "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9660,7 +9821,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     66,
     67,
@@ -9984,11 +10158,11 @@
         },
         {
          "type": "bullet",
-         "text": "एक रूपये, दो रूपये, पाँच रुपये, दस रूपये और बीस रूपये के सिक्के तथा एक रुपये, दो रुपये, पाँच रुपये, दस रुपये, बीस रुपये और पचास रुपये की प्ले–मनी लें।"
+         "text": "एक रुपये, दो रुपये, पाँच रुपये, दस रुपये और बीस रुपये के सिक्के तथा एक रुपये, दो रुपये, पाँच रुपये, दस रुपये, बीस रुपये और पचास रुपये की प्ले–मनी लें।"
         },
         {
          "type": "bullet",
-         "text": "अब बच्चों को एक रूपये का सिक्का दिखाएँ और उनसे पूछें कि उस पर कौन–सी संख्या लिखी है? बच्चों को उत्तर देने के लिए प्रोत्साहित करें।"
+         "text": "अब बच्चों को एक रुपये का सिक्का दिखाएँ और उनसे पूछें कि उस पर कौन–सी संख्या लिखी है? बच्चों को उत्तर देने के लिए प्रोत्साहित करें।"
         },
         {
          "type": "bullet",
@@ -10198,7 +10372,7 @@
         },
         {
          "type": "bullet",
-         "text": "ऐसे ही कुछ बच्चों से उनकी पसंद पूछें और ब्लॉक्स को अलग–अलग इकठ्ठा करें।"
+         "text": "ऐसे ही कुछ बच्चों से उनकी पसंद पूछें और ब्लॉक्स को अलग–अलग इकट्ठा करें।"
         },
         {
          "type": "bullet",

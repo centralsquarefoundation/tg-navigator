@@ -26,6 +26,22 @@ def figure_sheet(cfg, g, pages, out_dir, doc):
     return '\n'.join(lines)
 
 
+def proof_sheet(cfg, g, pages, out_dir, doc):
+    prof = g['profileData']
+    lines = [(ROOT / 'engine/prompts/proofread.md').read_text(encoding='utf-8'), '',
+             '## PROFILE: ' + prof.get('id', g['profile'])]
+    lines += [f'- {n}' for n in prof['layout_notes']]
+    lines += ['', '## PAGES TO PROOFREAD']
+    for p in pages:
+        qs = [build(cfg['id'], 'vision', doc, f'p{p:03d}-q{k}.png') for k in range(1, 5)]
+        if all(q.exists() for q in qs):   # sharper overlapping bands, top to bottom
+            imgs = ', '.join(f'`{q}`' for q in qs)
+        else:
+            imgs = f"`{build(cfg['id'], 'vision', doc, f'p{p:03d}-a.png')}` and `{build(cfg['id'], 'vision', doc, f'p{p:03d}-b.png')}`"
+        lines.append(f'- page {p}: images {imgs}; JSON `{out_dir / f"p{p:03d}.json"}`')
+    return '\n'.join(lines)
+
+
 def sheet(cfg, g, pages, out_dir, doc):
     prof = g['profileData']
     lines = [(ROOT / 'engine/prompts/transcribe.md').read_text(encoding='utf-8'), '',
@@ -55,7 +71,7 @@ def main():
     ap.add_argument('--doc', help='only this volume of a multi-volume guide')
     ap.add_argument('--batch', type=int, default=8)
     ap.add_argument('--tag', default='')
-    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures'])
+    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures', 'proofread'])
     a = ap.parse_args()
     cfg = load_state(a.state)
     g = guide(cfg, a.guide)
@@ -63,15 +79,15 @@ def main():
     for part in g['parts']:
         if a.doc and part['doc'] != a.doc:
             continue
-        out_dir = work(a.state, 'vision' if a.kind == 'transcribe' else 'figures', part['doc'], 'x').parent
+        out_dir = work(a.state, 'figures' if a.kind == 'figures' else 'vision', part['doc'], 'x').parent
         spec = a.pages or part['pages'].get(a.part, '')
-        todo = [p for p in parse_pages(spec) if not (out_dir / f'p{p:03d}.json').exists()]
+        todo = [p for p in parse_pages(spec) if (out_dir / f'p{p:03d}.json').exists() == (a.kind == 'proofread')]
         total += len(todo)
         for i in range(0, len(todo), a.batch):
             chunk = todo[i:i + a.batch]
-            name = f"{'fig-' if a.kind == 'figures' else ''}{g['id']}{a.tag}-{part['doc']}-p{chunk[0]:03d}-{chunk[-1]:03d}.md"
+            name = f"{ {'figures': 'fig-', 'proofread': 'proof-'}.get(a.kind, '') }{g['id']}{a.tag}-{part['doc']}-p{chunk[0]:03d}-{chunk[-1]:03d}.md"
             path = build(a.state, 'jobs', name)
-            make = figure_sheet if a.kind == 'figures' else sheet
+            make = {'figures': figure_sheet, 'proofread': proof_sheet}.get(a.kind, sheet)
             path.write_text(make(cfg, g, chunk, out_dir, part['doc']), encoding='utf-8')
             made.append(str(path))
     print(json.dumps({'guide': g['id'], 'pages': total, 'jobs': made}, indent=1))

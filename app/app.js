@@ -123,10 +123,10 @@ function position() {
 }
 
 // ---------- views ----------
-function lessonCard(l) {
+function lessonCard(l, full = false) {
   const taught = store.data.taught[l.id];
   return `<a class="lesson-card${taught ? ' taught' : ''}" href="#/lesson/${l.id}">
-    <span class="kicker">${esc(unitLabel(l))}${taught ? `<span class="badge">✓ ${t('पढ़ा दिया', 'Taught')}</span>` : ''}${l.notice ? `<span class="badge warn">${t('ध्यान दें', 'Note')}</span>` : ''}</span>
+    <span class="kicker">${esc(full ? whereLabel(l) : unitLabel(l))}${taught ? `<span class="badge">✓ ${t('पढ़ा दिया', 'Taught')}</span>` : ''}${l.notice ? `<span class="badge warn">${t('ध्यान दें', 'Note')}</span>` : ''}</span>
     <span class="summary">${esc(summaryOf(l))}</span>
     <span class="open">${t('पाठयोजना खोलें →', 'Open lesson plan →')}</span></a>`;
 }
@@ -153,7 +153,7 @@ function viewToday() {
     <a class="btn secondary" href="#/find">${t('पाठ खोजें', 'Find a lesson')}</a>
   </div>
   <h2>${t('मेरी सूची', 'My list')}</h2>
-  ${saved.length ? `<div class="group-body">${saved.map((id) => lessonCard(lessonById(id))).join('')}</div>` : `<p class="muted">${t('किसी पाठ में “मेरी सूची में रखें” दबाएँ, वह यहाँ दिखेगा।', 'Lessons you add to My list appear here.')}</p>`}
+  ${saved.length ? `<div class="group-body">${saved.map((id) => lessonCard(lessonById(id), true)).join('')}</div>` : `<p class="muted">${t('किसी पाठ में “मेरी सूची में रखें” दबाएँ, वह यहाँ दिखेगा।', 'Lessons you add to My list appear here.')}</p>`}
   <div class="btn-row"><a class="btn secondary" href="#/guide">${t('मूल संदर्शिका', 'Original guide')}</a><a class="btn secondary" href="#/help">${t('मदद', 'Help')}</a></div>
   ${footer()}`;
 }
@@ -181,10 +181,11 @@ function lessonText(l) {
   const out = [...(l.intro || [])];
   const walk = (ss) => ss.forEach((s) => { if (s.heading) out.push(s.heading); (s.items || []).forEach((i) => i.text && out.push(i.text)); walk(s.sections || []); });
   walk(l.sections); walk(l.shared || []);
-  return out.join(' \n ');
+  return out.join(' \n ').normalize('NFC');
 }
 function viewFind(q) {
-  const query = (q || '').trim();
+  // NFC so a keyboard's precomposed nukta letters (e.g. U+095C ड़) match the text's ड + ़
+  const query = (q || '').normalize('NFC').trim();
   let list = PACK.lessons;
   let hits = null;
   if (query) {
@@ -220,8 +221,9 @@ function renderItems(items) {
   if (!items?.length) return '';
   return `<ul class="items">${items.map((it) => {
     if (it.type === 'table') return `<li class="tbl"><table>${(it.rows || []).map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</table></li>`;
-    if (it.type === 'figure' && it.crop) return `<li class="figure has-crop"><a href="${esc(it.crop)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(it.crop)}" alt="${esc(it.desc || t('चित्र', 'Picture'))}"></a>${it.text ? `<span class="caption">${esc(it.text)}</span>` : ''}</li>`;
-    if (it.type === 'figure') return `<li class="figure">🖼 ${esc(it.desc || t('चित्र', 'Picture'))}${it.text ? `<br>${esc(it.text)}` : ''} <span class="muted">(${t('चित्र मूल पृष्ठ पर देखें', 'see the original page')})</span></li>`;
+    if (it.type === 'figure' && it.crop) return `<li class="figure has-crop"><a href="${esc(it.crop)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(it.crop)}" alt="${esc(LANG === 'en' && it.desc ? it.desc : t('गतिविधि का चित्र', 'Activity picture'))}"></a>${it.text ? `<span class="caption">${esc(it.text)}</span>` : ''}</li>`;
+    // no crop: say where the picture is; the transcriber's description is English and only shown in the English UI
+    if (it.type === 'figure') return `<li class="figure">🖼 ${t('यहाँ एक चित्र है — मूल पृष्ठ पर देखें', 'A picture is printed here — see the original page')}${it.text ? `<br>${esc(it.text)}` : ''}${LANG === 'en' && it.desc ? ` <span class="muted">(${esc(it.desc)})</span>` : ''}</li>`;
     return `<li class="${it.type === 'text' ? 'text' : ''}">${esc(it.text)}</li>`;
   }).join('')}</ul>`;
 }
@@ -293,9 +295,9 @@ function viewPage(doc, n, from) {
   n = Math.max(1, Math.min(total, n));
   const q = from ? `?from=${from}` : '';
   return `<div class="viewer">
-    ${from ? `<a href="#/lesson/${from}">← ${t('पाठ पर लौटें', 'Back to lesson')}</a>` : `<a href="#/guide">← ${t('मूल संदर्शिका', 'Original guide')}</a>`}
+    ${from ? `<a class="back" href="#/lesson/${from}">← ${t('पाठ पर लौटें', 'Back to lesson')}</a>` : `<a class="back" href="#/guide">← ${t('मूल संदर्शिका', 'Original guide')}</a>`}
     <div class="bar">${n > 1 ? `<a class="btn secondary" href="#/page/${doc}/${n - 1}${q}">← ${t('पिछला', 'Previous')}</a>` : '<span></span>'}
-      <span class="muted">PDF ${t('पृष्ठ', 'page')} ${n} / ${total}</span>
+      <span class="muted">${t('PDF पृष्ठ', 'PDF page')} ${n} / ${total}</span>
       ${n < total ? `<a class="btn secondary" href="#/page/${doc}/${n + 1}${q}">${t('अगला', 'Next')} →</a>` : '<span></span>'}</div>
     <a href="${pageSrc(doc, n)}" target="_blank" rel="noopener"><img src="${pageSrc(doc, n)}" alt="${t('संदर्शिका का मूल पृष्ठ', 'Original guide page')} ${n}"></a>
     <p class="muted">${t('चित्र पर दबाकर बड़ा करें।', 'Tap the picture to enlarge.')}</p></div>`;
@@ -348,10 +350,22 @@ main.addEventListener('click', async (e) => {
     const l = lessonById(id);
     try {
       const cache = await caches.open('tg-pages');
-      await cache.addAll(l.pages.map((p) => pageSrc(l.doc || GUIDE.doc, p)));
+      // the lesson's pages and its picture crops (crops load lazily, so they may not be cached yet)
+      const crops = [];
+      const walk = (ss) => ss.forEach((s) => { (s.items || []).forEach((it) => it.crop && crops.push(it.crop)); walk(s.sections || []); });
+      walk(l.sections); walk(l.shared || []);
+      await cache.addAll([...new Set([...l.pages.map((p) => pageSrc(l.doc || GUIDE.doc, p)), ...crops])]);
       toast(t('यह पाठ और इसके पृष्ठ बिना इंटरनेट के खुलेंगे', 'This lesson now works offline'));
     } catch { toast(t('अभी नहीं हो पाया। इंटरनेट जाँचकर फिर कोशिश करें।', 'Could not save. Check the connection and retry.')); }
   }
+});
+// a typed note is kept even if the teacher leaves without pressing “नोट सहेजें”
+main.addEventListener('input', (e) => {
+  if (e.target.id !== 'note-text') return;
+  const id = (location.hash.match(/^#\/lesson\/([^?]+)/) || [])[1];
+  if (!id) return;
+  if (e.target.value) store.data.notes[id] = e.target.value; else delete store.data.notes[id];
+  store.save();
 });
 function applyScale() { document.documentElement.style.setProperty('--text-scale', store.data.scale || 1); }
 
@@ -400,7 +414,9 @@ async function start() {
   }
   store = loadStore();
   applyBrand(); applyScale(); setupPickers();
-  await useGuide(store.data.guide || INDEX.guides[0].id);
+  // a deep link to a lesson opens that lesson's guide directly (no download of the last-used guide first)
+  const linked = (location.hash.match(/^#\/lesson\/([^?]+)/) || [])[1];
+  await useGuide((linked && guideForLesson(linked)?.id) || store.data.guide || INDEX.guides[0].id);
   window.addEventListener('hashchange', () => render());
   await render();
   if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(() => {});

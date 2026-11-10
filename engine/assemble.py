@@ -10,6 +10,7 @@ over a page break). Nothing here knows any guide's wording.
 """
 import argparse
 import difflib
+import json
 import re
 
 from common import guide, load_state, parse_pages, read_json, read_page, work, write_json
@@ -49,6 +50,17 @@ def merge_sections(into, more):
         merge_sections(into[-1].setdefault('sections', []), first.get('sections', []))
         more = more[1:]
     into.extend(more)
+
+
+def add_shared(lesson, data):
+    """Page-level boxes outside the units (multigrade plans, a chapter-end instruction printed
+    across all columns) belong to every unit on that page; add each once."""
+    have = {json.dumps(x, ensure_ascii=False, sort_keys=True) for x in lesson['shared']}
+    for s in data.get('shared', []):
+        c = clean_section(s)
+        k = json.dumps(c, ensure_ascii=False, sort_keys=True)
+        if k not in have and (c['items'] or c['sections']):
+            lesson['shared'].append(c); have.add(k)
 
 
 def restarts(old, new):
@@ -150,13 +162,13 @@ def assemble(cfg, g):
                 prev.setdefault('notes', []).append(f'page {p} prints no keys; joined as a continuation of the previous page')
             if prev and prev['doc'] == doc and (u.get('continues_from_previous_page') or (p - prev['pages'][-1] <= 1 and not restarts(prev['sections'], sections))):
                 merge_sections(prev['sections'], sections)
-                for line in intro:
-                    if line not in prev['intro']:
+                for line in intro:   # the same printed box repeats on continuation pages
+                    if not any(line == x or difflib.SequenceMatcher(None, line, x).ratio() >= 0.8 for x in prev['intro']):
                         prev['intro'].append(line)
                 if p not in prev['pages']:
                     prev['pages'].append(p)
                 prev['printed_pages'].append(data.get('printed_page'))
-                prev['shared'] += [clean_section(s) for s in data.get('shared', [])] if len(data.get('units', [])) == 1 else []
+                add_shared(prev, data)
                 continue
             unit_slug = '-'.join(f'{name[0]}{keyslug(k[name]) or "x"}' for name in keys if name != group_key)
             lid = f"{grp['id']}-{unit_slug}"
@@ -165,10 +177,10 @@ def assemble(cfg, g):
             lessons.append({'id': lid, 'group': grp['id'], 'keys': k, 'order': len(lessons) + 1, 'doc': doc,
                             'column': u.get('column'), 'keys_evidence': u.get('keys_evidence'),
                             'intro': intro, 'sections': sections,
-                            # page-level shared boxes belong to the lesson only when the page holds one unit
-                            'shared': [clean_section(s) for s in data.get('shared', [])] if len(data.get('units', [])) == 1 else [],
+                            'shared': [],
                             'pages': [p], 'printed_pages': [data.get('printed_page')],
                             'uncertain': data.get('uncertain', [])})
+            add_shared(lessons[-1], data)
             here = [a for a in anomalies if a['page'] == p and a.get('doc', g['doc']) == doc and a.get('notice')]
             if fix or here:
                 a = fix or here[0]

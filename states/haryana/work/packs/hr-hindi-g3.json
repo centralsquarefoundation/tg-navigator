@@ -27016,11 +27016,6 @@
          }
         },
         {
-         "type": "figure",
-         "desc": "Sample survey sheet with two questions and a name/yes-no/game-name tally table",
-         "crop": "figs/hr-hindi-g3/p147-1.webp"
-        },
-        {
          "type": "text",
          "text": "प्रश्न 1: क्या आप स्कूल से जाने के बाद खेल खेलते हैं? (हाँ/नहीं) प्रश्न 2: आपको कौन-सा खेल पसंद है? (खेल का नाम)"
         },
@@ -27058,6 +27053,11 @@
            ""
           ]
          ]
+        },
+        {
+         "type": "figure",
+         "desc": "Sample survey sheet with two questions and a name/yes-no/game-name tally table",
+         "crop": "figs/hr-hindi-g3/p147-1.webp"
         }
        ],
        "sections": []

@@ -75,6 +75,16 @@
  "hr-hindi-bv": [
   {
    "doc": "hr-bv-p1",
+   "page": 17,
+   "codes": [],
+   "evidence": "Balvatika-3 Part 1: day pages start at week 7 (pdf p17). pdf p14 'तैयारी सप्ताह 1 और 2 की योजना', pp15-16 weeks 3-6 tables. Checked on the page images 2026-11-10.",
+   "notice": {
+    "hi": "सप्ताह 1–6 के लिए संदर्शिका में अलग दैनिक पृष्ठ नहीं हैं; उनकी योजना ‘मूल संदर्शिका’ में है (भाग-1, PDF पृष्ठ 14–16)।",
+    "en": "The guide has no daily pages for weeks 1–6; their plan is in the original guide (part 1, PDF pages 14–16)."
+   }
+  },
+  {
+   "doc": "hr-bv-p1",
    "page": 80,
    "codes": [],
    "evidence": "Balvatika-3 Part 1 pdf p80 is week 17 day 4; pdf pp81-82 are a 'खेल मेला' (games fair) spread with no day tabs; p83 starts week 18 day 1. Checked on the page images 2026-11-10.",

@@ -35,7 +35,7 @@
       "keys_evidence": "orange band 'हँसता सूरज'; badge 'Day 3-4' in column 2",
       "column": 2,
       "continues_from_previous_page": false,
-      "intro": ["एक घटना होने में लगे समय का कम या ज़्यादा के आधार पर अनुमान लगाना।"],
+      "intro": ["एक घटना के घटित होने में लगे समय का कम या ज़्यादा के आधार पर अनुमान लगाना।"],
       "sections": [
         {
           "number": "2", "heading": "कौशल शिक्षण", "minutes": null,

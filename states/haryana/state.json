@@ -146,6 +146,28 @@
     {
      "doc": "hr-bv-p1",
      "pages": [
+      13,
+      13
+     ],
+     "title": {
+      "hi": "बालवाटिका-3 की दैनिक योजना",
+      "en": "Balvatika-3 daily schedule"
+     }
+    },
+    {
+     "doc": "hr-bv-p1",
+     "pages": [
+      14,
+      16
+     ],
+     "title": {
+      "hi": "तैयारी सप्ताह 1–2 और सप्ताह 3–6 की योजना",
+      "en": "Preparation weeks 1–2 and weeks 3–6 plan"
+     }
+    },
+    {
+     "doc": "hr-bv-p1",
+     "pages": [
       81,
       82
      ],

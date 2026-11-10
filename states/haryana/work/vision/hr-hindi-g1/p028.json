@@ -77,7 +77,7 @@
         ]},
         {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
           {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
-            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगें।"}
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"}
           ], "sections": []},
           {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
             {"type": "bullet", "text": "अभ्यास-पत्रक 2.5 पर कार्य करवाना।"},

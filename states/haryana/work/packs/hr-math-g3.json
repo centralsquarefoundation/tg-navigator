@@ -36,7 +36,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book",
+       "crop": "figs/hr-math-g3/p014-1.webp"
       },
       {
        "type": "bullet",
@@ -52,19 +53,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p014-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -89,7 +77,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book",
+       "crop": "figs/hr-math-g3/p018-1.webp"
       },
       {
        "type": "bullet",
@@ -101,19 +90,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p018-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -137,7 +113,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book",
+       "crop": "figs/hr-math-g3/p021-1.webp"
       },
       {
        "type": "bullet",
@@ -169,19 +146,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p021-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -209,7 +173,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "line drawing of a teacher standing beside a blank board holding a pen and a book"
+       "desc": "line drawing of a teacher standing beside a blank board holding a pen and a book",
+       "crop": "figs/hr-math-g3/p028-1.webp"
       },
       {
        "type": "bullet",
@@ -245,19 +210,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p028-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -287,7 +239,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book",
+       "crop": "figs/hr-math-g3/p037-1.webp"
       },
       {
        "type": "bullet",
@@ -315,19 +268,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p037-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -354,7 +294,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book",
+       "crop": "figs/hr-math-g3/p043-1.webp"
       },
       {
        "type": "bullet",
@@ -390,19 +331,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
-       "crop": "figs/hr-math-g3/p043-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -429,7 +357,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "line drawing of a teacher standing beside a blank board holding chalk and a book"
+       "desc": "line drawing of a teacher standing beside a blank board holding chalk and a book",
+       "crop": "figs/hr-math-g3/p049-1.webp"
       },
       {
        "type": "bullet",
@@ -469,19 +398,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
-       "crop": "figs/hr-math-g3/p049-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -512,7 +428,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk"
+       "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk",
+       "crop": "figs/hr-math-g3/p059-1.webp"
       },
       {
        "type": "bullet",
@@ -528,19 +445,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
-       "crop": "figs/hr-math-g3/p059-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -564,7 +468,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk"
+       "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk",
+       "crop": "figs/hr-math-g3/p062-1.webp"
       },
       {
        "type": "bullet",
@@ -596,19 +501,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p062-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -634,7 +526,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book",
+       "crop": "figs/hr-math-g3/p067-1.webp"
       },
       {
        "type": "bullet",
@@ -658,19 +551,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p067-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -694,7 +574,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book",
+       "crop": "figs/hr-math-g3/p070-1.webp"
       },
       {
        "type": "bullet",
@@ -722,19 +603,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p070-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -760,7 +628,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a book",
+       "crop": "figs/hr-math-g3/p075-1.webp"
       },
       {
        "type": "bullet",
@@ -800,19 +669,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p075-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -840,7 +696,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a book",
+       "crop": "figs/hr-math-g3/p082-1.webp"
       },
       {
        "type": "bullet",
@@ -868,19 +725,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p082-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -905,7 +749,8 @@
      "items": [
       {
        "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board, holding a book"
+       "desc": "Line drawing of a teacher standing beside a blank board, holding a book",
+       "crop": "figs/hr-math-g3/p086-1.webp"
       },
       {
        "type": "bullet",
@@ -937,19 +782,6 @@
       }
      ],
      "sections": []
-    },
-    {
-     "number": null,
-     "heading": null,
-     "minutes": null,
-     "sections": [],
-     "items": [
-      {
-       "type": "figure",
-       "desc": "Line drawing of a teacher standing beside a blank board",
-       "crop": "figs/hr-math-g3/p086-1.webp"
-      }
-     ]
     }
    ],
    "pages": [
@@ -1139,7 +971,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     15,
     16,
@@ -1379,7 +1224,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     15,
     16,
@@ -1595,7 +1453,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     15,
     16,
@@ -1712,7 +1583,7 @@
         },
         {
          "type": "bullet",
-         "text": "अब इन आकृतियों को जोड़कर त्रिआयामी आकृतियाँ बनाइए जैसे वर्गों को जोड़कर घन और आयतों को जोड़कर घनाभ तथा उनके जैसी आकृति वाली वस्तुओं के नाम बच्चों से पूछें। लेकिन बच्चों के सामने इन शब्दों जैसे घन, घनाभ या शंकु का प्रयोग न करें।"
+         "text": "अब इन आकृतियों को जोड़कर त्रिआयामी आकृतियाँ बनाइए जैसे वर्गों को जोड़कर घन और आयतों को जोड़कर घनाभ तथा उनके जैसी आकृति वाली वस्तुओं के नाम बच्चों से पूछें। लेकिन बच्चे के सामने इन शब्दों जैसे घन, घनाभ या शंकु का प्रयोग न करें।"
         },
         {
          "type": "bullet",
@@ -1784,7 +1655,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     19,
     20
@@ -1990,7 +1874,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     19,
     20
@@ -2137,7 +2034,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
      "minutes": null,
      "items": [
       {
@@ -2323,7 +2220,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
      "minutes": null,
      "items": [
       {
@@ -2509,7 +2406,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
      "minutes": null,
      "items": [
       {
@@ -2724,7 +2621,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
      "minutes": null,
      "items": [
       {
@@ -2755,7 +2652,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     25,
     26,
@@ -2938,7 +2848,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
      "minutes": null,
      "items": [
       {
@@ -2969,7 +2879,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     25,
     26,
@@ -3120,7 +3043,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
      "minutes": null,
      "items": [
       {
@@ -3138,7 +3061,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएं।",
+       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -3307,7 +3230,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
      "minutes": null,
      "items": [
       {
@@ -3325,7 +3248,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएं।",
+       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -3502,7 +3425,7 @@
     },
     {
      "number": null,
-     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+     "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।",
      "minutes": null,
      "items": [
       {
@@ -3520,7 +3443,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएं।",
+       "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।",
        "minutes": null,
        "items": [
         {
@@ -3790,18 +3713,14 @@
          "text": "शिक्षक बच्चों को संख्याओं की रेखा का चित्र बोर्ड पर बनाकर दिखाएँ।"
         },
         {
-         "type": "figure",
-         "desc": "Number line from 0 to 200 marked in steps of 20 with arrows at both ends",
-         "crop": "figs/hr-math-g3/p032-1.webp"
-        },
-        {
          "type": "bullet",
          "text": "संख्याओं की रेखा पर 0 से लेकर 20 तक की संख्याएँ लिखें और बच्चों को समझाएँ कि संख्याएँ एक के बाद एक बढ़ती जाती हैं।"
         },
         {
          "type": "figure",
          "text": "0 20 40 60 80 100 120 140 160 180 200",
-         "desc": "number line with arrows at both ends"
+         "desc": "number line with arrows at both ends",
+         "crop": "figs/hr-math-g3/p032-1.webp"
         },
         {
          "type": "bullet",
@@ -4359,7 +4278,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     35,
     36
@@ -4568,7 +4500,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     35,
     36
@@ -4791,7 +4736,7 @@
    "column": 2,
    "keys_evidence": "badge 'Day 3-4' in column 2; orange band title at top",
    "intro": [
-    "सीधी रेखा को खड़ी, पड़ी व तिरछी रेख के रूप में पहचानना तथा बनाना।",
+    "सीधी रेखा को खड़ी, पड़ी व तिरछी रेखा के रूप में पहचानना तथा बनाना।",
     "सीधी रेखा और वक्र रेखा (घुमावदार रेखा) को समझना तथा उनमें अंतर करना।"
    ],
    "sections": [
@@ -4998,7 +4943,7 @@
         },
         {
          "type": "bullet",
-         "text": "अपने आस-पास की वस्तुओं की आकृतियों के नाम बताने को कहें जैसे– किताब, ब्लैक बोर्ड, घड़ी आदि।"
+         "text": "अपने आस-पास की वस्तुओं की आकृतियो के नाम बताने को कहें जैसे– किताब, ब्लैक बोर्ड, घड़ी आदि।"
         },
         {
          "type": "bullet",
@@ -5332,7 +5277,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     41,
     42
@@ -5501,7 +5459,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     41,
     42
@@ -6287,7 +6258,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     47,
     48
@@ -6481,7 +6465,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     47,
     48
@@ -8005,7 +8002,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     56,
     57,
@@ -8224,7 +8234,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     56,
     57,
@@ -8343,7 +8366,7 @@
         },
         {
          "type": "text",
-         "text": "इस अवधारणा को अच्छी तरह से समझने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
+         "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"
         }
        ],
        "sections": []
@@ -8407,7 +8430,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     56,
     57,
@@ -8716,7 +8752,6 @@
    "keys_evidence": "badge 'Day 1-2'; orange band 'सैकड़ों का घर – 2'",
    "intro": [
     "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं के समूह बनाना, संख्या गिनना तथा लिखना। (501-999 तक)",
-    "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं के समूह बनाना, संख्या गिनना तथा लिखना।",
     "(501-999 तक)"
    ],
    "sections": [
@@ -8801,7 +8836,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -8956,7 +8991,7 @@
         },
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें परिचय दें।"
+         "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"
         }
        ],
        "sections": []
@@ -8970,7 +9005,7 @@
      "items": [
       {
        "type": "bullet",
-       "text": "सबसे पहले छोटे पीले ब्लॉक्स के द्वारा इकाई को दर्शाएँ फिर नीले ब्लॉक्स की सहायता से दहाई को दर्शाएँ, फिर हरे ब्लॉक्स द्वारा सैकड़ो को दर्शाएं।"
+       "text": "सबसे पहले छोटे पीले ब्लॉक्स के द्वारा इकाई को दर्शाएँ फिर नीले ब्लॉक्स की सहायता से दहाई को दर्शाएँ, फिर हरे ब्लॉक्स द्वारा सैकड़े को दर्शाएं।"
       },
       {
        "type": "bullet",
@@ -8988,7 +9023,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9094,8 +9129,7 @@
    "column": 3,
    "keys_evidence": "badge 'Day 5-6'; orange band 'सैकड़ों का घर – 2'",
    "intro": [
-    "999 तक संख्याओं में पहले-बीच में-बाद में, आरोही-अवरोही क्रम का बोध होना।",
-    "999 तक संख्याओं में पहले-बीच-बाद में, आरोही-अवरोही क्रम का बोध होना।"
+    "999 तक संख्याओं में पहले-बीच में-बाद में, आरोही-अवरोही क्रम का बोध होना।"
    ],
    "sections": [
     {
@@ -9183,7 +9217,7 @@
      "sections": [
       {
        "number": null,
-       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।",
+       "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
        "minutes": null,
        "items": [
         {
@@ -9463,7 +9497,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     65,
     66
@@ -9654,7 +9701,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     65,
     66
@@ -9865,7 +9925,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     68,
     69
@@ -10036,7 +10109,7 @@
        "items": [
         {
          "type": "text",
-         "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"
+         "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"
         }
        ],
        "sections": []
@@ -10056,7 +10129,7 @@
        "items": [
         {
          "type": "text",
-         "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएँ।"
+         "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"
         }
        ],
        "sections": []
@@ -10064,7 +10137,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     68,
     69
@@ -10466,8 +10552,7 @@
    "keys_evidence": "orange band 'भरो और उठाओ'; badge 'Day 5-6' in column 1 yellow box",
    "intro": [
     "विभिन्न वस्तुओं को पकड़कर उनके वज़न का अनुमान लगाना।",
-    "भारी तथा ‘हल्की’ शब्दों को प्रयोग करना।",
-    "भारी तथा ‘हल्की’ शब्दों प्रयोग करना।"
+    "भारी तथा ‘हल्की’ शब्दों को प्रयोग करना।"
    ],
    "sections": [
     {
@@ -10541,7 +10626,7 @@
       },
       {
        "type": "bullet",
-       "text": "फिर एक दोने में एक पेन्सिल रखें और दूसरे दोने में एक रबर रखें।"
+       "text": "फिर एक दोने में एक पेंसिल रखें और दूसरे दोने में एक रबर रखें।"
       },
       {
        "type": "bullet",
@@ -10648,7 +10733,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     73,
     74
@@ -10840,7 +10938,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     73,
     74
@@ -11533,7 +11644,7 @@
         },
         {
          "type": "bullet",
-         "text": "अब बच्चों को बताएं कि आप इनमें से एक 100 रुपये का नोट, पाँच 1 रुपये के नोट निकाल लेते हैं तो कितने रुपये बचते हैं।"
+         "text": "अब बच्चों को बताएं कि आप इनमें से एक 100 रुपये का नोट, पाँच 1 रुपये के नोट निकाल लेते हैं तो कितने रुपए बचते हैं।"
         },
         {
          "type": "bullet",
@@ -11674,7 +11785,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका बच्चों को समझाएं कि"
+         "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"
         },
         {
          "type": "bullet",
@@ -11682,7 +11793,7 @@
         },
         {
          "type": "bullet",
-         "text": "किस तरह से इकाई, दहाई और सैकड़ा के अंकों को घटाया जाता है।"
+         "text": "किस तरह से इकाई, दहाई और सैकड़ा के अंको को घटाया जाता है।"
         },
         {
          "type": "bullet",
@@ -12108,7 +12219,7 @@
         },
         {
          "type": "bullet",
-         "text": "ऐसे ही बड़ी संख्या यानि 15 में से 5 घटाने पर 10 आएगा और 10 घटाने पर 5 ही आएगा। इनके अतिरिक्त उन्हें कोई और संख्या प्राप्त नहीं होगी।"
+         "text": "ऐसे ही बड़ी संख्या यानी 15 में से 5 घटाने पर 10 आएगा और 10 घटाने पर 5 ही आएगा। इनके अतिरिक्त उन्हें कोई और संख्या प्राप्त नहीं होगी।"
         },
         {
          "type": "bullet",
@@ -12184,7 +12295,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     80,
     81
@@ -12257,7 +12381,7 @@
         },
         {
          "type": "bullet",
-         "text": "अध्यापक/अध्यापिका बच्चों से पूछे गए प्रश्नों के आधार पर बताएँ कि यदि कोई मुद्रा यानी सिक्के अथवा नोट नहीं होते, तो छोटे मान वाली मुद्राओं को जोड़कर हम ज़रूरी मान प्राप्त कर सकते हैं जैसे 10 रुपये और 1 रूपये को मिलाकर हमें 11 रुपये मिल जाएंगे।"
+         "text": "अध्यापक/अध्यापिका बच्चों से पूछे गए प्रश्न के आधार पर बताएँ कि यदि कोई मुद्रा यानी सिक्के अथवा नोट नहीं होते, तो छोटे मान वाली मुद्राओं को जोड़कर हम ज़रूरी मान प्राप्त कर सकते हैं जैसे 10 रुपये और 1 रूपये को मिलाकर हमें 11 रुपये मिल जाएंगे।"
         },
         {
          "type": "bullet",
@@ -12389,7 +12513,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     80,
     81
@@ -12586,7 +12723,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     83,
     84,
@@ -12620,8 +12770,7 @@
     "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।",
     "दिनचर्या समझना।",
     "घड़ी देखकर घंटे की अवधि को समझना।",
-    "एक घंटे, आधे घंटे और पौने घंटे के समय का बोध।",
-    "एक घंटे, आधे घंटे और पौने घंटे का समय का बोध।"
+    "एक घंटे, आधे घंटे और पौने घंटे के समय का बोध।"
    ],
    "sections": [
     {
@@ -12657,7 +12806,7 @@
        "items": [
         {
          "type": "text",
-         "text": "अध्यापक/अध्यापिका बच्चों को समझायें कि"
+         "text": "अध्यापक/अध्यापिका बच्चों को समझाये कि"
         },
         {
          "type": "bullet",
@@ -12801,7 +12950,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     83,
     84,
@@ -13108,7 +13270,7 @@
         },
         {
          "type": "bullet",
-         "text": "बच्चों को बताएँ कि कुछ वस्तुएँ अथवा चित्र समान भागों यानि एक जैसे भागों से मिलकर बने होते हैं। उन्हें दर्पण की सहायता से पूरा किया जा सकता है। या पूरे चित्रों के बीच से सही दिशा में एक सीधी (खड़ी, लेटी या तिरछी) रेखा खींचकर उन्हें समान भागों में बाँटा जा सकता है।"
+         "text": "बच्चों को बताएँ कि कुछ वस्तुएँ अथवा चित्र समान भागों यानी एक जैसे भागों से मिलकर बने होते हैं। उन्हें दर्पण की सहायता से पूरा किया जा सकता है। या पूरे चित्रों के बीच से सही दिशा में एक सीधी (खड़ी, लेटी या तिरछी) रेखा खींचकर उन्हें समान भागों में बाँटा जा सकता है।"
         },
         {
          "type": "text",
@@ -13514,7 +13676,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     90,
     91,
@@ -13763,7 +13938,20 @@
      ]
     }
    ],
-   "shared": [],
+   "shared": [
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "items": [
+      {
+       "type": "text",
+       "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"
+      }
+     ],
+     "sections": []
+    }
+   ],
    "pages": [
     90,
     91,
@@ -15829,8 +16017,8 @@
  ],
  "missing_pages": [],
  "figures": {
-  "placed": 5,
-  "merged": 12,
+  "placed": 4,
+  "merged": 13,
   "opener": 14,
   "unplaced": [],
   "blank": []

@@ -120,7 +120,7 @@ p { margin: 0 0 10px; }
 .prevnext { display: flex; justify-content: space-between; gap: 8px; margin: 8px 0; flex-wrap: wrap; }
 .prevnext a { min-height: 44px; display: inline-flex; align-items: center; font-weight: 700; font-size: var(--fs-small); }
 .chips { position: sticky; top: var(--header-h, 140px); z-index: 10; display: flex; gap: 6px; overflow-x: auto; padding: 8px 2px; background: var(--bg); scrollbar-width: none; }
-.chips a { flex: none; min-height: 40px; display: inline-flex; align-items: center; padding: 0 12px; border-radius: 999px; background: #fff; border: 1px solid var(--line); text-decoration: none; color: var(--ink); font-size: var(--fs-small); font-weight: 600; white-space: nowrap; }
+.chips a { flex: none; min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; border-radius: 999px; background: #fff; border: 1px solid var(--line); text-decoration: none; color: var(--ink); font-size: var(--fs-small); font-weight: 600; white-space: nowrap; }
 .notice { background: var(--warn-tint); border-left: 5px solid var(--band-4); padding: 10px 12px; border-radius: var(--radius-s); margin: 0 0 12px; font-size: var(--fs-small); }
 .section { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); margin: 0 0 12px; overflow: hidden; box-shadow: var(--shadow); scroll-margin-top: calc(var(--header-h, 140px) + 60px); }
 .section > header { display: flex; align-items: baseline; gap: 8px; padding: 10px 14px; background: var(--band); color: var(--ink); }
@@ -157,6 +157,7 @@ textarea { width: 100%; min-height: 110px; font: inherit; font-size: var(--fs-bo
 details.options > summary { cursor: pointer; min-height: 48px; display: flex; align-items: center; font-weight: 700; color: var(--brand); }
 
 /* ---------- page viewer ---------- */
+.viewer .back { display: inline-flex; align-items: center; min-height: 44px; font-weight: 700; }
 .viewer img { width: 100%; background: #fff; border: 1px solid var(--line); border-radius: 6px; }
 .viewer .bar { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin: 8px 0; flex-wrap: wrap; }
 

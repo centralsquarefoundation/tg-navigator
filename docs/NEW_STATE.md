@@ -60,3 +60,16 @@ its original page, plus a report showing what was checked. Expect every state to
   week 20; Math G3 p90 repeats “Day 1-2 / 3-4”. Both are recorded in `anomalies.json`.
 - A day can span two pages with no keys on the second page; a column can start mid-block; a page
   can repeat headings for each column. The profile notes + assembly rules handle these.
+
+## Lessons from the Haryana audits (Nov 2026)
+
+- A blind content audit (random sample, word by word against 4× renders) found 0 placement errors
+  but ~3% of strings differing from print (nukta dropped, misprints "fixed", a few missing words) and
+  a systematic assembly bug (a full-width band printed across all columns was attached to no lesson).
+- Run a **proofreading pass** (`jobs.py --kind proofread`) after transcription. Give proofreaders the
+  sharp quarter bands (`render.py --quarters`): with half-page images some proofreaders "corrected"
+  correct text (अवधारणा → अवधारण, पत्रक → पत्र). Settle any disagreement between passes on a
+  high-resolution render, never by majority.
+- Repeated template lines (e.g. a multigrade line printed identically on every page) are a cheap
+  consistency check: if transcriptions disagree, look at the print once and fix all.
+- Then run a fresh blind audit (docs/AUDIT_BRIEFS.md) with a new random seed and report the measured rate.

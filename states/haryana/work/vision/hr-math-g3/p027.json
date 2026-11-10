@@ -14,7 +14,7 @@
         "संख्या रेखा पर संख्याओं का सीधा क्रम और उल्टा क्रम।"
       ],
       "sections": [
-        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
          "items": [{"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}], "sections": []},
         {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
          "sections": [
@@ -30,7 +30,7 @@
       "continues_from_previous_page": false,
       "intro": ["200 तक संख्याओं की तुलना करना।"],
       "sections": [
-        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
          "items": [{"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}], "sections": []},
         {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
          "sections": [
