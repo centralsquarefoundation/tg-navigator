@@ -1,0 +1,109 @@
+{
+  "pdf_page": 54,
+  "printed_page": "50",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "13", "day": "2"},
+      "keys_evidence": "'सप्ताह — 13' printed top-left; tab 'दिवस 2' drawn highlighted (green, dark text), other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "कविता पोस्टर पर चर्चा (कोई भी कविता पोस्टर)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "कविता सुनकर हाव–भाव से गाना और प्रिंट संबंधी अवधारणा समझना।"},
+               {"type": "bullet", "text": "शिक्षक कविता हाव–भाव के साथ गाएँ और बच्चों से 2–3 बार दोहराएँ।"},
+               {"type": "bullet", "text": "कविता के विषय पर चर्चा करें।"},
+               {"type": "bullet", "text": "पोस्टर दिखाकर शब्दों पर उंगली रखते हुए 2 बार पढ़ें और बच्चों को साथ पढ़ाएँ।"},
+               {"type": "bullet", "text": "बच्चों से बार–बार आए शब्द पहचानने को कहें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "बिग बुक पर कार्यः पढ़कर सुनना और चर्चा (मुर्गी के तीन चूजे)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "कहानी सुनकर चर्चा करना और सरल तथ्यात्मक प्रश्नों के उत्तर देना।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+               {"type": "bullet", "text": "बिग बुक के मुख्य पृष्ठ पर चर्चा करें: यहाँ कौन है? कहानी का नाम क्या हो सकता है?"},
+               {"type": "bullet", "text": "सभी चित्र दिखाकर प्रश्न पूछें: इस चित्र में क्या हो रहा है?"},
+               {"type": "bullet", "text": "पूरी कहानी हाव–भाव और आवाज़ के उतार–चढ़ाव के साथ सुनाएँ।"},
+               {"type": "bullet", "text": "अंत में बच्चों से अनुभव साझा करवाएँ: कहानी कैसी लगी? आप होते तो क्या करते?"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "ध्वनि जागरुकताः ध्वनियाँ पहचानो", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "शब्द में कितनी ध्वनियाँ हैं, पहचानना।"},
+               {"type": "bullet", "text": "बच्चों को गोल घेरे में बैठायें और कोई एक शब्द सोचकर रखने के लिए कहें।"},
+               {"type": "bullet", "text": "किसी एक बच्चे से उसका शब्द पूछें, जैसे गमला।"},
+               {"type": "bullet", "text": "फिर शब्द को प्रत्येक ध्वनि पर ताली बजाते हुए बोलें, जैसे: /ग//म//ला/, और बताएँ कि कितनी ध्वनियाँ हैं।"},
+               {"type": "bullet", "text": "एक–एक करके बच्चों से उनके शब्द पूछें और सभी बच्चों से शब्द की प्रत्येक ध्वनि पर ताली बजाने के लिए कहें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः क्या गायब, क्या नया ?", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 32 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः सिग्नल", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक विकास और गति नियंत्रण।"},
+               {"type": "bullet", "text": "बच्चों को बताएँ आप जब \"हरी बत्ती\" बोलेंगे तब चलना है और लाल बत्ती पर रुकना है।"},
+               {"type": "bullet", "text": "जमीन पर चॉक से दो रेखाएं बनाएँ बच्चों को पहली रेखा पर खड़ा करके बताए उन्हे निर्देश मानते हुए दूसरी रेखा तक जाना है।"},
+               {"type": "bullet", "text": "ध्यान रखे बच्चें निर्देशों के अनुसार चले और रुके।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["5.1 bullet 2/3 minor spellings (बताए, उन्हे, रखे, चले) read as printed", "3.1 spans left column bottom into right column top; merged into one section"],
+  "notes": "Two-column page; section 3.1 starts at bottom of left column and continues at top of right column."
+}

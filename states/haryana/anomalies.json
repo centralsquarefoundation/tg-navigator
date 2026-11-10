@@ -1,23 +1,95 @@
 {
-  "_about": "Source misprints/quirks confirmed against the page image. Each entry turns the listed check codes for that guide+page into an acknowledged warning and shows `notice` on the lesson in the app. Never use this to hide a transcription error: fix the transcription instead.",
-  "hr-hindi-g3": [
-    {"page": 139, "keys": {"week": "20"}, "codes": ["sequence"],
-     "evidence": "Hindi G3 pdf p139-142: the green band prints 'सप्ताह-11' while the tabs show days 3-6 and pages 137-138 print 'सप्ताह-20' days 1-2; p143 starts 'सप्ताह-21'. The text layer of p137-138 also holds a stale 'सप्ताह-11' label under 'सप्ताह-20'. Checked on the page image 2026-11-10.",
-     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
-    {"page": 140, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
-     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
-    {"page": 141, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
-     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
-    {"page": 142, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
-     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}}
-  ],
-  "hr-math-g3": [
-    {
-      "page": 90,
-      "codes": ["sequence", "duplicate"],
-      "evidence": "Math G3 pdf p90 (printed 77): column badges print 'Day 1-2' and 'Day 3-4' again for a second set of activities (tiles; maps) after pages 87-89 already covered Day 1-2 and Day 3-4 of 'सूरजकुंड मेला'. Checked on the page image 2026-11-10.",
-      "notice": {"hi": "संदर्शिका में इस अध्याय के ‘दिवस 1-2 / 3-4’ दो बार छपे हैं। यह दूसरा भाग है (मूल पृष्ठ देखें)।",
-                 "en": "The guide prints Day 1-2 / 3-4 twice in this chapter. This is the second set (see original page)."}
-    }
-  ]
+ "_about": "Source misprints/quirks confirmed against the page image. Each entry turns the listed check codes for that guide+page into an acknowledged warning and shows `notice` on the lesson in the app. Never use this to hide a transcription error: fix the transcription instead.",
+ "hr-hindi-g3": [
+  {
+   "page": 139,
+   "keys": {
+    "week": "20"
+   },
+   "codes": [
+    "sequence"
+   ],
+   "evidence": "Hindi G3 pdf p139-142: the green band prints 'सप्ताह-11' while the tabs show days 3-6 and pages 137-138 print 'सप्ताह-20' days 1-2; p143 starts 'सप्ताह-21'. The text layer of p137-138 also holds a stale 'सप्ताह-11' label under 'सप्ताह-20'. Checked on the page image 2026-11-10.",
+   "notice": {
+    "hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।",
+    "en": "This page prints ‘Week 11’, but by sequence it is Week 20."
+   }
+  },
+  {
+   "page": 140,
+   "keys": {
+    "week": "20"
+   },
+   "codes": [
+    "sequence"
+   ],
+   "evidence": "As p139.",
+   "notice": {
+    "hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।",
+    "en": "This page prints ‘Week 11’, but by sequence it is Week 20."
+   }
+  },
+  {
+   "page": 141,
+   "keys": {
+    "week": "20"
+   },
+   "codes": [
+    "sequence"
+   ],
+   "evidence": "As p139.",
+   "notice": {
+    "hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।",
+    "en": "This page prints ‘Week 11’, but by sequence it is Week 20."
+   }
+  },
+  {
+   "page": 142,
+   "keys": {
+    "week": "20"
+   },
+   "codes": [
+    "sequence"
+   ],
+   "evidence": "As p139.",
+   "notice": {
+    "hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।",
+    "en": "This page prints ‘Week 11’, but by sequence it is Week 20."
+   }
+  }
+ ],
+ "hr-math-g3": [
+  {
+   "page": 90,
+   "codes": [
+    "sequence",
+    "duplicate"
+   ],
+   "evidence": "Math G3 pdf p90 (printed 77): column badges print 'Day 1-2' and 'Day 3-4' again for a second set of activities (tiles; maps) after pages 87-89 already covered Day 1-2 and Day 3-4 of 'सूरजकुंड मेला'. Checked on the page image 2026-11-10.",
+   "notice": {
+    "hi": "संदर्शिका में इस अध्याय के ‘दिवस 1-2 / 3-4’ दो बार छपे हैं। यह दूसरा भाग है (मूल पृष्ठ देखें)।",
+    "en": "The guide prints Day 1-2 / 3-4 twice in this chapter. This is the second set (see original page)."
+   }
+  }
+ ],
+ "hr-hindi-bv": [
+  {
+   "doc": "hr-bv-p1",
+   "page": 80,
+   "codes": [],
+   "evidence": "Balvatika-3 Part 1 pdf p80 is week 17 day 4; pdf pp81-82 are a 'खेल मेला' (games fair) spread with no day tabs; p83 starts week 18 day 1. Checked on the page images 2026-11-10.",
+   "notice": {
+    "hi": "इस दिन के बाद संदर्शिका में सप्ताह 17 के दिवस 5–6 के अलग पृष्ठ नहीं हैं; उनकी जगह ‘खेल मेला’ के पृष्ठ हैं (मूल संदर्शिका, भाग-1, PDF पृष्ठ 81–82)।",
+    "en": "After this day the guide has no separate pages for week 17 days 5–6; it prints the 'games fair' pages instead (original guide, part 1, PDF pages 81–82)."
+   }
+  },
+  {
+   "doc": "hr-bv-p1",
+   "page": 83,
+   "codes": [
+    "sequence"
+   ],
+   "evidence": "As p80: week 17 days 5-6 are the games-fair pages 81-82."
+  }
+ ]
 }

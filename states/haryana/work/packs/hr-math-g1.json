@@ -73,6 +73,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener scene: children and a house with speech bubbles of chak dhoom dhoom rhyme, mango tree",
+       "crop": "figs/hr-math-g1/p015-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -83,7 +96,8 @@
     19,
     20
    ],
-   "opener_page": 15
+   "opener_page": 15,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c02",
@@ -111,6 +125,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener scene: teacher and children sitting on a rug with objects, speech bubbles about long and round things",
+       "crop": "figs/hr-math-g1/p021-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -118,7 +145,8 @@
     22,
     23
    ],
-   "opener_page": 21
+   "opener_page": 21,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c03",
@@ -162,6 +190,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Six-panel picture story of a squirrel, mango and birds arriving to eat, with counts 1 to 5 animals eating mango",
+       "crop": "figs/hr-math-g1/p024-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -171,7 +212,8 @@
     27,
     28
    ],
-   "opener_page": 24
+   "opener_page": 24,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c04",
@@ -207,6 +249,45 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Ladybug on dandelion flowers",
+       "crop": "figs/hr-math-g1/p029-1.webp"
+      }
+     ]
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Four ladybug pictures each with an empty answer box for counting dots",
+       "crop": "figs/hr-math-g1/p029-2.webp"
+      }
+     ]
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Seed designs made by Chutki: groups of seeds in different patterns, with girl",
+       "crop": "figs/hr-math-g1/p029-3.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -218,7 +299,8 @@
     34,
     35
    ],
-   "opener_page": 29
+   "opener_page": 29,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c05",
@@ -258,6 +340,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Park scene panels: elderly people on bench and wheelchair, children playing with a ball (walk with grandfather)",
+       "crop": "figs/hr-math-g1/p036-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -266,7 +361,8 @@
     38,
     39
    ],
-   "opener_page": 36
+   "opener_page": 36,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c06",
@@ -342,6 +438,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener story page with illustrated bird rhyme scenes and talk questions",
+       "crop": "figs/hr-math-g1/p040-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -351,7 +460,8 @@
     43,
     44
    ],
-   "opener_page": 40
+   "opener_page": 40,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c07",
@@ -395,6 +505,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener illustration: talking tree and children in a park with speech bubbles",
+       "crop": "figs/hr-math-g1/p045-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -405,7 +528,8 @@
     49,
     50
    ],
-   "opener_page": 45
+   "opener_page": 45,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c08",
@@ -461,6 +585,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Illustration of Anvi's family: parents, grandparents, brother on crutches and Anvi standing on a stool",
+       "crop": "figs/hr-math-g1/p051-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -470,7 +607,8 @@
     54,
     55
    ],
-   "opener_page": 51
+   "opener_page": 51,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c09",
@@ -530,6 +668,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener illustration: children eating guava-like fruit under a large fruit tree, child sleeping in bed",
+       "crop": "figs/hr-math-g1/p056-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -539,7 +690,8 @@
     59,
     60
    ],
-   "opener_page": 56
+   "opener_page": 56,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c10",
@@ -575,6 +727,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener illustration: festival scene with Teej swing, diyas, kite, Lohri bonfire and dancers",
+       "crop": "figs/hr-math-g1/p061-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -583,7 +748,8 @@
     63,
     64
    ],
-   "opener_page": 61
+   "opener_page": 61,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c11",
@@ -619,6 +785,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Chapter opener illustration of the smiling sun and a girl's daily routine from morning to afternoon",
+       "crop": "figs/hr-math-g1/p065-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -627,7 +806,8 @@
     67,
     68
    ],
-   "opener_page": 65
+   "opener_page": 65,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c12",
@@ -683,6 +863,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Scene of children in swan boats on Sukhna lake with ducks, a balloon seller and a dustbin",
+       "crop": "figs/hr-math-g1/p069-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -690,7 +883,8 @@
     70,
     71
    ],
-   "opener_page": 69
+   "opener_page": 69,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c13",
@@ -765,6 +959,32 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Girl kneeling on a blue mat with a broken piggy bank and a pile of coins and notes",
+       "crop": "figs/hr-math-g1/p072-1.webp"
+      }
+     ]
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Table with coin and note pictures (columns सिक्के, कितने, नोट, कितने) with blank count lines",
+       "crop": "figs/hr-math-g1/p072-2.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -772,7 +992,8 @@
     73,
     74
    ],
-   "opener_page": 72
+   "opener_page": 72,
+   "doc": "hr-math-g1"
   },
   {
    "id": "hr-math-g1-c14",
@@ -812,6 +1033,45 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Classroom with Bal Diwas board, teacher and seated children, with a speech bubble",
+       "crop": "figs/hr-math-g1/p075-1.webp"
+      }
+     ]
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Teacher and children at desks with speech bubbles about finding out fruit preferences",
+       "crop": "figs/hr-math-g1/p075-2.webp"
+      }
+     ]
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Illustrated woman teacher with a text strip about asking children how to find their fruit choice",
+       "crop": "figs/hr-math-g1/p075-3.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -819,7 +1079,8 @@
     76,
     77
    ],
-   "opener_page": 75
+   "opener_page": 75,
+   "doc": "hr-math-g1"
   }
  ],
  "lessons": [
@@ -831,6 +1092,7 @@
     "days": "1-2"
    },
    "order": 1,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'राजू का सपना'; calendar badge 'Day 1-2' in left column yellow box",
    "intro": [
@@ -1032,6 +1294,7 @@
     "days": "3-4"
    },
    "order": 2,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "orange band 'राजू का सपना'; calendar badge 'Day 3-4' in right column yellow box",
    "intro": [
@@ -1245,6 +1508,7 @@
     "days": "5-6"
    },
    "order": 3,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 5-6' on first column; orange band 'राजू का सपना'",
    "intro": [
@@ -1442,6 +1706,7 @@
     "days": "7-8"
    },
    "order": 4,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 7-8' on second column; orange band 'राजू का सपना'",
    "intro": [
@@ -1623,6 +1888,7 @@
     "days": "9-10"
    },
    "order": 5,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 9-10' on third column; orange band 'राजू का सपना'",
    "intro": [
@@ -1715,7 +1981,8 @@
         },
         {
          "type": "figure",
-         "desc": "Pattern strip of five boxes: orange circle, blue square, orange circle, blue square, empty box"
+         "desc": "Pattern strip of five boxes: orange circle, blue square, orange circle, blue square, empty box",
+         "crop": "figs/hr-math-g1/p019-1.webp"
         },
         {
          "type": "bullet",
@@ -1821,6 +2088,7 @@
     "days": "1-2"
    },
    "order": 6,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2' on first column; orange band 'क्या है लम्बा–क्या है गोल'",
    "intro": [
@@ -2017,6 +2285,7 @@
     "days": "3-4"
    },
    "order": 7,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4' on second column; orange band 'क्या है लम्बा–क्या है गोल'",
    "intro": [
@@ -2209,6 +2478,7 @@
     "days": "1-2"
    },
    "order": 8,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2' on first column; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -2389,6 +2659,7 @@
     "days": "3-4"
    },
    "order": 9,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4' on second column; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -2581,6 +2852,7 @@
     "days": "5-6"
    },
    "order": 10,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6' on third column; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -2761,6 +3033,7 @@
     "days": "7-8"
    },
    "order": 11,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 7-8'; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -2946,6 +3219,7 @@
     "days": "9-10"
    },
    "order": 12,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 9-10'; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -3139,6 +3413,7 @@
     "days": "11-12"
    },
    "order": 13,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 11-12'; orange band 'स्वादिष्ट आम'",
    "intro": [
@@ -3320,6 +3595,7 @@
     "days": "1-2"
    },
    "order": 14,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -3526,6 +3802,7 @@
     "days": "3-4"
    },
    "order": 15,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -3736,6 +4013,7 @@
     "days": "5-6"
    },
    "order": 16,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -3943,6 +4221,7 @@
     "days": "7-8"
    },
    "order": 17,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 7-8'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -4142,6 +4421,7 @@
     "days": "9-10"
    },
    "order": 18,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 9-10'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -4345,6 +4625,7 @@
     "days": "11-12"
    },
    "order": 19,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 11-12'; orange band 'चिंकी का जन्मदिन'",
    "intro": [
@@ -4544,6 +4825,7 @@
     "days": "1-2"
    },
    "order": 20,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'कितने मेरी मुट्ठी में'",
    "intro": [
@@ -4737,6 +5019,7 @@
     "days": "3-4"
    },
    "order": 21,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'कितने मेरी मुट्ठी में'",
    "intro": [
@@ -4935,6 +5218,7 @@
     "days": "5-6"
    },
    "order": 22,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6'; orange band 'कितने मेरी मुट्ठी में'",
    "intro": [
@@ -5137,6 +5421,7 @@
     "days": "1-2"
    },
    "order": 23,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'चिड़िया उड़'",
    "intro": [
@@ -5354,6 +5639,7 @@
     "days": "3-4"
    },
    "order": 24,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'चिड़िया उड़'",
    "intro": [
@@ -5563,6 +5849,7 @@
     "days": "5-6"
    },
    "order": 25,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 5-6'; orange band 'चिड़िया उड़'",
    "intro": [
@@ -5769,6 +6056,7 @@
     "days": "7-8"
    },
    "order": 26,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 7-8'; orange band 'चिड़िया उड़'",
    "intro": [
@@ -5976,6 +6264,7 @@
     "days": "1-2"
    },
    "order": 27,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'पेड़ की बात'",
    "intro": [
@@ -6185,6 +6474,7 @@
     "days": "3-4"
    },
    "order": 28,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'पेड़ की बात'",
    "intro": [
@@ -6394,6 +6684,7 @@
     "days": "5-6"
    },
    "order": 29,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 5-6'; orange band 'पेड़ की बात'",
    "intro": [
@@ -6587,6 +6878,7 @@
     "days": "7-8"
    },
    "order": 30,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 7-8'; orange band 'पेड़ की बात'",
    "intro": [
@@ -6788,6 +7080,7 @@
     "days": "1-2"
    },
    "order": 31,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2'; orange band 'अनवी का परिवार'",
    "intro": [
@@ -6976,6 +7269,7 @@
     "days": "3-4"
    },
    "order": 32,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4'; orange band 'अनवी का परिवार'",
    "intro": [
@@ -7147,6 +7441,7 @@
     "days": "5-6"
    },
    "order": 33,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 5-6'; orange band 'अनवी का परिवार'",
    "intro": [
@@ -7360,6 +7655,7 @@
     "days": "7-8"
    },
    "order": 34,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 7-8'; orange band 'अनवी का परिवार'",
    "intro": [
@@ -7545,6 +7841,7 @@
     "days": "1-2"
    },
    "order": 35,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'गुलगुले का पेड़'; calendar badge 'Day 1-2'",
    "intro": [
@@ -7758,6 +8055,7 @@
     "days": "3-4"
    },
    "order": 36,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "orange band 'गुलगुले का पेड़'; calendar badge 'Day 3-4'",
    "intro": [
@@ -7963,6 +8261,7 @@
     "days": "5-6"
    },
    "order": 37,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'गुलगुले का पेड़'; calendar badge 'Day 5-6'",
    "intro": [
@@ -8174,6 +8473,7 @@
     "days": "7-8"
    },
    "order": 38,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "orange band 'गुलगुले का पेड़'; calendar badge 'Day 7-8'",
    "intro": [
@@ -8377,6 +8677,7 @@
     "days": "1-2"
    },
    "order": 39,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'त्यौहार'; calendar badge 'Day 1-2'",
    "intro": [
@@ -8469,7 +8770,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, empty box"
+         "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, empty box",
+         "crop": "figs/hr-math-g1/p063-1.webp"
         },
         {
          "type": "bullet",
@@ -8489,7 +8791,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, orange circle"
+         "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, orange circle",
+         "crop": "figs/hr-math-g1/p063-2.webp"
         }
        ],
        "sections": []
@@ -8582,6 +8885,7 @@
     "days": "3-4"
    },
    "order": 40,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "orange band 'त्यौहार'; calendar badge 'Day 3-4'",
    "intro": [
@@ -8795,6 +9099,7 @@
     "days": "1-2"
    },
    "order": 41,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'हँसता सूरज'; calendar badge 'Day 1-2'",
    "intro": [
@@ -8976,6 +9281,7 @@
     "days": "3-4"
    },
    "order": 42,
+   "doc": "hr-math-g1",
    "column": 2,
    "keys_evidence": "orange band 'हँसता सूरज'; calendar badge 'Day 3-4'",
    "intro": [
@@ -9186,6 +9492,7 @@
     "days": "5-6"
    },
    "order": 43,
+   "doc": "hr-math-g1",
    "column": 3,
    "keys_evidence": "orange band 'हँसता सूरज'; calendar badge 'Day 5-6'",
    "intro": [
@@ -9383,6 +9690,7 @@
     "days": "1-2"
    },
    "order": 44,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'घूमने का आनन्द'; badge 'Day 1-2' on the single full-width unit",
    "intro": [
@@ -9592,6 +9900,7 @@
     "days": "1-2"
    },
    "order": 45,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'गुल्लक'; badge 'Day 1-2' on the single full-width unit",
    "intro": [
@@ -9797,6 +10106,7 @@
     "days": "1-2"
    },
    "order": 46,
+   "doc": "hr-math-g1",
    "column": 1,
    "keys_evidence": "orange band 'फलों की पार्टी'; badge 'Day 1-2' on the single full-width unit",
    "intro": [
@@ -10017,6 +10327,7 @@
  ],
  "plan": [
   {
+   "doc": "hr-math-g1",
    "page": 9,
    "kind": "plan",
    "shared": [
@@ -10166,6 +10477,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 10,
    "kind": "plan",
    "shared": [
@@ -10311,6 +10623,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 11,
    "kind": "plan",
    "shared": [
@@ -10468,6 +10781,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 12,
    "kind": "plan",
    "shared": [
@@ -10599,6 +10913,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 13,
    "kind": "plan",
    "shared": [
@@ -10651,6 +10966,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 14,
    "kind": "plan",
    "shared": [
@@ -10711,12 +11027,14 @@
  ],
  "page_index": [
   {
+   "doc": "hr-math-g1",
    "page": 15,
    "printed": "1",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 16,
    "printed": "2",
    "kind": "lesson",
@@ -10732,6 +11050,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 17,
    "printed": "3",
    "kind": "lesson",
@@ -10747,6 +11066,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 18,
    "printed": "4",
    "kind": "lesson",
@@ -10766,6 +11086,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 19,
    "printed": "5",
    "kind": "lesson",
@@ -10785,6 +11106,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 20,
    "printed": "6",
    "kind": "lesson",
@@ -10804,12 +11126,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 21,
    "printed": "7",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 22,
    "printed": "8",
    "kind": "lesson",
@@ -10825,6 +11149,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 23,
    "printed": "9",
    "kind": "lesson",
@@ -10840,12 +11165,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 24,
    "printed": "10",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 25,
    "printed": "11",
    "kind": "lesson",
@@ -10865,6 +11192,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 26,
    "printed": "12",
    "kind": "lesson",
@@ -10884,6 +11212,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 27,
    "printed": "13",
    "kind": "lesson",
@@ -10903,6 +11232,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 28,
    "printed": "14",
    "kind": "lesson",
@@ -10922,12 +11252,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 29,
    "printed": "15",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 30,
    "printed": "16",
    "kind": "lesson",
@@ -10947,6 +11279,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 31,
    "printed": "17",
    "kind": "lesson",
@@ -10966,6 +11299,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 32,
    "printed": "18",
    "kind": "lesson",
@@ -10985,6 +11319,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 33,
    "printed": "19",
    "kind": "lesson",
@@ -11004,6 +11339,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 34,
    "printed": "20",
    "kind": "lesson",
@@ -11023,6 +11359,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 35,
    "printed": "21",
    "kind": "lesson",
@@ -11042,12 +11379,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 36,
    "printed": "22",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 37,
    "printed": "23",
    "kind": "lesson",
@@ -11067,6 +11406,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 38,
    "printed": "24",
    "kind": "lesson",
@@ -11086,6 +11426,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 39,
    "printed": "25",
    "kind": "lesson",
@@ -11105,12 +11446,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 40,
    "printed": "26",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 41,
    "printed": "27",
    "kind": "lesson",
@@ -11126,6 +11469,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 42,
    "printed": "28",
    "kind": "lesson",
@@ -11141,6 +11485,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 43,
    "printed": "29",
    "kind": "lesson",
@@ -11156,6 +11501,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 44,
    "printed": "30",
    "kind": "lesson",
@@ -11171,12 +11517,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 45,
    "printed": "31",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 46,
    "printed": "32",
    "kind": "lesson",
@@ -11192,6 +11540,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 47,
    "printed": "33",
    "kind": "lesson",
@@ -11207,6 +11556,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 48,
    "printed": "34",
    "kind": "lesson",
@@ -11222,6 +11572,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 49,
    "printed": "35",
    "kind": "lesson",
@@ -11237,6 +11588,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 50,
    "printed": "36",
    "kind": "lesson",
@@ -11252,12 +11604,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 51,
    "printed": "37",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 52,
    "printed": "38",
    "kind": "lesson",
@@ -11273,6 +11627,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 53,
    "printed": "39",
    "kind": "lesson",
@@ -11288,6 +11643,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 54,
    "printed": "40",
    "kind": "lesson",
@@ -11303,6 +11659,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 55,
    "printed": "41",
    "kind": "lesson",
@@ -11318,12 +11675,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 56,
    "printed": "42",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 57,
    "printed": "43",
    "kind": "lesson",
@@ -11339,6 +11698,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 58,
    "printed": "44",
    "kind": "lesson",
@@ -11354,6 +11714,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 59,
    "printed": "45",
    "kind": "lesson",
@@ -11369,6 +11730,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 60,
    "printed": "46",
    "kind": "lesson",
@@ -11384,12 +11746,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 61,
    "printed": "47",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 62,
    "printed": "48",
    "kind": "lesson",
@@ -11405,6 +11769,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 63,
    "printed": "49",
    "kind": "lesson",
@@ -11420,6 +11785,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 64,
    "printed": "50",
    "kind": "lesson",
@@ -11435,12 +11801,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 65,
    "printed": "51",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 66,
    "printed": "52",
    "kind": "lesson",
@@ -11460,6 +11828,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 67,
    "printed": "53",
    "kind": "lesson",
@@ -11479,6 +11848,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 68,
    "printed": "54",
    "kind": "lesson",
@@ -11498,12 +11868,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 69,
    "printed": "55",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 70,
    "printed": "56",
    "kind": "lesson",
@@ -11515,6 +11887,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 71,
    "printed": "57",
    "kind": "lesson",
@@ -11526,12 +11899,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 72,
    "printed": "58",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 73,
    "printed": "59",
    "kind": "lesson",
@@ -11543,6 +11918,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 74,
    "printed": "60",
    "kind": "lesson",
@@ -11554,12 +11930,14 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 75,
    "printed": "61",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g1",
    "page": 76,
    "printed": "62",
    "kind": "lesson",
@@ -11571,6 +11949,7 @@
    ]
   },
   {
+   "doc": "hr-math-g1",
    "page": 77,
    "printed": "63",
    "kind": "lesson",
@@ -11583,6 +11962,13 @@
   }
  ],
  "missing_pages": [],
+ "figures": {
+  "placed": 0,
+  "merged": 3,
+  "opener": 19,
+  "unplaced": [],
+  "blank": []
+ },
  "reconcile": {
   "totals": {},
   "corrections": []

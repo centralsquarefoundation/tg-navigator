@@ -1,0 +1,110 @@
+{
+  "pdf_page": 55,
+  "printed_page": "51",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "13", "day": "3"},
+      "keys_evidence": "'सप्ताह — 13' printed top-left; tab 'दिवस 3' drawn highlighted (green, dark text), other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "मुक्त चर्चा", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "दोस्तों और शिक्षकों से एक विषय में बात करना और अपनी पसंद/नापसंद का वर्णन करना।"},
+               {"type": "bullet", "text": "बच्चों के साथ घेरे में बैठकर सरल प्रश्नों से चर्चा शुरू करें और अपने अनुभव साझा करें।"},
+               {"type": "bullet", "text": "उनकी प्रतिक्रियाओं से एक विषय मिलकर चुनें।"},
+               {"type": "bullet", "text": "उस विषय पर आगे सवाल–जवाब करें, बच्चों के अनुभव, पसंद–नापसंद व पूर्वज्ञान से जोड़ें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "बिग बुक पर कार्यः पढ़कर सुनना और संबंधित चित्र (मुर्गी के तीन चूजे)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "कहानी सुनकर चर्चा करना और सम्बंधित लेखन कार्य करना।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+               {"type": "bullet", "text": "पूछेंः कल हमने कौन–सी कहानी सुनी थी?"},
+               {"type": "bullet", "text": "बिग बुक से चित्र दिखाते और शब्दों पर उंगली रखते हुए कहानी दोबारा पढ़ें।"},
+               {"type": "bullet", "text": "बीच–बीच में रुककर बच्चों से पूछेंः कहानी में आगे क्या होने वाला है?"},
+               {"type": "bullet", "text": "कहानी पर चर्चा करेंः कहानी में कौन–कौन था?"},
+               {"type": "bullet", "text": "अंत में बच्चों को पेंसिल, कागज़ और रंग दें।"},
+               {"type": "bullet", "text": "कहानी से जुड़े चित्र बनवाएँ और बातचीत करें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "संज्ञानात्मक विकासः दाएँ – बाएँ", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "दायाँ–बायाँ समझकर शब्दों का उपयोग करना।"},
+               {"type": "bullet", "text": "बच्चों को लाइन में खड़ा करें आप भी सबसे आगे उनकी तरफ पीठ करके खड़े हो जाएँ।"},
+               {"type": "bullet", "text": "अपना दायाँ हाथ उठाएँ और बच्चों से भी उठाने को कहें। इसी तरह बायाँ भी बताएँ।"},
+               {"type": "bullet", "text": "बच्चों को दाएँ और बाएँ के बारे में बताएँ।"},
+               {"type": "bullet", "text": "कहें कि ‘दाएँ’ पर दायीं ओर कदम बढ़ाएँ और ‘बाएँ’ पर बायीं ओर।"},
+               {"type": "bullet", "text": "क्रम से कहें– दाएँ, बाएँ, दाएँ, आदिय बच्चों को उसी अनुसार कदम बढ़ाने के लिए कहें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः बड़े से छोटा, छोटे से बड़ा?", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 33 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः बोरी दौड़", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक संतुलन और बड़ी माँसपेशियों का विकास।"},
+               {"type": "bullet", "text": "चॉक से जमीन पर दो रेखाएँ बनाकर पहली रेखा पर 5 बच्चों को बोरी पहनाकर कमर तक बाँधें।"},
+               {"type": "bullet", "text": "बच्चों को बताएँ उन्हे कूदते हुए दूसरी रेखा तक जाना है दोनों रेखाओं के बीच बच्चों की क्षमतानुसार दूरी रखें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.2 last bullet prints 'आदिय' (likely misprint for 'आदि'); kept as printed","5.1 'उन्हे' printed without anusvara as read", "3.1 spans left column bottom into right column top; merged into one section"],
+  "notes": "Two-column page; section 3.1 starts at bottom of left column and continues at top of right column."
+}

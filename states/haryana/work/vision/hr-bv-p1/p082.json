@@ -1,0 +1,42 @@
+{
+  "pdf_page": 82,
+  "printed_page": "78",
+  "page_kind": "plan",
+  "header": null,
+  "units": [],
+  "shared": [
+    {"number": "2", "heading": "कहानी सुनें!", "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "एक बड़े समूह में सभी बच्चों और अभिभावकों के साथ बैठकर किसी एक बिग बुक का उपयोग करके कहानी सुनाएँ और कहानी की घटनाओं एवं पात्रों पर सरल प्रश्न पूछकर चर्चा करें।"},
+       {"type": "bullet", "text": "कहानी सुनाने के बाद, अभिभावक और बच्चों के साथ मिलकर बिग बुक से जुड़ा लेखन/चित्रकारी करवाएँ। मिट्टी देकर उनसे कहानी से संबंधित कोई पात्र बनाने के लिए भी कह सकते हैं।"},
+       {"type": "bullet", "text": "कहानी से पहले बच्चों के लिए कहानियों का महत्त्व बताएँ और कहानी के बाद, बड़ों के साथ घर पर बच्चों को कहानी सुनाने के तरीकों पर चर्चा करें।"}
+     ],
+     "sections": []},
+    {"number": "3", "heading": "घर पर खेल और सीखना", "minutes": null,
+     "items": [
+       {"type": "text", "text": "शिक्षक अलग–अलग स्टॉल/टेबल लगाएँ जहाँ पर नीचे बताए गए खेल लगातार करवाए जाएँगे। हर खेल के महत्त्व पर चर्चा करें और अभिभावकों को घर पर दोहराने के सुझाव दें।"}
+     ],
+     "sections": [
+       {"number": null, "heading": "खेल 1", "minutes": null,
+        "items": [
+          {"type": "text", "text": "निशाना लगाओ"},
+          {"type": "text", "text": "10 खाली टिन के डिब्बे लें और उन्हें एक मेज़ पर दिखाए गए तरीके से लगा दें। थोड़ी दूरी पर एक गोला बना लें। सभी बच्चों और अभिभावकों को एक–एक करके उस गोले पर खड़े होकर इन डिब्बों पर गेंद से निशाना लगाने के लिए कहें। निशाना लगाने के बाद सब गिनें कि कितने डिब्बे नीचे गिर गए। हर बार निशाना लगाने के बाद डिब्बों को इसी तरह लगा दें और दूसरे बच्चे को निशाना लगाने के लिए कहें।"},
+          {"type": "figure", "desc": "Ten red tin cans stacked in a pyramid, numbered 1 to 10", "text": "1 2 3 4 5 6 7 8 9 10"}
+        ], "sections": []},
+       {"number": null, "heading": "खेल 2", "minutes": null,
+        "items": [
+          {"type": "text", "text": "बाधा दौड़"},
+          {"type": "text", "text": "10 पुराने टायर लेकर एक रास्ता बना लें या चॉक से 10 गोले मिट्टी में बनाएँ। प्रतिभागियों को इन टायरों के बीच में पैर रखते हुए बाधा को पार करना है। खेल के बाद अभिभावकों को बच्चों के शारीरिक विकास से जुड़ी गतिविधियों के बारे में बताएँ।"},
+          {"type": "figure", "desc": "Children's feet stepping through a row of tyres laid on grass", "text": null}
+        ], "sections": []},
+       {"number": null, "heading": "खेल 3", "minutes": null,
+        "items": [
+          {"type": "text", "text": "कबाड़ से जुगाड़"},
+          {"type": "text", "text": "प्रतिभागियों को माचिस के डिब्बे, लकड़ी के टुकड़े, अख़बार, बोतल के ढक्कन, धागे की खाली रील, आदि दें। साथ ही गोंद, कैंची, रंगीन कागज़ भी दें। अब उनसे कहें कि वे इन सामानों से अपनी पसंद की कोई चीज़ बनाएँ। जैसे घर, हवाई जहाज़, आदि। खेल के बाद सभी को अपनी बनाई चीज़ प्रदर्शित करने दें और सृजनात्मक गतिविधियों के बारे में बताएँ।"},
+          {"type": "figure", "desc": "Toy chairs and a table made from bottle caps and small sticks", "text": null}
+        ], "sections": []}
+     ]}
+  ],
+  "uncertain": ["No running header printed on this page", "Section numbers 2 and 3 are printed in coloured circles continuing from section 1 on the previous page"],
+  "notes": "Continues the 'खेल मेले का आयोजन' sequence from the previous page (sections 2 and 3). No दिवस tabs; the three games are laid out as three side-by-side cards."
+}

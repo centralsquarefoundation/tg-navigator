@@ -43,23 +43,27 @@ def verify(cfg, g, pack):
     keys = prof['hierarchy']['keys']
     issues = []
 
-    def add(level, code, msg, lesson=None, page=None):
-        issues.append({'level': level, 'code': code, 'msg': msg, 'lesson': lesson, 'page': page})
+    lesson_doc = {l['id']: l.get('doc', g['doc']) for l in pack['lessons']}
 
-    vdir = work(cfg['id'], 'vision', g['doc'], 'x').parent
-    for p in parse_pages(g['pages'].get('lessons', '')) + parse_pages(g['pages'].get('plan', '')):
+    def add(level, code, msg, lesson=None, page=None, doc=None):
+        issues.append({'level': level, 'code': code, 'msg': msg, 'lesson': lesson, 'page': page,
+                       'doc': doc or lesson_doc.get(lesson) or g['doc']})
+
+    for part in g['parts']:
+      vdir = work(cfg['id'], 'vision', part['doc'], 'x').parent
+      for p in parse_pages(part['pages'].get('lessons', '')) + parse_pages(part['pages'].get('plan', '')):
         f = vdir / f'p{p:03d}.json'
         if not f.exists():
-            add('error', 'not-transcribed', 'page not transcribed yet', page=p)
+            add('error', 'not-transcribed', 'page not transcribed yet', page=p, doc=part['doc'])
             continue
         if read_page(f) is None:
-            add('error', 'bad-json', 'transcription is not valid JSON (re-transcribe this page)', page=p)
+            add('error', 'bad-json', 'transcription is not valid JSON (re-transcribe this page)', page=p, doc=part['doc'])
 
     for row in pack['page_index']:
         if row['kind'] == 'lesson' and not row['units']:
-            add('error', 'lesson-page-without-units', 'page marked lesson but no unit found', page=row['page'])
+            add('error', 'lesson-page-without-units', 'page marked lesson but no unit found', page=row['page'], doc=row.get('doc'))
         if checks.get('expect_one_unit_per_lesson_page') and row['kind'] == 'lesson' and len({json.dumps(u, sort_keys=True) for u in row['units']}) > 1:
-            add('error', 'several-units', f"{len(row['units'])} units on a page that should hold one", page=row['page'])
+            add('error', 'several-units', f"{len(row['units'])} units on a page that should hold one", page=row['page'], doc=row.get('doc'))
 
     seen = {}
     pat = {k: re.compile(v) for k, v in checks.get('key_pattern', {}).items()}
@@ -106,11 +110,17 @@ def verify(cfg, g, pack):
         if seq == 'chapter-days' and not grp.get('opener_page'):
             add('warn', 'group-without-opener', f"«{grp['title']}» has no opener page (a page may be mis-assigned)", page=grp['pages'][0])
 
+    fr = pack.get('figures') or {}
+    for f in fr.get('unplaced', []):
+        add('warn', 'figure-unplaced', f"picture «{f.get('desc')}» (unit {f.get('unit')}) could not be matched to a lesson section; only the original page shows it", page=f['page'], doc=f['doc'])
+    for f in fr.get('blank', []):
+        add('warn', 'figure-empty-box', f"picture box «{f.get('desc')}» cropped to an empty area; not shown", page=f['page'], doc=f['doc'])
+
     # source anomalies confirmed against the page image (states/<state>/anomalies.json)
     known = (read_json(work(cfg['id'], 'x').parent.parent / 'anomalies.json', {}) or {}).get(g['id'], [])
     for i in issues:
         for a in known:
-            if i['page'] == a['page'] and i['code'] in a['codes'] and i['level'] == 'error':
+            if i['page'] == a['page'] and i['doc'] == a.get('doc', g['doc']) and i['code'] in a['codes'] and i['level'] in ('error', 'warn'):
                 i['level'] = 'warn'
                 i['acknowledged'] = a['evidence']
     counts = {lv: sum(1 for i in issues if i['level'] == lv) for lv in ('error', 'warn', 'info')}

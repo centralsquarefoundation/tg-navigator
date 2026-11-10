@@ -1,0 +1,111 @@
+{
+  "pdf_page": 68,
+  "printed_page": "64",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "15", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; top-left 'सप्ताह — 15'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "तराजू, ब्लॉक्स, कंकड़, मोती, पेंसिल, बटन"},
+            {"type": "bullet", "text": "फुल, किताब, पत्ता"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "Introduction to English (Things Around Me)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "सामान्य और परिचित अनुभवों से जुड़ी शब्दावली का प्रयोग करने की शुरुआत करना।"},
+               {"type": "bullet", "text": "आस–पास मिलने वाली वस्तुएँ ले जैसे– फूल, किताब, पत्ता आदि।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+               {"type": "bullet", "text": "फूल, किताब और पत्ता दिखाकर कहें: “This is a flower/book/leaf.”"},
+               {"type": "bullet", "text": "बच्चों से पूछें: “flower/book/leaf कहाँ है?” और उस वस्तु की ओर इशारा करवाएँ।"},
+               {"type": "bullet", "text": "यह प्रक्रिया 3–4 बार दोहराएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "चित्र चार्ट पर चर्चा (सड़क का दृश्य)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "चित्रों को पहचानकर, 1–2 वाक्य में बता पाना।"},
+               {"type": "bullet", "text": "सभी को गोले में बैठाएँ।"},
+               {"type": "bullet", "text": "चित्र चार्ट दिखाकर बच्चों से प्रश्न पूछें जैसे– चित्र में क्या दिख रहा है? चित्र कहाँ का है? चित्र में क्या हो रहा है? आदि।"},
+               {"type": "bullet", "text": "बच्चों के अनुभव से जुड़े प्रश्न पूछे। जैसेः क्या आप कभी ऐसी जगह गए है? वहाँ आपने क्या देखा था? आदि।"},
+               {"type": "bullet", "text": "चित्र से जुड़े सरल शब्द पूछकर बोर्ड पर लिखें और बच्चों के साथ एक एक करके शब्दों को साथ में पढ़ें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "संज्ञानात्मक विकासः भारी – हल्का", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "अवलोकन करना और सामान्यीकरण बनाना।"},
+               {"type": "bullet", "text": "बच्चों को तराजू दिखाते हुए चर्चा करें।"},
+               {"type": "bullet", "text": "एक तरफ 5 ब्लॉक्स रखें  पूछें कि उन्होंने क्या देखा दूसरी तरफ ब्लॉक्स रखेंगे तो क्या होगा?"},
+               {"type": "bullet", "text": "अलग–अलग सामान दोनों तरफ रखकर बच्चों को अवलोकन करने दें कि तराजू किस तरफ झुकता है।"},
+               {"type": "bullet", "text": "बच्चों से चर्चा करें कि जिस पलड़े पर भारी चीज़ होगी वह नीचे जाएगा और हल्का वाला ऊपर जाएगा।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः मैं क्या बनूँ?", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 44 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः उल्टा चलें", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक संतुलन विकास"},
+               {"type": "bullet", "text": "चॉक से जमीन पर कुछ दूरी रखते हुए दो रेखाएं बनाएं।"},
+               {"type": "bullet", "text": "पहली रेखा पर 5 बच्चों को पंक्ति में खड़ा करके दूसरी रेखा दिखाते हुए बताएँ उन्हें उल्टा चलते हुए उस रेखा तक पहुँचना है।"},
+               {"type": "bullet", "text": "सभी बच्चों को खेलने का मौका दें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["materials 'फुल' printed (not फूल) in preparation box", "1.2 first bullet 'वस्तुएँ ले जैसे–' as printed", "5.1 uses 'रेखाएं बनाएं' with anusvara as printed", "3.1 'पूछे' and 'गए है' as printed"],
+  "notes": "Right-column box at top (2 bullets) continues section 3.1 from the left column."
+}

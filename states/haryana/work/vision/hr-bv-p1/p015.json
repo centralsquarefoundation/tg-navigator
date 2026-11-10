@@ -1,0 +1,141 @@
+{
+  "pdf_page": 15,
+  "printed_page": "11",
+  "page_kind": "plan",
+  "header": "स्वागत परिचय और विद्यालय वातावरण से जुड़ाव के 4 सप्ताह",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "स्वागत परिचय और विद्यालय वातावरण से जुड़ाव के 4 सप्ताह",
+      "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null,
+          "heading": "मॉर्निंग सर्कल टाइम",
+          "minutes": "30",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 3",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को हाव–भाव के साथ कविता (हिन्दी) करवाना।"},
+                {"type": "bullet", "text": "बच्चों का खेल द्वारा आपस में परिचय करवाना।"},
+                {"type": "bullet", "text": "बच्चों को विद्यालय परिसर (कक्षा, शौचालय, पानी पीने की व्यवस्था/जगह) दिखाना।"},
+                {"type": "bullet", "text": "कक्षा की व्यवस्था में प्रिन्ट सामग्री,खेल सामग्री कहानियों की किताब की जगह, बैठने की व्यवस्था, कूड़ेदान दिखाना।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 4",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को हाव–भाव के साथ कविता (अंग्रेज़ी) करवाना।"},
+                {"type": "bullet", "text": "विद्यालय परिसर (प्रार्थना स्थल,खेल मैदान) दिखाना।"},
+                {"type": "bullet", "text": "बच्चों को कक्षा के सभी भागों को देखने दें फिर बच्चों से चर्चा करें कि उन्हें कौनसा भाग/सामग्री अच्छा लगा और क्यों?"},
+                {"type": "bullet", "text": "सभी बच्चों को बारी–बारी से अपने पसंद का खेल बताने को कहें।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "मुक्त खेल",
+          "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "कक्षा में चारों खेल कोने बनाकर सामग्री रखें।"},
+            {"type": "bullet", "text": "बच्चों को चारों कोनों की खेल सामग्री को देखने का मौका दें।"},
+            {"type": "bullet", "text": "बच्चों को अपने पसंदीदा कोने का चुनाव कर खेल सामग्री से खेलने दें।"},
+            {"type": "bullet", "text": "बच्चों को अन्य बच्चों के साथ सामग्री बाँटने को प्रेरित करें।"},
+            {"type": "bullet", "text": "बच्चों को खेलने के बाद सामग्री पुनः जगह पर रखने को प्रेरित करें।"},
+            {"type": "figure", "desc": "four coloured arrows labelling the play corners", "text": "अभिनय कोना; जोड़–तोड़ कोना; किताब कोना; कला कोना"}
+          ],
+          "sections": []
+        },
+        {
+          "number": null,
+          "heading": "कहानियाँ और निर्देशित खेल",
+          "minutes": "45",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 3",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "हाव–भाव से कहानी सुनाना।"},
+                {"type": "bullet", "text": "बच्चों से उनकी भाषा मे कहानी सुनना।"},
+                {"type": "bullet", "text": "खेल– “वर्गीकरण”"},
+                {"type": "text", "text": "बटन, ब्लॉक, बीज मिलाकर दें और बच्चों से अलग करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 4",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "हाव–भाव से कहानी सुनाना।"},
+                {"type": "bullet", "text": "बच्चों से उनकी भाषा मे कहानी सुनना।"},
+                {"type": "bullet", "text": "खेल– “क्या बदला”"},
+                {"type": "text", "text": "टेबल पर कुछ वस्तुएँ रखकर बच्चों को दिखाएँ फिर आँखें बंद करवाकर आप एक वस्तु हटाकर बच्चे से क्या गायब हुआ पूछें।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "गतिविधि और अभ्यास",
+          "minutes": "35",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 3",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों से उनकी पसंद का चित्र बनवाकर उसमें रंग भरवाना।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 4",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चे आज सुनी हुई कहानी से अपने मनपसंद पात्र/वस्तु का चित्र बनवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "बाहरी खेल",
+          "minutes": "30",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को कक्षा के बाहर खेले जाने वाले खेल करवाएँ।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": null,
+          "heading": "गुड बाय सर्कल",
+          "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को पूरे दिन की गई गतिविधियाँ बताकर पूछें कि उन्हें आज कक्षा में सबसे अच्छा क्या लगा?"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "uncertain": [],
+  "notes": "Table with columns खंड, समय, सप्ताह – 3, सप्ताह – 4. Rows मुक्त खेल, बाहरी खेल and गुड बाय सर्कल span both week columns (single cell); other rows have separate week cells, given as sub-sections. Footer: बालवाटिका । शिक्षक संदर्शिका."
+}

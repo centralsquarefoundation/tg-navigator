@@ -1,0 +1,111 @@
+{
+  "pdf_page": 92,
+  "printed_page": "88",
+  "page_kind": "lesson",
+  "header": "बालवाटिका । शिक्षक संदर्शिका",
+  "units": [
+    {
+      "keys": {"week": "19", "day": "4"},
+      "keys_evidence": "top-left 'सप्ताह — 19'; highlighted tab 'दिवस 4' (darker, bold)",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "फलों के चित्र"},
+            {"type": "bullet", "text": "गेंद"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "Introduction to English (I Like)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "ध्यान से सुनना और छोटे वाक्यों में अपनी बात बताना।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें। फलों के चित्र दिखाएँ और अंग्रेज़ी नाम दोहराएँ।"},
+               {"type": "bullet", "text": "Mango का चित्र दिखाए और कहें– “I like mango.”"},
+               {"type": "bullet", "text": "बच्चों से कहें कि वे अपना पसंदीदा फल चुनें और चित्र उठाकर बोलें– “I like ….”"},
+               {"type": "bullet", "text": "सभी बच्चों को एक–एक करके वाक्य बोलने का अवसर दें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "चित्र देखकर कहानी बताना (चलती–फिरती कहानी)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "कहानी की 3–4 बड़ी घटनाओं और पात्रों के बारे में एक क्रम में बोलना।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें और अभ्यास–पुस्तिका (भाग 2) की कहानी निकलवाएँ।"},
+               {"type": "bullet", "text": "चित्र कहानी का नाम बताएँ और कहानी के बारे में अनुमान लगाने को कहें। जैसेः कहानी किसके बारे में होगी?"},
+               {"type": "bullet", "text": "सभी चित्र दिखाकर प्रश्न पूछेंः इस चित्र में क्या हो रहा है?"},
+               {"type": "bullet", "text": "चित्र के मदद से कहानी सुनाएँ।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "संज्ञानात्मक विकासः निशाने का खेल", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "सरल पहेलियों को हल करने के लिए संख्या ज्ञान का उपयोग।"},
+               {"type": "bullet", "text": "जमीन पर चॉक से एक रेखा खींचें; लगभग 1 मीटर दूर 2 खाली कार्टन/बाल्टी रखें।"},
+               {"type": "bullet", "text": "रेखा के पीछे बच्चों को 2 पंक्तियों में खड़ा करें, आगे के 2 बच्चों को 5–5 गेंदें दें।"},
+               {"type": "bullet", "text": "बच्चों को एक–एक करके कार्टन/बाल्टी में गेंद फेंकने के लिए कहें।"},
+               {"type": "bullet", "text": "बाद मे बच्चों से कार्टन में गिरी गेंदें गिनवाएँ।"},
+               {"type": "bullet", "text": "खेल के दौरान बच्चों से संख्या संबंधी सवाल पूछें– किसने कितनी गेंद कार्टन मे डाली? कितनी बाहर गिरी? आदि।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः किताबों की दुनिया", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 62 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः छवि पहचाने", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अपने साथी की छवि पहचानना"},
+               {"type": "bullet", "text": "बच्चों की दो की जोड़ियों को खुले मैदान में ले जाएँ।"},
+               {"type": "bullet", "text": "बच्चों को अपनी–अपनी जोड़ी में, एक–दूसरे की धूप से बनी छवि (परछाई) को जमीन पर, चॉक/डंडे से, रेखांकित करने को कहें।"},
+               {"type": "bullet", "text": "सभी छवि बनने के बाद क्रम से एक–दूसरे की छवि को पहचानने को कहें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["prep box: 'गेंद' is printed in a second column of the box, read as third item", "1.2 bullet 2: 'दिखाए' printed (not 'दिखाएँ')"],
+  "notes": "Left column: prep box, periods 1-3 (3.1 continues into right column top). Right column: end of 3.1, then 3.2, 4, 5, 6. Date/signature line is a blank form field and ignored."
+}

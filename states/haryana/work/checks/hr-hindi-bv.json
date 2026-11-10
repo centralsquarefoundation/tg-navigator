@@ -2,11 +2,11 @@
  "guide": "hr-hindi-bv",
  "counts": {
   "error": 0,
-  "warn": 6,
-  "info": 80
+  "warn": 12,
+  "info": 205
  },
- "lessons": 36,
- "groups": 6,
+ "lessons": 118,
+ "groups": 20,
  "textcheck": {
   "checked": 1549,
   "exact": 529,
@@ -15,606 +15,1741 @@
  },
  "issues": [
   {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«कहानियाँ और निर्देशित खेल» says 45 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-bv-w07-d01",
+   "page": 17,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1: 'खीचें' printed without anusvara/ee-matra as written (kept as read)",
+   "lesson": "hr-hindi-bv-w07-d03",
+   "page": 19,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials: 'कोरा कागज़' printed without a bullet mark (first item of right column); '3.1 दिखाई रहा' printed as is",
+   "lesson": "hr-hindi-bv-w07-d04",
+   "page": 20,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials: 'सब्जियों का चित्र' read (left column; could be 'सब्जियों'); 3.2 'प्रत्येक समूह को को' doubled 'को' as printed",
+   "lesson": "hr-hindi-bv-w07-d05",
+   "page": 21,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1: aim icon sits beside the first bullet; no separate aim line printed, so all lines given as bullets",
+   "lesson": "hr-hindi-bv-w08-d01",
+   "page": 23,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1: aim icon sits beside the first bullet; no separate aim line printed. 'रखें चलना है' as printed",
+   "lesson": "hr-hindi-bv-w08-d02",
+   "page": 24,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 heading 'फेकों' printed without anusvara; kept as printed",
+   "lesson": "hr-hindi-bv-w08-d03",
+   "page": 25,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials: 'सब्जियो का चित्र, कोरा कागज़' wraps across two lines in left column; read as one item",
+   "lesson": "hr-hindi-bv-w08-d04",
+   "page": 26,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'हाँथ' printed with that spelling; 5.1 'बिना पैर नीचे रखें चलना है' on this page reads 'रखें' (earlier pages 'रखकर'/'रखें' varied) - kept as read; 3.2 quote marks around ‘माला‘ read as printed",
+   "lesson": "hr-hindi-bv-w08-d05",
+   "page": 27,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box has a pointing-hand icon and no printed heading (heading left empty)",
+   "lesson": "hr-hindi-bv-w08-d06",
+   "page": 28,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 second bullet ends with a doubled danda 'कहें।।' as printed",
+   "lesson": "hr-hindi-bv-w09-d01",
+   "page": 29,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 heading printed bold with the parenthetical in lighter weight on a second line",
+   "lesson": "hr-hindi-bv-w09-d01",
+   "page": 29,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading spelled 'जागरुकताः' as printed",
+   "lesson": "hr-hindi-bv-w09-d02",
+   "page": 30,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 heading printed 'बंदर के पूँछ' (vs 'बंदर की पूँछ' on day 2) as printed",
+   "lesson": "hr-hindi-bv-w09-d03",
+   "page": 31,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 bullet 2 'मे' printed without nasal dot, copied as printed",
+   "lesson": "hr-hindi-bv-w09-d03",
+   "page": 31,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 heading 'चढ़ों–उतरों–कूदो' as printed",
+   "lesson": "hr-hindi-bv-w09-d03",
+   "page": 31,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 'मे' printed without nasal dot, copied as printed",
+   "lesson": "hr-hindi-bv-w09-d04",
+   "page": 32,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'कहें की' as printed",
+   "lesson": "hr-hindi-bv-w09-d04",
+   "page": 32,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared note box (pointing-hand icon) has no printed heading, heading left empty",
+   "lesson": "hr-hindi-bv-w09-d05",
+   "page": 33,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'भावनाए' and 'मुस्कराएं' spelling as printed",
+   "lesson": "hr-hindi-bv-w09-d05",
+   "page": 33,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 second bullet ends 'कहें।।' as printed",
+   "lesson": "hr-hindi-bv-w09-d05",
+   "page": 33,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.1 step bar prints no heading text (only number and 15 minutes); heading null",
+   "lesson": "hr-hindi-bv-w09-d06",
+   "page": 34,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box (pointing-hand icon) has no printed heading, heading left empty",
+   "lesson": "hr-hindi-bv-w09-d06",
+   "page": 34,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "tab-box items: two columns each begin with 'सुनो–सुनाओ' (listed as printed)",
+   "lesson": "hr-hindi-bv-w10-d01",
+   "page": 35,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 last bullet ends 'कहें।।' as printed",
+   "lesson": "hr-hindi-bv-w10-d01",
+   "page": 35,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 bullet 2: 'पूछें कहें कि' printed with no punctuation between, copied as printed",
+   "lesson": "hr-hindi-bv-w10-d02",
+   "page": 36,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim line and 3.2 aim line have no final danda as printed",
+   "lesson": "hr-hindi-bv-w10-d02",
+   "page": 36,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 second bullet begins with a printed leading dash '–फिर' copied as printed",
+   "lesson": "hr-hindi-bv-w10-d03",
+   "page": 37,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 heading 'विभिन्न खेलों की दृश्य' as printed",
+   "lesson": "hr-hindi-bv-w10-d04",
+   "page": 38,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim line has a double space before 'करने'",
+   "lesson": "hr-hindi-bv-w10-d04",
+   "page": 38,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 last bullet 'पढें' printed without chandrabindu-style matra as read",
+   "lesson": "hr-hindi-bv-w10-d04",
+   "page": 38,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "prep list: 'फूल,किताब, पत्ता' no space after first comma as printed",
+   "lesson": "hr-hindi-bv-w10-d04",
+   "page": 38,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 1.1 has no printed heading text beside the number",
+   "lesson": "hr-hindi-bv-w10-d06",
+   "page": 40,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 1.2 bullet 1 'ले जैसे' printed as is (likely 'लें')",
+   "lesson": "hr-hindi-bv-w10-d06",
+   "page": 40,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 3: items printed directly under the 3 bar with no step bar",
+   "lesson": "hr-hindi-bv-w10-d06",
+   "page": 40,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 3.2 'घेरे मे' printed with 'मे'",
+   "lesson": "hr-hindi-bv-w11-d01",
+   "page": 41,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 heading 'जिराफ' printed without nukta in this page (previous page had 'जिराफ़')",
+   "lesson": "hr-hindi-bv-w11-d02",
+   "page": 42,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 'इन शब्दों मे बच्चों से एक जैसी आवाज़ पूछें कहें कि' as printed",
+   "lesson": "hr-hindi-bv-w11-d02",
+   "page": 42,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "top-right 'दिनांक/हस्ताक्षर' line shows a doubled print artifact; ignored as blank form field",
+   "lesson": "hr-hindi-bv-w11-d03",
+   "page": 43,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 last bullet ends 'डूबती हैं।' (previous day printed '?')",
+   "lesson": "hr-hindi-bv-w11-d04",
+   "page": 44,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim line has a double space 'प्रयोग  करने'",
+   "lesson": "hr-hindi-bv-w11-d04",
+   "page": 44,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 'ख़ड़े' (with nukta) vs 'खड़े' read from print; exact nukta uncertain",
+   "lesson": "hr-hindi-bv-w11-d05",
+   "page": 45,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'सफ़ाई ज़रूरी' nukta forms as read",
+   "lesson": "hr-hindi-bv-w11-d05",
+   "page": 45,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "bottom boxed hand-icon note has no printed heading",
+   "lesson": "hr-hindi-bv-w11-d05",
+   "page": 45,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 1.1 has no printed heading text beside the number",
+   "lesson": "hr-hindi-bv-w11-d06",
+   "page": 46,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "section 3: items printed directly under the 3 bar with no step bar",
+   "lesson": "hr-hindi-bv-w11-d06",
+   "page": 46,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 'दें।।' double danda as printed; 'बनाओं' printed with chandrabindu-like anusvara",
+   "lesson": "hr-hindi-bv-w12-d01",
+   "page": 47,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 printed 'पूछें बारिश क्यों होती है?' sentence kept as printed ('गर्म क्यों हो जाती है?')",
+   "lesson": "hr-hindi-bv-w12-d03",
+   "page": 49,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2: 'चीज़ें धूप मे गर्म' printed with 'मे' (no anusvara) as read",
+   "lesson": "hr-hindi-bv-w12-d04",
+   "page": 50,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w12-d04",
+   "page": 50,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 bullet 3 'प्रश्नों पूछें' printed as read",
+   "lesson": "hr-hindi-bv-w12-d05",
+   "page": 51,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 'खेल मैदान मे दौड़ेगे' printed without anusvara as read",
+   "lesson": "hr-hindi-bv-w12-d05",
+   "page": 51,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared note box at page bottom right has a pointing-hand icon and no heading",
+   "lesson": "hr-hindi-bv-w12-d05",
+   "page": 51,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box at page bottom spans both columns, has a pointing-hand icon and no heading",
+   "lesson": "hr-hindi-bv-w12-d06",
+   "page": 52,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 last bullet 'बनवाएँ।' partly overlapped by the 3.2 header band, read as 'बनवाएँ'",
+   "lesson": "hr-hindi-bv-w13-d01",
+   "page": 53,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 bullet 2 'रेखाएं', 'बताएं', 'उन्हे' printed with anusvara/no anusvara as read",
+   "lesson": "hr-hindi-bv-w13-d01",
+   "page": 53,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w13-d01",
+   "page": 53,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 bullet 2/3 minor spellings (बताए, उन्हे, रखे, चले) read as printed",
+   "lesson": "hr-hindi-bv-w13-d02",
+   "page": 54,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w13-d02",
+   "page": 54,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 last bullet prints 'आदिय' (likely misprint for 'आदि'); kept as printed",
+   "lesson": "hr-hindi-bv-w13-d03",
+   "page": 55,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 'उन्हे' printed without anusvara as read",
+   "lesson": "hr-hindi-bv-w13-d03",
+   "page": 55,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w13-d03",
+   "page": 55,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 last bullet prints 'आदिय' (likely misprint for 'आदि'); kept as printed",
+   "lesson": "hr-hindi-bv-w13-d04",
+   "page": 56,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 heading 'फेकों और पकड़ो' with body text about बोरी (sack) — appears copied from the previous day; transcribed as printed",
+   "lesson": "hr-hindi-bv-w13-d04",
+   "page": 56,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w13-d04",
+   "page": 56,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 quotes “Hands up“ / “Hands down“ use matching opening-style quote marks as printed",
+   "lesson": "hr-hindi-bv-w13-d04",
+   "page": 56,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet 1: 'अँगूठा ऊपर और और नहीं है' is printed as 'ऊपर और' line-break 'और नहीं' (the second 'और' may be a line-wrap duplicate); kept as read",
+   "lesson": "hr-hindi-bv-w13-d05",
+   "page": 57,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w13-d05",
+   "page": 57,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared note box at page bottom right has a pointing-hand icon and no heading",
+   "lesson": "hr-hindi-bv-w13-d05",
+   "page": 57,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box at page bottom spans both columns, has a pointing-hand icon and no heading",
+   "lesson": "hr-hindi-bv-w13-d06",
+   "page": 58,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w14-d01",
+   "page": 59,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 'घूमना हैं', 'बैठना हैं', 'पुन संगीत' printed as read",
+   "lesson": "hr-hindi-bv-w14-d01",
+   "page": 59,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 spans left column bottom into right column top; merged into one section",
+   "lesson": "hr-hindi-bv-w14-d02",
+   "page": 60,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 'घूमना हैं', 'बैठना हैं', 'पुन संगीत' printed as read",
+   "lesson": "hr-hindi-bv-w14-d02",
+   "page": 60,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 heading: printed on two lines 'बिग बुक पर कार्यः पढ़कर / सुनना और संबंधित चित्र (मुर्गी और मगरमच्छ)'; word 'पढ़कर' read as printed; 3.2 and 5.1 'माँसपेशियों' spelling as printed",
+   "lesson": "hr-hindi-bv-w14-d03",
+   "page": 61,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 first bullet printed 'रेखाएं बनाएं' with anusvara (differs from page 61); quote marks around Walk/Stop/Sit/Stand rendered as “ ”",
+   "lesson": "hr-hindi-bv-w14-d04",
+   "page": 62,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 last bullet: opening quote “ without closing quote as printed; 'प्रश्नों पूछें' as printed",
+   "lesson": "hr-hindi-bv-w14-d05",
+   "page": 63,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials box printed in two columns; order read left column then right",
+   "lesson": "hr-hindi-bv-w14-d05",
+   "page": 63,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first bullet 'किसी खाली जगह ले जाए' (no 'पर') as printed",
+   "lesson": "hr-hindi-bv-w14-d06",
+   "page": 64,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 aim line: 'बच्चे आसपास की वस्तुओं/घटनाओं के बीच समानता और अंतर को 1–2 वाक्यों में बता सकें।' last words read 'बता सकें' (printed 'बता सकें')",
+   "lesson": "hr-hindi-bv-w15-d01",
+   "page": 65,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 second bullet: closing quote after नहीं उछलता printed as ” with opening “ only before पत्थर",
+   "lesson": "hr-hindi-bv-w15-d01",
+   "page": 65,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 second bullet: phoneme slashes '/सी/ /मा/ ।' wrapped across two lines; read as printed",
+   "lesson": "hr-hindi-bv-w15-d02",
+   "page": 66,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 third bullet: printed text 'बिग बुक के मुख्य पृष्ठ पर चर्चा करें: यहाँ कौन है? कहानी का नाम क्या हो सकता है?' is followed on the next line by 'रखते हुए कहानी दोबारा पढ़ें।' which seems to be a fragment of a line missing in print (e.g. finger-on-words instruction); copied exactly as printed in one bullet",
+   "lesson": "hr-hindi-bv-w15-d03",
+   "page": 67,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials 'फुल' printed (not फूल) in preparation box",
+   "lesson": "hr-hindi-bv-w15-d04",
+   "page": 68,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first bullet 'वस्तुएँ ले जैसे–' as printed",
+   "lesson": "hr-hindi-bv-w15-d04",
+   "page": 68,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 uses 'रेखाएं बनाएं' with anusvara as printed",
+   "lesson": "hr-hindi-bv-w15-d04",
+   "page": 68,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 'पूछे' and 'गए है' as printed",
+   "lesson": "hr-hindi-bv-w15-d04",
+   "page": 68,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 third bullet wraps from left column into the right-column box (line 'अगर आप वहाँ होते तो क्या करते?' printed without bullet): joined into one item",
+   "lesson": "hr-hindi-bv-w15-d05",
+   "page": 69,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'चित्र के बारे मे' as printed; quote marks in 1.2 bullet rendered as “ ”",
+   "lesson": "hr-hindi-bv-w15-d05",
+   "page": 69,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "materials box printed in two columns, read left then right",
+   "lesson": "hr-hindi-bv-w15-d05",
+   "page": 69,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first bullet 'वस्तुएँ ले जैसे फूल' as printed (no dash after जैसे)",
+   "lesson": "hr-hindi-bv-w15-d06",
+   "page": 70,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 first bullet: opening quote “ printed, no closing quote; second bullet quote marks rendered as “ ”",
+   "lesson": "hr-hindi-bv-w16-d01",
+   "page": 71,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 heading read 'सीधी पर चाल' as printed",
+   "lesson": "hr-hindi-bv-w16-d01",
+   "page": 71,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 second bullet 'पकड़े,बिना' printed without space",
+   "lesson": "hr-hindi-bv-w16-d01",
+   "page": 71,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 heading: 'चुने' printed as such; 5.1 bullet 'बताएं' printed with anusvara",
+   "lesson": "hr-hindi-bv-w16-d02",
+   "page": 72,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 bullets: 'दाएं/दाएँ' variation between anusvara and chandrabindu as read; 'सम्बंधित' printed in 3.1 aim",
+   "lesson": "hr-hindi-bv-w16-d03",
+   "page": 73,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 bullets: 'बैठाएं', 'बच्चो', 'पूछे' printed forms as read",
+   "lesson": "hr-hindi-bv-w16-d04",
+   "page": 74,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Bottom boxed note (pointing-hand icon) has no printed heading; placed in shared with heading null",
+   "lesson": "hr-hindi-bv-w16-d05",
+   "page": 75,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Bottom boxed note (pointing-hand icon) has no printed heading; placed in shared with heading null",
+   "lesson": "hr-hindi-bv-w16-d06",
+   "page": 76,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet: 'कहें की' printed as such",
+   "lesson": "hr-hindi-bv-w16-d06",
+   "page": 76,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 aim line printed without final danda",
+   "lesson": "hr-hindi-bv-w17-d01",
+   "page": 77,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Several lines in 1.2 and 5.1 printed without final danda as read; 'ऊंचाई' vs 'ऊँचाई' and 'उन्हे' as read",
+   "lesson": "hr-hindi-bv-w17-d02",
+   "page": 78,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 bullet 3: text appears to join two bullets (printed as 'कहानी का नाम क्या हो सकता है? पपेट/मुखौटे का प्रयोग करें।') copied as printed; 3.2 'बांधकर' printed with anusvara",
+   "lesson": "hr-hindi-bv-w17-d04",
+   "page": 80,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 bullet 2: printed 'शब्द मे पहली ध्वनि/ बो/ है' (slash-delimited sound); spacing around slashes approximate",
+   "lesson": "hr-hindi-bv-w18-d02",
+   "page": 84,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 bullet 1: colon after 'पूछें' read as printed (looks like ':' ); 5.1 aim line printed without final danda",
+   "lesson": "hr-hindi-bv-w18-d03",
+   "page": 85,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 quote marks around 'यह apple है।' and 'apple शब्द ...' printed as straight-ish double quotes; written as curly quotes",
+   "lesson": "hr-hindi-bv-w18-d04",
+   "page": 86,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 and 5.1 content on this page is identical to day 3 (page 81) as printed",
+   "lesson": "hr-hindi-bv-w18-d04",
+   "page": 86,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box at bottom right (hand-pointing icon) has no printed heading; 'अवलोकन ट्रैकर' heading is taken from its first words",
+   "lesson": "hr-hindi-bv-w18-d05",
+   "page": 87,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim: printed 'आस पास मे' (spacing/spelling as printed)",
+   "lesson": "hr-hindi-bv-w18-d05",
+   "page": 87,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null",
+   "lesson": "hr-hindi-bv-w18-d06",
+   "page": 88,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "prep box: 'गेंद' is printed in a second column of the box, read as third item",
+   "lesson": "hr-hindi-bv-w19-d04",
+   "page": 92,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet 2: 'दिखाए' printed (not 'दिखाएँ')",
+   "lesson": "hr-hindi-bv-w19-d04",
+   "page": 92,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box at bottom right (hand-pointing icon) has no printed heading; heading is null",
+   "lesson": "hr-hindi-bv-w19-d05",
+   "page": 93,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "prep box: 'कागज़ से बनी गेंद।' printed in a second column of the box, read as third item",
+   "lesson": "hr-hindi-bv-w19-d05",
+   "page": 93,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null",
+   "lesson": "hr-hindi-bv-w19-d06",
+   "page": 94,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim and bullets appear printed without final danda (clipped at column edge?)",
+   "lesson": "hr-hindi-bv-w20-d01",
+   "page": 95,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading: 'अक्षर पहचान की गतिविधि 1ः' colon form as printed",
+   "lesson": "hr-hindi-bv-w20-d01",
+   "page": 95,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 aim printed without final danda",
+   "lesson": "hr-hindi-bv-w20-d03",
+   "page": 97,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 bullet 2: 'बिंदिओं' as printed",
+   "lesson": "hr-hindi-bv-w20-d03",
+   "page": 97,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "prep box printed in two columns; read left column then right column",
+   "lesson": "hr-hindi-bv-w20-d04",
+   "page": 98,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "5.1 bullets 1-2 spelling/word breaks as printed ('खड़ा करवाकर के', 'चुकें'); on p097 same line read 'खड़ाकर के' and 'चूकें' - compare",
+   "lesson": "hr-hindi-bv-w20-d04",
+   "page": 98,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "shared box at bottom right (hand-pointing icon) has no printed heading; heading is null",
+   "lesson": "hr-hindi-bv-w20-d05",
+   "page": 99,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "prep box printed in two columns; read left then right",
+   "lesson": "hr-hindi-bv-w20-d05",
+   "page": 99,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 aim and 2nd bullet printed without final danda",
+   "lesson": "hr-hindi-bv-w20-d05",
+   "page": 99,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "full-width box at bottom (hand-pointing icon) has no printed heading; heading is null",
+   "lesson": "hr-hindi-bv-w20-d06",
+   "page": 100,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 aim printed without final danda",
+   "lesson": "hr-hindi-bv-w20-d06",
+   "page": 100,
+   "doc": "hr-bv-p1"
+  },
+  {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2: opening quote marks around र in 'अक्षर ‘‘र’’ को पहचानना' and 'इस शब्द की पहली आवाज़ क्या है' approximated",
    "lesson": "hr-hindi-bv-w21-d01",
-   "page": 211
+   "page": 211,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "4.1 aim not printed with target icon; 4 heading wraps 'पर कार्य' to second line (joined)",
    "lesson": "hr-hindi-bv-w21-d01",
-   "page": 211
+   "page": 211,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1: first bullet printed without final danda",
    "lesson": "hr-hindi-bv-w21-d02",
-   "page": 212
+   "page": 212,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet: 'यदि उसकी पहली आवाज़ ‘र’ तो' printed without 'है'; 'मे' as printed",
    "lesson": "hr-hindi-bv-w21-d02",
-   "page": 212
+   "page": 212,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 heading 'लोगोग्रफ़िक' spelling (could be लोगोग्राफ़िक); 'किताब' vs 'किताब' form read as printed",
    "lesson": "hr-hindi-bv-w21-d03",
-   "page": 213
+   "page": 213,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1 last bullet ends with double danda as printed",
    "lesson": "hr-hindi-bv-w21-d03",
-   "page": 213
+   "page": 213,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 'चित्र कहानी का नाम' bullet: wording read from image",
    "lesson": "hr-hindi-bv-w21-d04",
-   "page": 214
+   "page": 214,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "opening/closing quote marks approximated",
    "lesson": "hr-hindi-bv-w21-d04",
-   "page": 214
+   "page": 214,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 'और और' repeated as printed; 'अज़नबी' spelling; 'पोर्टफ़ोलियो' spelling",
    "lesson": "hr-hindi-bv-w21-d05",
-   "page": 215
+   "page": 215,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "shared: boxed note at bottom of right column with pointing-hand icon; its 'heading' is my label, printed text has no heading (printed text starts 'अवलोकन ट्रैकर भरें')",
    "lesson": "hr-hindi-bv-w21-d05",
-   "page": 215
+   "page": 215,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 and 3.2 text bullets some without final danda as printed",
    "lesson": "hr-hindi-bv-w21-d05",
-   "page": 215
+   "page": 215,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «अवलोकन ट्रैकर»",
    "lesson": "hr-hindi-bv-w21-d05",
-   "page": 215
+   "page": 215,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "shared box: 'पोर्टफ़ोलियों' printed as such; heading is my placeholder label (no printed heading)",
    "lesson": "hr-hindi-bv-w21-d06",
-   "page": 216
+   "page": 216,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 3 has no sub-steps; bullets sit directly under period 3",
    "lesson": "hr-hindi-bv-w21-d06",
-   "page": 216
+   "page": 216,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «(boxed note with pointing-hand icon; no printed heading)»",
    "lesson": "hr-hindi-bv-w21-d06",
-   "page": 216
+   "page": 216,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1 heading printed 'तीन पेरों की चाल' (read as printed); 3.2 'बुझो' as printed",
    "lesson": "hr-hindi-bv-w22-d01",
-   "page": 217
+   "page": 217,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet 'अंदाज़ा' vs 'अंदाजा' read as printed",
    "lesson": "hr-hindi-bv-w22-d01",
-   "page": 217
+   "page": 217,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "4.1 heading 'किताबें–उतने पत्ते' read as printed; 3.1 'होते है' as printed",
    "lesson": "hr-hindi-bv-w22-d02",
-   "page": 218
+   "page": 218,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks around न approximated",
    "lesson": "hr-hindi-bv-w22-d02",
-   "page": 218
+   "page": 218,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 heading 'लोगोग्रफ़िक' and '(कक्षा1 से ...)' as printed",
    "lesson": "hr-hindi-bv-w22-d03",
-   "page": 219
+   "page": 219,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks approximated",
    "lesson": "hr-hindi-bv-w22-d03",
-   "page": 219
+   "page": 219,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «चॉक»",
    "lesson": "hr-hindi-bv-w22-d03",
-   "page": 219
+   "page": 219,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 quote marks around English sentences approximated",
    "lesson": "hr-hindi-bv-w22-d04",
-   "page": 220
+   "page": 220,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 bullet 'चित्र कहानी का नाम' as printed",
    "lesson": "hr-hindi-bv-w22-d04",
-   "page": 220
+   "page": 220,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "shared: boxed note with pointing-hand icon; 'heading' is my label, printed text has no heading",
    "lesson": "hr-hindi-bv-w22-d05",
-   "page": 221
+   "page": 221,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 spellings 'उन्हे', 'मुस्कराते' as printed; 5.1 'सिखाएं जा चुकें हैं' as printed",
    "lesson": "hr-hindi-bv-w22-d05",
-   "page": 221
+   "page": 221,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 last bullet 'बोले' as printed",
    "lesson": "hr-hindi-bv-w22-d05",
-   "page": 221
+   "page": 221,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «अवलोकन ट्रैकर»",
    "lesson": "hr-hindi-bv-w22-d05",
-   "page": 221
+   "page": 221,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 'ध्यान देने योग्य बातें' is a bold line inside the 3.1 box, placed as text item; 'लोगोग्राफीक', 'रोके–टोके', 'उन्हे', 'पढ़ रहें है' as printed",
    "lesson": "hr-hindi-bv-w22-d06",
-   "page": 222
+   "page": 222,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 first bullet: word order 'अंग्रेज़ी उनके नाम' read as printed",
    "lesson": "hr-hindi-bv-w22-d06",
-   "page": 222
+   "page": 222,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep material printed as 'फलों के' ... 'चित्र' with wide gap (joined)",
    "lesson": "hr-hindi-bv-w22-d06",
-   "page": 222
+   "page": 222,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks approximated",
    "lesson": "hr-hindi-bv-w23-d01",
-   "page": 223
+   "page": 223,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 heading 'मुर्गी के तीन चूजे' as printed",
    "lesson": "hr-hindi-bv-w23-d02",
-   "page": 224
+   "page": 224,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet printed without 'है' after 'ल' as printed",
    "lesson": "hr-hindi-bv-w23-d02",
-   "page": 224
+   "page": 224,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 heading 'चूज़े' vs 'चूजे' (nukta) uncertain",
    "lesson": "hr-hindi-bv-w23-d03",
-   "page": 225
+   "page": 225,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 spellings 'बिंदिओं', 'हैं', 'बच्चें' as printed; 1.2 'चुने' as printed (no chandrabindu/anusvara)",
    "lesson": "hr-hindi-bv-w23-d03",
-   "page": 225
+   "page": 225,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks approximated",
    "lesson": "hr-hindi-bv-w23-d03",
-   "page": 225
+   "page": 225,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 second bullet wraps from left column bottom to right column top (joined as one item)",
    "lesson": "hr-hindi-bv-w23-d04",
-   "page": 226
+   "page": 226,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 closing quotes approximated; 3.2 spellings as printed",
    "lesson": "hr-hindi-bv-w23-d04",
-   "page": 226
+   "page": 226,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "shared: boxed note with pointing-hand icon; 'heading' is my label, printed text has no heading",
    "lesson": "hr-hindi-bv-w23-d05",
-   "page": 227
+   "page": 227,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 aim line 'ध्यान केंद्रित करना' vs heading 'केन्द्रित' as printed; 'माँसपेशियों' spelling",
    "lesson": "hr-hindi-bv-w23-d05",
-   "page": 227
+   "page": 227,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 last bullet: opening quote ‘‘ printed, closing quote not seen",
    "lesson": "hr-hindi-bv-w23-d05",
-   "page": 227
+   "page": 227,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «अवलोकन ट्रैकर»",
    "lesson": "hr-hindi-bv-w23-d05",
-   "page": 227
+   "page": 227,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "shared box heading is a placeholder (no printed heading); 'पोर्टफ़ोलियों' as printed",
    "lesson": "hr-hindi-bv-w23-d06",
-   "page": 228
+   "page": 228,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 3 has no sub-steps; bullets directly under period 3",
    "lesson": "hr-hindi-bv-w23-d06",
-   "page": 228
+   "page": 228,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "textlayer-mismatch",
    "msg": "vision and PDF text differ (similarity 0.0): «(boxed note with pointing-hand icon; no printed heading)»",
    "lesson": "hr-hindi-bv-w23-d06",
-   "page": 228
+   "page": 228,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.2 and 5.1 aim lines (beside target icon) given as first text item; 3.1 heading subtitle '(सुनो–सुनाओ से कहानी चुनें)' kept in heading",
    "lesson": "hr-hindi-bv-w24-d01",
-   "page": 229
+   "page": 229,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet prints 'घेरे मे' and 'आपको' as 'आपको' possibly 'आपको'; 'हम कुछ शब्द बोलेंगे, आपको ध्यान से सुनना है' read as printed",
    "lesson": "hr-hindi-bv-w24-d02",
-   "page": 230
+   "page": 230,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 prints 'किताब' and 'पहुचनें' (5.1) as printed misprints; prep box order of the 3 bullets (two columns) read left then right",
    "lesson": "hr-hindi-bv-w24-d03",
-   "page": 231
+   "page": 231,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1: the line 'जैसेः कहानी किसके बारे में होगी?' at top of right column joined to the last left-column bullet as its continuation",
    "lesson": "hr-hindi-bv-w24-d04",
-   "page": 232
+   "page": 232,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order (two columns) read left column then right column",
    "lesson": "hr-hindi-bv-w24-d04",
-   "page": 232
+   "page": 232,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "misprints kept: 'की सभी', 'thankyou', 'पहुचनें'",
    "lesson": "hr-hindi-bv-w24-d04",
-   "page": 232
+   "page": 232,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1: unbulleted line 'बच्चों का ध्यान कहानी की घटनाओं के क्रम की ओर ले जाएँ' at top of right column joined to the last left-column bullet (assumed continuation; its own sentence has no closing danda)",
    "lesson": "hr-hindi-bv-w24-d05",
-   "page": 233
+   "page": 233,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Final boxed line with hand icon (अवलोकन ट्रैकर ...) placed as unnamed last section of the day",
    "lesson": "hr-hindi-bv-w24-d05",
-   "page": 233
+   "page": 233,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order (two columns) read left then right",
    "lesson": "hr-hindi-bv-w24-d05",
-   "page": 233
+   "page": 233,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bottom full-width boxed note (pointing-hand icon, no printed title) put in 'shared' with null heading",
    "lesson": "hr-hindi-bv-w24-d06",
-   "page": 234
+   "page": 234,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks in last shared bullet are printed as doubled single quotes ‘‘ ’’",
    "lesson": "hr-hindi-bv-w24-d06",
-   "page": 234
+   "page": 234,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3 section items: right column period 3 is printed without sub-step bars",
    "lesson": "hr-hindi-bv-w24-d06",
-   "page": 234
+   "page": 234,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet: printed 'आवाज़ ‘स’ तो नीचे बैठना है' (no 'हो'); read as printed",
    "lesson": "hr-hindi-bv-w25-d02",
-   "page": 236
+   "page": 236,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order (two columns) read left then right",
    "lesson": "hr-hindi-bv-w25-d02",
-   "page": 236
+   "page": 236,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 second bullet printed without 'कि' before 'दूसरी तरफ' ('...क्या देखा दूसरी तरफ ब्लॉक्स रखेंगे तो क्या होगा?'); read as printed",
    "lesson": "hr-hindi-bv-w25-d03",
-   "page": 237
+   "page": 237,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1: top-of-right-column line 'जैसेः कहानी किसके बारे में होगी?' joined to the last left-column bullet as continuation",
    "lesson": "hr-hindi-bv-w25-d04",
-   "page": 238
+   "page": 238,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order (two columns) read left then right",
    "lesson": "hr-hindi-bv-w25-d04",
-   "page": 238
+   "page": 238,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Final boxed line with pointing-hand icon placed as unnamed last section of the day",
    "lesson": "hr-hindi-bv-w25-d05",
-   "page": 239
+   "page": 239,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "misprint-looking forms kept as printed: 'इसमे', 'आउट लाईन', 'चीज़े'",
    "lesson": "hr-hindi-bv-w25-d05",
-   "page": 239
+   "page": 239,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bottom full-width boxed note (pointing-hand icon, no printed title) put in 'shared' with null heading",
    "lesson": "hr-hindi-bv-w25-d06",
-   "page": 240
+   "page": 240,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "quote marks in last shared bullet printed as doubled single quotes",
    "lesson": "hr-hindi-bv-w25-d06",
-   "page": 240
+   "page": 240,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Week heading 'सप्ताह – 26 (सावधिक पुनरावृत्ति और प्रगति कार्ड–2 भरना)' is printed on two lines at top-left; stored in header",
    "lesson": "hr-hindi-bv-w26-d01",
-   "page": 241
+   "page": 241,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 second bullet: 'वर्ण (जैसे ‘र’) से शुरू शब्द' read as printed",
    "lesson": "hr-hindi-bv-w26-d01",
-   "page": 241
+   "page": 241,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Week heading printed over two lines at top-left; stored in header",
    "lesson": "hr-hindi-bv-w26-d02",
-   "page": 242
+   "page": 242,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order (two columns) read left then right",
    "lesson": "hr-hindi-bv-w26-d02",
-   "page": 242
+   "page": 242,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.2 first bullet 'ध्यान से कुछ शब्द सुनेंगे' read as printed",
    "lesson": "hr-hindi-bv-w26-d02",
-   "page": 242
+   "page": 242,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1 first bullet: 'ऊंचाई' with anusvara in first bullet vs 'ऊँचाई' in third, as printed",
    "lesson": "hr-hindi-bv-w26-d02",
-   "page": 242
+   "page": 242,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 first bullet wraps across the column break (left column bottom to right column top) and is written as one item",
    "lesson": "hr-hindi-bv-w26-d03",
-   "page": 243
+   "page": 243,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order: left column then right column",
    "lesson": "hr-hindi-bv-w26-d03",
-   "page": 243
+   "page": 243,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1 heading printed 'तीन पेरों की चाल' (as printed); last bullet ends with double danda '।।' as printed",
    "lesson": "hr-hindi-bv-w26-d04",
-   "page": 244
+   "page": 244,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "prep box order: left column then right column",
    "lesson": "hr-hindi-bv-w26-d04",
-   "page": 244
+   "page": 244,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 second bullet printed 'दिखाए' as printed",
    "lesson": "hr-hindi-bv-w26-d04",
-   "page": 244
+   "page": 244,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Week heading printed over two lines at top-left; stored in header",
    "lesson": "hr-hindi-bv-w26-d05",
-   "page": 245
+   "page": 245,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 last bullet printed with an opening quote and 'Thank you' without a closing quote, as printed",
    "lesson": "hr-hindi-bv-w26-d05",
-   "page": 245
+   "page": 245,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "5.1 second bullet: 'चॉक/डंडे से,रेखांकित' comma spacing as printed",
    "lesson": "hr-hindi-bv-w26-d05",
-   "page": 245
+   "page": 245,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bottom full-width boxed note (pointing-hand icon, no title) put in 'shared' with null heading; second bullet 'दें पिछली की गई गतिविधियाँ' read as printed",
    "lesson": "hr-hindi-bv-w26-d05",
-   "page": 245
+   "page": 245,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 4 has no sub-step; single bullet directly under period bar",
    "lesson": "hr-hindi-bv-w26-d05",
-   "page": 245
+   "page": 245,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Week heading printed over two lines at top-left; stored in header",
    "lesson": "hr-hindi-bv-w26-d06",
-   "page": 246
+   "page": 246,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bottom full-width boxed note (pointing-hand icon, no title) put in 'shared' with null heading",
    "lesson": "hr-hindi-bv-w26-d06",
-   "page": 246
+   "page": 246,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Periods 3 and 4 have no sub-step bars; bullets sit directly under the period bar",
    "lesson": "hr-hindi-bv-w26-d06",
-   "page": 246
+   "page": 246,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "sequence",
+   "msg": "week 17 ends at day 4, week 18 starts at day 1",
+   "lesson": "hr-hindi-bv-w18-d01",
+   "page": 83,
+   "doc": "hr-bv-p1",
+   "acknowledged": "As p80: week 17 days 5-6 are the games-fair pages 81-82."
+  },
+  {
+   "level": "warn",
+   "code": "figure-unplaced",
+   "msg": "picture «Illustration of a busy fair scene with stalls, a cycle and children» (unit None) could not be matched to a lesson section; only the original page shows it",
+   "lesson": null,
+   "page": 81,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "warn",
+   "code": "figure-unplaced",
+   "msg": "picture «Pyramid of ten numbered tin cans (1 to 10)» (unit None) could not be matched to a lesson section; only the original page shows it",
+   "lesson": null,
+   "page": 82,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "warn",
+   "code": "figure-unplaced",
+   "msg": "picture «Row of tyres laid on grass with children's feet stepping over them» (unit None) could not be matched to a lesson section; only the original page shows it",
+   "lesson": null,
+   "page": 82,
+   "doc": "hr-bv-p1"
+  },
+  {
+   "level": "warn",
+   "code": "figure-unplaced",
+   "msg": "picture «Photo of small chairs made from bottle caps and sticks» (unit None) could not be matched to a lesson section; only the original page shows it",
+   "lesson": null,
+   "page": 82,
+   "doc": "hr-bv-p1"
   }
  ]
 }

@@ -1,0 +1,70 @@
+{
+  "pdf_page": 76,
+  "printed_page": "72",
+  "page_kind": "lesson",
+  "header": "सप्ताह – 16 (सावधिक पुनरावृत्ति और प्रगति कार्ड–1 भरना)",
+  "units": [
+    {
+      "keys": {"week": "16", "day": "6"},
+      "keys_evidence": "highlighted tab 'दिवस 6'; heading 'सप्ताह – 16'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+         "items": [{"type": "bullet", "text": "सुनो–सुनाओ"}], "sections": []},
+        {"number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30", "items": [],
+         "sections": [
+           {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+            "items": [
+              {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+              {"type": "bullet", "text": "उपस्थिति चार्ट"},
+              {"type": "bullet", "text": "आज क्या करेंगे?"},
+              {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+            ], "sections": []},
+           {"number": "1.2", "heading": "Introduction to English (Walk, Stop, Sit, Stand)", "minutes": "15",
+            "items": [
+              {"type": "text", "text": "सामान्य और परिचित अनुभवों से जुड़ी शब्दावली का प्रयोग करने की शुरुआत करना।"},
+              {"type": "bullet", "text": "बच्चों को किसी खाली जगह ले जाएँ और गोल घेरे में बिठाएँ।"},
+              {"type": "bullet", "text": "कहें की आपके शब्दों पर ध्यान दें और “Walk” पर चलें, “Stop” पर रुकें, “Sit” पर बैठें और “Stand” पर खड़े हों।"},
+              {"type": "bullet", "text": "यह प्रक्रिया 2–3 बार आप करके दिखाएँ। फिर बच्चों के साथ दोहराएँ।"}
+            ], "sections": []}
+         ]},
+        {"number": "2", "heading": "मुक्त खेल", "minutes": "50",
+         "items": [
+           {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+           {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+         ], "sections": []},
+        {"number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+         "items": [
+           {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, चित्र बनाने और उनके चित्र पर बातचीत करने का मौका दें।"},
+           {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"}
+         ], "sections": []},
+        {"number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+         "items": [
+           {"type": "bullet", "text": "सप्ताह में की गई गतिविधियों पर किए गए अवलोकन के आधार पर शिक्षक प्रगति कार्ड 1 भरें।"}
+         ], "sections": []},
+        {"number": "5", "heading": "बाहरी खेल", "minutes": "30", "items": [],
+         "sections": [
+           {"number": "5.1", "heading": "गतिविधिः योगा", "minutes": null,
+            "items": [
+              {"type": "text", "text": "शारीरिक और मानसिक विकास।"},
+              {"type": "bullet", "text": "बच्चों के स्तरानुसार सरल योगा करवाएँ।"}
+            ], "sections": []}
+         ]},
+        {"number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+         "items": [{"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}], "sections": []}
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": null, "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "सप्ताह में की गई गतिविधियों पर किए गए अवलोकन के आधार पर शिक्षक प्रगति कार्ड 1 भरें। (प्रगति कार्ड भरने के निर्देश पीछे के पृष्ठों पर देखें।)"},
+       {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार गतिविधियाँ करने दें पिछली की गई गतिविधियाँ दोहराएँ।"},
+       {"type": "bullet", "text": "अभिभावकों को प्रगति कार्ड की कॉपी दें और उनके साथ बच्चों की प्रगति पर चर्चा करें। उन्हें घर पर बच्चों के साथ कार्य करने के सुझाव दें।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["Bottom boxed note (pointing-hand icon) has no printed heading; placed in shared with heading null", "1.2 bullet: 'कहें की' printed as such"],
+  "notes": "Two columns. A boxed note with a pointing-hand icon spans the page bottom."
+}

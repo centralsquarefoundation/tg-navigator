@@ -108,15 +108,16 @@ def walk(sections):
 def reconcile_pack(pack, textlayer, prefer=False):
     corrections = Counter()
     totals = Counter()
-    for les in pack['lessons'] + [{'id': g['id'], 'pages': [g['opener_page']] if g.get('opener_page') else [],
+    for les in pack['lessons'] + [{'id': g['id'], 'doc': g.get('doc'), 'pages': [g['opener_page']] if g.get('opener_page') else [],
                                    'sections': g.get('intro', []), 'intro': [], 'shared': []} for g in pack['groups']]:
-        pages = [str(p) for p in les['pages'] if str(p) in textlayer]
+        tl_doc = textlayer.get(les.get('doc') or pack['doc'], {})
+        pages = [str(p) for p in les['pages'] if str(p) in tl_doc]
         stats = Counter()
         if not pages:
             stats['single-reading'] = 1
             les['textcheck'] = dict(stats)
             continue
-        pt = PageText([l for p in pages for l in textlayer[p]])
+        pt = PageText([l for p in pages for l in tl_doc[p]])
         targets = [(les['intro'], i) for i in range(len(les['intro']))]
         for obj, field in list(walk(les['sections'])) + list(walk(les.get('shared', []))):
             targets.append((obj, field))
@@ -174,7 +175,7 @@ def main():
         pack = read_json(pack_path)
         if not pack:
             continue
-        tl = read_json(build(a.state, 'textlayer', f"{g['doc']}.json"), {})
+        tl = {part['doc']: read_json(build(a.state, 'textlayer', f"{part['doc']}.json"), {}) for part in g['parts']}
         reconcile_pack(pack, tl, prefer=g['profileData'].get('textlayer_policy') == 'prefer')
         write_json(pack_path, pack)
         t = pack['reconcile']['totals']

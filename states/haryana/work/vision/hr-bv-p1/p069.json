@@ -1,0 +1,117 @@
+{
+  "pdf_page": 69,
+  "printed_page": "65",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "15", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; top-left 'सप्ताह — 15'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "अख़बार/पुरानी पत्रिका से सड़क का दृश्य।"},
+            {"type": "bullet", "text": "गत्ते के छोटे टुकड़े, गोंद, सफेद चार्ट पेपर, स्केच पेन, रंग।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "सामाजिक–भावनात्मक और नैतिक विकास (सड़क सावधानी)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "सड़क सुरक्षा नियमों और यातायात प्रतीकों को समझना।"},
+               {"type": "bullet", "text": "बच्चों को चित्र दिखाकर चित्र के बारे मे पूछें। “स्कूटर, बस, ऑटो आदि कहाँ चलते हैं? सड़क पर या किनारे?”"},
+               {"type": "bullet", "text": "चर्चा करें गाड़ियाँ सड़क पर चलती हैं और पैदल लोग फुटपाथ का इस्तेमाल करते हैं।"},
+               {"type": "bullet", "text": "कहें कि हमेशा फुटपाथ/सड़क के किनारे चलें। सड़क किसी बड़े के साथ दाएँ और बाएँ देखकर ही पार करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "चित्र चार्ट पर चर्चा और अभिव्यक्ति के लिए लेखन (सड़क का दृश्य)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "चित्रों को पहचानकर, 1–2 वाक्य में बता पाना।"},
+               {"type": "bullet", "text": "पिछले दिन की तरह चित्र चार्ट पर प्रश्न पूछें।"},
+               {"type": "bullet", "text": "बच्चों से आपसी चर्चा करवाएँ और सबकी भागीदारी देखें।"},
+               {"type": "bullet", "text": "कल्पना व अनुमान से जुड़े प्रश्नों पूछें। जैसेः अगर आप वहाँ होते तो क्या करते?"},
+               {"type": "bullet", "text": "अंत में बच्चों को पेंसिल, कागज़ और रंग दें।"},
+               {"type": "bullet", "text": "कल्पना आधारित चित्र बनाने के लिए कहें और बातचीत करें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "सृजनात्मक विकास (मेरे परिवार का चित्र)", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "विभिन्न प्रकार की कला सामग्रियों और उपकरणों का उपयोग करना।"},
+               {"type": "bullet", "text": "बच्चों से गोले में बैठकर परिवार के सदस्यों पर बातचीत करें।"},
+               {"type": "bullet", "text": "4–5 के समूह बनाकर बीच में कला सामग्री रखें।"},
+               {"type": "bullet", "text": "बच्चे परिवार के सदस्यों के अनुसार गत्ते के टुकड़े लें और उन पर चित्र बनाएँ (शिक्षक पहले उदाहरण दिखाएँ)।"},
+               {"type": "bullet", "text": "सभी चित्र चार्ट पेपर पर चिपकाकर कक्षा में प्रदर्शित करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः मैंने सीखा", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 45 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः रस्सी पर चलना", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक संतुलन विकास।"},
+               {"type": "bullet", "text": "बच्चों को पंक्ति में खड़ा करके उनके सामने जमीन पर रस्सी रखें।"},
+               {"type": "bullet", "text": "बच्चों को बताएँ उन्हें संतुलन बनाते हुए क्रम से रस्सी पर चलना है।"},
+               {"type": "bullet", "text": "सभी बच्चों को मौका दें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [
+            {"type": "text", "text": "अवलोकन ट्रैकर भरें और बच्चों के कार्य को पोर्टफ़ोलियो में रखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.1 third bullet wraps from left column into the right-column box (line 'अगर आप वहाँ होते तो क्या करते?' printed without bullet): joined into one item", "1.2 'चित्र के बारे मे' as printed; quote marks in 1.2 bullet rendered as “ ”", "materials box printed in two columns, read left then right"],
+  "notes": "Right-column box at top continues section 3.1 from the left column. Final boxed line with pointing-hand icon (अवलोकन ट्रैकर ...) placed as last unnumbered section of the unit."
+}

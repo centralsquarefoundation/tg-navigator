@@ -1,0 +1,109 @@
+{
+  "pdf_page": 47,
+  "printed_page": "43",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "12", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; 'सप्ताह — 12' printed top-left",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "कागज़ और रंग"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "मुक्त चर्चा", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "दोस्तों और शिक्षकों से एक विषय में बात करना और अपनी पसंद/नापसंद का वर्णन करना।"},
+               {"type": "bullet", "text": "बच्चों के साथ घेरे में बैठकर सरल प्रश्नों से चर्चा शुरू करें और अपने अनुभव साझा करें।"},
+               {"type": "bullet", "text": "उनकी प्रतिक्रियाओं से एक विषय मिलकर चुनें।"},
+               {"type": "bullet", "text": "उस विषय पर आगे सवाल–जवाब करें, बच्चों के अनुभव, पसंद–नापसंद व पूर्वज्ञान से जोड़ें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "मौखिक कहानी सुनाना और चित्र बनाना (कोई स्थानीय कहानी चुनें)", "minutes": "25",
+             "items": [
+               {"type": "text", "text": "कहानी सुनकर समझना और सरल तथ्यात्मक प्रश्नों का उत्तर देना।"},
+               {"type": "bullet", "text": "कहानी का नाम बताएँ और उनसे अनुमान लगवाएँ। यह किसके बारे में हो सकती है?"},
+               {"type": "bullet", "text": "कहानी सुनाते समय आवाज़, हाव–भाव और पपेट/मुखौटे का प्रयोग करें।"},
+               {"type": "bullet", "text": "बीच–बीच में पूर्व ज्ञान व अनुमान से जुड़े प्रश्न पूछें: क्या आपने ऐसा कभी देखा है? कहाँ?"},
+               {"type": "bullet", "text": "कठिन शब्दों का अर्थ स्थानीय भाषा में समझाएँ।"},
+               {"type": "bullet", "text": "कहानी के बाद चर्चा करें और तथ्यात्मक सवाल पूछें: कहानी में कौन था? क्या कर रहा था?"},
+               {"type": "bullet", "text": "अंत में बच्चों से कहानी से जुड़ा चित्र बनवाएँ।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "मौखिक खेल: सुनो और चित्र बनाओ", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "3–4 वाक्यों के सामान्य निर्देश समझना।"},
+               {"type": "bullet", "text": "बच्चों को कागज़ और रंग दें।।"},
+               {"type": "bullet", "text": "एक–एक करके निर्देश दें– जैसे: फूल बनाओ। उसके ऊपर तितली बनाओं। फूल के नीचे घास बनाओं। सबसे ऊपर सूरज बनाओं।"},
+               {"type": "bullet", "text": "बच्चों को चित्र पूरा करने के लिए समय दें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधि: नाम कोड", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 26 की गतिविधि करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधि: दौड़–पकड़", "minutes": null,
+             "items": [
+               {"type": "text", "text": "बड़ी माँसपेशियों का विकास।"},
+               {"type": "bullet", "text": "एक बच्चा पकड़ेगा और बाकी बच्चे खेल मैदान मे दौड़ेंगे।"},
+               {"type": "bullet", "text": "पकड़ने वाला बच्चा जिस बच्चे को छू देगा फिर वह बच्चा पकड़ने लगेगा।"},
+               {"type": "bullet", "text": "इसी प्रकार खेल आगे बढ़ाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.2 'दें।।' double danda as printed; 'बनाओं' printed with chandrabindu-like anusvara"],
+  "notes": "Right column begins with bullets continuing section 3.1 from the left column."
+}

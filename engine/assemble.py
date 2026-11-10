@@ -88,10 +88,7 @@ def assemble(cfg, g):
     prof = g['profileData']
     keys = prof['hierarchy']['keys']
     group_key = prof['hierarchy']['group_by']
-    vdir = work(cfg['id'], 'vision', g['doc'], 'x').parent
-    pages = parse_pages(g['pages'].get('lessons', ''))
-    plan_pages = parse_pages(g['pages'].get('plan', ''))
-    groups, lessons, page_index, missing = [], [], [], []
+    groups, lessons, page_index, missing, plan = [], [], [], [], []
     current_group = None
 
     def group_for(value, page, title=None, intro=None):
@@ -99,7 +96,7 @@ def assemble(cfg, g):
         if current_group and (norm(current_group['key']) == norm(value) or similar(current_group['key'], value)):
             return current_group
         current_group = {'id': None, 'key': norm(value), 'title': title or norm(value), 'ordinal': len(groups) + 1,
-                         'intro': intro or [], 'pages': [page], 'opener_page': None}
+                         'intro': intro or [], 'pages': [page], 'opener_page': None, 'doc': doc}
         slug = keyslug(value)
         current_group['id'] = f"{g['id']}-{group_key[0]}{slug if slug and slug.isdigit() else f'{len(groups) + 1:02d}'}"
         groups.append(current_group)
@@ -107,13 +104,16 @@ def assemble(cfg, g):
 
     anomalies = (read_json(work(cfg['id'], 'x').parent.parent / 'anomalies.json', {}) or {}).get(g['id'], [])
     pending_opener = None
-    for p in pages:
+    for part in g['parts']:
+      doc = part['doc']
+      vdir = work(cfg['id'], 'vision', doc, 'x').parent
+      for p in parse_pages(part['pages'].get('lessons', '')):
         data = read_page(vdir / f'p{p:03d}.json')
         if data is None:
-            missing.append(p)
+            missing.append({'doc': doc, 'page': p})
             continue
         kind = data.get('page_kind')
-        page_index.append({'page': p, 'printed': data.get('printed_page'), 'kind': kind,
+        page_index.append({'doc': doc, 'page': p, 'printed': data.get('printed_page'), 'kind': kind,
                            'units': [u.get('keys') for u in data.get('units', [])]})
         if kind == 'unit_opener':
             pending_opener = {'page': p, 'title': norm(data.get('header')),
@@ -121,7 +121,7 @@ def assemble(cfg, g):
             continue
         if kind != 'lesson':
             continue
-        fix = next((a for a in anomalies if a['page'] == p and a.get('keys')), None)
+        fix = next((a for a in anomalies if a['page'] == p and a.get('doc', g['doc']) == doc and a.get('keys')), None)
         for u in data.get('units', []):
             k = {name: (norm(str(u.get('keys', {}).get(name))) if u.get('keys', {}).get(name) is not None else None) for name in keys}
             printed = None
@@ -145,10 +145,10 @@ def assemble(cfg, g):
                          all(norm(l['keys'].get(n)) == norm(k.get(n)) for n in keys if n != group_key)), None)
             # a continuation page that prints no keys at all belongs to the unit just before it
             if (prev is None and lessons and all(k.get(n) is None for n in keys)
-                    and p - lessons[-1]['pages'][-1] <= 1):
+                    and lessons[-1]['doc'] == doc and p - lessons[-1]['pages'][-1] <= 1):
                 prev = lessons[-1]
                 prev.setdefault('notes', []).append(f'page {p} prints no keys; joined as a continuation of the previous page')
-            if prev and (u.get('continues_from_previous_page') or (p - prev['pages'][-1] <= 1 and not restarts(prev['sections'], sections))):
+            if prev and prev['doc'] == doc and (u.get('continues_from_previous_page') or (p - prev['pages'][-1] <= 1 and not restarts(prev['sections'], sections))):
                 merge_sections(prev['sections'], sections)
                 for line in intro:
                     if line not in prev['intro']:
@@ -162,25 +162,25 @@ def assemble(cfg, g):
             lid = f"{grp['id']}-{unit_slug}"
             if any(l['id'] == lid for l in lessons):
                 lid += f'-p{p:03d}'
-            lessons.append({'id': lid, 'group': grp['id'], 'keys': k, 'order': len(lessons) + 1,
+            lessons.append({'id': lid, 'group': grp['id'], 'keys': k, 'order': len(lessons) + 1, 'doc': doc,
                             'column': u.get('column'), 'keys_evidence': u.get('keys_evidence'),
                             'intro': intro, 'sections': sections,
                             # page-level shared boxes belong to the lesson only when the page holds one unit
                             'shared': [clean_section(s) for s in data.get('shared', [])] if len(data.get('units', [])) == 1 else [],
                             'pages': [p], 'printed_pages': [data.get('printed_page')],
                             'uncertain': data.get('uncertain', [])})
-            if fix or any(a['page'] == p and a.get('notice') for a in anomalies):
-                a = fix or next(a for a in anomalies if a['page'] == p and a.get('notice'))
+            here = [a for a in anomalies if a['page'] == p and a.get('doc', g['doc']) == doc and a.get('notice')]
+            if fix or here:
+                a = fix or here[0]
                 lessons[-1]['notice'] = a.get('notice')
                 if printed:
                     lessons[-1]['printed_keys'] = printed
-    plan = []
-    for p in plan_pages:
+      for p in parse_pages(part['pages'].get('plan', '')):
         data = read_page(vdir / f'p{p:03d}.json')
         if data is None:
-            missing.append(p)
+            missing.append({'doc': doc, 'page': p})
             continue
-        plan.append({'page': p, 'kind': data.get('page_kind'), 'shared': [clean_section(s) for s in data.get('shared', [])]})
+        plan.append({'doc': doc, 'page': p, 'kind': data.get('page_kind'), 'shared': [clean_section(s) for s in data.get('shared', [])]})
     return {'guide': g['id'], 'doc': g['doc'], 'subject': g['subject'], 'grade': g['grade'],
             'gradeLabel': g.get('gradeLabel'), 'hierarchy': prof['hierarchy'], 'groups': groups,
             'lessons': lessons, 'plan': plan, 'page_index': page_index, 'missing_pages': missing}

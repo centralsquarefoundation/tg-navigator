@@ -143,6 +143,9 @@ p { margin: 0 0 10px; }
 .items li { margin: 0 0 6px; }
 .items li.text { list-style: none; margin-left: -22px; }
 .figure { list-style: none; margin-left: -22px; background: var(--bg); border: 1px dashed var(--line); border-radius: var(--radius-s); padding: 8px 10px; font-size: var(--fs-small); }
+.figure.has-crop { background: #fff; border-style: solid; padding: 6px; }
+.figure.has-crop img { display: block; width: 100%; height: auto; border-radius: 6px; }
+.figure .caption { display: block; margin-top: 4px; font-size: var(--fs-small); }
 .tbl { overflow-x: auto; margin: 6px 0 10px; list-style: none; margin-left: -22px; }
 .tbl table { border-collapse: collapse; font-size: var(--fs-small); min-width: 100%; }
 .tbl td { border: 1px solid var(--line); padding: 4px 6px; vertical-align: top; background: #fff; }

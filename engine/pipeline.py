@@ -2,7 +2,7 @@
 
   python engine/pipeline.py haryana [--sources DIR] [--allow-errors]
 
-  textlayer -> assemble -> reconcile -> verify -> publish -> review
+  textlayer -> assemble -> figures -> reconcile -> verify -> publish -> review
 (render.py and the transcription jobs come before this; see docs/NEW_STATE.md.)
 """
 import argparse
@@ -28,7 +28,9 @@ def main():
     a = ap.parse_args()
     src = ['--sources', a.sources] if a.sources else []
     run(str(HERE / 'textlayer.py'), a.state, *src)
-    for step in ('assemble.py', 'reconcile.py', 'verify.py'):
+    run(str(HERE / 'assemble.py'), a.state)
+    run(str(HERE / 'figures.py'), a.state, *src)
+    for step in ('reconcile.py', 'verify.py'):
         run(str(HERE / step), a.state)
     run(str(HERE / 'publish.py'), a.state, *(['--allow-errors'] if a.allow_errors else []))
     run(str(HERE / 'review.py'), a.state)

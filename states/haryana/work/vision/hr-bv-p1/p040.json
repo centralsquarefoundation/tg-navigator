@@ -1,0 +1,103 @@
+{
+  "pdf_page": 40,
+  "printed_page": "36",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "10", "day": "6"},
+      "keys_evidence": "highlighted tab 'दिवस 6'; 'सप्ताह — 10' printed top-left",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "फुल, किताब, पत्ता"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "आज क्या करेंगे?"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "Introduction to English (Things Around Me)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "सामान्य और परिचित अनुभवों से जुड़ी शब्दावली का प्रयोग करने की शुरुआत करना।"},
+               {"type": "bullet", "text": "आस–पास मिलने वाली वस्तुएँ ले जैसे फूल, किताबें, पत्ता आदि।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+               {"type": "bullet", "text": "फूल, किताब और पत्ता दिखाकर कहें: “This is a flower/book/leaf.”"},
+               {"type": "bullet", "text": "पूछें: “flower/book/leaf कहाँ है?” और उस वस्तु की ओर इशारा करवाएँ।"},
+               {"type": "bullet", "text": "यह प्रक्रिया 3–4 बार दोहराएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, चित्र बनाने और उनके चित्र पर बातचीत करने का मौका दें।"},
+            {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधि: चलो दोहराएँ", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधि: योगा", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक और मानसिक विकास।"},
+               {"type": "bullet", "text": "बच्चों के स्तरानुसार सरल योगा करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": "", "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "सप्ताह के अंत में, बच्चों द्वारा बनाए गए कार्य (चित्र, हस्तकला, लेखन आदि) को कक्षा की दीवारों या नोटिस बोर्ड पर प्रदर्शित करें।"},
+       {"type": "bullet", "text": "इस सप्ताह किए गए विषय/कहानी/कविता/त्योहार से जुड़ी 1–2 गतिविधियाँ अभिभावकों को सुझाएँ, जिन्हें वे अपने बच्चे के साथ घर पर कर सकें।"},
+       {"type": "bullet", "text": "अगले सप्ताह की पाठ योजना को पढ़ें और आवश्यक शिक्षण–सामग्री पहले से तैयार कर लें।"},
+       {"type": "bullet", "text": "पिछले सप्ताह भरे गए अवलोकन ट्रैकर में जो बच्चे कार्य “मदद के साथ कर पा रहे थे” और जो बच्चे कार्य स्वयं “नहीं कर पा रहे थे” उनका पुनः अवलोकन करें और अवलोकन के अनुसार बच्चों की दक्षता में निपुण होने के सप्ताह को भरें।"}
+     ],
+     "sections": []}
+  ],
+  "uncertain": ["section 1.1 has no printed heading text beside the number", "section 1.2 bullet 1 'ले जैसे' printed as is (likely 'लें')", "section 3: items printed directly under the 3 bar with no step bar"],
+  "notes": "Left column then right column; section 3 on the right column top has no sub-step. Bottom full-width box with hand icon (no heading) recorded in shared."
+}

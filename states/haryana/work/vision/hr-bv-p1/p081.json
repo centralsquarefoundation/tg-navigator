@@ -1,0 +1,42 @@
+{
+  "pdf_page": 81,
+  "printed_page": "77",
+  "page_kind": "plan",
+  "header": "खेल मेले की तैयारी",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "खेल मेले की तैयारी", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Illustration of a fair with children, a vendor with a bicycle cart, stalls and a Ferris wheel", "text": "चुड़ी वाला"}
+     ],
+     "sections": [
+       {"number": null, "heading": "स्वागत और आमंत्रण", "minutes": "30",
+        "items": [{"type": "text", "text": "अभिभावकों को ‘खेल मेले’ में आमंत्रित करने के लिए बच्चों द्वारा आमंत्रण पत्र बनवाएँ। बच्चे उस पर अपना मनपसंद चित्र बना सकते हैं। शिक्षक उस पर अभिभावक को आमंत्रित करने के लिए नोट लिखें।"}],
+        "sections": []},
+       {"number": null, "heading": "कक्षा की सजावट", "minutes": "1 घंटा",
+        "items": [{"type": "text", "text": "बच्चों से चर्चा करें कि वे अपनी कक्षा कैसे सजाना चाहेंगे। कक्षा सजाने के लिए: फूल, पत्ते आदि से बंदनवार बनाएँ, ‘खेल मेला’ लिखकर एक बड़ा बैनर बनाएँ, दीवारों पर बच्चों के बनाए चित्र लगाएँ, फ़र्श पर रंगोली बनाएँ आदि।"}],
+        "sections": []},
+       {"number": null, "heading": "पोर्टफ़ोलियो का प्रदर्शन", "minutes": "30",
+        "items": [{"type": "text", "text": "बच्चों के पोर्टफ़ोलियो को कक्षा में प्रदर्शित करें और उनके माता–पिता को दिखाएँ।"}],
+        "sections": []}
+     ]},
+    {"number": null, "heading": null, "minutes": null,
+     "items": [{"type": "text", "text": "अंत में, शिक्षक ‘खेल मेले’ के आयोजन से जुड़े कार्यों को पढ़ें और उसके अनुसार तैयारी करें। (जानकारी अगले पृष्ठ पर दी गई है।)"}],
+     "sections": []},
+    {"number": null, "heading": "खेल मेले का आयोजन", "minutes": null,
+     "items": [],
+     "sections": [
+       {"number": "1", "heading": "स्वागत और खेल पर चर्चा", "minutes": null,
+        "items": [
+          {"type": "bullet", "text": "शिक्षक सभी अभिभावक और समुदाय के अन्य लोगों का मेले में स्वागत करें।"},
+          {"type": "bullet", "text": "कक्षा में करवाई गई विभिन्न गतिविधियों से अनुभवों को जोड़ते हुए ‘खेल सीखने–सिखाने का एक माध्यम’ पर चर्चा करें। शिक्षक चर्चा में इन बिंदुओं को शामिल कर सकते हैं :"},
+          {"type": "bullet", "text": "जब बच्चे अलग–अलग खेलों में जुड़ते हैं, उनके सभी कौशलों का विकास होता है। जैसे, बातचीत द्वारा भाषा का विकास, दूसरों के साथ खेलने से सामाजिक विकास, बाहरी खेल द्वारा शारीरिक विकास, पर्यावरण के प्रति जागरूकता आदि।"},
+          {"type": "bullet", "text": "जब बच्चे खेलते हैं, तब वे अपने आस–पास की वस्तुओं का गहराई से अवलोकन करते हैं और उनको समझने की कोशिश करते हैं।"},
+          {"type": "bullet", "text": "खेल तनाव के स्रोतों को कम करता है और बच्चे आनंददायी रूप से सीखते हैं। उनकी सीखने में रुचि भी बढ़ती है।"}
+        ],
+        "sections": []}
+     ]}
+  ],
+  "uncertain": ["Page has no day tabs or week heading; treated as plan page with content in shared. Nested speech-bubble bullets in section 1 flattened into the same bullet list.", "Figure text on stall sign read as 'चुड़ी वाला' (small, uncertain)"],
+  "notes": "Activity-week page with two blue banners 'खेल मेले की तैयारी' and 'खेल मेले का आयोजन'; no दिवस tabs and no सप्ताह band. Durations shown in side badges (30 मिनट, 1 घंटा, 30 मिनट)."
+}

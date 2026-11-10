@@ -52,6 +52,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p014-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -60,7 +73,8 @@
     16,
     17
    ],
-   "opener_page": 14
+   "opener_page": 14,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c02",
@@ -87,6 +101,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p018-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -94,7 +121,8 @@
     19,
     20
    ],
-   "opener_page": 18
+   "opener_page": 18,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c03",
@@ -141,6 +169,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p021-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -152,7 +193,8 @@
     26,
     27
    ],
-   "opener_page": 21
+   "opener_page": 21,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c04",
@@ -203,6 +245,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p028-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -216,7 +271,8 @@
     35,
     36
    ],
-   "opener_page": 28
+   "opener_page": 28,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c05",
@@ -259,6 +315,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p037-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -269,7 +338,8 @@
     41,
     42
    ],
-   "opener_page": 37
+   "opener_page": 37,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c06",
@@ -320,6 +390,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
+       "crop": "figs/hr-math-g3/p043-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -330,7 +413,8 @@
     47,
     48
    ],
-   "opener_page": 43
+   "opener_page": 43,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c07",
@@ -385,6 +469,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
+       "crop": "figs/hr-math-g3/p049-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -399,7 +496,8 @@
     57,
     58
    ],
-   "opener_page": 49
+   "opener_page": 49,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c08",
@@ -430,6 +528,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board (chapter opener illustration)",
+       "crop": "figs/hr-math-g3/p059-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -437,7 +548,8 @@
     60,
     61
    ],
-   "opener_page": 59
+   "opener_page": 59,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c09",
@@ -484,6 +596,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p062-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -493,7 +618,8 @@
     65,
     66
    ],
-   "opener_page": 62
+   "opener_page": 62,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c10",
@@ -532,6 +658,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p067-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -539,7 +678,8 @@
     68,
     69
    ],
-   "opener_page": 67
+   "opener_page": 67,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c11",
@@ -582,6 +722,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p070-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -591,7 +744,8 @@
     73,
     74
    ],
-   "opener_page": 70
+   "opener_page": 70,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c12",
@@ -646,6 +800,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p075-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -657,7 +824,8 @@
     80,
     81
    ],
-   "opener_page": 75
+   "opener_page": 75,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c13",
@@ -700,6 +868,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p082-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -708,7 +889,8 @@
     84,
     85
    ],
-   "opener_page": 82
+   "opener_page": 82,
+   "doc": "hr-math-g3"
   },
   {
    "id": "hr-math-g3-c14",
@@ -755,6 +937,19 @@
       }
      ],
      "sections": []
+    },
+    {
+     "number": null,
+     "heading": null,
+     "minutes": null,
+     "sections": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Line drawing of a teacher standing beside a blank board",
+       "crop": "figs/hr-math-g3/p086-1.webp"
+      }
+     ]
     }
    ],
    "pages": [
@@ -767,7 +962,8 @@
     92,
     93
    ],
-   "opener_page": 86
+   "opener_page": 86,
+   "doc": "hr-math-g3"
   }
  ],
  "lessons": [
@@ -779,6 +975,7 @@
     "days": "1-2"
    },
    "order": 1,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 1-2' in first column yellow box",
    "intro": [
@@ -971,6 +1168,7 @@
     "days": "3-4"
    },
    "order": 2,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 3-4' in second column yellow box",
    "intro": [
@@ -999,7 +1197,8 @@
         {
          "type": "figure",
          "text": "» ◇ ○ ○ ◇ ○ ○ ________",
-         "desc": "Pattern of shapes: diamond, circle, circle, diamond, circle, circle, followed by a blank line"
+         "desc": "Pattern of shapes: diamond, circle, circle, diamond, circle, circle, followed by a blank line",
+         "crop": "figs/hr-math-g3/p015-1.webp"
         },
         {
          "type": "figure",
@@ -1209,6 +1408,7 @@
     "days": "5-6"
    },
    "order": 3,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 5-6' in third column yellow box",
    "intro": [
@@ -1305,7 +1505,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, empty box"
+         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, empty box",
+         "crop": "figs/hr-math-g3/p016-1.webp"
         },
         {
          "type": "bullet",
@@ -1321,7 +1522,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, pink triangle"
+         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, pink triangle",
+         "crop": "figs/hr-math-g3/p016-2.webp"
         },
         {
          "type": "bullet",
@@ -1422,6 +1624,7 @@
     "days": "1-2"
    },
    "order": 4,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'खिलौनों का आनंद'; calendar badge 'Day 1-2' in first column yellow box",
    "intro": [
@@ -1607,6 +1810,7 @@
     "days": "3-4"
    },
    "order": 5,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'खिलौनों का आनंद'; calendar badge 'Day 3-4' in second column yellow box",
    "intro": [
@@ -1812,6 +2016,7 @@
     "days": "1-2"
    },
    "order": 6,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 1-2' in first column yellow box",
    "intro": [
@@ -1991,6 +2196,7 @@
     "days": "3-4"
    },
    "order": 7,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 3-4' in second column yellow box",
    "intro": [
@@ -2176,6 +2382,7 @@
     "days": "5-6"
    },
    "order": 8,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 5-6' in third column yellow box",
    "intro": [
@@ -2361,6 +2568,7 @@
     "days": "7-8"
    },
    "order": 9,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 7-8'; orange band 'दोहरा शतक'",
    "intro": [
@@ -2418,7 +2626,8 @@
         {
          "type": "figure",
          "text": "0 20 40 60 80 100 120 140 160 180 200",
-         "desc": "number line from 0 to 200 marked at intervals of 20"
+         "desc": "number line from 0 to 200 marked at intervals of 20",
+         "crop": "figs/hr-math-g3/p025-1.webp"
         },
         {
          "type": "bullet",
@@ -2572,6 +2781,7 @@
     "days": "9-10"
    },
    "order": 10,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 9-10'; orange band 'दोहरा शतक'",
    "intro": [
@@ -2785,6 +2995,7 @@
     "days": "1-2"
    },
    "order": 11,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -2967,6 +3178,7 @@
     "days": "3-4"
    },
    "order": 12,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -3153,6 +3365,7 @@
     "days": "5-6"
    },
    "order": 13,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -3347,6 +3560,7 @@
     "days": "7-8"
    },
    "order": 14,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 7-8'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -3529,6 +3743,7 @@
     "days": "9-10"
    },
    "order": 15,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 9-10'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -3573,6 +3788,11 @@
         {
          "type": "bullet",
          "text": "शिक्षक बच्चों को संख्याओं की रेखा का चित्र बोर्ड पर बनाकर दिखाएँ।"
+        },
+        {
+         "type": "figure",
+         "desc": "Number line from 0 to 200 marked in steps of 20 with arrows at both ends",
+         "crop": "figs/hr-math-g3/p032-1.webp"
         },
         {
          "type": "bullet",
@@ -3748,6 +3968,7 @@
     "days": "11-12"
    },
    "order": 16,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "badge 'Day 11-12'; orange band 'नानी माँ के साथ छुट्टियाँ'",
    "intro": [
@@ -3760,7 +3981,18 @@
      "number": "1",
      "heading": "मौखिक गणित बातचीत",
      "minutes": null,
-     "items": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Hundred chart 1 to 100 with curved jump arrows drawn over rows 3 and 4",
+       "crop": "figs/hr-math-g3/p033-1.webp"
+      },
+      {
+       "type": "figure",
+       "desc": "Hundred chart 1 to 100 with short arrows marking jumps of 10 down a column",
+       "crop": "figs/hr-math-g3/p033-2.webp"
+      }
+     ],
      "sections": [
       {
        "number": null,
@@ -3959,6 +4191,7 @@
     "days": "13-14"
    },
    "order": 17,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 13-14' in column 1; orange band title at top",
    "intro": [
@@ -4151,6 +4384,7 @@
     "days": "15-16"
    },
    "order": 18,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 15-16' in column 2; orange band title at top",
    "intro": [
@@ -4359,6 +4593,7 @@
     "days": "1-2"
    },
    "order": 19,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2' in column 1; orange band title at top",
    "intro": [
@@ -4552,6 +4787,7 @@
     "days": "3-4"
    },
    "order": 20,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4' in column 2; orange band title at top",
    "intro": [
@@ -4738,6 +4974,7 @@
     "days": "5-6"
    },
    "order": 21,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6' in column 3; orange band title at top",
    "intro": [
@@ -4927,6 +5164,7 @@
     "days": "7-8"
    },
    "order": 22,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 7-8' in column 1; orange band title at top",
    "intro": [
@@ -5118,6 +5356,7 @@
     "days": "9-10"
    },
    "order": 23,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 9-10' in column 2; orange band title at top",
    "intro": [
@@ -5153,7 +5392,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of tangram figures made from coloured geometric pieces (a house and several tower-like shapes)"
+         "desc": "Row of tangram figures made from coloured geometric pieces (a house and several tower-like shapes)",
+         "crop": "figs/hr-math-g3/p041-1.webp"
         },
         {
          "type": "text",
@@ -5285,6 +5525,7 @@
     "days": "1-2"
    },
    "order": 24,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2' in yellow box of column 1; orange band 'सैकड़ों का घर – 1'",
    "intro": [
@@ -5471,6 +5712,7 @@
     "days": "3-4"
    },
    "order": 25,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4' in yellow box of column 2; orange band 'सैकड़ों का घर – 1'",
    "intro": [
@@ -5658,6 +5900,7 @@
     "days": "5-6"
    },
    "order": 26,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "calendar badge 'Day 5-6' in yellow box of column 3; orange band 'सैकड़ों का घर – 1'",
    "intro": [
@@ -5715,7 +5958,8 @@
         {
          "type": "figure",
          "text": "0 20 40 60 80 100 120 140 160 180 200",
-         "desc": "number line from 0 to 200 with marks every 20"
+         "desc": "number line from 0 to 200 with marks every 20",
+         "crop": "figs/hr-math-g3/p044-1.webp"
         },
         {
          "type": "bullet",
@@ -5874,6 +6118,7 @@
     "days": "7-8"
    },
    "order": 27,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 7-8' in yellow box of column 1; orange band 'सैकड़ों का घर – 1'",
    "intro": [
@@ -6066,6 +6311,7 @@
     "days": "9-10"
    },
    "order": 28,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 9-10' in yellow box of column 2; orange band 'सैकड़ों का घर – 1'",
    "intro": [
@@ -6259,6 +6505,7 @@
     "days": "1-2"
    },
    "order": 29,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2' in yellow box of column 1; orange band 'रक्षाबंधन'",
    "intro": [
@@ -6481,6 +6728,7 @@
     "days": "3-4"
    },
    "order": 30,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4' in yellow box of column 2; orange band 'रक्षाबंधन'",
    "intro": [
@@ -6738,6 +6986,7 @@
     "days": "5-6"
    },
    "order": 31,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "calendar badge 'Day 5-6' in yellow box of column 3; orange band 'रक्षाबंधन'",
    "intro": [
@@ -6975,6 +7224,7 @@
     "days": "7-8"
    },
    "order": 32,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 7-8' in yellow box of column 1; orange band 'रक्षाबंधन'",
    "intro": [
@@ -7157,6 +7407,7 @@
     "days": "9-10"
    },
    "order": 33,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 9-10' in yellow box of column 2; orange band 'रक्षाबंधन'",
    "intro": [
@@ -7351,6 +7602,7 @@
     "days": "11-12"
    },
    "order": 34,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "calendar badge 'Day 11-12' in yellow box of column 3; orange band 'रक्षाबंधन'",
    "intro": [
@@ -7577,6 +7829,7 @@
     "days": "13-14"
    },
    "order": 35,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 13-14'; orange band 'रक्षाबंधन'",
    "intro": [
@@ -7779,6 +8032,7 @@
     "days": "15-16"
    },
    "order": 36,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 15-16'; orange band 'रक्षाबंधन'",
    "intro": [
@@ -7997,6 +8251,7 @@
     "days": "17-18"
    },
    "order": 37,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "badge 'Day 17-18'; orange band 'रक्षाबंधन'",
    "intro": [
@@ -8179,6 +8434,7 @@
     "days": "1-2"
    },
    "order": 38,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'उचित हिस्सा'",
    "intro": [
@@ -8455,6 +8711,7 @@
     "days": "1-2"
    },
    "order": 39,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "badge 'Day 1-2'; orange band 'सैकड़ों का घर – 2'",
    "intro": [
@@ -8642,6 +8899,7 @@
     "days": "3-4"
    },
    "order": 40,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "badge 'Day 3-4'; orange band 'सैकड़ों का घर – 2'",
    "intro": [
@@ -8832,6 +9090,7 @@
     "days": "5-6"
    },
    "order": 41,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "badge 'Day 5-6'; orange band 'सैकड़ों का घर – 2'",
    "intro": [
@@ -9026,6 +9285,7 @@
     "days": "7-8"
    },
    "order": 42,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'सैकड़ों का घर – 2'; badge 'Day 7-8' in column 1 yellow box",
    "intro": [
@@ -9227,6 +9487,7 @@
     "days": "9-10"
    },
    "order": 43,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'सैकड़ों का घर – 2'; badge 'Day 9-10' in column 2 yellow box",
    "intro": [
@@ -9417,6 +9678,7 @@
     "days": "1-2"
    },
    "order": 44,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'कक्षा में आनंद'; badge 'Day 1-2' in column 1 yellow box",
    "intro": [
@@ -9628,6 +9890,7 @@
     "days": "3-4"
    },
    "order": 45,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'कक्षा में आनंद'; badge 'Day 3-4' in column 2 yellow box",
    "intro": [
@@ -9826,6 +10089,7 @@
     "days": "1-2"
    },
    "order": 46,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'भरो और उठाओ'; badge 'Day 1-2' in column 1 yellow box",
    "intro": [
@@ -10003,6 +10267,7 @@
     "days": "3-4"
    },
    "order": 47,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'भरो और उठाओ'; badge 'Day 3-4' in column 2 yellow box",
    "intro": [
@@ -10196,6 +10461,7 @@
     "days": "5-6"
    },
    "order": 48,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "orange band 'भरो और उठाओ'; badge 'Day 5-6' in column 1 yellow box",
    "intro": [
@@ -10408,6 +10674,7 @@
     "days": "7-8"
    },
    "order": 49,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "orange band 'भरो और उठाओ'; badge 'Day 7-8' in column 2 yellow box",
    "intro": [
@@ -10599,6 +10866,7 @@
     "days": "1-2"
    },
    "order": 50,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -10783,6 +11051,7 @@
     "days": "3-4"
    },
    "order": 51,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -10975,6 +11244,7 @@
     "days": "5-6"
    },
    "order": 52,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "calendar badge 'Day 5-6'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -11163,6 +11433,7 @@
     "days": "7-8"
    },
    "order": 53,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 7-8'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -11363,6 +11634,7 @@
     "days": "9-10"
    },
    "order": 54,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 9-10'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -11559,6 +11831,7 @@
     "days": "11-12"
    },
    "order": 55,
+   "doc": "hr-math-g3",
    "column": 3,
    "keys_evidence": "calendar badge 'Day 11-12'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -11743,6 +12016,7 @@
     "days": "13-14"
    },
    "order": 56,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 13-14'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -11935,6 +12209,7 @@
     "days": "15-16"
    },
    "order": 57,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 15-16'; orange band 'कुछ लेना, कुछ देना'",
    "intro": [
@@ -12139,6 +12414,7 @@
     "days": "1-2"
    },
    "order": 58,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2'; orange band 'समय – समय की बात'",
    "intro": [
@@ -12337,6 +12613,7 @@
     "days": "3-4"
    },
    "order": 59,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4'; orange band 'समय – समय की बात'",
    "intro": [
@@ -12551,6 +12828,7 @@
     "days": "1-2"
    },
    "order": 60,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
    "intro": [
@@ -12643,7 +12921,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, empty box"
+         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, empty box",
+         "crop": "figs/hr-math-g3/p088-1.webp"
         },
         {
          "type": "bullet",
@@ -12659,7 +12938,8 @@
         },
         {
          "type": "figure",
-         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, pink triangle"
+         "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, pink triangle",
+         "crop": "figs/hr-math-g3/p088-2.webp"
         },
         {
          "type": "bullet",
@@ -12758,6 +13038,7 @@
     "days": "3-4"
    },
    "order": 61,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
    "intro": [
@@ -12974,6 +13255,7 @@
     "days": "1-2"
    },
    "order": 62,
+   "doc": "hr-math-g3",
    "column": 1,
    "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
    "intro": [
@@ -12985,7 +13267,13 @@
      "number": "1",
      "heading": "मौखिक गणित बातचीत",
      "minutes": null,
-     "items": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Outline of a brick-wall style rectangle pattern",
+       "crop": "figs/hr-math-g3/p092-1.webp"
+      }
+     ],
      "sections": [
       {
        "number": null,
@@ -13030,7 +13318,8 @@
         },
         {
          "type": "figure",
-         "desc": "Strip of tile design made of grey and yellow triangles in three rows"
+         "desc": "Strip of tile design made of grey and yellow triangles in three rows",
+         "crop": "figs/hr-math-g3/p090-1.webp"
         },
         {
          "type": "bullet",
@@ -13062,7 +13351,8 @@
         },
         {
          "type": "figure",
-         "desc": "Grey square, arrow, then a plus-shaped cross cut from the square with dashed outline of the square"
+         "desc": "Grey square, arrow, then a plus-shaped cross cut from the square with dashed outline of the square",
+         "crop": "figs/hr-math-g3/p090-2.webp"
         },
         {
          "type": "bullet",
@@ -13070,7 +13360,8 @@
         },
         {
          "type": "figure",
-         "desc": "Grey plus-shaped cross model"
+         "desc": "Grey plus-shaped cross model",
+         "crop": "figs/hr-math-g3/p091-1.webp"
         },
         {
          "type": "bullet",
@@ -13082,7 +13373,8 @@
         },
         {
          "type": "figure",
-         "desc": "Grey plus-shaped cross models tiled in a grid pattern, rows of crosses interlocking with white square gaps"
+         "desc": "Grey plus-shaped cross models tiled in a grid pattern, rows of crosses interlocking with white square gaps",
+         "crop": "figs/hr-math-g3/p091-2.webp"
         },
         {
          "type": "bullet",
@@ -13255,6 +13547,7 @@
     "days": "3-4"
    },
    "order": 63,
+   "doc": "hr-math-g3",
    "column": 2,
    "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
    "intro": [
@@ -13266,7 +13559,13 @@
      "number": "1",
      "heading": "मौखिक गणित बातचीत",
      "minutes": null,
-     "items": [],
+     "items": [
+      {
+       "type": "figure",
+       "desc": "Simple map with main road, shop, bank, cricket ground, pond and hotel",
+       "crop": "figs/hr-math-g3/p092-2.webp"
+      }
+     ],
      "sections": [
       {
        "number": null,
@@ -13492,6 +13791,7 @@
  ],
  "plan": [
   {
+   "doc": "hr-math-g3",
    "page": 9,
    "kind": "plan",
    "shared": [
@@ -13653,6 +13953,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 10,
    "kind": "plan",
    "shared": [
@@ -13822,6 +14123,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 11,
    "kind": "plan",
    "shared": [
@@ -13997,6 +14299,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 12,
    "kind": "plan",
    "shared": [
@@ -14160,6 +14463,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 13,
    "kind": "plan",
    "shared": [
@@ -14245,12 +14549,14 @@
  ],
  "page_index": [
   {
+   "doc": "hr-math-g3",
    "page": 14,
    "printed": "1",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 15,
    "printed": "2",
    "kind": "lesson",
@@ -14270,6 +14576,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 16,
    "printed": "3",
    "kind": "lesson",
@@ -14289,6 +14596,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 17,
    "printed": "4",
    "kind": "lesson",
@@ -14308,12 +14616,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 18,
    "printed": "5",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 19,
    "printed": "6",
    "kind": "lesson",
@@ -14329,6 +14639,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 20,
    "printed": "7",
    "kind": "lesson",
@@ -14344,12 +14655,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 21,
    "printed": "8",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 22,
    "printed": "9",
    "kind": "lesson",
@@ -14369,6 +14682,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 23,
    "printed": "10",
    "kind": "lesson",
@@ -14388,6 +14702,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 24,
    "printed": "11",
    "kind": "lesson",
@@ -14407,6 +14722,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 25,
    "printed": "12",
    "kind": "lesson",
@@ -14422,6 +14738,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 26,
    "printed": "13",
    "kind": "lesson",
@@ -14437,6 +14754,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 27,
    "printed": "14",
    "kind": "lesson",
@@ -14452,12 +14770,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 28,
    "printed": "15",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 29,
    "printed": "16",
    "kind": "lesson",
@@ -14477,6 +14797,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 30,
    "printed": "17",
    "kind": "lesson",
@@ -14496,6 +14817,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 31,
    "printed": "18",
    "kind": "lesson",
@@ -14515,6 +14837,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 32,
    "printed": "19",
    "kind": "lesson",
@@ -14534,6 +14857,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 33,
    "printed": "20",
    "kind": "lesson",
@@ -14553,6 +14877,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 34,
    "printed": "21",
    "kind": "lesson",
@@ -14572,6 +14897,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 35,
    "printed": "22",
    "kind": "lesson",
@@ -14587,6 +14913,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 36,
    "printed": "23",
    "kind": "lesson",
@@ -14602,12 +14929,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 37,
    "printed": "24",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 38,
    "printed": "25",
    "kind": "lesson",
@@ -14627,6 +14956,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 39,
    "printed": "26",
    "kind": "lesson",
@@ -14646,6 +14976,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 40,
    "printed": "27",
    "kind": "lesson",
@@ -14665,6 +14996,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 41,
    "printed": "28",
    "kind": "lesson",
@@ -14680,6 +15012,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 42,
    "printed": "29",
    "kind": "lesson",
@@ -14695,12 +15028,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 43,
    "printed": "30",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 44,
    "printed": "31",
    "kind": "lesson",
@@ -14720,6 +15055,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 45,
    "printed": "32",
    "kind": "lesson",
@@ -14739,6 +15075,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 46,
    "printed": "33",
    "kind": "lesson",
@@ -14758,6 +15095,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 47,
    "printed": "34",
    "kind": "lesson",
@@ -14773,6 +15111,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 48,
    "printed": "35",
    "kind": "lesson",
@@ -14788,12 +15127,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 49,
    "printed": "36",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 50,
    "printed": "37",
    "kind": "lesson",
@@ -14813,6 +15154,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 51,
    "printed": "38",
    "kind": "lesson",
@@ -14832,6 +15174,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 52,
    "printed": "39",
    "kind": "lesson",
@@ -14851,6 +15194,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 53,
    "printed": "40",
    "kind": "lesson",
@@ -14870,6 +15214,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 54,
    "printed": "41",
    "kind": "lesson",
@@ -14889,6 +15234,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 55,
    "printed": "42",
    "kind": "lesson",
@@ -14908,6 +15254,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 56,
    "printed": "43",
    "kind": "lesson",
@@ -14927,6 +15274,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 57,
    "printed": "44",
    "kind": "lesson",
@@ -14946,6 +15294,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 58,
    "printed": "45",
    "kind": "lesson",
@@ -14965,12 +15314,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 59,
    "printed": "46",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 60,
    "printed": "47",
    "kind": "lesson",
@@ -14982,6 +15333,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 61,
    "printed": "48",
    "kind": "lesson",
@@ -14993,12 +15345,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 62,
    "printed": "49",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 63,
    "printed": "50",
    "kind": "lesson",
@@ -15018,6 +15372,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 64,
    "printed": "51",
    "kind": "lesson",
@@ -15037,6 +15392,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 65,
    "printed": "52",
    "kind": "lesson",
@@ -15052,6 +15408,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 66,
    "printed": "53",
    "kind": "lesson",
@@ -15067,12 +15424,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 67,
    "printed": "54",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 68,
    "printed": "55",
    "kind": "lesson",
@@ -15088,6 +15447,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 69,
    "printed": "56",
    "kind": "lesson",
@@ -15103,12 +15463,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 70,
    "printed": "57",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 71,
    "printed": "58",
    "kind": "lesson",
@@ -15124,6 +15486,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 72,
    "printed": "59",
    "kind": "lesson",
@@ -15139,6 +15502,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 73,
    "printed": "60",
    "kind": "lesson",
@@ -15154,6 +15518,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 74,
    "printed": "61",
    "kind": "lesson",
@@ -15169,12 +15534,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 75,
    "printed": "62",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 76,
    "printed": "63",
    "kind": "lesson",
@@ -15194,6 +15561,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 77,
    "printed": "64",
    "kind": "lesson",
@@ -15213,6 +15581,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 78,
    "printed": "65",
    "kind": "lesson",
@@ -15232,6 +15601,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 79,
    "printed": "66",
    "kind": "lesson",
@@ -15251,6 +15621,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 80,
    "printed": "67",
    "kind": "lesson",
@@ -15266,6 +15637,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 81,
    "printed": "68",
    "kind": "lesson",
@@ -15281,12 +15653,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 82,
    "printed": "69",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 83,
    "printed": "70",
    "kind": "lesson",
@@ -15302,6 +15676,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 84,
    "printed": "71",
    "kind": "lesson",
@@ -15317,6 +15692,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 85,
    "printed": "72",
    "kind": "lesson",
@@ -15332,12 +15708,14 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 86,
    "printed": "73",
    "kind": "unit_opener",
    "units": []
   },
   {
+   "doc": "hr-math-g3",
    "page": 87,
    "printed": "74",
    "kind": "lesson",
@@ -15353,6 +15731,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 88,
    "printed": "75",
    "kind": "lesson",
@@ -15368,6 +15747,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 89,
    "printed": "76",
    "kind": "lesson",
@@ -15383,6 +15763,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 90,
    "printed": "77",
    "kind": "lesson",
@@ -15398,6 +15779,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 91,
    "printed": "78",
    "kind": "lesson",
@@ -15413,6 +15795,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 92,
    "printed": "79",
    "kind": "lesson",
@@ -15428,6 +15811,7 @@
    ]
   },
   {
+   "doc": "hr-math-g3",
    "page": 93,
    "printed": "80",
    "kind": "lesson",
@@ -15444,6 +15828,13 @@
   }
  ],
  "missing_pages": [],
+ "figures": {
+  "placed": 5,
+  "merged": 12,
+  "opener": 14,
+  "unplaced": [],
+  "blank": []
+ },
  "reconcile": {
   "totals": {},
   "corrections": []

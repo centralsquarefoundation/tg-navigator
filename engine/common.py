@@ -29,6 +29,12 @@ def load_state(state):
     cfg = json.loads((d / 'state.json').read_text(encoding='utf-8'))
     for g in cfg['guides']:
         g['profileData'] = json.loads((d / g['profile']).read_text(encoding='utf-8')) if (d / g['profile']).exists() else {}
+        # A guide may be printed in several volumes (PDFs): "parts": [{"doc", "pages"}...] in reading
+        # order. A single-volume guide uses "doc" + "pages"; both are normalised to parts here.
+        if 'parts' not in g:
+            g['parts'] = [{'doc': g['doc'], 'pages': g.get('pages', {})}]
+        g.setdefault('doc', g['parts'][0]['doc'])
+        g.setdefault('pages', g['parts'][0]['pages'])
     return cfg
 
 

@@ -1,0 +1,12 @@
+{"pdf_page": 16, "figures": [
+  {"bbox": [0.65, 0.715, 0.935, 0.757],
+   "unit": {"chapter": "नाम में क्या है ?", "days": "5-6"},
+   "section": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+   "after_text": "फिर आकृतियों का प्रयोग करके नीचे दिया हुआ",
+   "desc": "Pattern of triangle, square, triangle, square and an empty box"},
+  {"bbox": [0.65, 0.892, 0.935, 0.935],
+   "unit": {"chapter": "नाम में क्या है ?", "days": "5-6"},
+   "section": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+   "after_text": "नियम बताकर वर्गाकार आकृति के बाद त्रिकोण",
+   "desc": "Pattern of triangle, square, triangle, square, triangle"}
+]}

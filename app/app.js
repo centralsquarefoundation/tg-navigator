@@ -169,7 +169,7 @@ function viewYear() {
     return `<details class="group" id="g-${g.id}"${open ? ' open' : ''}>
       <summary><span class="num">${isNum(g.key) ? esc(g.key) : g.ordinal}</span><span class="title">${esc(isNum(g.key) ? groupLabel(g) : g.title)}</span><span class="count">${done}/${ls.length}</span></summary>
       <div class="group-body">
-        ${g.opener_page ? `<a class="linklike" href="#/page/${GUIDE.doc}/${g.opener_page}">${t('अध्याय का पहला पृष्ठ देखें', 'See the chapter opening page')}</a>` : ''}
+        ${g.opener_page ? `<a class="linklike" href="#/page/${g.doc || GUIDE.doc}/${g.opener_page}">${t('अध्याय का पहला पृष्ठ देखें', 'See the chapter opening page')}</a>` : ''}
         ${(g.intro || []).map(renderPlainSection).join('')}
         ${ls.map(lessonCard).join('')}
       </div></details>`;
@@ -220,6 +220,7 @@ function renderItems(items) {
   if (!items?.length) return '';
   return `<ul class="items">${items.map((it) => {
     if (it.type === 'table') return `<li class="tbl"><table>${(it.rows || []).map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</table></li>`;
+    if (it.type === 'figure' && it.crop) return `<li class="figure has-crop"><a href="${esc(it.crop)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(it.crop)}" alt="${esc(it.desc || t('चित्र', 'Picture'))}"></a>${it.text ? `<span class="caption">${esc(it.text)}</span>` : ''}</li>`;
     if (it.type === 'figure') return `<li class="figure">🖼 ${esc(it.desc || t('चित्र', 'Picture'))}${it.text ? `<br>${esc(it.text)}` : ''} <span class="muted">(${t('चित्र मूल पृष्ठ पर देखें', 'see the original page')})</span></li>`;
     return `<li class="${it.type === 'text' ? 'text' : ''}">${esc(it.text)}</li>`;
   }).join('')}</ul>`;
@@ -281,14 +282,14 @@ function viewLesson(id) {
     <p class="muted">${t('सिर्फ़ पढ़ने से पाठ “पढ़ा दिया” नहीं माना जाता।', 'Reading a lesson never marks it taught.')}</p></section>
   <section class="card" id="pages"><h2>${t('मूल पृष्ठ', 'Original pages')}</h2>
     <p class="muted">${t('यह पाठ संदर्शिका के इन पृष्ठों से लिया गया है। मूल से मिलाने के लिए पृष्ठ खोलें।', 'This lesson comes from these guide pages. Open a page to compare with the original.')}</p>
-    <div class="pages">${l.pages.map((p, k) => `<a href="#/page/${GUIDE.doc}/${p}?from=${l.id}"><img loading="lazy" src="${pageSrc(GUIDE.doc, p)}" alt="${t('पृष्ठ', 'Page')} ${esc(l.printed_pages?.[k] || p)}" width="550" height="712">${t('पृष्ठ', 'Page')} ${esc(l.printed_pages?.[k] || p)}</a>`).join('')}</div></section>
+    <div class="pages">${l.pages.map((p, k) => `<a href="#/page/${l.doc || GUIDE.doc}/${p}?from=${l.id}"><img loading="lazy" src="${pageSrc(l.doc || GUIDE.doc, p)}" alt="${t('पृष्ठ', 'Page')} ${esc(l.printed_pages?.[k] || p)}" width="550" height="712">${t('पृष्ठ', 'Page')} ${esc(l.printed_pages?.[k] || p)}</a>`).join('')}</div></section>
   ${nav}
   ${footer()}`;
 }
 
 function viewPage(doc, n, from) {
-  const guide = INDEX.guides.find((g) => g.doc === doc) || GUIDE;
-  const total = guide.pageCount;
+  const guide = INDEX.guides.find((g) => g.pageCounts && doc in g.pageCounts) || GUIDE;
+  const total = guide.pageCounts?.[doc] || 1;
   n = Math.max(1, Math.min(total, n));
   const q = from ? `?from=${from}` : '';
   return `<div class="viewer">
@@ -303,7 +304,7 @@ function viewPage(doc, n, from) {
 function viewGuide() {
   return `<h1>${t('मूल संदर्शिका', 'Original guide')}</h1>
   <p class="muted">${esc(gradeOf(GUIDE))} · ${esc(subjectOf(GUIDE))}. ${t('संदर्शिका के मूल पृष्ठ, जैसे छपे हैं।', 'The guide pages as printed.')}</p>
-  ${(GUIDE.sections || []).map((s) => `<a class="lesson-card" href="#/page/${GUIDE.doc}/${s.pages[0]}"><span class="kicker">PDF ${t('पृष्ठ', 'pages')} ${s.pages[0]}–${s.pages[1]}</span><span class="summary">${esc(L(s.title))}</span><span class="open">${t('पृष्ठ खोलें →', 'Open pages →')}</span></a>`).join('')}
+  ${(GUIDE.sections || []).map((s) => `<a class="lesson-card" href="#/page/${s.doc || GUIDE.doc}/${s.pages[0]}"><span class="kicker">PDF ${t('पृष्ठ', 'pages')} ${s.pages[0]}–${s.pages[1]}</span><span class="summary">${esc(L(s.title))}</span><span class="open">${t('पृष्ठ खोलें →', 'Open pages →')}</span></a>`).join('')}
   ${footer()}`;
 }
 
@@ -347,7 +348,7 @@ main.addEventListener('click', async (e) => {
     const l = lessonById(id);
     try {
       const cache = await caches.open('tg-pages');
-      await cache.addAll(l.pages.map((p) => pageSrc(GUIDE.doc, p)));
+      await cache.addAll(l.pages.map((p) => pageSrc(l.doc || GUIDE.doc, p)));
       toast(t('यह पाठ और इसके पृष्ठ बिना इंटरनेट के खुलेंगे', 'This lesson now works offline'));
     } catch { toast(t('अभी नहीं हो पाया। इंटरनेट जाँचकर फिर कोशिश करें।', 'Could not save. Check the connection and retry.')); }
   }

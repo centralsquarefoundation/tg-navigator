@@ -95,14 +95,25 @@ def main():
             notes = [i for i in by_lesson.get(l['id'], []) if i['level'] == 'info']
             grp = groups.get(l['group'], {})
             where = f"{grp.get('title')} → " + ' · '.join(f"{k}: {l['keys'].get(k)}" for k in keys if k != g['profileData']['hierarchy']['group_by'])
-            imgs = ''.join(f"<a href='../pages/{g['doc']}/p{p:03d}.webp' target=_blank><img loading=lazy src='../pages/{g['doc']}/p{p:03d}.webp' alt='page {p}'></a>" for p in l['pages'])
+            d = l.get('doc', g['doc'])
+            def crops(ss, where=''):
+                for s in ss:
+                    here = ' '.join(x for x in [s.get('number') or '', s.get('heading') or ''] if x) or where
+                    for it in s.get('items', []):
+                        if it.get('crop'):
+                            yield here, it
+                    yield from crops(s.get('sections', []), here)
+            figs = list(crops(l['sections'] + l.get('shared', [])))
+            fig_html = ''.join(f"<figure style='margin:6px 0'><img loading=lazy src='../{e(it['crop'])}' style='max-width:100%;border:1px solid #d6dde6'><figcaption class=info>under «{e(sec)}» · {e(it.get('desc'))}</figcaption></figure>" for sec, it in figs)
+            imgs = ''.join(f"<a href='../pages/{d}/p{p:03d}.webp' target=_blank><img loading=lazy src='../pages/{d}/p{p:03d}.webp' alt='page {p}'></a>" for p in l['pages'])
             cards.append(
                 f"<section class='les {'flag' if iss else 'ok'}' id='{e(l['id'])}'><div>"
-                f"<div class=where>{e(where)}</div><div class=info>{e(l['id'])} · PDF pages {', '.join(map(str, l['pages']))} · printed {e(', '.join(x or '?' for x in l['printed_pages']))}</div>"
+                f"<div class=where>{e(where)}</div><div class=info>{e(l['id'])} · {e(d)} PDF pages {', '.join(map(str, l['pages']))} · printed {e(', '.join(x or '?' for x in l['printed_pages']))}</div>"
                 f"{('<div class=info>Evidence: ' + e(l.get('keys_evidence')) + '</div>') if l.get('keys_evidence') else ''}"
                 f"{''.join('<div class=' + ('ack' if i.get('acknowledged') else i['level']) + '>' + e(i['level'].upper() + ' ' + i['code'] + ': ' + i['msg']) + '</div>' for i in iss)}"
                 f"{('<ul class=outline>' + ''.join('<li>' + e(x) + '</li>' for x in l['intro']) + '</ul>') if l['intro'] else ''}"
                 f"<ul class=outline>{outline(l['sections'])}</ul>"
+                f"{('<details open><summary>Pictures (' + str(len(figs)) + ')</summary>' + fig_html + '</details>') if figs else ''}"
                 f"{('<details><summary>Transcriber notes (' + str(len(notes)) + ')</summary>' + ''.join('<div class=info>' + e(n['msg']) + '</div>' for n in notes) + '</details>') if notes else ''}"
                 f"<label class=tick><input type=checkbox data-id='{e(l['id'])}'> Placement and headings match the page / स्थान व शीर्षक पृष्ठ से मेल खाते हैं</label>"
                 f"{('<div class=info>Confirmed earlier by ' + e(reviews[g['id']][l['id']]) + '</div>') if l['id'] in reviews.get(g['id'], {}) else ''}"

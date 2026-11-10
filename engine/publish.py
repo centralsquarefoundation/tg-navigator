@@ -16,7 +16,7 @@ from common import ROOT, build, load_state, read_json, state_dir, work, write_js
 
 def slim_section(s):
     out = {k: s[k] for k in ('number', 'heading', 'minutes') if s.get(k)}
-    out['items'] = [{k: v for k, v in i.items() if k in ('type', 'text', 'rows', 'desc')} for i in s.get('items', [])]
+    out['items'] = [{k: v for k, v in i.items() if k in ('type', 'text', 'rows', 'desc', 'crop')} for i in s.get('items', [])]
     out['sections'] = [slim_section(c) for c in s.get('sections', [])]
     return out
 
@@ -68,28 +68,33 @@ def main():
             lessons.append({'id': l['id'], 'group': l['group'], 'keys': l['keys'], 'intro': l['intro'], 'summary': summary(l),
                             'sections': [slim_section(s) for s in l['sections']],
                             'shared': [slim_section(s) for s in l.get('shared', [])],
-                            'pages': l['pages'], 'printed_pages': l['printed_pages'],
+                            'doc': l.get('doc', g['doc']), 'pages': l['pages'], 'printed_pages': l['printed_pages'],
                             **({'notice': l['notice']} if l.get('notice') else {}),
                             **({'printed_keys': l['printed_keys']} if l.get('printed_keys') else {}),
                             'check': 'flagged' if l['id'] in warned else 'auto-checked'})
         used = {l['group'] for l in lessons}
-        groups = [{k: grp.get(k) for k in ('id', 'key', 'title', 'ordinal', 'opener_page')} |
+        groups = [{k: grp.get(k) for k in ('id', 'key', 'title', 'ordinal', 'opener_page', 'doc')} |
                   {'intro': [slim_section(s) for s in grp.get('intro', [])]} for grp in pack['groups'] if grp['id'] in used]
         out = {'guide': g['id'], 'groups': groups, 'lessons': lessons}
         name = f"data/{g['id']}.json"
         write_json(site / name, out, compact=True)
         files.append(name)
         prof = g['profileData']
-        lo, hi = (int(x) for x in g['pages']['guide'].split('-'))
-        sections = [{'title': s['title'], 'pages': s['pages']} for s in g.get('sections', [])] or []
-        if g['pages'].get('plan'):
-            p0, _, p1 = g['pages']['plan'].partition('-')
-            sections.insert(0, {'title': {'hi': 'वार्षिक / अकादमिक योजना', 'en': 'Annual / academic plan'}, 'pages': [int(p0), int(p1 or p0)]})
-        sections.append({'title': {'hi': 'पूरी संदर्शिका, पहले पृष्ठ से', 'en': 'Whole guide from the first page'}, 'pages': [lo, hi]})
+        sections = [dict(s, doc=s.get('doc', g['doc'])) for s in g.get('sections', [])]
+        many = len(g['parts']) > 1
+        for n, part in enumerate(g['parts'], start=1):
+            vol = {'hi': f' (भाग-{n})', 'en': f' (part {n})'} if many else {'hi': '', 'en': ''}
+            if part['pages'].get('plan'):
+                p0, _, p1 = part['pages']['plan'].partition('-')
+                sections.append({'title': {'hi': 'वार्षिक / अकादमिक योजना' + vol['hi'], 'en': 'Annual / academic plan' + vol['en']},
+                                 'doc': part['doc'], 'pages': [int(p0), int(p1 or p0)]})
+            lo, hi = (int(x) for x in part['pages']['guide'].split('-'))
+            sections.append({'title': {'hi': 'पूरी संदर्शिका, पहले पृष्ठ से' + vol['hi'], 'en': 'Whole guide from the first page' + vol['en']},
+                             'doc': part['doc'], 'pages': [lo, hi]})
         guides.append({'id': g['id'], 'doc': g['doc'], 'subject': g['subject'], 'subjectLabel': prof['subject'],
                        'grade': g['grade'], 'gradeLabel': g.get('gradeLabel'), 'labels': prof['hierarchy']['labels'],
                        'keys': prof['hierarchy']['keys'], 'groupBy': prof['hierarchy']['group_by'],
-                       'pageCount': lock.get(g['doc'], {}).get('pages', hi), 'sections': sections,
+                       'pageCounts': {part['doc']: lock.get(part['doc'], {}).get('pages') for part in g['parts']}, 'sections': sections,
                        'lessonCount': len(lessons), 'file': name})
     # order: subjects as configured, grades ascending
     guides.sort(key=lambda x: (x['grade'], x['subject']))

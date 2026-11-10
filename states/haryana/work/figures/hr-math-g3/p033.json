@@ -1,0 +1,12 @@
+{"pdf_page": 33, "figures": [
+  {"bbox": [0.68, 0.495, 0.90, 0.667],
+   "unit": {"chapter": "नानी माँ के साथ छुट्टियाँ", "days": "11-12"},
+   "section": null,
+   "after_text": "कूदते हैं जिससे 60 प्राप्त होता है",
+   "desc": "Hundred chart 1 to 100 with curved jump arrows drawn over rows 3 and 4"},
+  {"bbox": [0.68, 0.703, 0.90, 0.882],
+   "unit": {"chapter": "नानी माँ के साथ छुट्टियाँ", "days": "11-12"},
+   "section": null,
+   "after_text": "फिर उन्हें बताइये कि संख्या चार्ट पर जोड़ने के",
+   "desc": "Hundred chart 1 to 100 with short arrows marking jumps of 10 down a column"}
+]}

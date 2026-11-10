@@ -14,3283 +14,3752 @@
    "code": "transcriber-note",
    "msg": "Speech/teacher-prompt boxes (chat icon) given as 'text' items and their inner bullets as 'bullet' items; the box under 1.2 'चलिए...' and 'समूह में जाकर...' are shown that way",
    "lesson": "hr-hindi-g1-w01-d01",
-   "page": 15
+   "page": 15,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Page ends at 2.1 (content continues on next page?) - last printed line is 'यह प्रक्रिया 4-5 जानवरों/पक्षियों की आवाज़ पहचान के लिए दोहराएँ।'",
    "lesson": "hr-hindi-g1-w01-d01",
-   "page": 15
+   "page": 15,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column text 'अंत में बड़े समूह...' continues 1.2 from the left column",
    "lesson": "hr-hindi-g1-w01-d01",
-   "page": 15
+   "page": 15,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Step 2.1 appears to continue onto the next page; last printed line 'प्रक्रिया दोहराएँ।' at page end",
    "lesson": "hr-hindi-g1-w01-d02",
-   "page": 17
+   "page": 17,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column's first line 'प्रत्येक प्रश्न पर...' continues step 1.2 from the left column",
    "lesson": "hr-hindi-g1-w01-d02",
-   "page": 17
+   "page": 17,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Chat-box prompts flattened to text/bullet items",
    "lesson": "hr-hindi-g1-w01-d02",
-   "page": 17
+   "page": 17,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Left column's 1.2 continues at top of right column ('शिक्षक जोड़ियों में जाकर...')",
    "lesson": "hr-hindi-g1-w01-d03",
-   "page": 19
+   "page": 19,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Step 2.1 appears to continue onto next page",
    "lesson": "hr-hindi-g1-w01-d03",
-   "page": 19
+   "page": 19,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Chat-box prompts flattened to text/bullet items",
    "lesson": "hr-hindi-g1-w01-d03",
-   "page": 19
+   "page": 19,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Step 1.2 heading printed as 'पाठ-1 साथियों के साथ बातचीत पृ. सं. 4' with 20 मिनट",
    "lesson": "hr-hindi-g1-w01-d03",
-   "page": 19
+   "page": 19,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Chat-box lines in 1.2/2.1/2.2 were printed as bullet dots inside speech boxes without '>' marks; given as 'text' items; 2.2 'गतिविधि 1-3' were bold-label dot lines (given as text)",
    "lesson": "hr-hindi-g1-w01-d04",
-   "page": 21
+   "page": 21,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1: printed \"‘हरी‘\" with closing quote mark of the same shape; copied as printed",
    "lesson": "hr-hindi-g1-w01-d04",
-   "page": 21
+   "page": 21,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Left column ends with 1.3 last line 'चित्र को देखें और उनके साथ बात करें।'",
    "lesson": "hr-hindi-g1-w01-d04",
-   "page": 21
+   "page": 21,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column's first three lines ('लिखने के बाद...', 'मुख्य शब्दों...', 'बच्चों की गलतियों...') continue step 1.3 from the left column",
    "lesson": "hr-hindi-g1-w01-d05",
-   "page": 22
+   "page": 22,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 and 2.2 speech-box dot lines given as 'text' items",
    "lesson": "hr-hindi-g1-w01-d05",
-   "page": 22
+   "page": 22,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Quote marks in 2.1 ‘हरी’ copied as printed",
    "lesson": "hr-hindi-g1-w01-d05",
-   "page": 22
+   "page": 22,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column's first two lines ('बच्चों को चित्र बनाने...', 'बच्चों द्वारा बनाए चित्र पर चर्चा करें।') continue step 1.3 from the left column",
    "lesson": "hr-hindi-g1-w01-d06",
-   "page": 23
+   "page": 23,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Speech-box dot lines given as 'text' items; 2.2 bullet line printed with wide spacing 'बैठाकर  अलग-अलग'",
    "lesson": "hr-hindi-g1-w01-d06",
-   "page": 23
+   "page": 23,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary-table row for डिकोडिंग lists only two bullets",
    "lesson": "hr-hindi-g1-w01-d06",
-   "page": 23
+   "page": 23,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: the two sub-rows in the 40 and 20 minute rows are written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order (left cell then right cell of each sub-row)",
    "lesson": "hr-hindi-g1-w02-d01",
-   "page": 24
+   "page": 24,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading colon printed as 'चेतनाः'",
    "lesson": "hr-hindi-g1-w02-d01",
-   "page": 24
+   "page": 24,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order; the last sub-row has no कक्षा 2 text printed",
    "lesson": "hr-hindi-g1-w02-d02",
-   "page": 25
+   "page": 25,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 heading appears in the left column; 2.2 continues in the right column",
    "lesson": "hr-hindi-g1-w02-d02",
-   "page": 25
+   "page": 25,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.1 text printed as 'कविता/बालगीत सुनाना शिक्षक ...' with no separating punctuation",
    "lesson": "hr-hindi-g1-w02-d02",
-   "page": 25
+   "page": 25,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w02-d03",
-   "page": 26
+   "page": 26,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 heading in left column; 2.2 continues in right column",
    "lesson": "hr-hindi-g1-w02-d03",
-   "page": 26
+   "page": 26,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 bullet 5 printed 'करें।पढ़ते' without space",
    "lesson": "hr-hindi-g1-w02-d03",
-   "page": 26
+   "page": 26,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w02-d04",
-   "page": 27
+   "page": 27,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1: last bullet 'अब शिक्षक शब्द बोलें...' is printed at the top of the right column box; placed at the end of 2.1 as its continuation",
    "lesson": "hr-hindi-g1-w02-d04",
-   "page": 27
+   "page": 27,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 'दोहराने करने के लिए' as printed",
    "lesson": "hr-hindi-g1-w02-d04",
-   "page": 27
+   "page": 27,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 bullet 2 list of words: 'बकरी, हाथी, खरगोश, सवारी' (word 'जंगल' absent as printed on this page)",
    "lesson": "hr-hindi-g1-w02-d04",
-   "page": 27
+   "page": 27,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order; last sub-row has no कक्षा 2 text",
    "lesson": "hr-hindi-g1-w02-d05",
-   "page": 28
+   "page": 28,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullets in the right column top are continuation of 2.1 (left box holds only the first bullet)",
    "lesson": "hr-hindi-g1-w02-d05",
-   "page": 28
+   "page": 28,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min row printed 'स्कूल से घर आने पर' (differs from 1.2 wording)",
    "lesson": "hr-hindi-g1-w02-d05",
-   "page": 28
+   "page": 28,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w02-d06",
-   "page": 29
+   "page": 29,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min lekhan line: 'जितने मुंह उतनी’ बात' quote placement as printed",
    "lesson": "hr-hindi-g1-w02-d06",
-   "page": 29
+   "page": 29,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 'करवाएं' vs 'करवाएँ' spelling checked as printed",
    "lesson": "hr-hindi-g1-w02-d06",
-   "page": 29
+   "page": 29,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w03-d01",
-   "page": 30
+   "page": 30,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2: the two question lists are printed in speech-icon boxes; written as bullets",
    "lesson": "hr-hindi-g1-w03-d01",
-   "page": 30
+   "page": 30,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1: sub-bullets (round dots) written as bullets; 'हो सकता है' printed without question mark",
    "lesson": "hr-hindi-g1-w03-d01",
-   "page": 30
+   "page": 30,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 continues in right column top (three-plus bullets)",
    "lesson": "hr-hindi-g1-w03-d01",
-   "page": 30
+   "page": 30,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Big-book title printed 'बंदर की पूँछ' in 3.1 and 'बन्दर की पूँछ' in multigrade box",
    "lesson": "hr-hindi-g1-w03-d01",
-   "page": 30
+   "page": 30,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w03-d02",
-   "page": 31
+   "page": 31,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet printed 'स्पष्ट निर्देश कार्य करवाएँ' (no 'देकर') as seen",
    "lesson": "hr-hindi-g1-w03-d02",
-   "page": 31
+   "page": 31,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet 'अवश्यकता' spelling as printed",
    "lesson": "hr-hindi-g1-w03-d02",
-   "page": 31
+   "page": 31,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 last bullet is a round-dot sub-bullet under the question bullet; written as bullet",
    "lesson": "hr-hindi-g1-w03-d02",
-   "page": 31
+   "page": 31,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w03-d03",
-   "page": 32
+   "page": 32,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 continues from left column into right column top (first right-column bullet)",
    "lesson": "hr-hindi-g1-w03-d03",
-   "page": 32
+   "page": 32,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet 'अवश्यकता' (left-col print) vs 'अवश्यकता' read; right-col top of this page read as 'अवश्यकता' - verify",
    "lesson": "hr-hindi-g1-w03-d03",
-   "page": 32
+   "page": 32,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet printed 'स्पष्ट निर्देश कार्य करवाएँ ।' (no 'देकर')",
    "lesson": "hr-hindi-g1-w03-d03",
-   "page": 32
+   "page": 32,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w03-d04",
-   "page": 33
+   "page": 33,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order",
    "lesson": "hr-hindi-g1-w03-d04",
-   "page": 33
+   "page": 33,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1: the first line 'ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग) मौखिक रूप से' is a bullet under the short heading 'ध्वनि चेतना'; its final danda may not be printed",
    "lesson": "hr-hindi-g1-w03-d04",
-   "page": 33
+   "page": 33,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 continues in the right column top",
    "lesson": "hr-hindi-g1-w03-d04",
-   "page": 33
+   "page": 33,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 'पृ. सं. 25)दी' spacing as printed",
    "lesson": "hr-hindi-g1-w03-d04",
-   "page": 33
+   "page": 33,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: the 40 and 20 minute rows each have two sub-rows per group; bullets listed in order top to right-column pairing, sub-row boundaries not separated.",
    "lesson": "hr-hindi-g1-w03-d05",
-   "page": 34
+   "page": 34,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet: 'अवश्यकता' printed as such; double space after 'कहें' (a gap) kept as single gap.",
    "lesson": "hr-hindi-g1-w03-d05",
-   "page": 34
+   "page": 34,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: each of the 40 and 20 minute rows has two sub-rows; bullets are listed per group in reading order without sub-row separation.",
    "lesson": "hr-hindi-g1-w03-d06",
-   "page": 35
+   "page": 35,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20 min, कक्षा 2: second sub-row has an icon but no text.",
    "lesson": "hr-hindi-g1-w03-d06",
-   "page": 35
+   "page": 35,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet: 'अवश्यकता' as printed.",
    "lesson": "hr-hindi-g1-w03-d06",
-   "page": 35
+   "page": 35,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 2 (डिकोडिंग) starts at bottom of left column and continues at top of right column (2.1 continued, then 2.2); merged into one section.",
    "lesson": "hr-hindi-g1-w04-d01",
-   "page": 36
+   "page": 36,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Question boxes under 1.2 recorded as text items.",
    "lesson": "hr-hindi-g1-w04-d01",
-   "page": 36
+   "page": 36,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d01",
-   "page": 36
+   "page": 36,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.3 first bullet 'अपनी मनपसंद का चित्र' as printed.",
    "lesson": "hr-hindi-g1-w04-d01",
-   "page": 36
+   "page": 36,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d02",
-   "page": 37
+   "page": 37,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.1 bullet ends without danda as printed.",
    "lesson": "hr-hindi-g1-w04-d02",
-   "page": 37
+   "page": 37,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 2 starts in left column (2.1) and 2.2 is at top of right column; kept inside section 2.",
    "lesson": "hr-hindi-g1-w04-d03",
-   "page": 38
+   "page": 38,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d03",
-   "page": 38
+   "page": 38,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.3: 'प्रोत्साहित' preceded by 'के' as printed.",
    "lesson": "hr-hindi-g1-w04-d04",
-   "page": 39
+   "page": 39,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1: 'यदिकिसी' printed run together.",
    "lesson": "hr-hindi-g1-w04-d04",
-   "page": 39
+   "page": 39,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d04",
-   "page": 39
+   "page": 39,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d05",
-   "page": 40
+   "page": 40,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 starts in left column (2.1) and continues in right column (2.1 items, then 2.2).",
    "lesson": "hr-hindi-g1-w04-d05",
-   "page": 40
+   "page": 40,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 heading is at bottom of left column; its items are at top of right column (no new heading), placed under 2.1.",
    "lesson": "hr-hindi-g1-w04-d06",
-   "page": 41
+   "page": 41,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Dot placeholders (‘......’ vs ‘....’) copied as they appear; count of dots approximate.",
    "lesson": "hr-hindi-g1-w04-d06",
-   "page": 41
+   "page": 41,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w04-d06",
-   "page": 41
+   "page": 41,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 second bullet wraps from left column bottom ('...बोलें( नल-') to right column top ('न/ल), (न/ल- नल)। ...'); joined as one item; exact bracket/slash text approximate.",
    "lesson": "hr-hindi-g1-w05-d01",
-   "page": 42
+   "page": 42,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w05-d01",
-   "page": 42
+   "page": 42,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed.",
    "lesson": "hr-hindi-g1-w05-d02",
-   "page": 43
+   "page": 43,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.3 second bullet wording ('प्रश्नों का संबंधित चर्चा') copied as printed.",
    "lesson": "hr-hindi-g1-w05-d02",
-   "page": 43
+   "page": 43,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.3 'उनमे' and 'दिए गये' copied as printed",
    "lesson": "hr-hindi-g1-w05-d03",
-   "page": 44
+   "page": 44,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min row: sub-row pairing of bullets across class 1/class 2 merged per group",
    "lesson": "hr-hindi-g1-w05-d03",
-   "page": 44
+   "page": 44,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min row: bullets grouped per class across the two sub-rows",
    "lesson": "hr-hindi-g1-w05-d04",
-   "page": 45
+   "page": 45,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 last three lines are indented sub-bullets, written as flat bullets",
    "lesson": "hr-hindi-g1-w05-d05",
-   "page": 46
+   "page": 46,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min lekhan bullet has unmatched ')' as printed",
    "lesson": "hr-hindi-g1-w05-d05",
-   "page": 46
+   "page": 46,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 numbered items 1-6 kept with printed numbers inside text; 'सुनकर लिखें' line is a bold sub-line after item 3",
    "lesson": "hr-hindi-g1-w05-d06",
-   "page": 47
+   "page": 47,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20-min row: class 2 has one printed bullet in the second sub-row's position (empty second cell)",
    "lesson": "hr-hindi-g1-w05-d06",
-   "page": 47
+   "page": 47,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bullet 'लड़का शब्द बोर्ड पर...' spans left column bottom to right column top, joined into one item",
    "lesson": "hr-hindi-g1-w06-d01",
-   "page": 48
+   "page": 48,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Sub-bullets (dot bullets) written as flat bullets",
    "lesson": "hr-hindi-g1-w06-d01",
-   "page": 48
+   "page": 48,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d01",
-   "page": 48
+   "page": 48,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'स्पष्टउच्चारण' printed without space in 2.1",
    "lesson": "hr-hindi-g1-w06-d02",
-   "page": 49
+   "page": 49,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Sub-bullets written as flat bullets",
    "lesson": "hr-hindi-g1-w06-d02",
-   "page": 49
+   "page": 49,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d02",
-   "page": 49
+   "page": 49,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Bullet 'उसके बाद पाठ्यपुस्तक' wording read from image; multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d03",
-   "page": 50
+   "page": 50,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d04",
-   "page": 51
+   "page": 51,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'लोगोग्रफिक' in multigrade row printed without ा as read",
    "lesson": "hr-hindi-g1-w06-d04",
-   "page": 51
+   "page": 51,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 heading 'डिकोडिंग- पुनरावृति कार्य' read as printed; 2.1 'वर्ण न,र,ल,क' spacing as printed",
    "lesson": "hr-hindi-g1-w06-d05",
-   "page": 52
+   "page": 52,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20-min row: second sub-row 'बच्चे पठन कार्य करेंगे।' printed for class 2 alongside the library bullet",
    "lesson": "hr-hindi-g1-w06-d05",
-   "page": 52
+   "page": 52,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d05",
-   "page": 52
+   "page": 52,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The period-3 bar ('3. पठन' with minutes) is NOT printed at the top of the right column; step 3.1 appears without it, so the level-1 section has null number/heading/minutes",
    "lesson": "hr-hindi-g1-w06-d06",
-   "page": 53
+   "page": 53,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Left-column 1.2 text is printed in a smaller font; read carefully",
    "lesson": "hr-hindi-g1-w06-d06",
-   "page": 53
+   "page": 53,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade bullets grouped per class across sub-rows",
    "lesson": "hr-hindi-g1-w06-d06",
-   "page": 53
+   "page": 53,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 first bullets: quote marks around letters and 'उच्चारण करने' wording read at small print size",
    "lesson": "hr-hindi-g1-w07-d01",
-   "page": 54
+   "page": 54,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 'लड्डूओं' spelling as printed",
    "lesson": "hr-hindi-g1-w07-d01",
-   "page": 54
+   "page": 54,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1: 'के पकड़ा हों' wording read as printed; numbered questions 2 and 3 given as text items",
    "lesson": "hr-hindi-g1-w07-d02",
-   "page": 55
+   "page": 55,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 third bullet spans left column bottom into right column top; joined",
    "lesson": "hr-hindi-g1-w07-d02",
-   "page": 55
+   "page": 55,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 second bullet: punctuation spacing 'बोलें(सड़क-स/ड़/क)' as printed",
    "lesson": "hr-hindi-g1-w07-d03",
-   "page": 56
+   "page": 56,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 third bullet spans columns (left bottom of 'a' to right top); joined",
    "lesson": "hr-hindi-g1-w07-d03",
-   "page": 56
+   "page": 56,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w07-d04",
-   "page": 57
+   "page": 57,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.2 under 2",
    "lesson": "hr-hindi-g1-w07-d04",
-   "page": 57
+   "page": 57,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Second sub-section under period 2 in right column is printed with number 2.2 (same as ब्लेंडिंग), copied as printed",
    "lesson": "hr-hindi-g1-w07-d04",
-   "page": 57
+   "page": 57,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 first bullet says 'शेर की गुफा' while multigrade row says 'सोनू के लड्डू' as printed",
    "lesson": "hr-hindi-g1-w07-d04",
-   "page": 57
+   "page": 57,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 is a single paragraph-style bullet in right column; written as one bullet",
    "lesson": "hr-hindi-g1-w07-d05",
-   "page": 58
+   "page": 58,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.2 first bullet 'बैठाएँऔर' printed without space",
    "lesson": "hr-hindi-g1-w07-d05",
-   "page": 58
+   "page": 58,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade (40 मिनट) कक्षा 1/2 bullets mention 6.5 as printed",
    "lesson": "hr-hindi-g1-w07-d05",
-   "page": 58
+   "page": 58,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w07-d06",
-   "page": 59
+   "page": 59,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 item 5: line end printed 'सके द्य' (probably misprinted danda); written as 'सके।'",
    "lesson": "hr-hindi-g1-w07-d06",
-   "page": 59
+   "page": 59,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 spans left column bottom (items 1-2) into right column (continuation), joined",
    "lesson": "hr-hindi-g1-w07-d06",
-   "page": 59
+   "page": 59,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.2 'सभी कि बातों' copied as printed; numbering 1-6 in 2.1 copied as printed prefixes; items 'निर्देश:', 'सुनकर लिखें :', 'समूह-1/2' are unnumbered bold lead-ins",
    "lesson": "hr-hindi-g1-w07-d06",
-   "page": 59
+   "page": 59,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 fourth bullet: spacing in 'और‘म’' as printed",
    "lesson": "hr-hindi-g1-w08-d01",
-   "page": 60
+   "page": 60,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 spans left/right columns; bottom of 'a' overlaps top of 'b', written once",
    "lesson": "hr-hindi-g1-w08-d01",
-   "page": 60
+   "page": 60,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 'के पकड़ा हों' wording as printed",
    "lesson": "hr-hindi-g1-w08-d02",
-   "page": 61
+   "page": 61,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 spacing 'बोलें(पपीता' and 'और‘प’' as printed",
    "lesson": "hr-hindi-g1-w08-d02",
-   "page": 61
+   "page": 61,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w08-d03",
-   "page": 62
+   "page": 62,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w08-d03",
-   "page": 62
+   "page": 62,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Period 2 in right column starts with 2.3 शब्द पठन and a second heading also numbered 2.3 अभ्यास कार्य; no 2.2 printed; copied as printed",
    "lesson": "hr-hindi-g1-w08-d03",
-   "page": 62
+   "page": 62,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade (20 मिनट) कक्षा 1 says '7.3' as printed",
    "lesson": "hr-hindi-g1-w08-d03",
-   "page": 62
+   "page": 62,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 bullets 4-5: split as printed on page; second bullet 'बच्चों से ‘द’ की आवाज़...' is a separate bullet",
    "lesson": "hr-hindi-g1-w08-d03",
-   "page": 62
+   "page": 62,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.3 'दिखाई रहा है' as printed",
    "lesson": "hr-hindi-g1-w08-d04",
-   "page": 63
+   "page": 63,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 second bullet has no final danda as printed",
    "lesson": "hr-hindi-g1-w08-d04",
-   "page": 63
+   "page": 63,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade (20 मिनट) कक्षा 1 'लोगोग्रफिक' spelling as printed",
    "lesson": "hr-hindi-g1-w08-d04",
-   "page": 63
+   "page": 63,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The first right-column bullet (बनाये हुए शब्द...) is placed under 2.2 as its continuation across the column break; 'पृ.स. 85' printed as such in 3.1",
    "lesson": "hr-hindi-g1-w08-d05",
-   "page": 64
+   "page": 64,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade rows: pairing of the two printed sub-rows per group in the 40 and 20 minute rows is merged into one list per group",
    "lesson": "hr-hindi-g1-w08-d05",
-   "page": 64
+   "page": 64,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w08-d06",
-   "page": 65
+   "page": 65,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column begins mid-section 2.1 (numbered items 3-6 continue the left-column list); numbering kept in item text as printed",
    "lesson": "hr-hindi-g1-w08-d06",
-   "page": 65
+   "page": 65,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade rows: the two printed sub-rows per group are merged into one list per group; second sub-row of कक्षा 2 in 20-minute row is empty",
    "lesson": "hr-hindi-g1-w08-d06",
-   "page": 65
+   "page": 65,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet spans the column break (left ends 'वर्ण/अक्षर बोलते हुए', right starts 'लिखें।') and is written as one item",
    "lesson": "hr-hindi-g1-w09-d01",
-   "page": 66
+   "page": 66,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 and 3.1 round-bullet sub-items written as separate bullets; 'उनमे' printed without anusvara",
    "lesson": "hr-hindi-g1-w09-d01",
-   "page": 66
+   "page": 66,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d01",
-   "page": 66
+   "page": 66,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.3 bullet spans the column break and is written as one item",
    "lesson": "hr-hindi-g1-w09-d02",
-   "page": 67
+   "page": 67,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 'पकड़ा हों' and 'के पकड़ा' read as printed (possible misprints)",
    "lesson": "hr-hindi-g1-w09-d02",
-   "page": 67
+   "page": 67,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उनमे' printed without anusvara in 2.2",
    "lesson": "hr-hindi-g1-w09-d02",
-   "page": 67
+   "page": 67,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d02",
-   "page": 67
+   "page": 67,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading is at the bottom of the left column; its bullets are at the top of the right column",
    "lesson": "hr-hindi-g1-w09-d03",
-   "page": 68
+   "page": 68,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उनमे' printed without anusvara in 2.2; 'पढ़ा जाता हैं' as printed in 3.1",
    "lesson": "hr-hindi-g1-w09-d03",
-   "page": 68
+   "page": 68,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d03",
-   "page": 68
+   "page": 68,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading and bullets are at the top of the right column (2.1 ends bottom of left column)",
    "lesson": "hr-hindi-g1-w09-d04",
-   "page": 69
+   "page": 69,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उनमे' printed without anusvara in 2.2; 'लोगोग्रफिक' (multigrade) vs 'लोगोग्राफीक'/'लोगोग्राफिक' (body) as printed",
    "lesson": "hr-hindi-g1-w09-d04",
-   "page": 69
+   "page": 69,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d04",
-   "page": 69
+   "page": 69,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading and multigrade row show matra signs 'ा' and 'ी' printed alone; transcribed as bare signs",
    "lesson": "hr-hindi-g1-w09-d05",
-   "page": 70
+   "page": 70,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उनमे' printed without anusvara in 2.2; 'घुमने' as printed",
    "lesson": "hr-hindi-g1-w09-d05",
-   "page": 70
+   "page": 70,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d05",
-   "page": 70
+   "page": 70,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 is 60 minutes with only 2.1; no section 3 on this page",
    "lesson": "hr-hindi-g1-w09-d06",
-   "page": 71
+   "page": 71,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column continues 2.1 (items after 'सुनकर लिखें'); numbering kept in item text as printed",
    "lesson": "hr-hindi-g1-w09-d06",
-   "page": 71
+   "page": 71,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'ज़्यादा' in समूह-1 read with nukta; page 65 style printed 'ज्यादा' on earlier page, check",
    "lesson": "hr-hindi-g1-w09-d06",
-   "page": 71
+   "page": 71,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w09-d06",
-   "page": 71
+   "page": 71,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 'च' का कार्ड bullet spans the column break and is written as one item",
    "lesson": "hr-hindi-g1-w10-d01",
-   "page": 72
+   "page": 72,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 first-bullet page range '99-100' printed as '(पृ. सं.-99-100)'",
    "lesson": "hr-hindi-g1-w10-d01",
-   "page": 72
+   "page": 72,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'आवाज़' with nukta in 2.1 read from image; 'आवाजों' vs 'आवाज़ों' possibly nukta-less in print",
    "lesson": "hr-hindi-g1-w10-d01",
-   "page": 72
+   "page": 72,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w10-d01",
-   "page": 72
+   "page": 72,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading is at the bottom of the left column; its bullets are at the top of the right column (only four bullets, no 'बच्चों के पास जाकर' bullet)",
    "lesson": "hr-hindi-g1-w10-d02",
-   "page": 73
+   "page": 73,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उनमे' printed without anusvara in 2.2; 'बैठें हों' as printed in 3.1",
    "lesson": "hr-hindi-g1-w10-d02",
-   "page": 73
+   "page": 73,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade sub-rows merged per group",
    "lesson": "hr-hindi-g1-w10-d02",
-   "page": 73
+   "page": 73,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 and 2.1 headings/text read at image resolution; 2.1 heading symbol ‘ा’ approximated",
    "lesson": "hr-hindi-g1-w10-d03",
-   "page": 74
+   "page": 74,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade: row 40 and 20 each have two sub-rows; group labels repeated per sub-row in order",
    "lesson": "hr-hindi-g1-w10-d03",
-   "page": 74
+   "page": 74,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading symbol ‘ा’ approximated",
    "lesson": "hr-hindi-g1-w10-d04",
-   "page": 75
+   "page": 75,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w10-d04",
-   "page": 75
+   "page": 75,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading matra symbols (ा, ी, ॅ) approximated from small glyphs",
    "lesson": "hr-hindi-g1-w10-d05",
-   "page": 76
+   "page": 76,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w10-d05",
-   "page": 76
+   "page": 76,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 numbered steps 1-6 plus unnumbered bullets (निर्देश, नोट) kept in reading order across columns; step 1 is in the left column, steps 2-6 in the right",
    "lesson": "hr-hindi-g1-w10-d06",
-   "page": 77
+   "page": 77,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w10-d06",
-   "page": 77
+   "page": 77,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullet 'आकलन प्रपत्र/। चर्चा से...' printed with an odd slash; copied as seen",
    "lesson": "hr-hindi-g1-w11-d01",
-   "page": 78
+   "page": 78,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d01",
-   "page": 78
+   "page": 78,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 2",
    "lesson": "hr-hindi-g1-w11-d02",
-   "page": 79
+   "page": 79,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1 period bar (मौखिक भाषा विकास एवं लेखन) is not printed on this page; steps 1.1-1.3 written as top-level sections with printed numbers",
    "lesson": "hr-hindi-g1-w11-d02",
-   "page": 79
+   "page": 79,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d02",
-   "page": 79
+   "page": 79,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade 30-minute quote punctuation “न्यौता ( पृष्ठ 115 )’ copied as printed",
    "lesson": "hr-hindi-g1-w11-d02",
-   "page": 79
+   "page": 79,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w11-d03",
-   "page": 80
+   "page": 80,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Step numbering jumps 2.2 to 2.4 as printed (no 2.3 on page)",
    "lesson": "hr-hindi-g1-w11-d03",
-   "page": 80
+   "page": 80,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout (2.1 box follows that bar; its bullets continue at top of right column); the printing does not state this explicitly",
    "lesson": "hr-hindi-g1-w11-d03",
-   "page": 80
+   "page": 80,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade 30-min lekhan line: missing closing bracket after 'पृष्ठ सं. 113' as printed",
    "lesson": "hr-hindi-g1-w11-d03",
-   "page": 80
+   "page": 80,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d03",
-   "page": 80
+   "page": 80,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w11-d04",
-   "page": 81
+   "page": 81,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Step numbering jumps 2.2 to 2.4 as printed (no 2.3 on page)",
    "lesson": "hr-hindi-g1-w11-d04",
-   "page": 81
+   "page": 81,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout; 2.1 bullets continue into the right column",
    "lesson": "hr-hindi-g1-w11-d04",
-   "page": 81
+   "page": 81,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d04",
-   "page": 81
+   "page": 81,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.3 blending: the printed paragraph is wrapped over many lines; I joined it as one bullet though it may contain several sentences/bullets",
    "lesson": "hr-hindi-g1-w11-d05",
-   "page": 82
+   "page": 82,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout",
    "lesson": "hr-hindi-g1-w11-d05",
-   "page": 82
+   "page": 82,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade misspellings copied as read: 'घरे', 'पुरावृत्ति' (40 and 20 minute rows)",
    "lesson": "hr-hindi-g1-w11-d05",
-   "page": 82
+   "page": 82,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d05",
-   "page": 82
+   "page": 82,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.3 blending paragraph joined as one bullet",
    "lesson": "hr-hindi-g1-w11-d06",
-   "page": 83
+   "page": 83,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout; 2.1 bullets continue into the right column",
    "lesson": "hr-hindi-g1-w11-d06",
-   "page": 83
+   "page": 83,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order",
    "lesson": "hr-hindi-g1-w11-d06",
-   "page": 83
+   "page": 83,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Sections 2.1-2.5 placed under period 2 (remedial) as sub-sections following the two group plans; no separate period bar is printed",
    "lesson": "hr-hindi-g1-w12-d01",
-   "page": 84
+   "page": 84,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading mark ‘ा’ read from print",
    "lesson": "hr-hindi-g1-w12-d01",
-   "page": 84
+   "page": 84,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min row, class 1 second bullet: 'सावधिक' as printed",
    "lesson": "hr-hindi-g1-w12-d01",
-   "page": 84
+   "page": 84,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Sections 2.1-2.5 placed under period 2 as sub-sections after the two group plans",
    "lesson": "hr-hindi-g1-w12-d02",
-   "page": 85
+   "page": 85,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading/body mark ‘ा’ read from print",
    "lesson": "hr-hindi-g1-w12-d02",
-   "page": 85
+   "page": 85,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 heading matra symbol is rendered oddly in print; read as ‘ी’",
    "lesson": "hr-hindi-g1-w12-d03",
-   "page": 86
+   "page": 86,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.5 heading prints 12.2 (पृ. सं. 126) while body prints 12.3 (पृ. सं. 127): copied as printed",
    "lesson": "hr-hindi-g1-w12-d03",
-   "page": 86
+   "page": 86,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min class 1 'पुनरावृति' vs class 2 'पुनरावृत्ति' spelling as printed",
    "lesson": "hr-hindi-g1-w12-d03",
-   "page": 86
+   "page": 86,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 writing: closing bracket missing before danda as printed",
    "lesson": "hr-hindi-g1-w12-d03",
-   "page": 86
+   "page": 86,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w12-d04",
-   "page": 87
+   "page": 87,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 third matra symbol read as ‘े’ (printed glyph small/unclear)",
    "lesson": "hr-hindi-g1-w12-d04",
-   "page": 87
+   "page": 87,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min class 2 first bullet spelling 'पुनरावृति' vs earlier pages unsure; read as printed 'पुनरावृति'",
    "lesson": "hr-hindi-g1-w12-d04",
-   "page": 87
+   "page": 87,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column begins at 2.2 (2.1 is in left column)",
    "lesson": "hr-hindi-g1-w12-d04",
-   "page": 87
+   "page": 87,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column begins mid-2.1 (lines merged into 2.1 items)",
    "lesson": "hr-hindi-g1-w12-d05",
-   "page": 88
+   "page": 88,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 'पुनरावृति'/'पुनरावृत्ति' spellings: read as printed (दोनों जगह 'पुनरावृति' अनुमानित)",
    "lesson": "hr-hindi-g1-w12-d05",
-   "page": 88
+   "page": 88,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade quote marks around ‘दिनचर्या’ as printed (unbalanced)",
    "lesson": "hr-hindi-g1-w12-d05",
-   "page": 88
+   "page": 88,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column begins mid-2.1 (lines merged into 2.1)",
    "lesson": "hr-hindi-g1-w12-d06",
-   "page": 89
+   "page": 89,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'पुनरावृति' vs 'पुनरावृत्ति' spellings in multigrade box hard to distinguish",
    "lesson": "hr-hindi-g1-w12-d06",
-   "page": 89
+   "page": 89,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.2",
    "lesson": "hr-hindi-g1-w13-d01",
-   "page": 90
+   "page": 90,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 3",
    "lesson": "hr-hindi-g1-w13-d01",
-   "page": 90
+   "page": 90,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary table cells flattened from bullet lists into one string per cell",
    "lesson": "hr-hindi-g1-w13-d01",
-   "page": 90
+   "page": 90,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 word 'आवाज़' with nukta read as printed",
    "lesson": "hr-hindi-g1-w13-d01",
-   "page": 90
+   "page": 90,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Last bullet of 2.1 ends with ‘....’ as printed; text may continue/cut",
    "lesson": "hr-hindi-g1-w13-d01",
-   "page": 90
+   "page": 90,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.2",
    "lesson": "hr-hindi-g1-w13-d02",
-   "page": 92
+   "page": 92,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 5 but found 3",
    "lesson": "hr-hindi-g1-w13-d02",
-   "page": 92
+   "page": 92,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary table cells flattened from bullet lists",
    "lesson": "hr-hindi-g1-w13-d02",
-   "page": 92
+   "page": 92,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column begins with last bullet of 1.2 (continuation), placed at end of 1.2",
    "lesson": "hr-hindi-g1-w13-d02",
-   "page": 92
+   "page": 92,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'होगें' spelling and 'आप इस बाजार में जाते तो...' line read as printed",
    "lesson": "hr-hindi-g1-w13-d02",
-   "page": 92
+   "page": 92,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 50-50",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 1.2 under 1",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 1.2 under 1",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 3",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The anusvara sign printed in the 2.1 heading, summary table and bullets appears as a bar-like glyph; written as ‘ ̄ ’",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section number '1.2' printed three times (पाठ-13 साथियों के साथ बातचीत, पाठ आधारित लेखन, शब्दों का खेल) - kept as printed",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary-table cell text transcribed as joined lines; bullet boundaries approximate",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Speech-box texts written as bullet items under the preceding '>' item",
    "lesson": "hr-hindi-g1-w13-d03",
-   "page": 94
+   "page": 94,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.2",
    "lesson": "hr-hindi-g1-w13-d04",
-   "page": 96
+   "page": 96,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 3",
    "lesson": "hr-hindi-g1-w13-d04",
-   "page": 96
+   "page": 96,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Anusvara glyph written as ‘ ̄ ’",
    "lesson": "hr-hindi-g1-w13-d04",
-   "page": 96
+   "page": 96,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary-table cell text joined; bullet boundaries approximate",
    "lesson": "hr-hindi-g1-w13-d04",
-   "page": 96
+   "page": 96,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Speech-box contents written as bullet items",
    "lesson": "hr-hindi-g1-w13-d04",
-   "page": 96
+   "page": 96,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.4",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 6 but found 3",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'पुनरावृत्ति कार्य' is an unnumbered sub-heading under section 2 (number null)",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary-table cell text joined; bullet boundaries approximate",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.3 first item refers to 13.4 (पृ.सं. 139) as printed although summary table says 13.5 (पृ.सं. 140)",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Speech-box contents written as bullet items",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.3 box line 'बच्चों बताओ हमारे स्कूल में क्या-क्या चीजें हैं।' - final word/punctuation approximate",
    "lesson": "hr-hindi-g1-w13-d05",
-   "page": 98
+   "page": 98,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 45-45",
    "lesson": "hr-hindi-g1-w13-d06",
-   "page": 100
+   "page": 100,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Summary-table cell text joined; bullet boundaries approximate",
    "lesson": "hr-hindi-g1-w13-d06",
-   "page": 100
+   "page": 100,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 heading 'डिकोडिंग साप्ताहिक आकलन' is printed with a small icon before it",
    "lesson": "hr-hindi-g1-w13-d06",
-   "page": 100
+   "page": 100,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Top of right column (three '>' items about emoji) continues 1.3 from the left column; placed inside 1.3",
    "lesson": "hr-hindi-g1-w13-d06",
-   "page": 100
+   "page": 100,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Item numbers 1-6 in 2.1 kept as printed prefix inside item text; 'निर्देश:' and 'सुनकर लिखें' lines placed in reading order",
    "lesson": "hr-hindi-g1-w13-d06",
-   "page": 100
+   "page": 100,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "No 'आज किए जाने वाले कार्य' summary table on this page",
    "lesson": "hr-hindi-g1-w14-d01",
-   "page": 101
+   "page": 101,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Top of right column ('और उनको बोर्ड पर लिखें...' and following) continues 2.1 from the left column; merged into the last 2.1 bullet and following bullets",
    "lesson": "hr-hindi-g1-w14-d01",
-   "page": 101
+   "page": 101,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: the 40-minute and 20-minute rows have कक्षा 1 and कक्षा 2 columns with two bullets each; assignment of the two bullets per column read from the row layout",
    "lesson": "hr-hindi-g1-w14-d01",
-   "page": 101
+   "page": 101,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box 30-minute row: the 'कक्षा 2:' sentence is on the same printed line as the कक्षा 1 line; written as separate bullets",
    "lesson": "hr-hindi-g1-w14-d02",
-   "page": 102
+   "page": 102,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: bullet placement per column read from row layout; some text in the 40-min कक्षा 2 first bullet is tightly set and approximate",
    "lesson": "hr-hindi-g1-w14-d02",
-   "page": 102
+   "page": 102,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Top of right column ('बनने वाले शब्द लिखें।...') continues 2.2 from left column; merged into 2.2",
    "lesson": "hr-hindi-g1-w14-d02",
-   "page": 102
+   "page": 102,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 wording 'शब्द/नामपूछें' printed without space",
    "lesson": "hr-hindi-g1-w14-d02",
-   "page": 102
+   "page": 102,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Matra glyph in 2.1 and the multigrade 'मात्रा पहचान पर कार्य' line read as ‘ो’ (small mark, multigrade one less clear)",
    "lesson": "hr-hindi-g1-w14-d03",
-   "page": 103
+   "page": 103,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Top of right column (वाक्य ... पढ़ें) continues after the 2.2 heading at bottom of left column; placed under 2.2",
    "lesson": "hr-hindi-g1-w14-d03",
-   "page": 103
+   "page": 103,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min lekhan line has 'पृष्ठ सं....' with page number not printed; 'कक्षा 2:' on same printed line, merged into one bullet",
    "lesson": "hr-hindi-g1-w14-d03",
-   "page": 103
+   "page": 103,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min कक्षा 2 first bullet text tightly set; approximate",
    "lesson": "hr-hindi-g1-w14-d03",
-   "page": 103
+   "page": 103,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 5 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w14-d04",
-   "page": 104
+   "page": 104,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-minute row second bullet: text '(पाठ-14 ‘आलू की सड़क’ ....।' is partly illegible/elided in print and has no closing bracket",
    "lesson": "hr-hindi-g1-w14-d04",
-   "page": 104
+   "page": 104,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.4 printed twice (ग्रिड से शब्द बनाना and अभ्यास कार्य) as printed",
    "lesson": "hr-hindi-g1-w14-d04",
-   "page": 104
+   "page": 104,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 continues into right column; bullets in right column top assigned to 2.2",
    "lesson": "hr-hindi-g1-w14-d04",
-   "page": 104
+   "page": 104,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-minute row: 'पृष्ठ सं.....' blank page number as printed",
    "lesson": "hr-hindi-g1-w14-d05",
-   "page": 105
+   "page": 105,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-minute: 'स्वतत्र' printed (missing ं) as read; page number 166 read as printed",
    "lesson": "hr-hindi-g1-w14-d05",
-   "page": 105
+   "page": 105,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2: the bold title line ‘मिट्टी के बरतनों पर’ is preceded by a '>' marker but recorded as a text item",
    "lesson": "hr-hindi-g1-w14-d05",
-   "page": 105
+   "page": 105,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The right-column box (निर्देश ... नोट ...) continues the numbered list 1-2 of section 2.1 from the left column; assigned to 2.1",
    "lesson": "hr-hindi-g1-w14-d06",
-   "page": 106
+   "page": 106,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Numbers 1-6 kept as printed inside bullet text; items 'निर्देश' and 'नोट' were '>' bullets",
    "lesson": "hr-hindi-g1-w14-d06",
-   "page": 106
+   "page": 106,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min: blank page number 'पृष्ठ सं........' as printed",
    "lesson": "hr-hindi-g1-w14-d06",
-   "page": 106
+   "page": 106,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w15-d01",
-   "page": 107
+   "page": 107,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 is absent on this page (headings go 2.1 then 2.3, 2.4) as printed",
    "lesson": "hr-hindi-g1-w15-d01",
-   "page": 107
+   "page": 107,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "In 2.1 the last bullet wraps from left column into top of right column; joined as one bullet",
    "lesson": "hr-hindi-g1-w15-d01",
-   "page": 107
+   "page": 107,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 vs 'रागिनी-1' as printed",
    "lesson": "hr-hindi-g1-w15-d01",
-   "page": 107
+   "page": 107,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min first bullet ends with a stray closing quote ’ as printed",
    "lesson": "hr-hindi-g1-w15-d02",
-   "page": 108
+   "page": 108,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 20-min second bullet is a tightly packed line; reading 'पृष्ठ न. 169 3-4 बच्चों द्वारा पाठ पढ़कर सुनाना' fairly certain",
    "lesson": "hr-hindi-g1-w15-d02",
-   "page": 108
+   "page": 108,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w15-d03",
-   "page": 109
+   "page": 109,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 absent on this page (2.1 then 2.3) as printed",
    "lesson": "hr-hindi-g1-w15-d03",
-   "page": 109
+   "page": 109,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 20-min bullet ends with '17' as printed (page number appears truncated; main text says पृ.स. 170)",
    "lesson": "hr-hindi-g1-w15-d03",
-   "page": 109
+   "page": 109,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-min first bullet is tightly set; reading reasonably certain",
    "lesson": "hr-hindi-g1-w15-d03",
-   "page": 109
+   "page": 109,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last two bullets sit at the top of the right column",
    "lesson": "hr-hindi-g1-w15-d03",
-   "page": 109
+   "page": 109,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 absent on this page (2.1 then 2.3) as printed",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet wraps from left column into top of right column; joined as one bullet",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 20-min bullet ends 'पृष्ठ सं.' with no number as printed",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 40-min 'अभ्यास-पत्रक 14.4 पृष्ठ 167' as printed (section 2.4 says 15.4)",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'बच्चें से' (with chandrabindu-like form) in 2.1 as printed",
    "lesson": "hr-hindi-g1-w15-d04",
-   "page": 110
+   "page": 110,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet wraps from the left column into the top of the right column; joined as one bullet",
    "lesson": "hr-hindi-g1-w15-d05",
-   "page": 111
+   "page": 111,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 line ‘व्यक्तिगत स्वच्छता पर’ preceded by '>' marker, recorded as text",
    "lesson": "hr-hindi-g1-w15-d05",
-   "page": 111
+   "page": 111,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-min: 'स्वतत्र' (missing ं) as read; 'अभ्यास-पत्रक 15 .5' spacing as printed",
    "lesson": "hr-hindi-g1-w15-d05",
-   "page": 111
+   "page": 111,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right-column box (3-6, नोट) continues the numbered list of 2.1 from the left column; assigned to 2.1",
    "lesson": "hr-hindi-g1-w15-d06",
-   "page": 112
+   "page": 112,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-min first bullet printed 'आकलन पर आधार पर' as read",
    "lesson": "hr-hindi-g1-w15-d06",
-   "page": 112
+   "page": 112,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w16-d01",
-   "page": 113
+   "page": 113,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 absent on this page (2.1 then 2.3) as printed",
    "lesson": "hr-hindi-g1-w16-d01",
-   "page": 113
+   "page": 113,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 last bullet wraps into the top of the right column; joined as one bullet",
    "lesson": "hr-hindi-g1-w16-d01",
-   "page": 113
+   "page": 113,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 40-min says ‘ई’ ग्रिड while the section teaches ‘इ’, as printed",
    "lesson": "hr-hindi-g1-w16-d01",
-   "page": 113
+   "page": 113,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-min page numbers 186/186 as read",
    "lesson": "hr-hindi-g1-w16-d01",
-   "page": 113
+   "page": 113,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w16-d02",
-   "page": 114
+   "page": 114,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 bullet 'ईख शब्द' etc. read from overlap; 1.3 'ढूंढ़कर' spelling as printed (ढूंढ़कर)",
    "lesson": "hr-hindi-g1-w16-d02",
-   "page": 114
+   "page": 114,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade box: 40-minute and 20-minute rows have two sub-rows each (stacked) per class column; assigned in reading order",
    "lesson": "hr-hindi-g1-w16-d02",
-   "page": 114
+   "page": 114,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w16-d03",
-   "page": 115
+   "page": 115,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet 'उनमे' spelling as printed",
    "lesson": "hr-hindi-g1-w16-d04",
-   "page": 116
+   "page": 116,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min first bullet quote marks: ‘अनुभव सुनना व सुनाना- ‘आस-पास की स्वच्छता’ as printed (nested quotes)",
    "lesson": "hr-hindi-g1-w16-d05",
-   "page": 117
+   "page": 117,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1: numbered items 1-6 are mixed with arrow bullets; numbers kept in text as printed; 'सुनकर लिखें' and 'समूह-1/2' recorded as text items (bold lead-ins)",
    "lesson": "hr-hindi-g1-w16-d06",
-   "page": 118
+   "page": 118,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-min first bullet: closing quote printed as ‘क्या हो अगर…? ।",
    "lesson": "hr-hindi-g1-w16-d06",
-   "page": 118
+   "page": 118,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 and 2.2 are printed as run-on paragraphs with a single arrow before 'बच्चों को ‘ओ’ वर्ण' (2.1); sentence-level bullet splits not applied, kept as printed paragraphs",
    "lesson": "hr-hindi-g1-w17-d01",
-   "page": 119
+   "page": 119,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 'उनमे' spelling as printed",
    "lesson": "hr-hindi-g1-w17-d01",
-   "page": 119
+   "page": 119,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 'उनमे' spelling as printed",
    "lesson": "hr-hindi-g1-w17-d02",
-   "page": 120
+   "page": 120,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 heading and bullets: the matra symbol is printed as ‘ु’ inside quotes with a dotted-circle base; transcribed as ‘ु’",
    "lesson": "hr-hindi-g1-w17-d03",
-   "page": 121
+   "page": 121,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.3 'उनमे' spelling as printed",
    "lesson": "hr-hindi-g1-w17-d03",
-   "page": 121
+   "page": 121,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 3 but found 2.2 under 2",
    "lesson": "hr-hindi-g1-w17-d04",
-   "page": 122
+   "page": 122,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The matra in section 2.1 (‘ु’) is printed small with a dotted-circle base; could be ‘ु’ or ‘ू’ - transcribed as ‘ु’",
    "lesson": "hr-hindi-g1-w17-d04",
-   "page": 122
+   "page": 122,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section number '2.2' is printed twice (वर्ण/अक्षर पहचान in left column, ब्लेंडिंग in right column); kept as printed",
    "lesson": "hr-hindi-g1-w17-d04",
-   "page": 122
+   "page": 122,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class-2 40-min: printed 'स्वतत्र' (missing nasal) in 'आदर्श एवं स्वतत्र पठन' — transcribed as printed",
    "lesson": "hr-hindi-g1-w17-d05",
-   "page": 123
+   "page": 123,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 'उनमे' spelling as printed",
    "lesson": "hr-hindi-g1-w17-d05",
-   "page": 123
+   "page": 123,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.1 under 2",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 6 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2: printed numbering repeats - the second sub-section 'वर्ण/अक्षर पहचान' is printed '2.1' and the last 'अभ्यास कार्य' is printed '2.4' (copied as printed)",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 and shared 40-min row: the matra glyph in quotes looks like a legacy-font 'f' glyph, transcribed as the i-matra ‘ि’",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 fourth bullet: word printed 'बताााएँ' (extra ा), copied as printed",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.4: 'दिए गये' read in this page (previous pages print 'दिये गये')",
    "lesson": "hr-hindi-g1-w18-d03",
-   "page": 127
+   "page": 127,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 and shared 40-min row: the matra glyph in quotes looks like a legacy-font 'f' glyph, transcribed as the i-matra ‘ि’",
    "lesson": "hr-hindi-g1-w18-d04",
-   "page": 128
+   "page": 128,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Shared 40-min row, कक्षा 2 first bullet: 'आदर्श एवं स्वतंत्र पठन' - the word स्वतंत्र read as having anusvara; small print, verify if needed",
    "lesson": "hr-hindi-g1-w18-d05",
-   "page": 129
+   "page": 129,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.2 heading: closing quote printed as an opening-style quote mark ‘ after तारीफ, copied as printed",
    "lesson": "hr-hindi-g1-w18-d06",
-   "page": 130
+   "page": 130,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 third bullet: word printed 'ठइरा' (differs from 'ठठेरा' in the first bullet), copied as printed",
    "lesson": "hr-hindi-g1-w19-d01",
-   "page": 131
+   "page": 131,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3: the words 'मिलकर बनने' are tightly spaced in print (possibly 'मिलकरबनने'); written with a space",
    "lesson": "hr-hindi-g1-w19-d01",
-   "page": 131
+   "page": 131,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Shared 30-min row: 'त्योंहार' as printed (differs from 'त्योहार' elsewhere)",
    "lesson": "hr-hindi-g1-w19-d01",
-   "page": 131
+   "page": 131,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Shared 30-min row: 'मिटटी' read as printed (differs from 'मिट्टी' in the next bullet)",
    "lesson": "hr-hindi-g1-w19-d02",
-   "page": 132
+   "page": 132,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3 text 'मिलकर बनने' tightly spaced in print; written with a space",
    "lesson": "hr-hindi-g1-w19-d02",
-   "page": 132
+   "page": 132,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w19-d03",
-   "page": 133
+   "page": 133,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 heading/bullets and shared 40-min row: the matra shown in quotes is printed as a small hook mark; read as the u-matra ‘ु’",
    "lesson": "hr-hindi-g1-w19-d03",
-   "page": 133
+   "page": 133,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3 text 'मिलकर बनने' tightly spaced in print; written with a space",
    "lesson": "hr-hindi-g1-w19-d03",
-   "page": 133
+   "page": 133,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 heading printed 'आओ मिलकर बनाएं' (read as printed); matra symbol in 2.1 and bullets is a halant-like sign ‘ ् ’ - exact glyph unclear",
    "lesson": "hr-hindi-g1-w19-d04",
-   "page": 134
+   "page": 134,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade (40 मिनट) कक्षा 1 second bullet: 'ग्रिड  से अभ्यास' spacing as printed",
    "lesson": "hr-hindi-g1-w19-d04",
-   "page": 134
+   "page": 134,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30 min: quote marks around 'अनुभव सुनना व सुनाना- ‘रेल यात्रा’' as printed",
    "lesson": "hr-hindi-g1-w19-d05",
-   "page": 135
+   "page": 135,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 min कक्षा 2 first bullet: text is cramped/overlapping in print; reading order approximate",
    "lesson": "hr-hindi-g1-w19-d05",
-   "page": 135
+   "page": 135,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.4 'पढ़ें। फिर' full stop placement as printed",
    "lesson": "hr-hindi-g1-w19-d05",
-   "page": 135
+   "page": 135,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column (instructions 'निर्देश' through 'नोट') placed inside section 2.1 as continuation of the numbered list; numbers 1-6 kept as printed prefixes",
    "lesson": "hr-hindi-g1-w19-d06",
-   "page": 136
+   "page": 136,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'रेमेडिअल' / 'रमेडियल' spellings as printed",
    "lesson": "hr-hindi-g1-w19-d06",
-   "page": 136
+   "page": 136,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade (40 मिनट) कक्षा 2 'आकलन पर आधार पर' as printed",
    "lesson": "hr-hindi-g1-w19-d06",
-   "page": 136
+   "page": 136,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 'सावधिक आकलन-2' has no printed number (null); 'आकलन के दौरान' is an unnumbered sub-heading",
    "lesson": "hr-hindi-g1-w20-d01",
-   "page": 137
+   "page": 137,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'आकलन प्रपत्र/। चर्चा से' read as printed (slash/danda unclear)",
    "lesson": "hr-hindi-g1-w20-d01",
-   "page": 137
+   "page": 137,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'समूह निर्धारित करने के लिए निर्देश' is a bold arrow line, recorded as bullet",
    "lesson": "hr-hindi-g1-w20-d01",
-   "page": 137
+   "page": 137,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 'सावधिक आकलन-2' has no printed number (null)",
    "lesson": "hr-hindi-g1-w20-d02",
-   "page": 138
+   "page": 138,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'आकलन प्रपत्र/। चर्चा से' read as printed",
    "lesson": "hr-hindi-g1-w20-d02",
-   "page": 138
+   "page": 138,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.2 heading 'पुन:पढ़कर' colon as printed",
    "lesson": "hr-hindi-g1-w20-d02",
-   "page": 138
+   "page": 138,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "minutes",
    "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
    "lesson": "hr-hindi-g1-w20-d03",
-   "page": 139
+   "page": 139,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 sub-boxes 'समूह 2 के साथ कार्य योजना' and 'समूह 1 के साथ कार्य योजना' are unnumbered (number null); 2.1-2.4 placed under section 2 as printed",
    "lesson": "hr-hindi-g1-w20-d03",
-   "page": 139
+   "page": 139,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column opening bullets (फिर कोई एक वर्ण कार्ड...) treated as continuation of 2.1 from the left column",
    "lesson": "hr-hindi-g1-w20-d03",
-   "page": 139
+   "page": 139,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 letter list '(न,र,ल,क,स,ब,द,म. प,त,ट,ग)' punctuation as printed",
    "lesson": "hr-hindi-g1-w20-d03",
-   "page": 139
+   "page": 139,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Anusvara sign in 2.1 heading/bullets is a small mark inside quotes; written as ‘ ं ’",
    "lesson": "hr-hindi-g1-w20-d04",
-   "page": 140
+   "page": 140,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 sub-boxes समूह 2/समूह 1 unnumbered (number null); 2.1-2.4 in the right column placed under section 2",
    "lesson": "hr-hindi-g1-w20-d04",
-   "page": 140
+   "page": 140,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'जिनमे' and '235)पर' spellings/spacing as printed",
    "lesson": "hr-hindi-g1-w20-d04",
-   "page": 140
+   "page": 140,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.2 bullet 'पढ़ें द्य इसी तरह' - 'द्य' is a printed misprint for danda, copied as printed; the 2.2 text was one wrapped bullet in print",
    "lesson": "hr-hindi-g1-w20-d05",
-   "page": 141
+   "page": 141,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 'समय निकाला जाता है' spacing as printed",
    "lesson": "hr-hindi-g1-w20-d05",
-   "page": 141
+   "page": 141,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column's opening bullet (पिछले दिन सिखाई मात्रा...) assigned to 2.1 whose heading is at the bottom of the left column",
    "lesson": "hr-hindi-g1-w20-d05",
-   "page": 141
+   "page": 141,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30 min first bullet quote marks as printed",
    "lesson": "hr-hindi-g1-w20-d05",
-   "page": 141
+   "page": 141,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 2 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w20-d06",
-   "page": 142
+   "page": 142,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w20-d06",
-   "page": 142
+   "page": 142,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Printed numbering in section 2 is 2.1, 2.3 (शब्द पठन), 2.3 (श्रुतलेखन), 2.4 - kept as printed (no 2.2, 2.3 appears twice)",
    "lesson": "hr-hindi-g1-w20-d06",
-   "page": 142
+   "page": 142,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 group boxes समूह 2/समूह 1 unnumbered (number null)",
    "lesson": "hr-hindi-g1-w20-d06",
-   "page": 142
+   "page": 142,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 min कक्षा 2 'पृष्ठ 236' as printed",
    "lesson": "hr-hindi-g1-w20-d06",
-   "page": 142
+   "page": 142,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading and TLM bullet: the matra shown inside quotes read as ‘ी’ (glyph small)",
    "lesson": "hr-hindi-g1-w21-d01",
-   "page": 143
+   "page": 143,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 group boxes समूह 2/समूह 1 unnumbered (number null); समूह 1 box is at top of right column",
    "lesson": "hr-hindi-g1-w21-d01",
-   "page": 143
+   "page": 143,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20 min cells have cramped/overlapping text; reading approximate",
    "lesson": "hr-hindi-g1-w21-d01",
-   "page": 143
+   "page": 143,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 dot sub-bullets recorded as bullet items; 'झुला' as printed",
    "lesson": "hr-hindi-g1-w21-d01",
-   "page": 143
+   "page": 143,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 4 but found 2.3 under 2",
    "lesson": "hr-hindi-g1-w21-d02",
-   "page": 144
+   "page": 144,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.4 heading printed 'अभ्यास-पत्रक 20.2' while its text says 21.2 (copied as printed)",
    "lesson": "hr-hindi-g1-w21-d02",
-   "page": 144
+   "page": 144,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 bullet: the comma between 'म' and 'प' is where the line wraps across columns",
    "lesson": "hr-hindi-g1-w21-d02",
-   "page": 144
+   "page": 144,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Second step numbered '2.3' (श्रुतलेखन) printed as 2.3 as in the original",
    "lesson": "hr-hindi-g1-w21-d02",
-   "page": 144
+   "page": 144,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullet: the list of letters wraps across two lines; the comma between 'म' and 'प' assumed",
    "lesson": "hr-hindi-g1-w21-d03",
-   "page": 145
+   "page": 145,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 5 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w21-d04",
-   "page": 146
+   "page": 146,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Two sections both numbered 2.4 as printed",
    "lesson": "hr-hindi-g1-w21-d04",
-   "page": 146
+   "page": 146,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullet letter list wraps across two lines; comma between 'म' and 'प' assumed",
    "lesson": "hr-hindi-g1-w21-d04",
-   "page": 146
+   "page": 146,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 1 first row 40 min: 'पाठ आधारित लेखन कार्य रखें।' read as printed",
    "lesson": "hr-hindi-g1-w21-d04",
-   "page": 146
+   "page": 146,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The matra 'f' (ि) is printed as the Latin-like glyph 'f' (legacy font); copied as ‘f’",
    "lesson": "hr-hindi-g1-w21-d05",
-   "page": 147
+   "page": 147,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullets in the right column continue section 2.1 without a new heading",
    "lesson": "hr-hindi-g1-w21-d05",
-   "page": 147
+   "page": 147,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20-min kaksha 1 second row refers to 21.2/244 as printed",
    "lesson": "hr-hindi-g1-w21-d05",
-   "page": 147
+   "page": 147,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 heading and its TLM bullet show a small matra symbol (printed in a legacy-font glyph, read as ‘ु’; could not be certain which matra)",
    "lesson": "hr-hindi-g1-w21-d06",
-   "page": 148
+   "page": 148,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullets 2-4 are in the right column and continue 2.1 without a new heading",
    "lesson": "hr-hindi-g1-w21-d06",
-   "page": 148
+   "page": 148,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 1.2 has no printed heading text (only number and minutes); heading left empty",
    "lesson": "hr-hindi-g1-w22-d01",
-   "page": 149
+   "page": 149,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.4 text: line breaks in right column; 'बच्चों को अभ्यास-पत्रक पर अभ्यास करने के उदाहरण देकर...' read as printed",
    "lesson": "hr-hindi-g1-w22-d01",
-   "page": 149
+   "page": 149,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 1 40-min bullet says अभ्यास-पत्रक 21.1 as printed",
    "lesson": "hr-hindi-g1-w22-d01",
-   "page": 149
+   "page": 149,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 5 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w22-d02",
-   "page": 150
+   "page": 150,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Two sections numbered 2.4 as printed (शब्द पठन and अभ्यास कार्य)",
    "lesson": "hr-hindi-g1-w22-d02",
-   "page": 150
+   "page": 150,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 1 20-min second bullet is cramped; reading approximate",
    "lesson": "hr-hindi-g1-w22-d02",
-   "page": 150
+   "page": 150,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 2 40-min first bullet text is cramped",
    "lesson": "hr-hindi-g1-w22-d02",
-   "page": 150
+   "page": 150,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 bullet 2 prints the example '(ढपली-ढ/प/ली), (ढ/प/ली-ढपली)' although the letter is 'भ' (copied as printed)",
    "lesson": "hr-hindi-g1-w22-d03",
-   "page": 151
+   "page": 151,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 2 40-min first bullet is small print",
    "lesson": "hr-hindi-g1-w22-d03",
-   "page": 151
+   "page": 151,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उडाई' in multigrade 30-min row printed without nukta/with ड as read",
    "lesson": "hr-hindi-g1-w22-d03",
-   "page": 151
+   "page": 151,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade kaksha 1 40-min second bullet: the matra symbol in quotes is a legacy-font glyph, could not be read with certainty (written ‘ ् ’ as placeholder)",
    "lesson": "hr-hindi-g1-w22-d04",
-   "page": 152
+   "page": 152,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2 second bullet has an opening ‘ quote with no closing quote, as printed",
    "lesson": "hr-hindi-g1-w22-d04",
-   "page": 152
+   "page": 152,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "'उडाई' read without nukta/ड as printed",
    "lesson": "hr-hindi-g1-w22-d04",
-   "page": 152
+   "page": 152,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right-column top bullets (उपसमूह में अभ्यास के लिए..., बच्चों के पास जाकर...) continue section 2.1 without a heading; placed under 2.1",
    "lesson": "hr-hindi-g1-w22-d05",
-   "page": 153
+   "page": 153,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40-min kaksha 1 and kaksha 2 first bullets are small print; reading approximate",
    "lesson": "hr-hindi-g1-w22-d05",
-   "page": 153
+   "page": 153,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Numbered items 1.-6. under 2.1 are recorded as bullet items with the printed number prefixed; the nested bullets (>) are separate items.",
    "lesson": "hr-hindi-g1-w22-d06",
-   "page": 154
+   "page": 154,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table: items were paired by row (two rows per group for 40 and 20 minute blocks).",
    "lesson": "hr-hindi-g1-w22-d06",
-   "page": 154
+   "page": 154,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 heading sits at the bottom of the left column; its single item is at the top of the right column.",
    "lesson": "hr-hindi-g1-w23-d01",
-   "page": 155
+   "page": 155,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d01",
-   "page": 155
+   "page": 155,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "warn",
    "code": "numbering",
    "msg": "expected 5 but found 2.4 under 2",
    "lesson": "hr-hindi-g1-w23-d02",
-   "page": 156
+   "page": 156,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Second section numbered '2.4' (अभ्यास कार्य) is printed as 2.4 after the 2.4 शब्द पठन; kept as printed.",
    "lesson": "hr-hindi-g1-w23-d02",
-   "page": 156
+   "page": 156,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d02",
-   "page": 156
+   "page": 156,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The matra symbol in 2.1 and the multigrade row is printed as the ai-matra glyph in quotes; transcribed as ‘ै’.",
    "lesson": "hr-hindi-g1-w23-d03",
-   "page": 157
+   "page": 157,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 20-minute row page number printed as 'पृष्ठ सं. 27' (possibly cut off).",
    "lesson": "hr-hindi-g1-w23-d03",
-   "page": 157
+   "page": 157,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 2 40-minute row: 'अभ्यास 22.3 पृष्ठ 269' read as printed.",
    "lesson": "hr-hindi-g1-w23-d03",
-   "page": 157
+   "page": 157,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d03",
-   "page": 157
+   "page": 157,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The matra glyph in 2.1 is printed in quotes as the ai-matra; transcribed as ‘ै’.",
    "lesson": "hr-hindi-g1-w23-d04",
-   "page": 158
+   "page": 158,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d04",
-   "page": 158
+   "page": 158,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Right column top bullet ('बच्चों के पास जाकर पढ़ते हुए सुनें...') placed as last item of 2.2, continuing from the left column.",
    "lesson": "hr-hindi-g1-w23-d05",
-   "page": 159
+   "page": 159,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d05",
-   "page": 159
+   "page": 159,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Numbered items 1.-6. under 2.1 recorded as bullet items with printed number prefixed.",
    "lesson": "hr-hindi-g1-w23-d06",
-   "page": 160
+   "page": 160,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w23-d06",
-   "page": 160
+   "page": 160,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 ‘ड़’ items merged into one bullet because the printed bullet breaks across the column/half boundary were not distinguishable; the content is one continuous list in print order and may be several separate bullets.",
    "lesson": "hr-hindi-g1-w24-d01",
-   "page": 161
+   "page": 161,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 heading is at the bottom of the left column; its item is at the top of the right column.",
    "lesson": "hr-hindi-g1-w24-d01",
-   "page": 161
+   "page": 161,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 20-minute row printed 'पृष्ठ सं. 28' (possibly cut off).",
    "lesson": "hr-hindi-g1-w24-d01",
-   "page": 161
+   "page": 161,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w24-d01",
-   "page": 161
+   "page": 161,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 heading is at the bottom of the left column; its item is at the top of the right column.",
    "lesson": "hr-hindi-g1-w24-d02",
-   "page": 162
+   "page": 162,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 printed as a single bullet block.",
    "lesson": "hr-hindi-g1-w24-d02",
-   "page": 162
+   "page": 162,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w24-d02",
-   "page": 162
+   "page": 162,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "The matra symbol in 2.1 (heading and bullets) is a small mark printed above the line in quotes; the exact glyph is unclear (transcribed as ‘ॅ’, may be another vowel sign).",
    "lesson": "hr-hindi-g1-w24-d03",
-   "page": 163
+   "page": 163,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3 heading is at the bottom of the left column; its item is at the top of the right column.",
    "lesson": "hr-hindi-g1-w24-d03",
-   "page": 163
+   "page": 163,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade class 1 30-minute lekhan page number printed 'पृष्ठ सं 2279' (as printed, possibly 279).",
    "lesson": "hr-hindi-g1-w24-d03",
-   "page": 163
+   "page": 163,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade table items paired by row.",
    "lesson": "hr-hindi-g1-w24-d03",
-   "page": 163
+   "page": 163,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 heading and bullets: the matra symbol shown in quotes is a small glyph (likely ‘ै’) that rendered as a detached mark; transcribed as ‘ै’",
    "lesson": "hr-hindi-g1-w24-d04",
-   "page": 164
+   "page": 164,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: कक्षा 1/कक्षा 2 columns each have two sub-rows; bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w24-d04",
-   "page": 164
+   "page": 164,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade कक्षा 2 first 40-minute bullet: printed text is 'आदर्श एवं स्वतंत्र पठन: अभ्यास 24.5' (letters partly cut in print: 'स्वतंत्र' appears as 'स्वतंत्र'); reading is best guess",
    "lesson": "hr-hindi-g1-w24-d05",
-   "page": 165
+   "page": 165,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w24-d05",
-   "page": 165
+   "page": 165,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
    "lesson": "hr-hindi-g1-w24-d06",
-   "page": 166
+   "page": 166,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-minute row: page reference printed as 'पृष्ठ सं. 27)' with the '27' wrapped under the line (possibly truncated, e.g. 27x)",
    "lesson": "hr-hindi-g1-w24-d06",
-   "page": 166
+   "page": 166,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w24-d06",
-   "page": 166
+   "page": 166,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 continues from left column into right column (2.2-2.5); section 3 is in the right column",
    "lesson": "hr-hindi-g1-w25-d01",
-   "page": 167
+   "page": 167,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2: the last bullet (साइकिल और तांगे ...) is printed as a smaller dot sub-bullet under the third bullet; written as a separate bullet",
    "lesson": "hr-hindi-g1-w25-d01",
-   "page": 167
+   "page": 167,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 20-minute row, कक्षा 1: only one bullet printed (second sub-row empty in the कक्षा 1 column)",
    "lesson": "hr-hindi-g1-w25-d01",
-   "page": 167
+   "page": 167,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d01",
-   "page": 167
+   "page": 167,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 continues from left column into right column (2.3-2.6); section 3 is in the right column",
    "lesson": "hr-hindi-g1-w25-d02",
-   "page": 168
+   "page": 168,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d02",
-   "page": 168
+   "page": 168,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 and multigrade: the matra symbol printed in quotes is a small arch-with-dot glyph, transcribed as ‘ँ’ (chandrabindu); could not be confirmed",
    "lesson": "hr-hindi-g1-w25-d03",
-   "page": 169
+   "page": 169,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1: the whole section is printed as consecutive '>' lines wrapped in one paragraph; line starts not clearly distinguishable, so kept as one bullet",
    "lesson": "hr-hindi-g1-w25-d03",
-   "page": 169
+   "page": 169,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade कक्षा 2 40-minute first bullet: small compressed text, 'पृ 293' partly overlapped by the next row",
    "lesson": "hr-hindi-g1-w25-d03",
-   "page": 169
+   "page": 169,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d03",
-   "page": 169
+   "page": 169,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 and multigrade: the matra symbol in quotes is a small arch-with-dot glyph, transcribed as ‘ँ’; not confirmed",
    "lesson": "hr-hindi-g1-w25-d04",
-   "page": 170
+   "page": 170,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 continues from left column into right column (2.3-2.6); section 3 is in the right column",
    "lesson": "hr-hindi-g1-w25-d04",
-   "page": 170
+   "page": 170,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d04",
-   "page": 170
+   "page": 170,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3 शब्द पठन: heading is at the bottom of the left column, its bullet text is at the top of the right column",
    "lesson": "hr-hindi-g1-w25-d05",
-   "page": 171
+   "page": 171,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 heading prints ‘सपना का मकान’ while the multigrade box prints ‘सपना का घर’ (both copied as printed)",
    "lesson": "hr-hindi-g1-w25-d05",
-   "page": 171
+   "page": 171,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d05",
-   "page": 171
+   "page": 171,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
    "lesson": "hr-hindi-g1-w25-d06",
-   "page": 172
+   "page": 172,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w25-d06",
-   "page": 172
+   "page": 172,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade कक्षा 2 40-minute first bullet prints 'पृष्ठ सं. 204' (copied as printed; may be a misprint)",
    "lesson": "hr-hindi-g1-w26-d01",
-   "page": 173
+   "page": 173,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 continues from left column into right column (2.2-2.5); section 3 is in the right column",
    "lesson": "hr-hindi-g1-w26-d01",
-   "page": 173
+   "page": 173,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "1.2: the last bullet (नानी अगर ...) is printed as a smaller dot sub-bullet; written as a separate bullet",
    "lesson": "hr-hindi-g1-w26-d01",
-   "page": 173
+   "page": 173,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d01",
-   "page": 173
+   "page": 173,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2 वर्ण/अक्षर पहचान: heading is at the bottom of the left column, its bullet text is at the top of the right column",
    "lesson": "hr-hindi-g1-w26-d02",
-   "page": 174
+   "page": 174,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 second bullet: printed '(ऊ/न-ऊन । प्रथम' with no closing bracket (copied as printed)",
    "lesson": "hr-hindi-g1-w26-d02",
-   "page": 174
+   "page": 174,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "3.1 is printed as one bullet paragraph (no separate '>' lines)",
    "lesson": "hr-hindi-g1-w26-d02",
-   "page": 174
+   "page": 174,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d02",
-   "page": 174
+   "page": 174,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.3 ब्लेंडिंग: heading is at the bottom of the left column, its bullet text is at the top of the right column",
    "lesson": "hr-hindi-g1-w26-d03",
-   "page": 175
+   "page": 175,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "2.1 is printed as one dense paragraph (single '>' bullet) in tight line spacing; kept as one bullet",
    "lesson": "hr-hindi-g1-w26-d03",
-   "page": 175
+   "page": 175,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade कक्षा 1 40-minute second bullet prints ‘अ’ (not ‘अं’/‘श्र’) as printed",
    "lesson": "hr-hindi-g1-w26-d03",
-   "page": 175
+   "page": 175,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d03",
-   "page": 175
+   "page": 175,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.2: bullet begins at the bottom of the left column and its last lines continue at the top of the right column; joined into one bullet",
    "lesson": "hr-hindi-g1-w26-d04",
-   "page": 176
+   "page": 176,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2 continues from left column into right column (2.3-2.6); section 3 is in the right column",
    "lesson": "hr-hindi-g1-w26-d04",
-   "page": 176
+   "page": 176,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade कक्षा 1 40-minute second bullet prints ‘मात्रा ‘ज्ञ’ पहचान’ as printed",
    "lesson": "hr-hindi-g1-w26-d04",
-   "page": 176
+   "page": 176,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d04",
-   "page": 176
+   "page": 176,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 30-minute row prints 'त्योंहार' (with anusvara) while 1.2 prints 'त्योहार'; copied as printed",
    "lesson": "hr-hindi-g1-w26-d05",
-   "page": 177
+   "page": 177,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 3.1 and 3.2 begin at the bottom of the right column of the top half; read from the overlap, no duplicates written",
    "lesson": "hr-hindi-g1-w26-d05",
-   "page": 177
+   "page": 177,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d05",
-   "page": 177
+   "page": 177,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Section 2.1 spans both columns; right-column items 3-6 and note placed in the same unit/section as continuation of the left-column list",
    "lesson": "hr-hindi-g1-w26-d06",
-   "page": 178
+   "page": 178,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "समूह-1 text prints 'यदि किसी 1 दक्षता में एक 50% से ज्यादा' (digit 1 and 'एक' both printed; copied as printed)",
    "lesson": "hr-hindi-g1-w26-d06",
-   "page": 178
+   "page": 178,
+   "doc": "hr-hindi-g1"
   },
   {
    "level": "info",
    "code": "transcriber-note",
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d06",
-   "page": 178
+   "page": 178,
+   "doc": "hr-hindi-g1"
   }
  ]
 }

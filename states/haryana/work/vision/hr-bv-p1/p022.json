@@ -1,0 +1,208 @@
+{
+ "pdf_page": 22,
+ "printed_page": "18",
+ "page_kind": "lesson",
+ "header": null,
+ "units": [
+  {
+   "keys": {
+    "week": "7",
+    "day": "6"
+   },
+   "keys_evidence": "top-left 'सप्ताह – 7'; tab 'दिवस 6' drawn darker/bold (orange fill), tabs 1-5 pale",
+   "column": 1,
+   "continues_from_previous_page": false,
+   "intro": [],
+   "sections": [
+    {
+     "number": null,
+     "heading": "आज के लिए तैयारी सामग्री",
+     "minutes": null,
+     "items": [
+      {
+       "type": "bullet",
+       "text": "सुनो–सुनाओ"
+      },
+      {
+       "type": "bullet",
+       "text": "चित्र चार्ट"
+      }
+     ],
+     "sections": []
+    },
+    {
+     "number": "1",
+     "heading": "मॉर्निंग सर्कल टाइम",
+     "minutes": "30",
+     "items": [],
+     "sections": [
+      {
+       "number": "1.1",
+       "heading": "मॉर्निंग रूटीन",
+       "minutes": "15",
+       "items": [
+        {
+         "type": "text",
+         "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"
+        },
+        {
+         "type": "bullet",
+         "text": "उपस्थिति चार्ट"
+        },
+        {
+         "type": "bullet",
+         "text": "आज क्या करेंगे?"
+        },
+        {
+         "type": "bullet",
+         "text": "कविता गाना – हिंदी और अंग्रेज़ी"
+        }
+       ],
+       "sections": []
+      },
+      {
+       "number": "1.2",
+       "heading": "Introduction to English (Body Part)",
+       "minutes": "15",
+       "items": [
+        {
+         "type": "text",
+         "text": "समान और परिचित अनुभवों से जुड़ी शब्दावली का प्रयोग करने की शुरुआत करना।"
+        },
+        {
+         "type": "bullet",
+         "text": "बच्चों को घेरे में बैठाएँ और बताएँ कि आज हम अंगों के नाम अंग्रेज़ी में सीखेंगे।"
+        },
+        {
+         "type": "bullet",
+         "text": "Nose, Eyes, Cheeks, Lips बोलें और उस पर उंगली रखें। बच्चे भी दोहराएँ।"
+        },
+        {
+         "type": "bullet",
+         "text": "2–3 बार अभ्यास के बाद बच्चों से कहें कि वे आपके द्वारा बोले गए body part का नाम सुनकर उस पर उंगली रखें।"
+        }
+       ],
+       "sections": []
+      }
+     ]
+    },
+    {
+     "number": "2",
+     "heading": "मुक्त खेल",
+     "minutes": "50",
+     "items": [
+      {
+       "type": "bullet",
+       "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"
+      },
+      {
+       "type": "bullet",
+       "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"
+      }
+     ],
+     "sections": []
+    },
+    {
+     "number": "3",
+     "heading": "कहानियाँ और निर्देशित खेल",
+     "minutes": "45",
+     "items": [
+      {
+       "type": "bullet",
+       "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, चित्र बनाने और उनके चित्र पर बातचीत करने का मौका दें।"
+      },
+      {
+       "type": "bullet",
+       "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल को कोनों में खेलने के लिए प्रेरित करें।"
+      }
+     ],
+     "sections": []
+    },
+    {
+     "number": "4",
+     "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य",
+     "minutes": "35",
+     "items": [],
+     "sections": [
+      {
+       "number": "4.1",
+       "heading": "गतिविधिः चलो दोहराएँ",
+       "minutes": null,
+       "items": [
+        {
+         "type": "bullet",
+         "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"
+        }
+       ],
+       "sections": []
+      }
+     ]
+    },
+    {
+     "number": "5",
+     "heading": "बाहरी खेल",
+     "minutes": "30",
+     "items": [],
+     "sections": [
+      {
+       "number": "5.1",
+       "heading": "गतिविधिः योगा",
+       "minutes": null,
+       "items": [
+        {
+         "type": "text",
+         "text": "शारीरिक और मानसिक विकास।"
+        },
+        {
+         "type": "bullet",
+         "text": "बच्चों के स्तरानुसार सरल योगा करवाएँ।"
+        }
+       ],
+       "sections": []
+      }
+     ]
+    },
+    {
+     "number": "6",
+     "heading": "गुडबाय सर्कल",
+     "minutes": "10",
+     "items": [
+      {
+       "type": "bullet",
+       "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"
+      }
+     ],
+     "sections": []
+    }
+   ]
+  }
+ ],
+ "shared": [
+  {
+   "number": null,
+   "heading": null,
+   "minutes": null,
+   "items": [
+    {
+     "type": "bullet",
+     "text": "इस सप्ताह बच्चों के द्वारा किए गए कार्य को पोर्टफ़ोलियो में रखें। जैसे– बच्चों द्वारा बनाई गई पेंटिंग, चित्रकारी व लेखन में नमूने, मिट्टी की आकृति आदि।"
+    },
+    {
+     "type": "bullet",
+     "text": "इस सप्ताह किए गए विषय/कहानी/कविता/त्योहार से जुड़ी 1–2 गतिविधियाँ अभिभावकों को सुझाएँ, जिन्हें वे अपने बच्चे के साथ घर पर कर सकें।"
+    },
+    {
+     "type": "bullet",
+     "text": "अगले सप्ताह की पाठ योजना को पढ़ें और आवश्यक शिक्षण–सामग्री पहले से तैयार कर लें।"
+    },
+    {
+     "type": "bullet",
+     "text": "पिछले सप्ताह भरे गए अवलोकन ट्रैकर में जो बच्चे कार्य “मदद के साथ कर पा रहे थे” और जो बच्चे कार्य स्वयं “नहीं कर पा रहे थे” उनका पुनः अवलोकन करें और अवलोकन के अनुसार बच्चों की दक्षता में निपुण होने के सप्ताह को भरें।"
+    }
+   ],
+   "sections": []
+  }
+ ],
+ "uncertain": [],
+ "notes": "Section 3 in the right column has two bullets directly under the period bar (no numbered step). The boxed note at the bottom (pointing-hand icon, no printed heading) is placed in shared; it has no printed heading, so the heading 'सप्ताह के अंत के निर्देश' is a placeholder label (not printed). Bullet text is exactly as printed."
+}

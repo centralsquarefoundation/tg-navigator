@@ -1,0 +1,143 @@
+{
+  "pdf_page": 16,
+  "printed_page": "12",
+  "page_kind": "plan",
+  "header": "स्वागत परिचय और विद्यालय वातावरण से जुड़ाव के 4 सप्ताह",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "स्वागत परिचय और विद्यालय वातावरण से जुड़ाव के 4 सप्ताह",
+      "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null,
+          "heading": "मॉर्निंग सर्कल टाइम",
+          "minutes": "30",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 5",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को हाव–भाव के साथ कविता (हिन्दी) करवाना।"},
+                {"type": "bullet", "text": "उपस्थिति चार्ट भरना।"},
+                {"type": "bullet", "text": "आज कक्षा में की जाने वाली गतिविधियाँ बच्चों को बताना।"},
+                {"type": "bullet", "text": "चर्चा “मेरे दोस्त”"},
+                {"type": "text", "text": "अपने दोस्तों के नाम बताना। उनके साथ क्या खेलते हैं? दोस्तों की पसंद नापसंद?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 6",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को हाव–भाव के साथ कविता (हिन्दी) करवाना।"},
+                {"type": "bullet", "text": "उपस्थिति चार्ट भरना।"},
+                {"type": "bullet", "text": "आज पूरे दिन की जाने वाली गतिविधियाँ बच्चों को बताना।"},
+                {"type": "bullet", "text": "चर्चा “मदद”"},
+                {"type": "text", "text": "बच्चों से चर्चा करें “क्या आपने कभी किसी की मदद की है”, “किसकी और किस प्रकार की मदद करी है?”"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "मुक्त खेल",
+          "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "कक्षा में चारों खेल कोने बनाकर सामग्री रखें।"},
+            {"type": "bullet", "text": "बच्चों को चारों कोनों की खेल सामग्री को देखने का मौका दें।"},
+            {"type": "bullet", "text": "बच्चों को अपने पसंदीदा कोने का चुनाव कर खेल सामग्री से खेलने दें।"},
+            {"type": "bullet", "text": "बच्चों को अन्य बच्चों के साथ सामग्री बाँटने को प्रेरित करें।"},
+            {"type": "bullet", "text": "बच्चों को खेलने के बाद सामग्री पुनः जगह पर रखने को प्रेरित करें।"},
+            {"type": "figure", "desc": "four coloured arrows labelling the play corners", "text": "अभिनय कोना; जोड़–तोड़ कोना; किताब कोना; कला कोना"}
+          ],
+          "sections": []
+        },
+        {
+          "number": null,
+          "heading": "कहानियाँ और निर्देशित खेल",
+          "minutes": "45",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 5",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "हाव–भाव से कहानी सुनाना।"},
+                {"type": "bullet", "text": "बच्चों से उनकी भाषा मे कहानी सुनना।"},
+                {"type": "bullet", "text": "खेल– “रंग पहचानों”"},
+                {"type": "bullet", "text": "आप किसी रंग का नाम लें और बच्चों को रंग छूना है। (लाल, हरे रंग की वस्तुएँ पहले से कक्षा में रखें)"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 6",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "हाव–भाव से कहानी सुनाना।"},
+                {"type": "bullet", "text": "बच्चों से उनकी भाषा में कहानी सुनना।"},
+                {"type": "bullet", "text": "खेल– “पैटर्न बनाओ”"},
+                {"type": "bullet", "text": "रंगीन ब्लॉक्स, मोती, कंकड़ से पैटर्न बनवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "गतिविधि और अभ्यास",
+          "minutes": "35",
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "सप्ताह – 5",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को कागज़ से टोपी/नाव/पंखा बनाना सिखाएं।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "सप्ताह – 6",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "कागज़ पर बच्चों के अंगूठे की छाप बनवाकर उनसे अलग–अलग आकृतियाँ बनवाना।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": null,
+          "heading": "बाहरी खेल",
+          "minutes": "30",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को कक्षा के बाहर खेले जाने वाले खेल करवाएँ।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": null,
+          "heading": "गुड बाय सर्कल",
+          "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को पूरे दिन की गई गतिविधियाँ बताकर पूछें कि उन्हें आज कक्षा में सबसे अच्छा क्या लगा?"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "uncertain": [],
+  "notes": "Table with columns खंड, समय, सप्ताह – 5, सप्ताह – 6. Rows मुक्त खेल, बाहरी खेल and गुड बाय सर्कल span both week columns. Footer: बालवाटिका । शिक्षक संदर्शिका."
+}

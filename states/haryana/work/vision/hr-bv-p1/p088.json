@@ -1,0 +1,103 @@
+{
+  "pdf_page": 88,
+  "printed_page": "84",
+  "page_kind": "lesson",
+  "header": "बालवाटिका । शिक्षक संदर्शिका",
+  "units": [
+    {
+      "keys": {"week": "18", "day": "6"},
+      "keys_evidence": "top-left 'सप्ताह — 18'; highlighted tab 'दिवस 6' (darker, bold)",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "सुनो–सुनाओ"},
+            {"type": "bullet", "text": "फलों के चित्र"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+               {"type": "bullet", "text": "उपस्थिति चार्ट"},
+               {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+               {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "Introduction to English (First Sound)", "minutes": "15",
+             "items": [
+               {"type": "text", "text": "शब्दों के पहले अक्षर (syllable) की ध्वनि बताना।"},
+               {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+               {"type": "bullet", "text": "सेब का चित्र दिखाकर कहें, “यह apple है।”"},
+               {"type": "bullet", "text": "फिर पूछें– “apple शब्द में सबसे पहले कौन–सी आवाज़ सुनाई दे रही है?” बताएँ कि सबसे पहले ‘अ’ की आवाज़ आती है।"},
+               {"type": "bullet", "text": "इसी प्रकार अन्य फलों के चित्र दिखाएँ और पहली आवाज़ पर ध्यान दिलाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "मुक्त खेल", "minutes": "50",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+            {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45",
+          "items": [
+            {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, चित्र बनाने और उनके चित्र पर बातचीत करने का मौका दें।"},
+            {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35",
+          "items": [],
+          "sections": [
+            {"number": "4.1", "heading": "गतिविधिः चलो दोहराएँ", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"},
+               {"type": "bullet", "text": "अंग्रेज़ी कार्यपत्रक–1 करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "5", "heading": "बाहरी खेल", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "5.1", "heading": "गतिविधिः योगा", "minutes": null,
+             "items": [
+               {"type": "text", "text": "शारीरिक और मानसिक विकास।"},
+               {"type": "bullet", "text": "बच्चों के स्तरानुसार सरल योगा करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "6", "heading": "गुडबाय सर्कल", "minutes": "10",
+          "items": [
+            {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+          ],
+          "sections": []
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": null, "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "सप्ताह की मुख्य दक्षताओं के अनुसार अभ्यास पुस्तिका में दिए गए अभ्यास कार्य पूरा करें।"},
+       {"type": "bullet", "text": "बच्चों को अपनी इच्छानुसार किताबें उलटने–पलटने, स्वयं लिखने और उनके लेखन पर बातचीत करने का मौका दें।"},
+       {"type": "bullet", "text": "अभिभावकों को कक्षा में आमंत्रित करें और बच्चों के साथ कुछ समय खेल कोनों में खेलने के लिए प्रेरित करें।"},
+       {"type": "bullet", "text": "अभिभावकों को बच्चों के पोर्टफ़ोलियो दिखाएँ और बच्चों में आ रहे सकारात्मक परिवर्तन के बारे में बताना।"},
+       {"type": "bullet", "text": "पिछले सप्ताह भरे गए अवलोकन ट्रैकर में जो बच्चे कार्य “मदद के साथ कर पा रहे थे” और जो बच्चे कार्य स्वयं “नहीं कर पा रहे थे” उनका पुनः अवलोकन करें और अवलोकन के अनुसार बच्चों की दक्षता में निपुण होने के सप्ताह को भरें।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["full-width box at bottom (hand-pointing icon) has no printed heading; heading is null"],
+  "notes": "Left column: prep box, periods 1-2. Right column: periods 3, 4, 5, 6. A full-width unheaded box with a hand-pointing icon at the bottom is written to shared. Date/signature line is a blank form field and ignored."
+}

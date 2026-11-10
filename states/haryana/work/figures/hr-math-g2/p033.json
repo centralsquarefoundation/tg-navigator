@@ -1,0 +1,12 @@
+{"pdf_page": 33, "figures": [
+  {"bbox": [0.505, 0.525, 0.93, 0.582],
+   "unit": {"chapter": "परछाइयाँ", "days": "7-8"},
+   "section": "2",
+   "after_text": "फिर ब्लॉक्स का प्रयोग करके नीचे दिया हुआ",
+   "desc": "Pattern strip of five boxes: circle, square, circle, square, empty"},
+  {"bbox": [0.505, 0.732, 0.93, 0.792],
+   "unit": {"chapter": "परछाइयाँ", "days": "7-8"},
+   "section": "2",
+   "after_text": "नियम के अनुसार वर्गाकार आकृति के बाद",
+   "desc": "Pattern strip of five boxes: circle, square, circle, square, circle"}
+]}
