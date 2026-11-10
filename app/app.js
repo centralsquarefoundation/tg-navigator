@@ -139,7 +139,7 @@ function sectionIndexOf(l, where) {
 }
 function periodsLine(l) {
   // the guide's own periods with their printed minutes — the lesson at a glance
-  return l.sections.filter((s) => s.heading).map((s) => `${s.number ? s.number + '. ' : ''}${s.heading}${s.minutes ? ` · ${s.minutes} ${t('मि', 'min')}` : ''}`);
+  return l.sections.filter((s) => s.heading && (s.number || s.minutes)).map((s) => `${s.number ? s.number + '. ' : ''}${s.heading}${s.minutes ? ` · ${s.minutes} ${t('मि', 'min')}` : ''}`);
 }
 function renderPrep(l) {
   const ready = store.data.ready[l.id] || {};
