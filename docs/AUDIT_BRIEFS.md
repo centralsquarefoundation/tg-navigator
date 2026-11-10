@@ -28,7 +28,7 @@ new to smartphones). It turns printed Teacher Guides into day-by-day lesson plan
 ## Audit B — content against the Teacher Guides (report only)
 
 You are checking that a lesson app shows exactly what the printed Teacher Guides say, in the right
-place. Source PDFs: `C:\Users\LENOVO\Downloads\` (file names in `states\haryana\state.json`).
+place. Source PDFs: the folder named by `TG_SOURCES`, default the Downloads folder (file names in `states\haryana\state.json`).
 Rendered pages: `build\haryana\site\pages\<doc>\p###.webp` (PDF page numbers). App data:
 `build\haryana\site\data\<guide>.json` (lessons, sections, items, `pages`, `doc`, figure `crop`s
 under `build\haryana\site\`).

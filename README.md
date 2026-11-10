@@ -36,7 +36,7 @@ PDFs ──render──► page images ──vision transcription (per-state pro
 ## Rebuild Haryana
 
 ```sh
-set TG_SOURCES=C:\Users\LENOVO\Downloads          # folder with the six PDFs
+set TG_SOURCES=C:\path\to\pdfs                    # folder with the guide PDFs (default: Downloads)
 python engine/render.py haryana                    # page images (once)
 python engine/pipeline.py haryana                  # textlayer → assemble → reconcile → verify → publish → review
 python -m http.server 8765 --directory build/haryana/site   # open http://localhost:8765
@@ -59,6 +59,8 @@ Transcriptions are already committed; `engine/jobs.py` only produces sheets for 
 
 ## Deploy
 
-`build/<state>/site/` is a static site (~170 MB with page images). Any static host works
-(GitHub Pages, Cloudflare Pages, Netlify). Decide on public hosting with the content owner: the
-guides' copyright stays with the state.
+`build/<state>/site/` is a static site (~130 MB with page images). Any static host works.
+Haryana is on GitHub Pages: `python engine/deploy_pages.py` copies every built state to the
+`gh-pages` branch (one fresh commit each time, so the repo does not grow) at `<state>/`, with a root
+page listing the states. Pages serves that branch at `https://<owner>.github.io/<repo>/<state>/`.
+The guides' copyright stays with the state.
