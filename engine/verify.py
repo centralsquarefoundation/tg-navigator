@@ -110,6 +110,9 @@ def verify(cfg, g, pack):
         if seq == 'chapter-days' and not grp.get('opener_page'):
             add('warn', 'group-without-opener', f"«{grp['title']}» has no opener page (a page may be mis-assigned)", page=grp['pages'][0])
 
+    import crosscheck
+    cross = crosscheck.run(cfg, g, pack, add)
+
     fr = pack.get('figures') or {}
     for f in fr.get('unplaced', []):
         add('warn', 'figure-unplaced', f"picture «{f.get('desc')}» (unit {f.get('unit')}) could not be matched to a lesson section; only the original page shows it", page=f['page'], doc=f['doc'])
@@ -124,7 +127,7 @@ def verify(cfg, g, pack):
                 i['level'] = 'warn'
                 i['acknowledged'] = a['evidence']
     counts = {lv: sum(1 for i in issues if i['level'] == lv) for lv in ('error', 'warn', 'info')}
-    return {'guide': g['id'], 'counts': counts, 'lessons': len(pack['lessons']), 'groups': len(pack['groups']),
+    return {'guide': g['id'], 'crosscheck': cross, 'counts': counts, 'lessons': len(pack['lessons']), 'groups': len(pack['groups']),
             'textcheck': pack.get('reconcile', {}).get('totals'), 'issues': issues}
 
 
@@ -218,6 +221,7 @@ def main():
         write_json(work(a.state, 'checks', f"{g['id']}.json"), res)
         print(f"{g['id']}: {res['groups']} groups, {res['lessons']} lessons — "
               f"{res['counts']['error']} errors, {res['counts']['warn']} warnings, {res['counts']['info']} notes")
+        print('   cross-checks:', json.dumps(res['crosscheck'], ensure_ascii=False))
 
 
 if __name__ == '__main__':

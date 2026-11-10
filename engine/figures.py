@@ -129,11 +129,16 @@ def place(cfg, g, pack, src):
         for p in l['pages']:
             by_page.setdefault((l.get('doc', g['doc']), p), []).append(l)
     openers = {(grp.get('doc', g['doc']), grp['opener_page']): grp for grp in pack['groups'] if grp.get('opener_page')}
+    # pages the app shows whole (guide 'sections' such as a fair or plan): their pictures are already visible
+    whole_pages = {(sec.get('doc', g['doc']), p) for sec in g.get('sections', [])
+                   for p in range(sec['pages'][0], sec['pages'][1] + 1)}
+    report['whole_page'] = 0
     for part in g['parts']:
         doc_id = part['doc']
         fdir = work(cfg['id'], 'figures', doc_id, 'x').parent
         pdf = None
-        for f in sorted(fdir.glob('p*.json')):
+        # p###.json from the full picture pass; x###.json from targeted passes for pictures still missing a crop
+        for f in sorted(list(fdir.glob('p*.json')) + list(fdir.glob('x*.json'))):
             data = read_page(f)
             if not data:
                 continue
@@ -142,7 +147,7 @@ def place(cfg, g, pack, src):
                 bbox = fig.get('bbox')
                 if not (isinstance(bbox, list) and len(bbox) == 4):
                     continue
-                rel = f'figs/{doc_id}/p{p:03d}-{n}.webp'
+                rel = f'figs/{doc_id}/{f.stem[0]}{p:03d}-{n}.webp'
                 out = build(cfg['id'], 'site', *rel.split('/'))
                 if pdf is None:
                     pdf = fitz.open(source_path(document(cfg, doc_id), src))
@@ -162,6 +167,9 @@ def place(cfg, g, pack, src):
                     report['opener'] += 1
                     continue
                 cands = by_page.get((doc_id, p), [])
+                if not cands and (doc_id, p) in whole_pages:
+                    report['whole_page'] += 1
+                    continue
                 target = [l for l in cands if keys_match(l['keys'], fig.get('unit'), group_key)]
                 if not target and len(cands) == 1:
                     target = cands
@@ -204,7 +212,7 @@ def main():
         r = place(cfg, g, pack, a.sources)
         write_json(path, pack)
         print(f"{g['id']}: placed {r['placed']}, attached to existing {r['merged']}, chapter openers {r['opener']}, "
-              f"unplaced {len(r['unplaced'])}, empty boxes {len(r['blank'])}")
+              f"on whole-page sections {r['whole_page']}, unplaced {len(r['unplaced'])}, empty boxes {len(r['blank'])}")
 
 
 if __name__ == '__main__':

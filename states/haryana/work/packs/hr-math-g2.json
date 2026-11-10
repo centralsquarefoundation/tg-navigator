@@ -11268,7 +11268,8 @@
   "merged": 3,
   "opener": 12,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {},

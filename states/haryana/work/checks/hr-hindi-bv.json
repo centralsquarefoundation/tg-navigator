@@ -1,8 +1,37 @@
 {
  "guide": "hr-hindi-bv",
+ "crosscheck": {
+  "reread": {
+   "agree": 118,
+   "disagree": 0,
+   "not_reread": 0
+  },
+  "textlayer": {
+   "agree": 36,
+   "disagree": 0,
+   "undecided": 36
+  },
+  "echo": {
+   "agree": 0,
+   "disagree": 0,
+   "of_which_printed_so_in_pdf_text": 0
+  },
+  "pages": {
+   "hr-bv-p1": {
+    "agree": 82,
+    "disagree": 0,
+    "numbering_jumps": []
+   },
+   "hr-hindi-g1": {
+    "agree": 36,
+    "disagree": 0,
+    "numbering_jumps": []
+   }
+  }
+ },
  "counts": {
   "error": 0,
-  "warn": 12,
+  "warn": 8,
   "info": 205
  },
  "lessons": 118,
@@ -1718,38 +1747,6 @@
    "page": 83,
    "doc": "hr-bv-p1",
    "acknowledged": "As p80: week 17 days 5-6 are the games-fair pages 81-82."
-  },
-  {
-   "level": "warn",
-   "code": "figure-unplaced",
-   "msg": "picture «Illustration of a busy fair scene with stalls, a cycle and children» (unit None) could not be matched to a lesson section; only the original page shows it",
-   "lesson": null,
-   "page": 81,
-   "doc": "hr-bv-p1"
-  },
-  {
-   "level": "warn",
-   "code": "figure-unplaced",
-   "msg": "picture «Pyramid of ten numbered tin cans (1 to 10)» (unit None) could not be matched to a lesson section; only the original page shows it",
-   "lesson": null,
-   "page": 82,
-   "doc": "hr-bv-p1"
-  },
-  {
-   "level": "warn",
-   "code": "figure-unplaced",
-   "msg": "picture «Row of tyres laid on grass with children's feet stepping over them» (unit None) could not be matched to a lesson section; only the original page shows it",
-   "lesson": null,
-   "page": 82,
-   "doc": "hr-bv-p1"
-  },
-  {
-   "level": "warn",
-   "code": "figure-unplaced",
-   "msg": "picture «Photo of small chairs made from bottle caps and sticks» (unit None) could not be matched to a lesson section; only the original page shows it",
-   "lesson": null,
-   "page": 82,
-   "doc": "hr-bv-p1"
   }
  ]
 }

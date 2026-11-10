@@ -42,6 +42,19 @@ def proof_sheet(cfg, g, pages, out_dir, doc):
     return '\n'.join(lines)
 
 
+def keys_sheet(cfg, g, pages, out_dir, doc):
+    prof = g['profileData']
+    lines = [(ROOT / 'engine/prompts/keys.md').read_text(encoding='utf-8'), '',
+             '## PROFILE (how this guide prints its location)', 'Unit keys: ' + ', '.join(prof['hierarchy']['keys'])]
+    lines += [f'- {n}' for n in prof['layout_notes'][:3]]
+    lines += ['', '## PAGES']
+    for p in pages:
+        img = build(cfg['id'], 'site', 'pages', doc, f'p{p:03d}.webp')
+        lines.append(f'- page {p}: image `{img}` → write `{out_dir / f"p{p:03d}.json"}`')
+    lines += ['', 'Reply with one line per page: page, page_kind, keys per unit.']
+    return '\n'.join(lines)
+
+
 def sheet(cfg, g, pages, out_dir, doc):
     prof = g['profileData']
     lines = [(ROOT / 'engine/prompts/transcribe.md').read_text(encoding='utf-8'), '',
@@ -71,7 +84,7 @@ def main():
     ap.add_argument('--doc', help='only this volume of a multi-volume guide')
     ap.add_argument('--batch', type=int, default=8)
     ap.add_argument('--tag', default='')
-    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures', 'proofread'])
+    ap.add_argument('--kind', default='transcribe', choices=['transcribe', 'figures', 'proofread', 'keys'])
     a = ap.parse_args()
     cfg = load_state(a.state)
     g = guide(cfg, a.guide)
@@ -79,15 +92,15 @@ def main():
     for part in g['parts']:
         if a.doc and part['doc'] != a.doc:
             continue
-        out_dir = work(a.state, 'figures' if a.kind == 'figures' else 'vision', part['doc'], 'x').parent
+        out_dir = work(a.state, {'figures': 'figures', 'keys': 'keys'}.get(a.kind, 'vision'), part['doc'], 'x').parent
         spec = a.pages or part['pages'].get(a.part, '')
         todo = [p for p in parse_pages(spec) if (out_dir / f'p{p:03d}.json').exists() == (a.kind == 'proofread')]
         total += len(todo)
         for i in range(0, len(todo), a.batch):
             chunk = todo[i:i + a.batch]
-            name = f"{ {'figures': 'fig-', 'proofread': 'proof-'}.get(a.kind, '') }{g['id']}{a.tag}-{part['doc']}-p{chunk[0]:03d}-{chunk[-1]:03d}.md"
+            name = f"{ {'figures': 'fig-', 'proofread': 'proof-', 'keys': 'keys-'}.get(a.kind, '') }{g['id']}{a.tag}-{part['doc']}-p{chunk[0]:03d}-{chunk[-1]:03d}.md"
             path = build(a.state, 'jobs', name)
-            make = {'figures': figure_sheet, 'proofread': proof_sheet}.get(a.kind, sheet)
+            make = {'figures': figure_sheet, 'proofread': proof_sheet, 'keys': keys_sheet}.get(a.kind, sheet)
             path.write_text(make(cfg, g, chunk, out_dir, part['doc']), encoding='utf-8')
             made.append(str(path))
     print(json.dumps({'guide': g['id'], 'pages': total, 'jobs': made}, indent=1))

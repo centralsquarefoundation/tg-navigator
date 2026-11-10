@@ -1,8 +1,32 @@
 {
  "guide": "hr-hindi-g1",
+ "crosscheck": {
+  "reread": {
+   "agree": 156,
+   "disagree": 0,
+   "not_reread": 0
+  },
+  "textlayer": {
+   "agree": 0,
+   "disagree": 0,
+   "undecided": 0
+  },
+  "echo": {
+   "agree": 275,
+   "disagree": 7,
+   "of_which_printed_so_in_pdf_text": 0
+  },
+  "pages": {
+   "hr-hindi-g1": {
+    "agree": 164,
+    "disagree": 0,
+    "numbering_jumps": []
+   }
+  }
+ },
  "counts": {
   "error": 0,
-  "warn": 49,
+  "warn": 56,
   "info": 425
  },
  "lessons": 156,
@@ -3799,6 +3823,62 @@
    "msg": "Multigrade 40 and 20 minute rows: bullets listed top row then bottom row per column",
    "lesson": "hr-hindi-g1-w26-d06",
    "page": 178,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 6.5» points to week 6; the lesson is week 7 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w07-d05",
+   "page": 58,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 6.5» points to week 6; the lesson is week 7 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w07-d05",
+   "page": 58,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 14.4» points to week 14; the lesson is week 15 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w15-d04",
+   "page": 110,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 19.4» points to week 19; the lesson is week 20 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w20-d04",
+   "page": 140,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 20.2» points to week 20; the lesson is week 21 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w21-d02",
+   "page": 144,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 21.1» points to week 21; the lesson is week 22 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w22-d01",
+   "page": 149,
+   "doc": "hr-hindi-g1"
+  },
+  {
+   "level": "warn",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 19.4» points to week 19; the lesson is week 22 (often a source misprint — compare with the page)",
+   "lesson": "hr-hindi-g1-w22-d04",
+   "page": 152,
    "doc": "hr-hindi-g1"
   }
  ]

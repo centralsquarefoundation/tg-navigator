@@ -1,5 +1,21 @@
 {
  "guide": "hr-math-g3",
+ "crosscheck": {
+  "reread": {
+   "agree": 163,
+   "disagree": 0,
+   "not_reread": 0
+  },
+  "textlayer": null,
+  "echo": null,
+  "pages": {
+   "hr-math-g3": {
+    "agree": 163,
+    "disagree": 0,
+    "numbering_jumps": []
+   }
+  }
+ },
  "counts": {
   "error": 0,
   "warn": 4,

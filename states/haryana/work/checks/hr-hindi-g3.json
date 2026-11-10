@@ -1,5 +1,35 @@
 {
  "guide": "hr-hindi-g3",
+ "crosscheck": {
+  "reread": {
+   "agree": 156,
+   "disagree": 0,
+   "not_reread": 0
+  },
+  "textlayer": {
+   "agree": 304,
+   "disagree": 0,
+   "undecided": 8
+  },
+  "echo": {
+   "agree": 12,
+   "disagree": 0,
+   "of_which_printed_so_in_pdf_text": 0
+  },
+  "pages": {
+   "hr-hindi-g3": {
+    "agree": 160,
+    "disagree": 0,
+    "numbering_jumps": [
+     [
+      103,
+      5,
+      4
+     ]
+    ]
+   }
+  }
+ },
  "counts": {
   "error": 0,
   "warn": 268,

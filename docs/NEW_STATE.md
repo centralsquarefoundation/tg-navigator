@@ -41,6 +41,20 @@ its original page, plus a report showing what was checked. Expect every state to
    Re-running `jobs.py` only lists pages still missing.
 7. **Pipeline**: `python engine/pipeline.py <state>` (textlayer → assemble → reconcile → verify →
    publish → review). Publishing refuses guides with errors.
+7b. **Independent placement checks** (`engine/crosscheck.py`, run by verify): each lesson's keys are
+   compared with signals that did not come from its transcription —
+   - **re-read**: `python engine/jobs.py <state> --guide <id> --kind keys`, give the sheets to fresh
+     vision agents told not to open other JSON; they read only the location marks
+     (`work/keys/`). Any disagreement is an error.
+   - **PDF text**: `checks.textlayer_keys` in the profile (regex per key; `max_y` limits it to the
+     header band; `pick: "odd-color"` takes the one tab printed in a different colour).
+   - **number echo**: `checks.key_echo` — numbers in the lesson text that repeat its keys (Haryana
+     worksheets "अभ्यास-पत्रक 13.x" in week 13). A mismatch the PDF text also prints is a source
+     reference and becomes a note; otherwise a warning to compare with the page.
+   - **printed page numbers** follow the PDF pages; an isolated outlier is flagged, a lasting jump
+     in the source numbering is reported as a jump.
+   - **pictures**: `figures.py` must end with 0 unplaced; any text-only picture note left without a
+     crop needs a targeted `x###.json` box (same format as the picture pass).
 8. **Fix every error** (and look at warnings): open the page image; either fix the transcription
    JSON (re-run that page) or, if the page itself is misprinted, add an entry to
    `states/<state>/anomalies.json` with evidence (and a `keys` correction + teacher-facing `notice`

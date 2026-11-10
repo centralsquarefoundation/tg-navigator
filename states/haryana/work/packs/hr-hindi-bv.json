@@ -32366,37 +32366,9 @@
   "placed": 0,
   "merged": 0,
   "opener": 0,
-  "unplaced": [
-   {
-    "doc": "hr-bv-p1",
-    "page": 81,
-    "n": 1,
-    "desc": "Illustration of a busy fair scene with stalls, a cycle and children",
-    "unit": null
-   },
-   {
-    "doc": "hr-bv-p1",
-    "page": 82,
-    "n": 1,
-    "desc": "Pyramid of ten numbered tin cans (1 to 10)",
-    "unit": null
-   },
-   {
-    "doc": "hr-bv-p1",
-    "page": 82,
-    "n": 2,
-    "desc": "Row of tyres laid on grass with children's feet stepping over them",
-    "unit": null
-   },
-   {
-    "doc": "hr-bv-p1",
-    "page": 82,
-    "n": 3,
-    "desc": "Photo of small chairs made from bottle caps and sticks",
-    "unit": null
-   }
-  ],
-  "blank": []
+  "unplaced": [],
+  "blank": [],
+  "whole_page": 4
  },
  "reconcile": {
   "totals": {

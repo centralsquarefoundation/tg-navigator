@@ -1,5 +1,29 @@
 {
  "guide": "hr-hindi-g2",
+ "crosscheck": {
+  "reread": {
+   "agree": 156,
+   "disagree": 0,
+   "not_reread": 0
+  },
+  "textlayer": {
+   "agree": 309,
+   "disagree": 0,
+   "undecided": 3
+  },
+  "echo": {
+   "agree": 201,
+   "disagree": 6,
+   "of_which_printed_so_in_pdf_text": 6
+  },
+  "pages": {
+   "hr-hindi-g2": {
+    "agree": 159,
+    "disagree": 0,
+    "numbering_jumps": []
+   }
+  }
+ },
  "counts": {
   "error": 0,
   "warn": 239,
@@ -4588,6 +4612,54 @@
    "msg": "2.1 and 2.2 have no minutes printed; 2.2 printed at top of right column continuing period 2",
    "lesson": "hr-hindi-g2-w26-d06",
    "page": 174,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 6.5» points to week 6 while the lesson is week 7; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w07-d05",
+   "page": 58,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 6.5» points to week 6 while the lesson is week 7; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w07-d05",
+   "page": 58,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 14. 4» points to week 14 while the lesson is week 15; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 19.4» points to week 19 while the lesson is week 20; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w20-d04",
+   "page": 136,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 21.1» points to week 21 while the lesson is week 22; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145,
+   "doc": "hr-hindi-g2"
+  },
+  {
+   "level": "note",
+   "code": "keys-echo",
+   "msg": "text «अभ्यास-पत्रक 19.4» points to week 19 while the lesson is week 22; the PDF's own text on this page prints the same, so it is the source's reference (often to an earlier sheet), kept as printed",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148,
    "doc": "hr-hindi-g2"
   }
  ]

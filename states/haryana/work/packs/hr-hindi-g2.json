@@ -7701,7 +7701,8 @@
         {
          "type": "figure",
          "text": "• मालू बगीचे में क्यों गया था? • क्या मालू को आलू मिले? • कालू अगर मदद नहीं करता तो मालू, आलू कैसे खोजता?",
-         "desc": "box with question icon listing sample discussion questions"
+         "desc": "box with question icon listing sample discussion questions",
+         "crop": "figs/hr-hindi-g2/x042-1.webp"
         }
        ],
        "sections": []
@@ -33535,6 +33536,7 @@
          "type": "figure",
          "text": "माँद में कौन रहता था ? / कछुए के खोल को तोड़ने का आसान तरीका किसने बताया था? / आपको क्या लगता है जैसे पानी में डालने से ज्यादातर चीज़ें नरम हो जाती है। क्या कछुए का खोल भी नरम हो जाएगा?",
          "desc": "Boxed list of discussion questions marked with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g2/x127-1.webp",
          "textlayer": {
           "text": "• माँद में कौन रहता था ? • कछुए के खोल को तोड़ने का आसान तरीका किसने बताया था? • आपको क्या लगता है जैसे पानी में डालने से ज़्यादातर चीज़ें नरम हो जाती है। क्या कछुए का खोल भी नरम हो जाएगा?"
          }
@@ -40141,7 +40143,8 @@
         {
          "type": "figure",
          "text": "क्या आप ट्रेन या बस में सफ़र करते हैं? (हाँ/नहीं) आपको किसका सफ़र अच्छा लगता है? (बस/ट्रेन)",
-         "desc": "speech bubble with two survey questions"
+         "desc": "speech bubble with two survey questions",
+         "crop": "figs/hr-hindi-g2/x149-1.webp"
         }
        ],
        "sections": []
@@ -40423,7 +40426,8 @@
         {
          "type": "figure",
          "text": "क्या आपको टीवी देखना पसंद है? (हाँ/नहीं) आप टीवी में क्या देखना पसंद करते हैं?",
-         "desc": "speech bubble with two survey questions"
+         "desc": "speech bubble with two survey questions",
+         "crop": "figs/hr-hindi-g2/x150-1.webp"
         }
        ],
        "sections": []
@@ -42116,7 +42120,8 @@
         {
          "type": "figure",
          "text": "क्या आपको टीवी देखना पसंद है? (हाँ/नहीं) आप टीवी में क्या देखना पसंद करते हैं?",
-         "desc": "speech bubble with two survey questions"
+         "desc": "speech bubble with two survey questions",
+         "crop": "figs/hr-hindi-g2/x155-1.webp"
         }
        ],
        "sections": []
@@ -46025,6 +46030,7 @@
          "type": "figure",
          "text": "बिस्कुट: ‘जो भी खाए, मुस्कुराए!’ | पेंसिल: ‘तेज़ लिखो, आगे बढ़ो।’ | खिलौना: ‘खेल-खेल में खुशी हर पल।’",
          "desc": "speech-bubble box with three example advertisement punch lines",
+         "crop": "figs/hr-hindi-g2/x167-1.webp",
          "textlayer": {
           "text": "• बिस्कुटः ‘जो भी खाए, मुस्कुराए!’ • पेंसिलः ‘तेज़ लिखो, आगे बढ़ो।’ • खिलौनाः ‘खेल-खेल में खुशी हर पल।’"
          }
@@ -50911,10 +50917,11 @@
  "missing_pages": [],
  "figures": {
   "placed": 0,
-  "merged": 0,
+  "merged": 6,
   "opener": 0,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {

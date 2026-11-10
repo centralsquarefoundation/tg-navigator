@@ -47,6 +47,25 @@ document.getElementById('export').onclick=()=>{const who=prompt('Reviewer name /
 e = lambda s: html.escape(str(s if s is not None else ''))
 
 
+def xsum(x):
+    """One line per guide: how many pages/lessons each independent placement check agreed on."""
+    out = []
+    r = x.get('reread') or {}
+    if r:
+        out.append(f"re-read {r.get('agree', 0)}/{r.get('agree', 0) + r.get('disagree', 0)}")
+    t = x.get('textlayer') or {}
+    if t.get('agree') or t.get('disagree'):
+        out.append(f"PDF text {t['agree']}/{t['agree'] + t['disagree']}")
+    ec = x.get('echo') or {}
+    if ec.get('agree') or ec.get('disagree'):
+        out.append(f"worksheet nos. {ec['agree']}/{ec['agree'] + ec['disagree']}")
+    pg = x.get('pages') or {}
+    if pg:
+        a = sum(v['agree'] for v in pg.values()); b = sum(v['disagree'] for v in pg.values())
+        out.append(f"page nos. {a}/{a + b}")
+    return ' · '.join(out) or '—'
+
+
 def outline(sections, depth=0):
     out = []
     for s in sections:
@@ -88,6 +107,7 @@ def main():
         rows.append(f"<tr><td><a href='{g['id']}.html'>{e(g['id'])}</a></td><td>{len(pack['groups'])}</td><td>{len(pack['lessons'])}</td>"
                     f"<td>{checks['counts']['error']}</td><td>{checks['counts']['warn']}</td>"
                     f"<td>{(str(round(100 * tc.get('exact', 0) / tc['checked'])) + '% exact of ' + str(tc['checked'])) if tc.get('checked') else 'no text layer'}</td>"
+                    f"<td>{e(xsum(checks.get('crosscheck') or {}))}</td>"
                     f"<td>{done}/{len(pack['lessons'])}</td></tr>")
         cards = []
         for l in pack['lessons']:
@@ -141,7 +161,7 @@ def main():
         "<li><b>Structure</b>: section numbering, minutes adding up, empty sections, pages that were not transcribed.</li>"
         "<li><b>Text</b>: where the PDF has a text layer, every line was compared with it (column 'Text-layer agreement'); differences are listed per lesson.</li>"
         "<li><b>Source misprints</b> confirmed on the page image are recorded in states/&lt;state&gt;/anomalies.json and shown to teachers on that lesson.</li></ul>"
-        f"<h2>Guides</h2><table><tr><th>Guide</th><th>Groups</th><th>Lessons</th><th>Errors</th><th>Warnings</th><th>Text-layer agreement</th><th>Human-confirmed</th></tr>{''.join(rows)}</table>"
+        f"<h2>Guides</h2><table><tr><th>Guide</th><th>Groups</th><th>Lessons</th><th>Errors</th><th>Warnings</th><th>Text-layer agreement</th><th>Independent placement checks (agree/total)</th><th>Human-confirmed</th></tr>{''.join(rows)}</table>"
         f"<h2>Items to look at</h2><p class=info>{tlm} smaller text differences against the PDF text layer are listed inside each guide page (mostly legacy-font decoding noise).</p>"
         f"<table><tr><th>Guide</th><th>Level</th><th>Check</th><th>Lesson</th><th>PDF page</th><th>Detail</th></tr>{flag_rows}</table>"
         "</main></body>", encoding='utf-8')

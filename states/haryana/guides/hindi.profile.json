@@ -1,31 +1,70 @@
 {
-  "id": "haryana-hindi",
-  "subject": {"hi": "हिन्दी", "en": "Hindi"},
-  "hierarchy": {
-    "keys": ["week", "day"],
-    "labels": {
-      "week": {"hi": "सप्ताह", "en": "Week"},
-      "day": {"hi": "दिवस", "en": "Day"}
-    },
-    "group_by": "week",
-    "unit_label": "day"
-  },
-  "layout_notes": [
-    "One teaching unit = one day. A lesson page holds exactly one day.",
-    "Top of a lesson page: a row of six tabs 'दिवस 1' … 'दिवस 6'. The CURRENT day is the tab drawn in a darker/stronger fill with dark text; the other five tabs are pale with grey text. Key 'day' = the number on the highlighted tab. Below the tabs a green band prints 'सप्ताह-N': key 'week' = N.",
-    "If no tab is highlighted or the band is missing, set the key to null and explain; do not infer from page order.",
-    "Body: numbered period bars in colour, e.g. '1. मौखिक भाषा विकास एवं लेखन ⏱ 30 मिनट' (level-1 section, number '1', minutes '30'). Inside, step bars '1.1 कविता/बालगीत गाना ⏱ 5 मिनट' (level-2 section). Items under a step are lines starting with '>' (type bullet) or plain text lines (type text, e.g. a bold line such as 'दिवस 1-2 पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 24 से पठन').",
-    "Reading order: the left column top to bottom, then the right column top to bottom. Periods may continue from the left column into the right one.",
-    "The box titled 'बहुकक्षा शिक्षण हेतु पाठ योजना' at the bottom is multigrade guidance: put it in 'shared' as one section with that heading. Inside it, make one sub-section per time row (heading = the printed minutes text like '(30 मिनट)', minutes = '30'); inside each row, sub-sections headed by the printed group label ('कक्षा 1 और कक्षा 2 साथ में', 'कक्षा 1', 'कक्षा 2') holding the bullet items.",
-    "Week-level pages (weekly plan/overview, assessment or review week pages, remedial plans) that do not show the six day tabs are page_kind 'plan', 'assessment' or 'back_matter'; still transcribe their content into 'shared' so nothing is lost.",
-    "Balvatika (pre-primary) pages use the same keys in a smaller form: 'सप्ताह – N' printed top-left (key week = N) and a small box of six tabs 'दिवस 1' … 'दिवस 6' below it where the CURRENT day's tab is darker/bold. The line 'दिनांक … हस्ताक्षर …' is a blank form field: ignore it. The box 'आज के लिए तैयारी सामग्री' (materials to prepare) is the unit's first section (number null, heading as printed, bullet items). A line printed beside a target icon inside a step is the step's aim: give it as the first item, type 'text'.",
-    "A page may be the start of a Balvatika/level section (cover or title page such as 'बालवाटिका-3 कार्यक्रम … भाग-2 सप्ताह 11 से 24 तक'): page_kind 'front_matter', and copy the title lines into 'notes'."
+ "id": "haryana-hindi",
+ "subject": {
+  "hi": "हिन्दी",
+  "en": "Hindi"
+ },
+ "hierarchy": {
+  "keys": [
+   "week",
+   "day"
   ],
-  "transcribe_shared_on": ["lesson", "plan", "assessment"],
-  "checks": {
-    "key_pattern": {"week": "^[0-9]+$", "day": "^[1-6]$"},
-    "expect_one_unit_per_lesson_page": true,
-    "sequence": "week-day",
-    "days_per_week": 6
+  "labels": {
+   "week": {
+    "hi": "सप्ताह",
+    "en": "Week"
+   },
+   "day": {
+    "hi": "दिवस",
+    "en": "Day"
+   }
+  },
+  "group_by": "week",
+  "unit_label": "day"
+ },
+ "layout_notes": [
+  "One teaching unit = one day. A lesson page holds exactly one day.",
+  "Top of a lesson page: a row of six tabs 'दिवस 1' … 'दिवस 6'. The CURRENT day is the tab drawn in a darker/stronger fill with dark text; the other five tabs are pale with grey text. Key 'day' = the number on the highlighted tab. Below the tabs a green band prints 'सप्ताह-N': key 'week' = N.",
+  "If no tab is highlighted or the band is missing, set the key to null and explain; do not infer from page order.",
+  "Body: numbered period bars in colour, e.g. '1. मौखिक भाषा विकास एवं लेखन ⏱ 30 मिनट' (level-1 section, number '1', minutes '30'). Inside, step bars '1.1 कविता/बालगीत गाना ⏱ 5 मिनट' (level-2 section). Items under a step are lines starting with '>' (type bullet) or plain text lines (type text, e.g. a bold line such as 'दिवस 1-2 पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 24 से पठन').",
+  "Reading order: the left column top to bottom, then the right column top to bottom. Periods may continue from the left column into the right one.",
+  "The box titled 'बहुकक्षा शिक्षण हेतु पाठ योजना' at the bottom is multigrade guidance: put it in 'shared' as one section with that heading. Inside it, make one sub-section per time row (heading = the printed minutes text like '(30 मिनट)', minutes = '30'); inside each row, sub-sections headed by the printed group label ('कक्षा 1 और कक्षा 2 साथ में', 'कक्षा 1', 'कक्षा 2') holding the bullet items.",
+  "Week-level pages (weekly plan/overview, assessment or review week pages, remedial plans) that do not show the six day tabs are page_kind 'plan', 'assessment' or 'back_matter'; still transcribe their content into 'shared' so nothing is lost.",
+  "Balvatika (pre-primary) pages use the same keys in a smaller form: 'सप्ताह – N' printed top-left (key week = N) and a small box of six tabs 'दिवस 1' … 'दिवस 6' below it where the CURRENT day's tab is darker/bold. The line 'दिनांक … हस्ताक्षर …' is a blank form field: ignore it. The box 'आज के लिए तैयारी सामग्री' (materials to prepare) is the unit's first section (number null, heading as printed, bullet items). A line printed beside a target icon inside a step is the step's aim: give it as the first item, type 'text'.",
+  "A page may be the start of a Balvatika/level section (cover or title page such as 'बालवाटिका-3 कार्यक्रम … भाग-2 सप्ताह 11 से 24 तक'): page_kind 'front_matter', and copy the title lines into 'notes'."
+ ],
+ "transcribe_shared_on": [
+  "lesson",
+  "plan",
+  "assessment"
+ ],
+ "checks": {
+  "key_pattern": {
+   "week": "^[0-9]+$",
+   "day": "^[1-6]$"
+  },
+  "expect_one_unit_per_lesson_page": true,
+  "sequence": "week-day",
+  "days_per_week": 6,
+  "key_echo": [
+   {
+    "pattern": "अभ्यास[-‐–\\s]*पत्रक\\s*(\\d{1,2})\\s*\\.\\s*[1-6](?!\\d)",
+    "groups": {
+     "week": 1
+    },
+    "note": "worksheet numbers echo the week; the day part does not (fewer worksheets than days)"
+   }
+  ],
+  "textlayer_keys": {
+   "week": {
+    "pattern": "सप्ताह\\s*[-–—]\\s*(\\d{1,2})",
+    "max_y": 90
+   },
+   "day": {
+    "pattern": "दिवस\\s*([1-6])(?!\\d)",
+    "pick": "odd-color",
+    "max_y": 90
+   }
   }
+ }
 }

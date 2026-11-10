@@ -12113,7 +12113,8 @@
   "merged": 3,
   "opener": 17,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {},

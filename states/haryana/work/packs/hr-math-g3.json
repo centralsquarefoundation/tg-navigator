@@ -1048,7 +1048,8 @@
         {
          "type": "figure",
          "text": "» ↑ ↑ → ↑ ↑ → ________",
-         "desc": "Pattern of arrows: up, up, right, up, up, right, followed by a blank line"
+         "desc": "Pattern of arrows: up, up, right, up, up, right, followed by a blank line",
+         "crop": "figs/hr-math-g3/x015-1.webp"
         },
         {
          "type": "text",
@@ -15987,10 +15988,11 @@
  "missing_pages": [],
  "figures": {
   "placed": 0,
-  "merged": 17,
+  "merged": 18,
   "opener": 14,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {},

@@ -1797,7 +1797,8 @@
         {
          "type": "figure",
          "text": "• हम एक कविता गाते हैं, आप मेरे साथ दोहराएँ। • मैं एक पंक्ति गाऊँगा/गाऊँगी। आप भी वैसे ही दोहराएँ।",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x026-1.webp"
         },
         {
          "type": "bullet",
@@ -2039,7 +2040,8 @@
         {
          "type": "figure",
          "text": "• हम एक कविता गाते हैं, आप मेरे साथ दोहराएँ। • मैं एक पंक्ति गाऊँगा/गाऊँगी। आप भी वैसे ही दोहराएँ।",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x027-1.webp"
         },
         {
          "type": "bullet",
@@ -2074,7 +2076,8 @@
         {
          "type": "figure",
          "text": "• मैं आपको एक कहानी सुना रहा/रही हूँ। यह आपने पहले भी सुनी है। आपको कहानी ध्यान से सुननी है बाद में आपको भी यह कहानी सुनानी है।",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x027-2.webp"
         },
         {
          "type": "bullet",
@@ -2269,7 +2272,8 @@
         {
          "type": "figure",
          "text": "• खरगोश क्यों डर गया था? • जब खरगोश डरकर भाग रहा था तो उसे सबसे पहले कौन मिला? • क्या आप भी कभी सोते हुए डरे हैं, यदि हाँ तो कैसे डरे? • भागते समय खरगोश क्या-क्या सोच रहा होगा?",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x028-1.webp"
         }
        ],
        "sections": []
@@ -2479,7 +2483,8 @@
         {
          "type": "figure",
          "text": "• खरगोश को कौन-सी आवाज़ सुनाई दी जिससे वह डर गया था? • खरगोश की बात सुनकर कौन-कौन भागने लगा? • अगर सच में आसमान गिर जाए तो क्या होगा? • बिना देखे और समझे सभी जानवर क्यों भागने लगे? • अगर शेर वहाँ न होता तो क्या होता? • ‘सबने देखा वहाँ बड़ा सा फल गिरा पड़ा था।’ आपको क्या लगता वह फल कौन-सा होगा और क्यों?",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x029-1.webp"
         }
        ],
        "sections": [],
@@ -3096,7 +3101,8 @@
         {
          "type": "figure",
          "text": "• उन्हें लंबी उबासी लेने के लिए कहें। • म्याऊँ-म्याऊँ करने के लिए कहें। • अब उन्हें अपनी बाँह, टांगे फैलाकर, पीठ सीधी करने के लिए कहें। इसके बाद आराम से बैठ जाएँ।",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x032-1.webp"
         },
         {
          "type": "bullet",
@@ -3705,7 +3711,8 @@
         {
          "type": "figure",
          "text": "• बिल्ली बोतल में से चूहे को क्यों नहीं निकाल पाई? • चूहों ने अपने साथी को बचाने के लिए क्या योजना बनाई? • बिल्ली को बोतल में जब चूहा नहीं मिला तो उसने क्या किया होगा?",
-         "desc": "speech box beside a speech-bubble icon"
+         "desc": "speech box beside a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x035-1.webp"
         }
        ],
        "sections": []
@@ -8530,7 +8537,8 @@
         {
          "type": "figure",
          "text": "तेंदुए का परिवार क्यों भीग रहा था? तेंदुआ और उसका परिवार बरसात से बचने के लिए क्या-क्या कर सकते थे? यदि हमें घर बनाने का मौका मिले तो क्या-क्या सामग्री की जरूरत होगी? पेड़ पर किस-किसका घर होता है? मिट्टी में किस-किस का घर होता है?",
-         "desc": "Boxed list of discussion questions marked with a speech-bubble icon"
+         "desc": "Boxed list of discussion questions marked with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x058-1.webp"
         }
        ],
        "sections": []
@@ -8775,7 +8783,8 @@
         {
          "type": "figure",
          "text": "तेंदुए को घर बनाने का विचार किसने दिया? आम के पेड़ के नीचे रुकने पर तेंदुए ने क्या देखा और उससे क्या सीखा? तेंदुए को घर बनाने के लिए कौन-कौन सी चीज़ें चाहिए थीं? लोमड़ी ने तेंदुए को अपने घर में आने को क्यों कहा होगा? आपका घर किस-किस चीज़ से बना हुआ है?",
-         "desc": "Boxed list of discussion questions marked with a speech-bubble icon"
+         "desc": "Boxed list of discussion questions marked with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x059-1.webp"
         }
        ],
        "sections": [],
@@ -9782,7 +9791,8 @@
         {
          "type": "figure",
          "text": "टिंकू तेज साइकिल चलाकर कहाँ जा रहा होगा? गिलहरी तेज क्यों चलती हैं? आप सड़क पार करते समय क्या-क्या सावधानियाँ रखते हैं। आपने कभी कोई मोटर देखी है? हाँ तो क्या देखा।",
-         "desc": "Boxed list of discussion questions marked with a speech-bubble icon"
+         "desc": "Boxed list of discussion questions marked with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x064-1.webp"
         },
         {
          "type": "bullet",
@@ -10028,7 +10038,8 @@
         {
          "type": "figure",
          "text": "गिलहरी ने किसको चिट्ठी लिखी? चिट्ठी में गिलहरी किस घटना के बारे में बता रही है? गिलहरी तेज क्यों दौड़ती रहती हैं? इसके अलावा कौन-कौन से जानवर तेज दौड़ते हैं? क्या कभी आपकी साइकिल के आगे भी कोई आया है? उसके बारे में अपने अनुभव बताएँ। अगर आपकी साइकिल के आगे अचानक गिलहरी आ जाए तो आप उससे क्या कहेंगे?",
-         "desc": "Boxed list of discussion questions marked with a speech-bubble icon"
+         "desc": "Boxed list of discussion questions marked with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x065-1.webp"
         }
        ],
        "sections": [],
@@ -11037,7 +11048,8 @@
         {
          "type": "figure",
          "text": "रमलू ने हाथी को किसके जैसा बड़ा बताया? ऐसे-कौन-से जानवर हैं जो पानी और ज़मीन दोनों पर चल सकते हैं? अगर दोनों मेंढक गलती से हाथी पर बैठ जाते तो क्या होता? तालाब में नहाने कौन-कौन से जानवर जाते हैं?",
-         "desc": "Boxed list of discussion questions with a speech-bubble icon"
+         "desc": "Boxed list of discussion questions with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x070-1.webp"
         },
         {
          "type": "bullet",
@@ -11295,6 +11307,7 @@
          "type": "figure",
          "text": "दोनों मेंढकों का क्या नाम था? हाथी की पूँछ को देखकर रमलू ने क्या कहा? रमलू और डमरू ने हाथी को मछली क्यों समझा? हाथी को देखने के बाद रमलू और डमरू ने मछलियों से क्या कहा? मछलियाँ मेंढकों के बारे में क्या सोच रही होंगी?",
          "desc": "Boxed list of discussion questions with a speech-bubble icon",
+         "crop": "figs/hr-hindi-g3/x071-1.webp",
          "textlayer": {
           "text": "• दोनों मेंढकों का क्या नाम था? • हाथी की पूँछ को देखकर रमलू ने क्या कहा? • रमलू और डमरू ने हाथी को मछली क्यों समझा? • हाथी को देखने के बाद रमलू और डमरू ने मछलियों से क्या कहा? • मछलियाँ मेढ़कों के बारे में क्या सोच रही होंगी?"
          }
@@ -12352,7 +12365,8 @@
         {
          "type": "figure",
          "text": "खेत का मालिक क्यों आ गया? | गीदड़ खाना खाने के बाद हुकी-हुकी करता है ऐसे ही आप खाना खाने के बाद क्या करते हैं? | ऊँट ने गीदड़ को सबक कैसे सिखाया? | कहानी में ऊँट की जगह आप होते तो क्या करते?",
-         "desc": "boxed list of discussion questions with a small question-mark icon"
+         "desc": "boxed list of discussion questions with a small question-mark icon",
+         "crop": "figs/hr-hindi-g3/x076-1.webp"
         }
        ],
        "sections": []
@@ -12601,7 +12615,8 @@
         {
          "type": "figure",
          "text": "जंगल में खाने की कमी हो गई तो गीदड़ ने अपने दोस्त ऊँट को क्या सलाह दी? | ऊँट को खेत के मालिक से मार क्यों खानी पड़ी? | अगर गीदड़ को नदी में पेड़ की जड़ नहीं मिली होती तो वह अपनी जान कैसे बचाता? | गीदड़ को सबक सिखाने के लिए ऊँट और क्या-क्या कर सकता था? | आपको कहानी का कौन-सा पात्र अच्छा लगा और क्यों?",
-         "desc": "boxed list of discussion questions with a small question-mark icon"
+         "desc": "boxed list of discussion questions with a small question-mark icon",
+         "crop": "figs/hr-hindi-g3/x077-1.webp"
         }
        ],
        "sections": [],
@@ -36184,10 +36199,11 @@
  "missing_pages": [],
  "figures": {
   "placed": 6,
-  "merged": 0,
+  "merged": 15,
   "opener": 0,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {

@@ -50682,7 +50682,8 @@
   "merged": 0,
   "opener": 0,
   "unplaced": [],
-  "blank": []
+  "blank": [],
+  "whole_page": 0
  },
  "reconcile": {
   "totals": {},
