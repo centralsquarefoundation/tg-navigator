@@ -1,0 +1,114 @@
+{
+  "pdf_page": 27,
+  "printed_page": "24",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "2", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; band 'सप्ताह-2'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक में दी गई कविता “तलाश में” (पृ. सं. 15) सुनाएँ और बच्चों को साथ में दोहराने करने के लिए कहें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों से उनके परिवार के किसी सदस्य का चित्र बनवाएँ।"},
+               {"type": "bullet", "text": "बच्चों को चित्र बनाने के लिए प्रोत्साहित करें।"},
+               {"type": "bullet", "text": "बच्चों द्वारा बनाये चित्रों पर बड़े समूह में चर्चा करें।"},
+               {"type": "bullet", "text": "बच्चों की गलतियों पर टीका टिप्पणी से बचें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ध्वनि चेतनाः शब्दों में पहली/अंतिम आवाज़ पहचान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "मौखिक रूप से शिक्षक शब्दों में अलग-अलग आवाज़ पहचान करवाएँ।"},
+               {"type": "bullet", "text": "शिक्षक पहले शब्द बोलें। शब्द में शामिल ध्वनियों का धीरे-धीरे स्पष्ट उच्चारण करते हुए प्रत्येक (आवाज़/ध्वनि) पर एक ताली बजाएँ। बच्चों से पूछें: पहली, अंतिम आवाज़ कौन सी थी ?"},
+               {"type": "bullet", "text": "3-4 नये शब्दों के साथ यह कार्य जारी रखें।"},
+               {"type": "bullet", "text": "अब शिक्षक शब्द बोलें और उनकी ध्वनियों को अलग-अलग पहचानने को कहें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 2.4(पृ.सं. 19) पर बच्चों को स्पष्ट निर्देश दें कि बिन्दुओं को मिलाकर बंदर को पेड़ तक पहुँचाएँ, समूह में जो भारी वस्तु है उसमे रंग भरें और दी गई वस्तुओं की पहली आवाज़ अपने साथी को बोलकर सुनाएँ और बातचीत करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "लोगोग्राफीक पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बिग बुक से कहानी ‘हाथी और बकरी’ लोगोग्राफीक पठन।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों के साथ तीसरे दिन की तरह दो बार साझा पठन करें और उसके बाद शब्द दीवार का इस्तेमाल करते हुए बच्चों के साथ कहानी के मुख्य शब्दों को पढ़ने का अभ्यास करें। (लोगोग्राफिक पठन) बकरी, हाथी, खरगोश, सवारी।"},
+               {"type": "bullet", "text": "बच्चों को शब्द दीवार के पास आकर इन शब्दों पर उंगली रखकर पढ़ने में मदद करें।"},
+               {"type": "bullet", "text": "अंत में, 3-4 बच्चों को बिगबुक में से कहानी पढ़ने के लिए आमंत्रित करें। ऐसा करते समय उन्हें किताब पकड़ने और पन्नों पर बने चित्रों और शब्दों को देखते हुए कहानी सुनाने के लिए प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-2 के पाठ-2 से कविता- ‘मटर देखकर’ पढ़कर सुनाना व चर्चा।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन (पाठ-2 लालू पीलू, पृष्ठ सं 14) कक्षा 2: मटर का चित्र बनाओ।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगें।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "वर्ण व मात्रा/अक्षर पहचान पर दोहराव कार्य।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 2.3 की गतिविधियाँ पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "वाक्यों में शब्दों की पहचान।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 2.3 पर कार्य करवाना।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग-1 पृष्ठ सं. 25 पर मार्गदर्शन एवं स्वतंत्र में पठन।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "साझा पठन- बिगबुक- ‘हाथी और बकरी’"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे द्वारा स्वतंत्र पठन।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order", "2.1: last bullet 'अब शिक्षक शब्द बोलें...' is printed at the top of the right column box; placed at the end of 2.1 as its continuation", "1.2 'दोहराने करने के लिए' as printed", "3.1 bullet 2 list of words: 'बकरी, हाथी, खरगोश, सवारी' (word 'जंगल' absent as printed on this page)"],
+  "notes": null
+}

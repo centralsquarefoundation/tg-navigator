@@ -1,0 +1,71 @@
+{
+  "pdf_page": 67,
+  "printed_page": "55",
+  "page_kind": "lesson",
+  "header": "मौसम का आनंद",
+  "units": [
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "1-2"},
+      "keys_evidence": "badge 'Day 1-2' in left yellow box; orange band 'मौसम का आनंद'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["सप्ताह के दिनों और माहों के नाम बताना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 133 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ],
+             "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 135 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}],
+             "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "3-4"},
+      "keys_evidence": "badge 'Day 3-4' in right yellow box; orange band 'मौसम का आनंद'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["कैलेंडर देखकर वर्ष, माह और दिन पहचानना।", "अलग–अलग ऋतुएँ जानना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 131, 133, 134 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ],
+             "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 135 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}],
+             "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["First staircase bar (पाठ्यपुस्तक से अवधारणा संबंधित...) appears with no block bar above it; assumed to belong to Block 3 कौशल अभ्यास continued from previous page"],
+  "notes": "Page starts with the yellow objective boxes and Day badges, then continues Block 3 without a block bar. Bottom half of the page is empty."
+}

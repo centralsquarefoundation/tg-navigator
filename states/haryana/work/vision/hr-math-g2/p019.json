@@ -1,0 +1,26 @@
+{
+  "pdf_page": 19,
+  "printed_page": "7",
+  "page_kind": "unit_opener",
+  "header": "ढोलक की बारात",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ :",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Chapter 2 opener illustration: a street procession with cartoon musical instruments (dholak on a horse, harmonium, drums, tabla, sitar, shehnai, speaker) and houses; a teacher note panel is overlaid at the bottom.", "text": "ढोलक की बारात | चित्र में दिखाए गए संगीत उपकरणों के आकारों में समानता की चर्चा कीजिए और आस-पास उपलब्ध संगीत उपकरणों के विषय में चर्चा कीजिए। संगीत उपकरणों को बजाए जाने के तरीके के आधार पर भी उपकरणों को वर्गीकरण कीजिए जैसे– ढ़म एवं तबला पीटकर बजाए जाते हैं, गिटार और सितार तार से और शहनाई और बाँसुरी फूँक से बजाए जाते हैं। | गणित भाग–1 | 20"},
+        {"type": "bullet", "text": "दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न त्रिआयामी आकृतियों (घनाभ, बेलन, शंकु, गोला, घन) को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"},
+        {"type": "bullet", "text": "त्रिआयामी आकृतियों की सतह, किनारों और कोनों की संख्या गिनना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Box is headed 'दक्षताएँ :' (not 'जानें') on this page; printed heading kept",
+    "Small teacher-note text inside the illustration is tiny; reading approximate (e.g. 'ढ़म', 'वर्गीकरण')",
+    "The number '20' on the signboard in the illustration (not the printed page number)"
+  ],
+  "notes": "Chapter 2 opener: tab 'अध्याय 2', chapter title 'ढोलक की बारात'."
+}

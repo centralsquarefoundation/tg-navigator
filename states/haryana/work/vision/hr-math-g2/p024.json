@@ -1,0 +1,91 @@
+{
+  "pdf_page": 24,
+  "printed_page": "12",
+  "page_kind": "lesson",
+  "header": "संख्याओं का आनन्द",
+  "units": [
+    {
+      "keys": {"chapter": "संख्याओं का आनन्द", "days": "1-2"},
+      "keys_evidence": "orange band 'संख्याओं का आनन्द'; badge 'Day 1-2' in left column",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": ["दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को देखकर 50 तक गणना और संख्या बोध।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"}
+             ], "sections": []},
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "संख्याओं का आनन्द", "days": "3-4"},
+      "keys_evidence": "orange band 'संख्याओं का आनन्द'; badge 'Day 3-4' in right column",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को देखकर 51 से 100 तक गणना और संख्या बोध।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अब बोर्ड पर 5 दहाई के ब्लॉक्स लगा दें।"},
+               {"type": "bullet", "text": "अब 5 दहाई के ब्लॉक्स के पास इकाई का एक ब्लॉक लगा दें और बच्चों को गिन कर बतायें कि दहाई के ब्लॉक्स और इकाई का ब्लॉक मिलकर हो गए 51।"},
+               {"type": "bullet", "text": "अब एक–एक करके उन्हें 51 से 100 तक गिनना सिखाएँ।"},
+               {"type": "text", "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"}
+             ], "sections": []},
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 31 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "गणितीय बोर्ड गेम नंबर दौड़ की सहायता से सिखायी गई अवधारणा को सदृण करें और समस्या समाधान का कौशल विकसित करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Col 2 block 4: 'सदृण' printed as shown (possible misprint)", "Col 2 block 3 textbook line: 'अध्यापिका' printed without 'अध्यापक/'"],
+  "notes": "Printed page number 12. Column 1 has an empty area at the top (before block 3); column 2 starts with continuation bullets of block 2 sub-step from previous page. Overlapping lines written once."
+}

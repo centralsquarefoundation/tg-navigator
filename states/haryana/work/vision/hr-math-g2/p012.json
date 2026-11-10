@@ -1,0 +1,48 @@
+{
+  "pdf_page": 12,
+  "printed_page": "IV",
+  "page_kind": "plan",
+  "header": "कक्षा- 2 अकादमिक प्लान (2026 - 27)",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "अकादमिक प्लान (2026 - 27)",
+      "minutes": null,
+      "items": [
+        {
+          "type": "table",
+          "rows": [
+            ["Month", "Chapter Name", "Competency Number", "Competencies to be achieved"],
+            ["जनवरी 2027", "मौसम का आनंद", "10.1", "सप्ताह के दिनों और माहों के नाम बताना।"],
+            ["", "", "10.2", "अलग–अलग ऋतुएँ जानना।"],
+            ["", "", "10.3", "कैलेंडर देखकर वर्ष, माह और दिन पहचानना।"],
+            ["", "", "10.4", "किन्हीं दो घटनाओं के घटित होने में में लगने वाले समय की तुलना करना।"],
+            ["", "", "10.5", "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।"],
+            ["", "", "10.6", "चारों दिशाओं–पूर्व, पश्चिम, उत्तर, दक्षिण – की अवधारणा समझना।"],
+            ["फरवरी 2027", "रूपये–पैसे", "11.1", "नोट और सिक्कों का उपयोग 500 रुपये तक की राशि पहचानना।"],
+            ["", "", "11.2", "अलग–अलग मान वाले नोट या सिक्कों के समूह (समान/असमान मूल्यवर्ग के) बनाना।"],
+            ["", "", "11.3", "दैनिक जीवन की परिस्थितियों को समझते हुए धनराशियों को जोड़ना और घटाना।"],
+            ["", "गुब्बारे वाला", "12.1", "आँकड़ों का निरूपण करना तथा उससे उपयोगी जानकारी निकालना।"],
+            ["", "", "12.2", "पिक्टोग्राफ की अवधारणा।"],
+            ["मार्च 2027", "पूर्ण पाठ्यक्रम का दोहराव और अभ्यास"],
+            ["", "वार्षिक आकलन"]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "इस अकादमिक प्लान के आधार पर सावधिक आकलन –1 के लिए प्रस्तावित दक्षताएँ R. 1 से - 4.6 हैं और सावधिक आकलन – 2 के लिए प्रस्तावित दक्षताएँ 5.1 से 9.8 हैं।"
+        }
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "printed page number shown as 'IV' (roman numeral)",
+    "Row 10.4 reads 'होने में में लगने' as printed (repeated word)",
+    "Row 11.1 'रूपये–पैसे' chapter name and 'रुपये' in 11.1 spelled as printed",
+    "Month/Chapter cells merged across rows; written as empty strings after the first row of a block",
+    "Row 11.2 text is cut across the image halves; read from the top half"
+  ],
+  "notes": "Final page of the academic plan table (January to March 2027) with a closing note below the table about proposed competencies for periodic assessments."
+}

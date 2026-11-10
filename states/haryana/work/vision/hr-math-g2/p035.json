@@ -1,0 +1,20 @@
+{
+  "pdf_page": 35,
+  "printed_page": "23",
+  "page_kind": "unit_opener",
+  "header": "रेखाओं से खेल",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "सीधी रेखा और वक्र रेखा (घुमावदार रेखा) को समझना तथा उनमें अंतर करना।"},
+        {"type": "bullet", "text": "सीधी रेखा को खड़ी, पड़ी व तिरछी रेख के रूप में पहचानना तथा बनाना।"},
+        {"type": "figure", "desc": "Reproduced textbook page 53 with title 'रेखाओं से खेल' and a poem with four illustrations (curved road with trees, truck on road with wires, children flying kites near hills, rainbow over river)", "text": "रेखाओं से खेल | खड़ी रेखा ये ऊपर जाती ऊपर से नीचे तक आती पेड़ बाग में खड़ा हो जैसे गड़ा हो राह में खम्बा वैसे। | पड़ी रेखाएँ बिछती जमीं पर जैसे बाँस पड़ा हो कहीं पर बाएँ से दाएँ ये हैं जाती क्या तुमको बनानी हैं आती? | पहाड़ों के ढ़लान के जैसी पतंग की उड़ान के जैसी टेढ़ी चलती हैं तिरछी रेखा सोचो तुमने कहाँ है देखा? | आधा चाँद, आधी रोटी गोल गोल घूमती रस्सी मोटी इन्द्रधनुष के आकार जैसी घुमावदार रेखा होती है ऐसी। | 53 | गणित भाग-1"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Orange box is headed 'दक्षताएँ :' (not 'जानें') on this page; heading kept as printed.", "Poem line 'ढ़लान' nukta reading and 'टेढ़ी' spelling as printed in small text; verify"],
+  "notes": "Chapter opener: tab 'अध्याय 5', chapter title 'रेखाओं से खेल'. Poem text copied from the reproduced textbook-page illustration."
+}

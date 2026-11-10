@@ -1,0 +1,4022 @@
+{
+ "guide": "hr-hindi-g2",
+ "counts": {
+  "error": 0,
+  "warn": 239,
+  "info": 333
+ },
+ "lessons": 156,
+ "groups": 26,
+ "textcheck": {
+  "checked": 7017,
+  "exact": 5458,
+  "close": 1337,
+  "mismatch": 222
+ },
+ "issues": [
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Matra glyph printed as ‘ा’ (aa-matra sign) in 2.1; transcribed as ा",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading and bullet 5: 'लक्षित मात्रा ‘ा’ अनुस्वार’' printed with a stray closing quote",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt boxes (speech-bubble question lists) given as bullet items",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 text 'बच्चों को भाषा का उपयोग...' and 1.1 first line carry an aim icon; given as text items",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Table cell bullets joined into one cell string per column",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column ends in 1.2; right column begins with its continuation then 1.3, 2, 2.1",
+   "lesson": "hr-hindi-g2-w01-d01",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Matra glyph printed as ‘ा’ (aa-matra sign); transcribed as ा",
+   "lesson": "hr-hindi-g2-w01-d02",
+   "page": 18
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 bullet 5: 'सम्बंधित' vs 'सम्बन्धित' spelling and stray quote after 'अनुस्वार' as read",
+   "lesson": "hr-hindi-g2-w01-d02",
+   "page": 18
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3 first bullet 'विकस' printed as read",
+   "lesson": "hr-hindi-g2-w01-d02",
+   "page": 18
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt boxes given as bullet items; table cell bullets joined per column",
+   "lesson": "hr-hindi-g2-w01-d02",
+   "page": 18
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column ends after 1.2 step bullets; right column begins with the 1.2 prompt box (continuation), then 1.3, 2, 2.1, 2.2",
+   "lesson": "hr-hindi-g2-w01-d02",
+   "page": 18
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Matra glyph printed as ‘ा’ (aa-matra sign); transcribed as ा",
+   "lesson": "hr-hindi-g2-w01-d03",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first line (aim icon) given as text item",
+   "lesson": "hr-hindi-g2-w01-d03",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3 first bullet 'विकस' printed as read",
+   "lesson": "hr-hindi-g2-w01-d03",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt boxes given as bullet items; table cell bullets joined per column",
+   "lesson": "hr-hindi-g2-w01-d03",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column: table, 1, 1.1, 1.2; right column: 1.3, 2, 2.1, 2.2, 3, 3.1, 3.2",
+   "lesson": "hr-hindi-g2-w01-d03",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Table cell for पठन: the printed 'मार्गदर्शन पठन सप्ताह 1, दिवस 1-2' as read",
+   "lesson": "hr-hindi-g2-w01-d04",
+   "page": 21
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Matra glyph printed as ‘ा’ (aa-matra sign); transcribed as ा",
+   "lesson": "hr-hindi-g2-w01-d04",
+   "page": 21
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.1 aim line (icon) given as text; the lay/words bullet text 'दोहराएँ सभी बच्चों...' as printed on two lines",
+   "lesson": "hr-hindi-g2-w01-d04",
+   "page": 21
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt boxes given as bullet items; table cell bullets joined per column",
+   "lesson": "hr-hindi-g2-w01-d04",
+   "page": 21
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column: table, 1, 1.1, 1.2, 1.3; right column: 2, 2.1, 2.2, 3, 3.1, 3.2",
+   "lesson": "hr-hindi-g2-w01-d04",
+   "page": 21
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Matra glyph printed as ‘ा’ (aa-matra sign); transcribed as ा",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading printed 'करवाएँ।' (with danda) as read",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'ध्यान रखें...' is the unbulleted continuation at top of right column; given as text item",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Table 'साप्ताहिक आकलन ‘मैंने सीख लिया’' appears in the डिकोडिंग column",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt boxes given as bullet items; table cell bullets joined per column",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column: table, 1, 1.1, 1.2 (to 'लगी थी?'); right column: continuation of 1.2, 1.3, 2, 2.1, 2.2, 3, 3.1",
+   "lesson": "hr-hindi-g2-w01-d05",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Table cell: 'बच्चों द्वारा ‘अपने शब्दों में कहानी सुनाना' printed with an opening quote only",
+   "lesson": "hr-hindi-g2-w01-d06",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first bullet 'दोहरान के नजरिये' as printed",
+   "lesson": "hr-hindi-g2-w01-d06",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt box given as bullet items; table cell bullets joined per column",
+   "lesson": "hr-hindi-g2-w01-d06",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "समूह 1 / समूह 2 lines are plain (unbulleted) text with bold labels",
+   "lesson": "hr-hindi-g2-w01-d06",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column: table, 1, 1.1, 1.2, 1.3 (start); right column: 1.3 continuation, 2, 2.1, 2.2",
+   "lesson": "hr-hindi-g2-w01-d06",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 and 2.2 matra: heading printed ‘ि’ looked like a matra sign; read as ‘ि’",
+   "lesson": "hr-hindi-g2-w02-d01",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 'मात्रा लगाकर शब्द बनाने' as read",
+   "lesson": "hr-hindi-g2-w02-d01",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute row has two sub-rows per class (separated by a line); items listed in top-to-bottom order per class",
+   "lesson": "hr-hindi-g2-w02-d01",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Prompt box given as bullet items",
+   "lesson": "hr-hindi-g2-w02-d01",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No 'आज किए जाने वाले कार्य' table on this page. Left column: 1, 1.1-1.3; right column: 2, 2.1, 2.2, 3, 3.1, 3.2; multigrade box across the bottom",
+   "lesson": "hr-hindi-g2-w02-d01",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 heading: the matra shown in quotes is ु as printed.",
+   "lesson": "hr-hindi-g2-w02-d02",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40 and 20 minute rows each have two printed sub-rows; merged under the group label in print order (Class 2 second row of 20 min has no text, only an icon).",
+   "lesson": "hr-hindi-g2-w02-d02",
+   "page": 25
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w02-d02",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 heading: the matras inside the quotes read as ु , ू but the second glyph is small and may differ.",
+   "lesson": "hr-hindi-g2-w02-d03",
+   "page": 26
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40 and 20 minute rows each have two printed sub-rows; merged under the group label in print order.",
+   "lesson": "hr-hindi-g2-w02-d03",
+   "page": 26
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading matra signs printed as ‘ु ,ू ’ (u and uu); transcribed that way",
+   "lesson": "hr-hindi-g2-w02-d04",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'कविता सुनाए (पेज -18)' as printed",
+   "lesson": "hr-hindi-g2-w02-d04",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40/20-minute rows have two sub-rows per class (separated by a line); items listed top-to-bottom per class",
+   "lesson": "hr-hindi-g2-w02-d04",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column: 1, 1.1-1.3, 2, 2.1; right column: 2.2, 3, 3.1, 3.2; multigrade box across the bottom",
+   "lesson": "hr-hindi-g2-w02-d04",
+   "page": 27
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w02-d04",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 heading: the matra marks between quotes printed as ‘ ु , ू ’ (small marks, hard to read)",
+   "lesson": "hr-hindi-g2-w02-d05",
+   "page": 28
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: row assignment of the last two bullets in 40/20 minute rows inferred from row layout; the 40-minute row has two sub-rows per class, the 20-minute row's class 2 has one bullet",
+   "lesson": "hr-hindi-g2-w02-d05",
+   "page": 28
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w02-d05",
+   "page": 28
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: quote placement in 'जितने मुंह उतनी’ बात — the closing quote is printed after 'उतनी' (opening quote before जितने)",
+   "lesson": "hr-hindi-g2-w02-d06",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed over two lines (साप्ताहिक आकलन- / मैंने सीख लिया-2, पृष्ठ सं. 26), joined with a space",
+   "lesson": "hr-hindi-g2-w02-d06",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading: matra marks printed between 'मात्रा' and 'के साथ' / after 'मात्रा' are small marks (read as 'ा , ी' and a grave-like mark); exact marks uncertain",
+   "lesson": "hr-hindi-g2-w03-d01",
+   "page": 30
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 bold line printed as 'पाठ्सपुस्तक' (as printed; 3.2 prints 'पाठ्यपुस्तक')",
+   "lesson": "hr-hindi-g2-w03-d01",
+   "page": 30
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 question box (speech-bubble box with 3 bullets) recorded as bullet items of 1.2",
+   "lesson": "hr-hindi-g2-w03-d01",
+   "page": 30
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade: in the 40-minute row class 2 has two sub-rows each with bullets",
+   "lesson": "hr-hindi-g2-w03-d01",
+   "page": 30
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w03-d01",
+   "page": 30
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading: the four matra marks between quotes are small and hard to read (best reading ा , ी , ` , ै)",
+   "lesson": "hr-hindi-g2-w03-d02",
+   "page": 31
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min: 'पेड़ों के पत्तियों' as printed",
+   "lesson": "hr-hindi-g2-w03-d02",
+   "page": 31
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w03-d02",
+   "page": 31
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 and multigrade text print 'पाठ-2'/'रागिनी-2' for ऊन का गोला as printed (earlier pages say पाठ-3)",
+   "lesson": "hr-hindi-g2-w03-d03",
+   "page": 32
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w03-d03",
+   "page": 32
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 and 2.2 matra marks (small marks between quotes) hard to read; best reading given",
+   "lesson": "hr-hindi-g2-w03-d04",
+   "page": 33
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'हाथो' printed without chandrabindu/anusvara (as printed)",
+   "lesson": "hr-hindi-g2-w03-d04",
+   "page": 33
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade: 'पृष्ठ सं. 25' as printed (day 3-4 textbook page was 38)",
+   "lesson": "hr-hindi-g2-w03-d04",
+   "page": 33
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w03-d04",
+   "page": 33
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading and 2.2 matra mark in quotes is a small mark (read as ै)",
+   "lesson": "hr-hindi-g2-w03-d05",
+   "page": 34
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'पीने का पानी' as printed in the example list",
+   "lesson": "hr-hindi-g2-w03-d05",
+   "page": 34
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w03-d05",
+   "page": 34
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: 'मिलकर' printed as 'मिलकर' (read as printed)",
+   "lesson": "hr-hindi-g2-w03-d06",
+   "page": 35
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 first bullet of the right column (कहानी पढ़ने के बाद...) is a continuation of 2.1, placed as third item",
+   "lesson": "hr-hindi-g2-w03-d06",
+   "page": 35
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading: matra marks in quotes are small and hard to read; best reading given",
+   "lesson": "hr-hindi-g2-w04-d01",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 question box (3 bullets) recorded as bullet items of 1.2",
+   "lesson": "hr-hindi-g2-w04-d01",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min says 'दीदी और मैं' while period 1.2 is 'फौजी चाचा' (as printed)",
+   "lesson": "hr-hindi-g2-w04-d01",
+   "page": 36
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w04-d01",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading: matra marks inside quotes are small and hard to read; best reading given",
+   "lesson": "hr-hindi-g2-w04-d02",
+   "page": 37
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w04-d02",
+   "page": 37
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 heading is a full sentence printed in the step bar; kept as heading",
+   "lesson": "hr-hindi-g2-w04-d03",
+   "page": 38
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40 and 20 minute rows each have two printed sub-rows per group; merged in reading order under the group label",
+   "lesson": "hr-hindi-g2-w04-d03",
+   "page": 38
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w04-d03",
+   "page": 38
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30 minute row: 'तोते का चित्र बनाओ।' printed as 'तोते का चित्र बनाओ।' (line wraps)",
+   "lesson": "hr-hindi-g2-w04-d04",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 'वाक्य बनने' as printed (likely misprint)",
+   "lesson": "hr-hindi-g2-w04-d04",
+   "page": 39
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w04-d04",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3 first heading line 'आस-पास के चीज़ों के चित्र बनाना' as printed",
+   "lesson": "hr-hindi-g2-w04-d05",
+   "page": 40
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w04-d05",
+   "page": 40
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 third bullet is at the top of the right column (continuation of period 2 from the left column); placed under 2.1",
+   "lesson": "hr-hindi-g2-w04-d06",
+   "page": 41
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «ध्वनि को जोड़-तोड़कर बोलना, प्रथम ध्वनि बताना।»",
+   "lesson": "hr-hindi-g2-w04-d06",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 discussion-question box placed as figure item at end of 1.2",
+   "lesson": "hr-hindi-g2-w05-d01",
+   "page": 42
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w05-d01",
+   "page": 42
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3 first bullet: quote ‘मिलते-जुलते’ has no closing quote as printed",
+   "lesson": "hr-hindi-g2-w05-d02",
+   "page": 43
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w05-d02",
+   "page": 43
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 starts at top of right column (continuation of period 2 from left column); placed under period 2",
+   "lesson": "hr-hindi-g2-w05-d03",
+   "page": 44
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w05-d03",
+   "page": 44
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Day key: both 'दिवस 1' and 'दिवस 4' tabs have dark text; day 4 has the stronger fill and content says पठन-4/पाठ 4, so day = 4",
+   "lesson": "hr-hindi-g2-w05-d04",
+   "page": 45
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 'छटनी' as printed",
+   "lesson": "hr-hindi-g2-w05-d04",
+   "page": 45
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w05-d04",
+   "page": 45
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3 first bullet opens with ‘ that is never closed, as printed",
+   "lesson": "hr-hindi-g2-w05-d05",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min Class 2 first row: 'ब्लेंडिंग और शब्द पठन पर कार्य। अभ्यास-पत्रक 5.5' printed as one block without bullet marks; recorded as text",
+   "lesson": "hr-hindi-g2-w05-d05",
+   "page": 46
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w05-d05",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 third bullet and 2.2 are in the right column (continuation of period 2); third bullet placed under 2.1",
+   "lesson": "hr-hindi-g2-w05-d06",
+   "page": 47
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20 minute Class 2 second row is empty (only an icon) as printed",
+   "lesson": "hr-hindi-g2-w05-d06",
+   "page": 47
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: row-to-time grouping of the 40/20 minute rows inferred from layout; the line 'अभ्यास-पत्रक की गतिविधियों पर कार्य।' right of the 'पुनरावृत्ति' row placed under 40 मिनट कक्षा 2; 'पुस्तकालय की किताबों' printed as 'किताबें' possibly (read as किताबों/किताबें unclear)",
+   "lesson": "hr-hindi-g2-w06-d01",
+   "page": 48
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w06-d01",
+   "page": 48
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.51): «ब्लेंडिंग और शब्द पठन पर कार्य। अभ्यास-पत्रक 6.5»",
+   "lesson": "hr-hindi-g2-w06-d01",
+   "page": 48
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: grouping of two-row cells under 40/20 minute inferred from layout; a few items are in the second row of each time block",
+   "lesson": "hr-hindi-g2-w06-d02",
+   "page": 49
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w06-d02",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 spans both columns: 2.1 at bottom of left column, 2.2 at top of right column",
+   "lesson": "hr-hindi-g2-w06-d03",
+   "page": 50
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 'रखेगें' vs 'रखेंगें' spelling of line 'बच्चे चित्र बनाने का कार्य जारी रखेंगें।' read as printed रखेंगें (p048-049 use रखेंगें) - check",
+   "lesson": "hr-hindi-g2-w06-d03",
+   "page": 50
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w06-d03",
+   "page": 50
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'रखेगें'/'रखेंगें' spelling in multigrade line; 'लोगोग्रफिक' (printed लोगोग्रफिक vs लोगोग्राफिक) read as printed",
+   "lesson": "hr-hindi-g2-w06-d04",
+   "page": 51
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w06-d04",
+   "page": 51
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3 has only 3.1 on this page (no 3.2 आकलन printed); bullets under 1.2 'तुम्हें कैसा लगा?' / 'तुमने क्या किया?' are in a speech-box, recorded as bullets",
+   "lesson": "hr-hindi-g2-w06-d05",
+   "page": 52
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'रखेगें' vs 'रखेंगें' spelling in multigrade line",
+   "lesson": "hr-hindi-g2-w06-d05",
+   "page": 52
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w06-d05",
+   "page": 52
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.51): «ब्लेंडिंग और शब्द पठन पर कार्य। अभ्यास-पत्रक 6.5»",
+   "lesson": "hr-hindi-g2-w06-d05",
+   "page": 52
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Top of right column has an unheaded bullet 'कहानी पढ़ने के बाद...' placed as last item of 2.1 (it sits in a box above 2.2, continuing 2.1 from the left column)",
+   "lesson": "hr-hindi-g2-w06-d06",
+   "page": 53
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 'रखेगें' spelling",
+   "lesson": "hr-hindi-g2-w06-d06",
+   "page": 53
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Heading of 2.1 is the quoted title ‘नील कमल’ as printed; 'रखेगें' vs 'रखेंगें' spelling in multigrade line; 'नीली कलम' in multigrade vs 'नील कमल' in main body as printed",
+   "lesson": "hr-hindi-g2-w07-d01",
+   "page": 54
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w07-d01",
+   "page": 54
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 spans both columns: 2.1 at bottom of left column (continues onto b half), 2.2 at top of right column",
+   "lesson": "hr-hindi-g2-w07-d02",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 first bullet comma placement 'कर रहे हैं, उसके' as printed",
+   "lesson": "hr-hindi-g2-w07-d02",
+   "page": 55
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w07-d02",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 spans both columns: 2.1 in left column, 2.2 at top of right column",
+   "lesson": "hr-hindi-g2-w07-d03",
+   "page": 56
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "In the multigrade 20-minute block, the two bullets of the top-left cell are class 1 items; 'साझा पठन' is the second row",
+   "lesson": "hr-hindi-g2-w07-d03",
+   "page": 56
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w07-d03",
+   "page": 56
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 spans both columns: 2.1 at bottom of left column, 2.2 at top of right column",
+   "lesson": "hr-hindi-g2-w07-d04",
+   "page": 57
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'ज़रुरत' and 'लोगोग्रफिक' spellings as printed; 'रखेगें' spelling in multigrade line",
+   "lesson": "hr-hindi-g2-w07-d04",
+   "page": 57
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w07-d04",
+   "page": 57
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: the 40 and 20 minute rows each have two printed sub-rows (class 1 / class 2 side by side); items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w07-d05",
+   "page": 58
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w07-d05",
+   "page": 58
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.59): «ब्लेंडिंग और शब्द पठन पर कार्य। अभ्यास-पत्रक 6.5»",
+   "lesson": "hr-hindi-g2-w07-d05",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with an unheaded bullet ('कहानी पढ़ने के बाद ...') above box 2.2; placed as the last item of 2.1 following reading order.",
+   "lesson": "hr-hindi-g2-w07-d06",
+   "page": 59
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w07-d06",
+   "page": 59
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the three question lines sit in a boxed callout with a speech icon; recorded as bullets.",
+   "lesson": "hr-hindi-g2-w08-d01",
+   "page": 60
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w08-d01",
+   "page": 60
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w08-d01",
+   "page": 60
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w08-d02",
+   "page": 61
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w08-d02",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w08-d03",
+   "page": 62
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w08-d03",
+   "page": 62
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w08-d04",
+   "page": 63
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Heading of 1.2 printed with a closing quote ’ but no opening quote; copied as printed.",
+   "lesson": "hr-hindi-g2-w08-d04",
+   "page": 63
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w08-d04",
+   "page": 63
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w08-d04",
+   "page": 63
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w08-d05",
+   "page": 64
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w08-d05",
+   "page": 64
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.71): «रागिनी भाग-1 पृष्ठ सं-85 (पठन) से आदर्श एवं मार्गदर्शन में पठन करवाना। बच्चे स्वतंत्र पठन »",
+   "lesson": "hr-hindi-g2-w08-d05",
+   "page": 64
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with an unheaded bullet ('कहानी पढ़ने के बाद ...') above box 2.2; placed as the last item of 2.1 following reading order.",
+   "lesson": "hr-hindi-g2-w08-d06",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order; the second 20-minute class 2 sub-row shows only icons, no text.",
+   "lesson": "hr-hindi-g2-w08-d06",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.1: the second bullet appears to run together two sentences ('प्रवाह पूर्ण पठन पाठ-17 ...'); transcribed as one bullet as printed.",
+   "lesson": "hr-hindi-g2-w09-d01",
+   "page": 66
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the third question bullet's closing '?' wraps below the box edge; read as 'भागे?'.",
+   "lesson": "hr-hindi-g2-w09-d01",
+   "page": 66
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w09-d01",
+   "page": 66
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w09-d01",
+   "page": 66
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.1: second bullet runs two sentences together as printed.",
+   "lesson": "hr-hindi-g2-w09-d02",
+   "page": 67
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order.",
+   "lesson": "hr-hindi-g2-w09-d02",
+   "page": 67
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w09-d02",
+   "page": 67
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: the 40 and 20 minute rows each have two sub-rows; items are merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w09-d03",
+   "page": 68
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w09-d03",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 40 and 20 minute rows each have two sub-rows; items merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w09-d04",
+   "page": 69
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w09-d04",
+   "page": 69
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: matra glyphs between quotes read as ा and ी; exact quoting uncertain.",
+   "lesson": "hr-hindi-g2-w09-d05",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w09-d05",
+   "page": 70
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w09-d05",
+   "page": 70
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.71): «रागिनी भाग-1 पृष्ठ सं-97 (पठन) से आदर्श एवं मार्गदर्शन में पठन करवाना। बच्चे स्वतंत्र पठन »",
+   "lesson": "hr-hindi-g2-w09-d05",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column top bullet (कहानी पढ़ने के बाद...) has no heading above it; placed as third item of 2.1 (continuation across columns).",
+   "lesson": "hr-hindi-g2-w09-d06",
+   "page": 71
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w09-d06",
+   "page": 71
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "In 1.2 the three question lines inside the speech-bubble box are given as bullets after the discussion bullets.",
+   "lesson": "hr-hindi-g2-w10-d01",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d01",
+   "page": 72
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w10-d01",
+   "page": 72
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «मार्गदर्शन में पठन (10.1) व पाठ आधारित लेखन।»",
+   "lesson": "hr-hindi-g2-w10-d01",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d02",
+   "page": 73
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w10-d02",
+   "page": 73
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: printed 'पृष्ठ सं. से 116 पर' copied as printed.",
+   "lesson": "hr-hindi-g2-w10-d03",
+   "page": 74
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: the matra shown in quotes is a small mark; read as ‘ै’, uncertain.",
+   "lesson": "hr-hindi-g2-w10-d03",
+   "page": 74
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d03",
+   "page": 74
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w10-d03",
+   "page": 74
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.57): «मार्गदर्शन में पठन (10.3) व पाठ आधारित लेखन।»",
+   "lesson": "hr-hindi-g2-w10-d03",
+   "page": 74
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: 'इन्द्धनुष' printed as such in third-from-last bullet (misprint kept).",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: matra glyph in quotes is a small mark; read as ‘ौ’, uncertain.",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2: 'सब्ज़ियों' nukta/spelling read as printed best-effort.",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «मार्गदर्शन में पठन (10.4) व पाठ आधारित लेखन।»",
+   "lesson": "hr-hindi-g2-w10-d04",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 2: 'शहद' (10.5) printed although the day's text is 'जंगल में बरसात'; copied as printed.",
+   "lesson": "hr-hindi-g2-w10-d05",
+   "page": 76
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d05",
+   "page": 76
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w10-d05",
+   "page": 76
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.73): «रागिनी भाग-1 पृष्ठ सं-97 (पठन) से आदर्श एवं मार्गदर्शन में पठन करवाना। बच्चे स्वतंत्र पठन »",
+   "lesson": "hr-hindi-g2-w10-d05",
+   "page": 76
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column top bullet (कहानी पढ़ने के बाद...) has no heading above it; placed as third item of 2.1 (continuation across columns).",
+   "lesson": "hr-hindi-g2-w10-d06",
+   "page": 77
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: sub-rows merged per class group in printed order.",
+   "lesson": "hr-hindi-g2-w10-d06",
+   "page": 77
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: the 40 and 20 minute rows each have two sub-rows; items listed in printed top-to-bottom order per group",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d01",
+   "page": 78
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: quote marks around न्यौता ( पृष्ठ 115 ) are printed mismatched (opening “ closing ’)",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d02",
+   "page": 79
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3: 'वर्दी' word read as printed, may be 'वर्दी'; Multigrade 30-min lekhan line: closing bracket missing after 'पृष्ठ सं. 113' as printed",
+   "lesson": "hr-hindi-g2-w11-d03",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d03",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d03",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d03",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d03",
+   "page": 80
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade lekhan line: closing bracket missing after 'पृष्ठ सं 114' as printed",
+   "lesson": "hr-hindi-g2-w11-d04",
+   "page": 81
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d04",
+   "page": 81
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d04",
+   "page": 81
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d04",
+   "page": 81
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w11-d04",
+   "page": 81
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade rows: 'पुरावृत्ति' (class 1 side) and 'घरे' printed as such (apparent misprints kept); item 1.2 bullet 'प्रतिक्रया' as printed",
+   "lesson": "hr-hindi-g2-w11-d05",
+   "page": 82
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.84): «लेखन: कक्षा 1: अपने घरे के पालतू जानवरों के चित्र बनाना व नाम लिखना कक्षा 2: पाठ आधारित ले»",
+   "lesson": "hr-hindi-g2-w11-d05",
+   "page": 82
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3 appears at top of right column without a repeated period-1 bar; placed under section 1 as the continuation of period 1",
+   "lesson": "hr-hindi-g2-w12-d01",
+   "page": 84
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Group-2 bullet 'कार्य करें दें' printed as such",
+   "lesson": "hr-hindi-g2-w12-d01",
+   "page": 84
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade lekhan line: bracket/danda after 'पृष्ठ सं. 122' read as '।' (closing bracket absent)",
+   "lesson": "hr-hindi-g2-w12-d03",
+   "page": 86
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w12-d04",
+   "page": 87
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w12-d05",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the boxed bullet list (यह क्या होती है ... अगली बार) is rendered as text items beginning with '•' since it is a boxed sub-list",
+   "lesson": "hr-hindi-g2-w12-d05",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade row 40/20: group assignment of left/right columns inferred from कक्षा 1/कक्षा 2 header bars",
+   "lesson": "hr-hindi-g2-w12-d05",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "सावधिक vs सावधिक spelling: 'सावधिक पुनरावृत्ति' in period heading vs 'पुनरावृति' in multigrade box, copied as printed",
+   "lesson": "hr-hindi-g2-w12-d05",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade rows 40/20: left/right columns assigned to कक्षा 1/कक्षा 2 per header bars",
+   "lesson": "hr-hindi-g2-w12-d06",
+   "page": 89
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 4 but found 3",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.1: 'करना' vs 'करें' wording copied as printed ('2-3 बार ऐसा करना।')",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The 'आज किए जाने वाले कार्य' table placed as an unnumbered first section; table cell bullet text flattened",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w13-d01",
+   "page": 90
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d02",
+   "page": 92
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right-column top items (पृष्ठ सं. 147 ...) placed in 1.3 as continuation of left column; they appear before heading 2",
+   "lesson": "hr-hindi-g2-w13-d02",
+   "page": 92
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 'पर पर' printed doubled in the abhyas-karya box",
+   "lesson": "hr-hindi-g2-w13-d02",
+   "page": 92
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d03",
+   "page": 93
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 last bullet: printed 'कौवे ने छाते में अपने बच्चों को रखा?' appears to lack a word, copied as printed",
+   "lesson": "hr-hindi-g2-w13-d03",
+   "page": 93
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w13-d03",
+   "page": 93
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d04",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3 first bullet continues from left column bottom into right column top (joined)",
+   "lesson": "hr-hindi-g2-w13-d04",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 'पर पर' printed doubled in the abhyas-karya line",
+   "lesson": "hr-hindi-g2-w13-d04",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 sub-line 'पाठ-13 ‘चित्र-कथा’' copied as printed",
+   "lesson": "hr-hindi-g2-w13-d04",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d05",
+   "page": 95
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading printed 'अभ्यास एवं पुनरावृति' (copied as printed); 2.2 'अभ्यास-कार्य' is the bold lead of its line with no printed minutes",
+   "lesson": "hr-hindi-g2-w13-d05",
+   "page": 95
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'मिलता हैं)' misprint copied as printed",
+   "lesson": "hr-hindi-g2-w13-d05",
+   "page": 95
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w13-d06",
+   "page": 96
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading 'पृ. स.' abbreviation copied as printed; its body (indented under the bar) written as a text item",
+   "lesson": "hr-hindi-g2-w13-d06",
+   "page": 96
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading minutes not printed",
+   "lesson": "hr-hindi-g2-w13-d06",
+   "page": 96
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Boxed question lists written as text items starting with '•'",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade rows 40/20: left/right columns assigned to कक्षा 1/कक्षा 2 per header bars; the two printed sub-rows per time row are listed in order within each group",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 heading 'अभ्यास-14.1 ‘सूजी का हलवा’' has no printed minutes; 2.2 minutes not printed",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 'पृष्ठ सं 162' lacks full stop, copied as printed",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.59): «आदर्श एवं मार्गदर्शन में पठन अभ्यास 14 .1 ‘सूजी का हलवा’ पृष्ठ सं 162 पाठ आधारित लेखन पृष्»",
+   "lesson": "hr-hindi-g2-w14-d01",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: in the 30-minute row the two bullets (लेखन: कक्षा 1 / कक्षा 2) are printed side by side on one line; split by me into two bullets",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: row-group assignment of the 40/20-minute rows inferred from layout (left = कक्षा 1, right = कक्षा 2)",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.29): «लेखन: कक्षा 1: अपने मनपसंद शरबतों के नाम लिखो।»",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.8): «कक्षा 2: आपके घर कब-कब और कौन-कौन सा शरबत बनता है।»",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 14.1 ‘सूजी का हलवा’ (पृष्ठ सं. 162 ) पाठ आधारित लेख»",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.83): «स्वतंत्र पठन व बच्चों द्वारा पाठ पुनः पढ़कर सुनाना ‘पानी बरसने लगा’ पृष्ठ 155, 3-4 बच्चों »",
+   "lesson": "hr-hindi-g2-w14-d02",
+   "page": 98
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: bullets 2 and 3 are printed on one line; split by me",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 1: the matra symbol before 'ग्रिड' is a small glyph that could not be read",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 2: 'करन का गाना' (printed spelling differs from 'करण का गाना' elsewhere), text squeezed and hard to read",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min: 'पृष्ठ सं....' printed with dots",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.61): «लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-14 ‘आलू की सड़क’ पृष्ठ सं....)»",
+   "lesson": "hr-hindi-g2-w14-d03",
+   "page": 99
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 (डिकोडिंग) continues from left column into right column (second bullet of 2.1, then 2.2, then period 3 in right column); put in one unit in reading order",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 prints '20 मिनट' on its own bar",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me; कक्षा 1 text ends with '....।'",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 2: 'करन का गाना' and page 'सं-166' as printed, text squeezed",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.68): «लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-14 ‘आलू की सड़क’ ....।»",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 14.3 ‘करन का गाना’ (पृष्ठ सं-166) पाठ आधारित लेखन अ»",
+   "lesson": "hr-hindi-g2-w14-d04",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the two sub-bullets (उन्हें लंबी उबासी..., म्याऊँ-म्याऊँ...) are indented round-dot bullets; recorded as bullet items",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me; 'पृष्ठ सं.....' printed with dots",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 2: 'स्वतत्र' as printed (missing nasal)",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.19): «लेखन: कक्षा 1: अपने स्कूल के बारे में 3-4 बातें जो आपको अच्छे लगती हैं, लिखो।»",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.63): «आदर्श एवं स्वतत्र पठन: अभ्यास 14.5 ‘मेला’ पृष्ठ सं. 166 साप्ताहिक आकलन: मैंने सीख लिया।»",
+   "lesson": "hr-hindi-g2-w14-d05",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right-column top bullet (कहानी पढ़ने के बाद...) sits in a box continuing from the left column; I placed it as the third item of 2.1",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-14, पृष्ठ सं. 168'; joined",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "समूह 1/2 lines are bold plain lines; recorded as text",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: bullets 2 and 3 share a printed line; split by me",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.41): «लेखन: कक्षा 1: कहानी में किसी पात्र का चित्र बनाना।»",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.32): «कक्षा 2: पाठ आधारित लेखन (पाठ-14 पृष्ठ सं........)»",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.84): «स्वतंत्र पठन: पुस्तकालय की किताबों से स्वतंत्र पठन।»",
+   "lesson": "hr-hindi-g2-w14-d06",
+   "page": 102
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the boxed call-out of questions (पाठ के बाद..., बच्चे और शिक्षिका..., पनीरी..., अगर धान...) recorded as bullet items",
+   "lesson": "hr-hindi-g2-w15-d01",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: the second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
+   "lesson": "hr-hindi-g2-w15-d01",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 1 'ह' quote marks and grid text as read",
+   "lesson": "hr-hindi-g2-w15-d01",
+   "page": 103
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w15-d01",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
+   "lesson": "hr-hindi-g2-w15-d02",
+   "page": 104
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-min कक्षा 1: text crowded, 'पृष्ठ न. 169 3-4' read as printed",
+   "lesson": "hr-hindi-g2-w15-d02",
+   "page": 104
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w15-d02",
+   "page": 104
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line; kept as one bullet",
+   "lesson": "hr-hindi-g2-w15-d03",
+   "page": 105
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-min कक्षा 1: 'बाजार में बारिश' 17 (page number as printed, no 'पृष्ठ सं.')",
+   "lesson": "hr-hindi-g2-w15-d03",
+   "page": 105
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 2: 'बन्दर' spelling differs from 'बंदर' elsewhere, as printed",
+   "lesson": "hr-hindi-g2-w15-d03",
+   "page": 105
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w15-d03",
+   "page": 105
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.59): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 15.3 ‘बन्दर और खरगोश’ पृष्ठ सं 176 से आदर्श एवं मार्ग»",
+   "lesson": "hr-hindi-g2-w15-d03",
+   "page": 105
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 content continues from left column into right column (second bullet of 2.1, then 2.2, then period 3); put in one unit in reading order",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 prints '20 मिनट' on its own bar",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 text 'शब्दों से नहीं वाले वाक्य बनाने' read as printed",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines in one printed line",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min: spacing in '14. 4', '15. 3', '15 .4' as printed; कक्षा 1 'अभ्यास-पत्रक 14. 4 पृष्ठ 167' may be misprint",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'दोहरान' as printed in 30-min row",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w15-d04",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: boxed call-out bullets (बच्चे घेरे में..., अपने पास की 3 वस्तुएँ..., उन वस्तुओं को...) recorded as bullet items after the intro bullet",
+   "lesson": "hr-hindi-g2-w15-d05",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 heading prints 'अभ्यास-14.5 ‘मेला’' (page also refers to 15.5 elsewhere), as printed",
+   "lesson": "hr-hindi-g2-w15-d05",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min row: second bullet holds both कक्षा 1 and कक्षा 2 lines; kept as one bullet",
+   "lesson": "hr-hindi-g2-w15-d05",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 1: spacing '15 .5' and '168 )' as printed",
+   "lesson": "hr-hindi-g2-w15-d05",
+   "page": 107
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w15-d05",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The boxed bullet at the top of the right column (कहानी पढ़ने के बाद ...) has no heading; placed as the third item of 2.1 as it appears to continue that section.",
+   "lesson": "hr-hindi-g2-w15-d06",
+   "page": 108
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: in the 20 minute row the left-class column (कक्षा 1) reads 'स्वतंत्र अभ्यास।' then (second row) 'बच्चे पुस्तकालय की किताबों से स्वतंत्र पठन।'; right-class column reads 'बच्चे पुस्तकालय की किताबों से स्वतंत्र पठन।' then 'स्वतंत्र पठन।' — row-wise order as printed in a 2x2 grid.",
+   "lesson": "hr-hindi-g2-w15-d06",
+   "page": 108
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the three question bullets sit inside a rounded speech box under the bullet 'पढ़कर सुनाने के दौरान ...'; kept as flat bullets, the box's first line written as a bullet.",
+   "lesson": "hr-hindi-g2-w16-d01",
+   "page": 109
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-minute row: grid read row-wise (class 1 / class 2 per row).",
+   "lesson": "hr-hindi-g2-w16-d01",
+   "page": 109
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w16-d01",
+   "page": 109
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: 'पुन:' printed with colon-like visarga; transcribed as 'पुन:'.",
+   "lesson": "hr-hindi-g2-w16-d02",
+   "page": 110
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box text is partly cramped; some words in the 40/20 minute rows may differ slightly.",
+   "lesson": "hr-hindi-g2-w16-d02",
+   "page": 110
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w16-d02",
+   "page": 110
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 2 bullet is cramped; wording 'पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 16.3 ...' read from small print.",
+   "lesson": "hr-hindi-g2-w16-d03",
+   "page": 111
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w16-d03",
+   "page": 111
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.8): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 16.3 ‘दशहरे का मेला’ पृष्ठ सं 188 से आदर्श एवं मार्गद»",
+   "lesson": "hr-hindi-g2-w16-d03",
+   "page": 111
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Heading of 1.2 printed 'पाठयपुस्तक' (without halant) — kept as printed.",
+   "lesson": "hr-hindi-g2-w16-d04",
+   "page": 112
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The top-right boxed bullet (बच्चों के पास जाकर ...) continues 2.1 from the left column's last bullet; placed as 2.1's second item.",
+   "lesson": "hr-hindi-g2-w16-d04",
+   "page": 112
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box small print in 30 and 40 minute rows partly cramped.",
+   "lesson": "hr-hindi-g2-w16-d04",
+   "page": 112
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w16-d04",
+   "page": 112
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the speech-box lines (three bullets) follow the bullet 'बच्चों को निम्नलिखित निर्देश दें–'; kept as flat bullets.",
+   "lesson": "hr-hindi-g2-w16-d05",
+   "page": 113
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 2 40-minute row prints 'तरंग का बकरा' (differs from section 2.1 'तरंग का बछड़ा'); copied as printed.",
+   "lesson": "hr-hindi-g2-w16-d05",
+   "page": 113
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w16-d05",
+   "page": 113
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.85): «लेखन: कक्षा 1: आप अपनी कक्षा को साफ रखने के लिए क्या-क्या करते हैं? कक्षा 2: पाठ आधारित ले»",
+   "lesson": "hr-hindi-g2-w16-d05",
+   "page": 113
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The boxed bullet at the top of the right column (कहानी पढ़ने के बाद ...) has no heading; placed as the third item of 2.1 as it appears to continue that section.",
+   "lesson": "hr-hindi-g2-w16-d06",
+   "page": 114
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade: 'किहीं' (30-minute class 1 writing) and 'चमकीला कीड़ा' (class 2, 40-minute) copied as printed, differing from 'चमकीला कड़ा' in section 2.1.",
+   "lesson": "hr-hindi-g2-w17-d01",
+   "page": 115
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: only one bullet appears inside the speech box (प्रश्नों की मदद से चर्चा).",
+   "lesson": "hr-hindi-g2-w17-d01",
+   "page": 115
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w17-d01",
+   "page": 115
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.64): «वर्ण पहचान व गतिविधि- ‘ओ’ ग्रिड के माध्यम से अभ्यास अभ्यास-पत्रक 17.1 पर कार्य पृ. सं. 192»",
+   "lesson": "hr-hindi-g2-w17-d01",
+   "page": 115
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-minute class 1 second bullet is cramped small print; 'पुन:' vs 'पुनः' ambiguous.",
+   "lesson": "hr-hindi-g2-w17-d02",
+   "page": 116
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w17-d02",
+   "page": 116
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 1: matra shown in the grid is the 'ु' sign (u-matra), read from a small glyph.",
+   "lesson": "hr-hindi-g2-w17-d03",
+   "page": 117
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 2 40-minute bullet is cramped small print.",
+   "lesson": "hr-hindi-g2-w17-d03",
+   "page": 117
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w17-d03",
+   "page": 117
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.76): «आदर्श पठन एवं मार्गदर्शन पठन से अभ्यास 17 . 3 ‘बस में शेर’ पृष्ठ सं 200 से पाठ आधारित लेखन»",
+   "lesson": "hr-hindi-g2-w17-d03",
+   "page": 117
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column top bullet (बच्चों के पास जाकर...) placed under 2.1 as continuation across columns",
+   "lesson": "hr-hindi-g2-w17-d04",
+   "page": 118
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-minute rows: label order assumed kaksha 1 left / kaksha 2 right per header bars",
+   "lesson": "hr-hindi-g2-w17-d04",
+   "page": 118
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: the 'मात्रा ‘ ु ’' glyph in class 1 row",
+   "lesson": "hr-hindi-g2-w17-d04",
+   "page": 118
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w17-d04",
+   "page": 118
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 2 text 'स्वतत्र' printed as such (missing nukta/anusvara-like misprint)",
+   "lesson": "hr-hindi-g2-w17-d05",
+   "page": 119
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w17-d05",
+   "page": 119
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column top bullet (कहानी पढ़ने के बाद...) placed under 2.1 as continuation across columns",
+   "lesson": "hr-hindi-g2-w17-d06",
+   "page": 120
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines, joined",
+   "lesson": "hr-hindi-g2-w17-d06",
+   "page": 120
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 starts at bottom of left column and its items finish in the 2.1 box; right column begins with 2.2",
+   "lesson": "hr-hindi-g2-w18-d01",
+   "page": 121
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 'पेज.न.' printed as such in 2.2",
+   "lesson": "hr-hindi-g2-w18-d01",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w18-d01",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.85): «आदर्श एवं मार्गदर्शन में पठन अभ्यास 18.1 ‘तीखी-चटपटी चटनी’ पृष्ठ सं 206 पाठ आधारित लेखन पृ»",
+   "lesson": "hr-hindi-g2-w18-d01",
+   "page": 121
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 'पृष्ठ सं.2' printed as such (page number appears truncated in print)",
+   "lesson": "hr-hindi-g2-w18-d02",
+   "page": 122
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 1 20-min second bullet is tightly overprinted; reading best effort",
+   "lesson": "hr-hindi-g2-w18-d02",
+   "page": 122
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w18-d02",
+   "page": 122
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: matra glyph read as ‘ि’",
+   "lesson": "hr-hindi-g2-w18-d03",
+   "page": 123
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w18-d03",
+   "page": 123
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w18-d04",
+   "page": 124
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: matra glyph printed as ‘f’ (font rendering of ि); copied as printed",
+   "lesson": "hr-hindi-g2-w18-d04",
+   "page": 124
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'एक-दुसरे' printed spelling kept",
+   "lesson": "hr-hindi-g2-w18-d04",
+   "page": 124
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w18-d04",
+   "page": 124
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w18-d05",
+   "page": 125
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 2 40-min 'स्वतत्र' printed as such",
+   "lesson": "hr-hindi-g2-w18-d05",
+   "page": 125
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w18-d05",
+   "page": 125
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines, joined",
+   "lesson": "hr-hindi-g2-w18-d06",
+   "page": 126
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 question box (speech-bubble icon) recorded as one figure item with questions separated by ' / '",
+   "lesson": "hr-hindi-g2-w19-d01",
+   "page": 127
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 1 40-min 'कार्यपृ. सं. 220' printed run together",
+   "lesson": "hr-hindi-g2-w19-d01",
+   "page": 127
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w19-d01",
+   "page": 127
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box: 'मिटटी' as printed; class 2 40-minute first bullet text is small and tightly spaced (अभ्यास 19.1 / पृष्ठ सं. 222); class 1 20-minute second bullet text is cramped (पृष्ठ स. 225 3-4).",
+   "lesson": "hr-hindi-g2-w19-d02",
+   "page": 128
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w19-d02",
+   "page": 128
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 19.1 ‘दो गाय’ (पृष्ठ सं. 222) पाठ आधारित लेखन: अभ्य»",
+   "lesson": "hr-hindi-g2-w19-d02",
+   "page": 128
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 1: matra symbol in quotes after 'मात्रा पहचान पर कार्य' is a small ू sign; written 'ू' (best reading).",
+   "lesson": "hr-hindi-g2-w19-d03",
+   "page": 129
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w19-d03",
+   "page": 129
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 1: the matra symbol in quotes ('ॅ') is small and unclear; best reading.",
+   "lesson": "hr-hindi-g2-w19-d04",
+   "page": 130
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w19-d04",
+   "page": 130
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 2: 'स्वतत्र' printed without anusvara (as printed, text cramped).",
+   "lesson": "hr-hindi-g2-w19-d05",
+   "page": 131
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w19-d05",
+   "page": 131
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Top of right column: a boxed bullet 'कहानी पढ़ने के बाद ...' has no heading of its own; placed as third item of 2.1 (continuation from left column).",
+   "lesson": "hr-hindi-g2-w19-d06",
+   "page": 132
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-minute class 2: 'आकलन पर आधार पर' as printed.",
+   "lesson": "hr-hindi-g2-w19-d06",
+   "page": 132
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 first bullet: 'सावधि आकलन' as read (possibly 'सावधिक'); the two bullets under 1.2 'मुर्गी के बच्चे...' and 'बिल्ली ने...' are printed on one line as sub-bullets, split into two bullets.",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last 2.1 bullet: 'शिक्षक प्रतिदिन कार्य के लिए योजनाएँ' as printed.",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «मुर्गी के बच्चे को क्या कहते है?»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «बिल्ली ने मुर्गी से क्या कहा?»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-2»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d01",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-2»",
+   "lesson": "hr-hindi-g2-w20-d02",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d02",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d02",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d02",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d02",
+   "page": 134
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 'समूह-2': right-aligned label '20.3 पेज 234' placed as first text item.",
+   "lesson": "hr-hindi-g2-w20-d03",
+   "page": 135
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Misprints kept as printed: 'कार्यो', 'स्वत्रंत', 'उसमें में'.",
+   "lesson": "hr-hindi-g2-w20-d03",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d03",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d03",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d03",
+   "page": 135
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 'समूह-2': right-aligned label '20.4 पेज 235' placed as first text item.",
+   "lesson": "hr-hindi-g2-w20-d04",
+   "page": 136
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 30-min class 2 line: 'फोटो चिपकाए गए खिलाड़ियों के नाम लिखो' as printed (misprint 'खिलाड़ियों' vs 'खिलाड़ियों' not distinguishable).",
+   "lesson": "hr-hindi-g2-w20-d04",
+   "page": 136
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d04",
+   "page": 136
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन»",
+   "lesson": "hr-hindi-g2-w20-d04",
+   "page": 136
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 'समूह-2': right-aligned label '20.5 पेज 236' placed as first text item.",
+   "lesson": "hr-hindi-g2-w20-d05",
+   "page": 137
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'रेमेडियल' (class 1) vs 'रेमिडियल' (class 2) spelled differently as printed.",
+   "lesson": "hr-hindi-g2-w20-d05",
+   "page": 137
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "समूह-2 heading has '20.6 पेज 237' printed at right on the same bar; placed as first text item",
+   "lesson": "hr-hindi-g2-w20-d06",
+   "page": 138
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade rows: left/right cell pairing of bullets inferred from table layout; the 20-minute row's second line for कक्षा 1 and the first for कक्षा 2 are the two sub-rows",
+   "lesson": "hr-hindi-g2-w20-d06",
+   "page": 138
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 question bullets sit inside a boxed callout with an icon; recorded as bullets",
+   "lesson": "hr-hindi-g2-w21-d01",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Group-1 bullet 1 prints 'वर्ण/अक्षरों मिलाकर' as written",
+   "lesson": "hr-hindi-g2-w21-d01",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d01",
+   "page": 139
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.27): «लेखन: कक्षा 1: किन्हीं पांच खेलों के नाम लिखो। कक्षा 2: खरगोश, बन्दर और हाथी के बारे में ए»",
+   "lesson": "hr-hindi-g2-w21-d01",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d02",
+   "page": 140
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d03",
+   "page": 141
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d04",
+   "page": 142
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "40-min कक्षा 1 first bullet 'पाठ आधारित लेखन कार्य रखें।' as printed",
+   "lesson": "hr-hindi-g2-w21-d04",
+   "page": 142
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w21-d05",
+   "page": 143
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 two survey questions sit in a boxed callout; recorded as bullets",
+   "lesson": "hr-hindi-g2-w21-d05",
+   "page": 143
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d05",
+   "page": 143
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w21-d06",
+   "page": 144
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w21-d06",
+   "page": 144
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2: printed as an inline bar 'अभ्यास-कार्य–' followed by text on the same block; no minutes printed",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1/3.2 have no minutes printed",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'चित्र-कथा' lines read from the printed text; shared 40-min कक्षा 1 'अभ्यास-पत्रक 21.1' as printed",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w22-d01",
+   "page": 145
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 inline bar 'अभ्यास-कार्य–' with text, no minutes",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1/3.2 no minutes printed",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.71): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 22.1 ‘हरजीत और मंजू का बगीचा’ (पृष्ठ सं. 254) पाठ आ»",
+   "lesson": "hr-hindi-g2-w22-d02",
+   "page": 146
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min कक्षा 2 text prints 'विमला की खीर' (vs 'सेवई' in 2.1) as read",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 inline bar with no minutes; 3.1/3.2 no minutes printed",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade cell pairing inferred from layout",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.84): «अभ्यास-पत्रक 22.3 (पृष्ठ सं. 256) पर ‘विमला की सेवई’ पाठ को पढ़ने व दिए गए प्रश्नों के उत्»",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w22-d03",
+   "page": 147
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade box 40-min class 1: the matra glyph after 'मात्रा' is a rare mark, read as ‘ ॄ’ (uncertain)",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 has no number/minutes bar printed; heading taken from bold 'अभ्यास-कार्य'; its number 2.2 appears in a small badge (read as 2.2)",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade class 2 40-min: 'विमला की खीर' as printed (differs from 'सेवई' in 2.1)",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.77): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 22.3 ‘विमला की खीर’ पृष्ठ 256 पाठ आधारित लेखन अभ्या»",
+   "lesson": "hr-hindi-g2-w22-d04",
+   "page": 148
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w22-d05",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 sentence reads as printed: 'आम के अलावा किन-किन फलों का रस बनाया जा सकता है। छाँटकर लिखने पर' (wording odd in print)",
+   "lesson": "hr-hindi-g2-w22-d05",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'पुनरावृति' spelling as printed",
+   "lesson": "hr-hindi-g2-w22-d05",
+   "page": 149
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w22-d05",
+   "page": 149
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w22-d05",
+   "page": 149
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w22-d06",
+   "page": 150
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 heading printed across two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-22, पृष्ठ सं. 260', joined",
+   "lesson": "hr-hindi-g2-w22-d06",
+   "page": 150
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right-column top bullet 'बच्चों को स्वयं व जोड़ों में पढ़वाएँ...' (above badge 2.2) placed under 2.1 as its continuation",
+   "lesson": "hr-hindi-g2-w23-d01",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w23-d01",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «अभ्यास-पत्रक 23.1 (पेज.न.267) दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ।»",
+   "lesson": "hr-hindi-g2-w23-d01",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w23-d01",
+   "page": 151
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-min class 1 second bullet text is tightly typeset; read as above",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.83): «अभ्यास-पत्रक 23.2 (पृष्ठ सं. 268) पर बबलू हाथी पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर लिख»",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.25): «कक्षा 1: पाठ में दिए गए पत्तों के नाम लिखो। कक्षा 2: कौन-कौन से पेड़ों के पत्ते खाने में क»",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.82): «वर्ण पहचान व गतिविधि ‘थ’ ग्रिड के माध्यम से अभ्यास। अभ्यास-पत्रक 23.2 (पृष्ठ सं. 269) पर क»",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 23.1 ‘बबलू हाथी’ (पृष्ठ सं. 267 ) पाठ आधारित लेखन: »",
+   "lesson": "hr-hindi-g2-w23-d02",
+   "page": 152
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: the matra mark inside quotes after 'मात्रा पहचान पर कार्य' is hard to read; best reading ‘ ै’",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-min class 2: 'पृष्ठ सं. 27' printed (probably 272 but printed as 27); 'अभ्यास 22.3 पृष्ठ 269' in class 2 40-min as printed",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'जाते है?' spelling as printed",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.84): «अभ्यास-पत्रक 23.3 (पृष्ठ सं. 269) पर गाँव में शेर पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर »",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.7): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 23.3 ‘गाँव में शेर’ पृष्ठ सं 269 से आदर्श एवं मार्गदर»",
+   "lesson": "hr-hindi-g2-w23-d03",
+   "page": 153
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 40-min class 1: the bold matra inside quotes read as ‘ो’ (uncertain)",
+   "lesson": "hr-hindi-g2-w23-d04",
+   "page": 154
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'ज़रुरत' spelling: printed as ज़रुरत/जरुरत, nukta uncertain",
+   "lesson": "hr-hindi-g2-w23-d04",
+   "page": 154
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'होती हैं' in multigrade class 2 30-min as printed",
+   "lesson": "hr-hindi-g2-w23-d04",
+   "page": 154
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w23-d04",
+   "page": 154
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w23-d04",
+   "page": 154
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Title spelled 'जेबरा की सवारी' in 2.1 heading but 'जेब्रा की सवारी' in multigrade box (as printed)",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'पुनरावृति' spelling as printed",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «पाठ्यपुस्तक के अभ्यास 23.5 (पृष्ठ सं.271) पर कहानी को पढ़ने, प्रश्नोत्तर करने पर अभ्यास कर»",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w23-d05",
+   "page": 155
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w23-d06",
+   "page": 156
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 heading printed across two lines, joined",
+   "lesson": "hr-hindi-g2-w23-d06",
+   "page": 156
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right-column top bullet 'बच्चों को स्वयं व जोड़ों में पढ़वाएँ...' placed under 2.1 as continuation",
+   "lesson": "hr-hindi-g2-w24-d01",
+   "page": 157
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Multigrade 20-min class 1: 'पृष्ठ सं. 28' printed (probably 285)",
+   "lesson": "hr-hindi-g2-w24-d01",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w24-d01",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «अभ्यास-पत्रक 24.1 (पेज.न.279) दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ।»",
+   "lesson": "hr-hindi-g2-w24-d01",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w24-d01",
+   "page": 157
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar: heading 'अभ्यास-कार्य' printed bold followed by '-' and text; no minutes printed",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade box: row/column pairing of the 40 and 20 minute rows read from layout",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.82): «वर्ण पहचान व गतिविधि ‘ष’ ग्रिड के माध्यम से अभ्यास। अभ्यास-पत्रक 24.2 (पृष्ठ सं. 283) पर क»",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.8): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 24. 1 ‘चाँद पर गिलहरी’ (पृष्ठ सं. 279) पाठ आधारित ल»",
+   "lesson": "hr-hindi-g2-w24-d02",
+   "page": 158
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 30-min: 'पृष्ठ सं 2279' as printed (likely misprint); 'अभ्यास 22.3' as printed",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 1 matra symbol in quotes unclear (read as ‘ ै ’)",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.83): «अभ्यास-पत्रक 24.3 (पृष्ठ सं. 281) पर सर्र-सर्र पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर लिख»",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.71): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 24 .3 ‘सर्र-सर्र’ पृष्ठ सं 281 से आदर्श एवं मार्गदर्श»",
+   "lesson": "hr-hindi-g2-w24-d03",
+   "page": 159
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ै ’)",
+   "lesson": "hr-hindi-g2-w24-d04",
+   "page": 160
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w24-d04",
+   "page": 160
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w24-d04",
+   "page": 160
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w24-d04",
+   "page": 160
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "layout: day 5 has period 2 and 3 in the right column; period 1 in left column",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «पाठ्यपुस्तक के अभ्यास 24.5 (पृष्ठ सं.283) पर कहानी को पढ़ने, प्रश्नोत्तर करने पर अभ्यास कर»",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w24-d05",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 साप्ताहिक आकलन printed in right column top with number 2.2 under period 2 (no separate bar); placed under section 2",
+   "lesson": "hr-hindi-g2-w24-d06",
+   "page": 162
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 30-min: 'पृष्ठ सं. 27' printed (cut by overlay, possibly 27x)",
+   "lesson": "hr-hindi-g2-w24-d06",
+   "page": 162
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 and 2.2 have no minutes printed",
+   "lesson": "hr-hindi-g2-w24-d06",
+   "page": 162
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 30-min class 2 line: last word 'लिखो।' partly overlapped by label",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 20-min: 'पृष्ठ सं. 30' as printed",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «अभ्यास-पत्रक 25.1 (पेज.न.291) दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ।»",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w25-d01",
+   "page": 163
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w25-d02",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w25-d02",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w25-d02",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 25.1 ‘ठंडी लस्सी’ (पृष्ठ सं. 291) पाठ आधारित लेखन: »",
+   "lesson": "hr-hindi-g2-w25-d02",
+   "page": 164
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ँ ’)",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 2: text is compressed and slightly overlapped; ending 'पृ 293' read",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 25.3 ‘साइकिल की सवारी’ पृष्ठ सं 293 से आदर्श एवं मार्»",
+   "lesson": "hr-hindi-g2-w25-d03",
+   "page": 165
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 1: matra symbol in quotes unclear (read as ‘ ॅ ’)",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade class 2 text prints 'साईकिल' while other places print 'साइकिल'",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 25.3 ‘साईकिल की सवारी’ पृष्ठ 293 पाठ आधारित लेखन अभ»",
+   "lesson": "hr-hindi-g2-w25-d04",
+   "page": 166
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade class 2 prints 'आम का अचार' while 2.1 title prints 'आम का मुरब्बा'",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'पेम्पलेट' as printed",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "figure bubble examples are inside the 1.2 step; position after the 'उदाहरण:' bullet",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «पाठ्यपुस्तक के अभ्यास 25.5 (पृष्ठ सं.295) पर कहानी को पढ़ने, प्रश्नोत्तर करने पर अभ्यास कर»",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w25-d05",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 and 2.2 have no minutes printed; 2.2 printed at top of right column continuing period 2",
+   "lesson": "hr-hindi-g2-w25-d06",
+   "page": 168
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.84): «लेखन: कक्षा 1: आप किन कहानियों पर अभिनय करना चाहते हैं? नाम लिखो। कक्षा 2: पाठ आधारित लेखन»",
+   "lesson": "hr-hindi-g2-w25-d06",
+   "page": 168
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 2: 'पृष्ठ सं. 204' as printed (likely misprint for 304)",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 1: 'ऋ' letter read from grid label",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «अभ्यास-पत्रक 26.1 (पेज.न. 304) दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ।»",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w26-d01",
+   "page": 169
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed (its badge overlaps the last line of 2.1)",
+   "lesson": "hr-hindi-g2-w26-d02",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w26-d02",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.83): «अभ्यास-पत्रक 26.2 (पृष्ठ सं. 305) पर आइसक्रीम पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर लिखन»",
+   "lesson": "hr-hindi-g2-w26-d02",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w26-d02",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.79): «स्वतंत्र पठन व पाठ आधारित चर्चा अभ्यास 26.1 ‘आइसक्रीम’ (पृष्ठ सं. 303) पाठ आधारित लेखन: अभ»",
+   "lesson": "hr-hindi-g2-w26-d02",
+   "page": 170
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 2: text is compressed; pages 306 read as printed",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.83): «अभ्यास-पत्रक 26.3 (पृष्ठ सं. 307) पर नीलकंठ पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर लिखने »",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.71): «पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 26.3 ‘नीलकंठ’ पृष्ठ सं 306 से आदर्श एवं मार्गदर्शन मे»",
+   "lesson": "hr-hindi-g2-w26-d03",
+   "page": 171
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w26-d04",
+   "page": 172
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'चुटकलों' as printed (differs from 'चुटकुला' elsewhere)",
+   "lesson": "hr-hindi-g2-w26-d04",
+   "page": 172
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w26-d04",
+   "page": 172
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w26-d04",
+   "page": 172
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 step bar has no minutes printed",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "multigrade 40-min class 2: 'स्वतत्र' as printed (missing anusvara)",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'त्योंहार' as printed",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «अभ्यास-कार्य»",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «पाठ्यपुस्तक के अभ्यास 26.5 (पृष्ठ सं.309) पर कहानी को पढ़ने, प्रश्नोत्तर करने पर अभ्यास कर»",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.28): «लेखन: कक्षा 1: आपको कौन-सा त्योंहार पसंद है? और क्यों? कक्षा 2: पाठ आधारित लेखन (पाठ-26 पृ»",
+   "lesson": "hr-hindi-g2-w26-d05",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 and 2.2 have no minutes printed; 2.2 printed at top of right column continuing period 2",
+   "lesson": "hr-hindi-g2-w26-d06",
+   "page": 174
+  }
+ ]
+}

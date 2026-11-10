@@ -1,0 +1,116 @@
+{
+  "pdf_page": 61,
+  "printed_page": "59",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "8", "day": "2"},
+      "keys_evidence": "highlighted tab 'दिवस 2'; band 'सप्ताह-8'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "पाठ का दोहराव व चर्चा", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक से पाठ-8 ‘गली के रंग’ पर पुन: चर्चा करें व पेज 91 पर दिए गए प्रश्नों के माध्यम से बातचीत करें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "पाठ आधारित लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को चित्र देखकर नाम लिखने, तालिका भरने पर अभ्यास-कार्य करवाएँ। पृष्ठ सं. 91"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-8.1 ‘खीरा ककड़ी’", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.94 से पाठ ‘खीरा ककड़ी’ को बच्चों को स्वतंत्र रूप से पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक 8.2 (पृष्ठ सं. 95) पर वाक्य पूरे करने, चित्र देखकर वाक्य लिखने, पाठ के आधार पर मिलान करने, सुनकर लिखने पर अभ्यास करवाएँ ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "text", "text": "दिवस 1-4 पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.99 से पाठ 14"},
+               {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से चयनित पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"},
+               {"type": "bullet", "text": "दो-तीन बच्चों को बुलाकर पूछें कि उन्होंने क्या पढ़ा?"},
+               {"type": "bullet", "text": "इसमें क्या-क्या था? कौन-से वाक्य पढ़े? इत्यादि।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "आकलन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "5 बच्चों का आकलन करें।"},
+               {"type": "bullet", "text": "जिस पाठ के साथ आकलन कर रहे हैं, उसके आगे बने डिब्बों में सही पढ़े गए शब्दों की संख्या लिखें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-1 के पाठ-8 से गतिविधि ‘आओ कहानी बनाएँ’"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: कहानी से किसी एक पात्र का चित्र बनाना। कक्षा 2: कहानी का नाम लिखना।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+              {"type": "bullet", "text": "वर्ण ‘प’ पहचान व गतिविधि।"},
+              {"type": "bullet", "text": "ग्रिड 1 व 3 से ब्लेंडिंग व शब्द पठन।"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "आदर्श पठन व चर्चा ‘खीरा ककड़ी’"},
+              {"type": "bullet", "text": "मार्गदर्शन में पठन (8.2) व पाठ आधारित लेखन।"},
+              {"type": "bullet", "text": "पाठ आधारित लेखन कार्य।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "अभ्यास-पत्रक की 8.2 गतिविधियों पर कार्य।"},
+              {"type": "bullet", "text": "पढ़कर सुनाना व चर्चा- बिगबुक- ‘सुरीली और मोनी’।"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी भाग-1 पृष्ठ सं. 99 (पठन-14) से स्वतंत्र पठन, पठन आकलन।"},
+              {"type": "bullet", "text": "बच्चे पठन कार्य करेंगे।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."],
+  "notes": "Page printed 59. Left column: periods 1 and 2.1; right column: 2.2 and period 3."
+}

@@ -1,0 +1,91 @@
+{
+  "pdf_page": 133,
+  "printed_page": "131",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "20", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1' (strong red fill; other tabs pale/outlined); band 'सप्ताह-20'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "बच्चों को सहज करने के लिए कोई कविता गाएँ। कविता को लय, हाव-भाव के साथ गाकर सुनाएँ।"}], "sections": []},
+            {"number": "1.2", "heading": "पाठ पढ़कर सुनाना एवं चर्चा", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "पाठ-20 ‘नन्हा चूजा’"},
+               {"type": "bullet", "text": "सबसे पहले शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "उसके बाद पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें।"},
+               {"type": "bullet", "text": "पढ़कर सुनाने के दौरान प्रश्न पूछते हुए सुनिश्चित करें कि बच्चे समझ रहे हैं।"},
+               {"type": "bullet", "text": "पाठ के बाद बच्चों से खुले व बंद छोर वाले प्रश्नों की मदद से पाठ पर चर्चा करें।"},
+               {"type": "bullet", "text": "मुर्गी के बच्चे को क्या कहते है?"},
+               {"type": "bullet", "text": "बिल्ली ने मुर्गी से क्या कहा?"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [{"type": "bullet", "text": "अपने दोस्त का चित्र बनाएँ। लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "सावधिक आकलन-2", "minutes": "60",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "आकलन के दौरान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक सावधि आकलन के लिए प्राप्त निर्देशों के अनुसार सभी बच्चों का आकलन करना सुनिश्चित करें।"},
+               {"type": "bullet", "text": "बच्चों को आवश्यक दिशानिर्देश दें जैसे: समय पर उपस्थित होने, प्रश्नों को धैर्य से समझकर जवाब देने आदि।"},
+               {"type": "bullet", "text": "सावधिक आकलन एवं पुनरावृत्ति दो सप्ताह (12 दिन) चलेगी। पहले दो दिन में आकलन किया जायेगा। शेष 10 दिन में सावधिक पुनरावृत्ति पर कार्य किया जायेगा। आकलन प्रपत्र से एक-एक बच्चे का आकलन करें।"},
+               {"type": "bullet", "text": "आकलन में बच्चों की उपलब्धि को शिक्षक संदर्शिका और पाठ्यपुस्तक में दिए गए स्किल पासबुक ट्रैकर (सावधिक आकलन-1) में दर्ज करें। शिक्षक हर दक्षता के लिए किए गए आकलन के आधार पर इनमें उपयुक्त विकल्प- हाँ, (Competent learner: 75-100%), आंशिक (Recognized learner 41-74%) और नहीं (Supported learner: 0-40%), अंकित करें।"},
+               {"type": "text", "text": "समूह निर्धारित करने के लिए निर्देश:"},
+               {"type": "bullet", "text": "आकलन के आधार शिक्षक अगले 10 दिन 2 समूहों में कार्य करेंगे।"},
+               {"type": "bullet", "text": "समूह 1: वह बच्चे जो सावधिक आकलन में Recognized learner (41-74% दक्षताएँ प्राप्त करने वाले) और Supported learner (0-40% दक्षताएँ प्राप्त करने वाले) श्रेणी में हैं।"},
+               {"type": "bullet", "text": "समूह 2: Competent Learner (75-100% दक्षताएँ प्राप्त करने वाले) बच्चों का होगा।"},
+               {"type": "bullet", "text": "सावधिक आकलन-1 के बाद शिक्षक प्रतिदिन कार्य के लिए योजनाएँ दी जा रही हैं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-1 के पाठ -20 ‘मेला’ पढ़कर सुनाना।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: मेले में देखी चीजों के नाम लिखो। कक्षा 2: मेले में कौन-कौन सी दुकाने होती है? नाम लिखो।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी।"},
+            {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"},
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "पठन अभ्यास जारी।"},
+            {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"},
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["2.1 first bullet: 'सावधि आकलन' as read (possibly 'सावधिक'); the two bullets under 1.2 'मुर्गी के बच्चे...' and 'बिल्ली ने...' are printed on one line as sub-bullets, split into two bullets.", "Last 2.1 bullet: 'शिक्षक प्रतिदिन कार्य के लिए योजनाएँ' as printed."],
+  "notes": "Printed page 131 differs from pdf page 133. This week-20 page uses a blue-tinted layout with full-width sections (single column). Period 2 is 'सावधिक आकलन-2' (60 minutes)."
+}

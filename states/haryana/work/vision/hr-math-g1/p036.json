@@ -1,0 +1,23 @@
+{
+  "pdf_page": 36,
+  "printed_page": "22",
+  "page_kind": "unit_opener",
+  "header": "कितने मेरी मुट्ठी में",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Reproduced textbook page: park scene with elderly people on a bench and in a wheelchair, children playing with a ball, a teacher character at the bottom right", "text": "कितने मेरी मुट्ठी में | दादाजी के साथ सैर | चित्रों को देखने के पश्चात बच्चों को कहानी सुनाने के लिए कहें। बच्चों से पूछें कि वे उद्यान (पार्क) में क्या करते हैं, कौन-सा खेल खेलते हैं? अपने बड़ों जैसे–दादा-दादी, नाना-नानी इत्यादि के साथ किस प्रकार बातचीत करते हैं। उद्यान में एकत्र होने वाले लोगों की संख्या में वृद्धि के विषय में चर्चा करें। उदाहरण के लिए, पहले चित्र में कितने बच्चे खेल रहे हैं और कितने बच्चे बाद में आए? बच्चों से बातचीत करें कि बड़े-बूढ़ों के साथ समय क्यों बिताना चाहिए और उनके प्रति सम्मान दिखाने के तरीकों पर भी बात करें।"},
+        {"type": "bullet", "text": "मूर्त रूप में चित्रों को दिखाकर दो वस्तुओं को मिलाने की अवधारणा सीखना।"},
+        {"type": "bullet", "text": "जोड़ के प्रतीक (symbol) को समझना।"},
+        {"type": "bullet", "text": "अमूर्त रूप में संख्याओं का जोड़। (Vertically & Horizontally)"},
+        {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों में सही संक्रिया का चुनाव करना।"},
+        {"type": "bullet", "text": "एक अंकीय जोड़–घटा के प्रश्न हल करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Orange box is headed 'दक्षताएँ :' (not 'जानें'); kept as printed", "Small caption text inside the illustration is tiny; read as best as possible (e.g. 'उद्यान ( पार्क )', 'दादा-दादी')", "Tab 'अध्याय 5' at top"],
+  "notes": "Chapter 5 opener with reproduced textbook page illustration."
+}

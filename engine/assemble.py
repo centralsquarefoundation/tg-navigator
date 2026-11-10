@@ -1,0 +1,205 @@
+"""Assemble per-page transcriptions into a guide pack: groups (week / chapter / ...) and lessons.
+
+  python engine/assemble.py haryana [--guide ID]
+  -> states/<state>/work/packs/<guide>.json
+
+Generic: the profile's hierarchy.keys name the unit keys (e.g. ["week","day"] or
+["chapter","days"]) and hierarchy.group_by names the key that groups lessons. A unit that has the
+same keys as the previous unit and is marked as continuing is merged into it (content that runs
+over a page break). Nothing here knows any guide's wording.
+"""
+import argparse
+import difflib
+import re
+
+from common import guide, load_state, parse_pages, read_json, work, write_json
+
+
+def norm(s):
+    return re.sub(r'\s+', ' ', (s or '')).strip()
+
+
+def similar(a, b, threshold=0.85):
+    """Same group key printed slightly differently (a stray space or mark) on another page.
+    Purely numeric keys must match exactly."""
+    a, b = norm(a), norm(b)
+    if not a or not b or a.isdigit() or b.isdigit():
+        return False
+    return difflib.SequenceMatcher(None, a, b).ratio() >= threshold
+
+
+def keyslug(v):
+    v = norm(str(v))
+    if re.fullmatch(r'[0-9]+', v):
+        return f'{int(v):02d}'
+    if re.fullmatch(r'[0-9]+(-[0-9]+)?', v):
+        return v
+    return None
+
+
+def same_section(a, b):
+    return norm(a.get('number')) == norm(b.get('number')) and norm(a.get('heading')) == norm(b.get('heading'))
+
+
+def merge_sections(into, more):
+    """Append `more` sections to `into`, merging the boundary section when it continues."""
+    if into and more and (same_section(into[-1], more[0]) or (more[0].get('heading') is None and more[0].get('number') is None)):
+        first = more[0]
+        into[-1].setdefault('items', []).extend(first.get('items', []))
+        merge_sections(into[-1].setdefault('sections', []), first.get('sections', []))
+        more = more[1:]
+    into.extend(more)
+
+
+def restarts(old, new):
+    """True when `new` starts its numbering again (e.g. block 1 after block 4): a new unit that
+    happens to carry the same printed keys, not a continuation."""
+    def first_num(ss):
+        for s in ss:
+            if re.fullmatch(r'\d+', s.get('number') or ''):
+                return int(s['number'])
+        return None
+    last = [int(s['number']) for s in old if re.fullmatch(r'\d+', s.get('number') or '')]
+    first = first_num(new)
+    return bool(last) and first is not None and first < last[-1] and first == 1
+
+
+def clean_section(s):
+    return {'number': norm(s.get('number')) or None, 'heading': norm(s.get('heading')) or None,
+            'minutes': norm(s.get('minutes')) or None,
+            'items': [clean_item(i) for i in s.get('items', []) if clean_item(i)],
+            'sections': [clean_section(c) for c in s.get('sections', [])]}
+
+
+def clean_item(i):
+    if isinstance(i, str):
+        i = {'type': 'text', 'text': i}
+    out = {'type': i.get('type') or 'text'}
+    if i.get('text'):
+        out['text'] = norm(i['text'])
+    if i.get('rows'):
+        out['rows'] = [[norm(c) for c in r] for r in i['rows']]
+    if i.get('desc'):
+        out['desc'] = norm(i['desc'])
+    return out if len(out) > 1 else None
+
+
+def assemble(cfg, g):
+    prof = g['profileData']
+    keys = prof['hierarchy']['keys']
+    group_key = prof['hierarchy']['group_by']
+    vdir = work(cfg['id'], 'vision', g['doc'], 'x').parent
+    pages = parse_pages(g['pages'].get('lessons', ''))
+    plan_pages = parse_pages(g['pages'].get('plan', ''))
+    groups, lessons, page_index, missing = [], [], [], []
+    current_group = None
+
+    def group_for(value, page, title=None, intro=None):
+        nonlocal current_group
+        if current_group and (norm(current_group['key']) == norm(value) or similar(current_group['key'], value)):
+            return current_group
+        current_group = {'id': None, 'key': norm(value), 'title': title or norm(value), 'ordinal': len(groups) + 1,
+                         'intro': intro or [], 'pages': [page], 'opener_page': None}
+        slug = keyslug(value)
+        current_group['id'] = f"{g['id']}-{group_key[0]}{slug if slug and slug.isdigit() else f'{len(groups) + 1:02d}'}"
+        groups.append(current_group)
+        return current_group
+
+    anomalies = (read_json(work(cfg['id'], 'x').parent.parent / 'anomalies.json', {}) or {}).get(g['id'], [])
+    pending_opener = None
+    for p in pages:
+        data = read_json(vdir / f'p{p:03d}.json')
+        if data is None:
+            missing.append(p)
+            continue
+        kind = data.get('page_kind')
+        page_index.append({'page': p, 'printed': data.get('printed_page'), 'kind': kind,
+                           'units': [u.get('keys') for u in data.get('units', [])]})
+        if kind == 'unit_opener':
+            pending_opener = {'page': p, 'title': norm(data.get('header')),
+                              'intro': [clean_section(s) for s in data.get('shared', [])]}
+            continue
+        if kind != 'lesson':
+            continue
+        fix = next((a for a in anomalies if a['page'] == p and a.get('keys')), None)
+        for u in data.get('units', []):
+            k = {name: (norm(str(u.get('keys', {}).get(name))) if u.get('keys', {}).get(name) is not None else None) for name in keys}
+            printed = None
+            if fix:   # evidence-backed correction of a misprinted key (states/<state>/anomalies.json)
+                printed = dict(k)
+                k.update({n: str(v) for n, v in fix['keys'].items()})
+            gv = k.get(group_key) or (current_group['key'] if current_group else None)
+            if pending_opener and (not current_group or norm(gv) != current_group['key']):
+                grp = group_for(gv, p, pending_opener['title'] or gv, pending_opener['intro'])
+                grp['opener_page'] = pending_opener['page']; grp['pages'].insert(0, pending_opener['page'])
+                pending_opener = None
+            else:
+                grp = group_for(gv, p)
+            if p not in grp['pages']:
+                grp['pages'].append(p)
+            sections = [clean_section(s) for s in u.get('sections', [])]
+            intro = [norm(x) for x in u.get('intro', []) if norm(x)]
+            # same unit = same group and same non-group keys (the group key itself may be printed
+            # slightly differently on a later page; the group match above already tolerates that)
+            prev = next((l for l in reversed(lessons) if l['group'] == grp['id'] and
+                         all(norm(l['keys'].get(n)) == norm(k.get(n)) for n in keys if n != group_key)), None)
+            # a continuation page that prints no keys at all belongs to the unit just before it
+            if (prev is None and lessons and all(k.get(n) is None for n in keys)
+                    and p - lessons[-1]['pages'][-1] <= 1):
+                prev = lessons[-1]
+                prev.setdefault('notes', []).append(f'page {p} prints no keys; joined as a continuation of the previous page')
+            if prev and (u.get('continues_from_previous_page') or (p - prev['pages'][-1] <= 1 and not restarts(prev['sections'], sections))):
+                merge_sections(prev['sections'], sections)
+                for line in intro:
+                    if line not in prev['intro']:
+                        prev['intro'].append(line)
+                if p not in prev['pages']:
+                    prev['pages'].append(p)
+                prev['printed_pages'].append(data.get('printed_page'))
+                prev['shared'] += [clean_section(s) for s in data.get('shared', [])] if len(data.get('units', [])) == 1 else []
+                continue
+            unit_slug = '-'.join(f'{name[0]}{keyslug(k[name]) or "x"}' for name in keys if name != group_key)
+            lid = f"{grp['id']}-{unit_slug}"
+            if any(l['id'] == lid for l in lessons):
+                lid += f'-p{p:03d}'
+            lessons.append({'id': lid, 'group': grp['id'], 'keys': k, 'order': len(lessons) + 1,
+                            'column': u.get('column'), 'keys_evidence': u.get('keys_evidence'),
+                            'intro': intro, 'sections': sections,
+                            # page-level shared boxes belong to the lesson only when the page holds one unit
+                            'shared': [clean_section(s) for s in data.get('shared', [])] if len(data.get('units', [])) == 1 else [],
+                            'pages': [p], 'printed_pages': [data.get('printed_page')],
+                            'uncertain': data.get('uncertain', [])})
+            if fix or any(a['page'] == p and a.get('notice') for a in anomalies):
+                a = fix or next(a for a in anomalies if a['page'] == p and a.get('notice'))
+                lessons[-1]['notice'] = a.get('notice')
+                if printed:
+                    lessons[-1]['printed_keys'] = printed
+    plan = []
+    for p in plan_pages:
+        data = read_json(vdir / f'p{p:03d}.json')
+        if data is None:
+            missing.append(p)
+            continue
+        plan.append({'page': p, 'kind': data.get('page_kind'), 'shared': [clean_section(s) for s in data.get('shared', [])]})
+    return {'guide': g['id'], 'doc': g['doc'], 'subject': g['subject'], 'grade': g['grade'],
+            'gradeLabel': g.get('gradeLabel'), 'hierarchy': prof['hierarchy'], 'groups': groups,
+            'lessons': lessons, 'plan': plan, 'page_index': page_index, 'missing_pages': missing}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('state')
+    ap.add_argument('--guide')
+    a = ap.parse_args()
+    cfg = load_state(a.state)
+    for g in cfg['guides']:
+        if a.guide and g['id'] != a.guide:
+            continue
+        pack = assemble(cfg, g)
+        write_json(work(a.state, 'packs', f"{g['id']}.json"), pack)
+        print(f"{g['id']}: {len(pack['groups'])} groups, {len(pack['lessons'])} lessons, "
+              f"{len(pack['missing_pages'])} pages not transcribed yet")
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,109 @@
+{
+  "pdf_page": 33,
+  "printed_page": "30",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "3", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; band 'सप्ताह-3'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "आओ कुछ बनाएँ", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पत्तियों की छाप बनाना- पाठ्यपुस्तक में (पृ. सं. 25)दी गई गतिविधि ‘पत्तियों की छाप बनाना’ के लिए दिए गये निर्देश बच्चों को स्पष्टता से बताएँ (सामग्री एकत्रित से लेकर गतिविधि को पूरा करने के लिए बच्चों का मार्गदर्शन करें)"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ध्वनि चेतना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग) मौखिक रूप से।"},
+               {"type": "bullet", "text": "शिक्षक 2-3 अलग-अलग शब्द लें।"},
+               {"type": "bullet", "text": "शिक्षक शब्द को अलग-अलग ध्वनियों में तोड़कर बताएँगे और उसके बाद प्रत्येक ध्वनि को जोड़कर शब्द को एक साथ उच्चारित करेंगे।"},
+               {"type": "bullet", "text": "फिर बच्चों को इस प्रक्रिया में अपने साथ शामिल करें।"},
+               {"type": "bullet", "text": "उसके बाद बच्चों को स्वयं से ब्लेंडिंग का अभ्यास मौखिक रूप से करने के लिए कहें और अभ्यास के दौरान शिक्षक बच्चों को अवश्यकता अनुसार सहयोग करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 3.4 (पृ. सं. 29) पर बच्चों को स्पष्ट निर्देश कार्य करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "लोगोग्राफीक पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बिग बुक से कहानी ‘बंदर की पूँछ’ लोगोग्राफीक पठन।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों के साथ तीसरे दिन की तरह दो बार साझा पठन करें और उसके बाद शब्द दीवार का इस्तेमाल करते हुए बच्चों के साथ कहानी के मुख्य शब्दों को पढ़ने का अभ्यास करें। (लोगोग्राफिक पठन) जैसे: बंदर, गिलहरियाँ, पेड़, पूँछ, झूला।"},
+               {"type": "bullet", "text": "बच्चों को शब्द दीवार के पास आकर इन शब्दों पर उंगली रखकर पढ़ने में मदद करें।"},
+               {"type": "bullet", "text": "अंत में, 3-4 बच्चों को बिगबुक में से कहानी पढ़ने के लिए आमंत्रित करें। ऐसा करते समय उन्हें किताब पकड़ने और पन्नों पर बने चित्रों और शब्दों को देखते हुए कहानी सुनाने के लिए प्रोत्साहित करें।"},
+               {"type": "bullet", "text": "नोट: कोशिश करें कि जिन बच्चों को पहले पढ़ने का अवसर नहीं मिला था उन्हें पढ़ने के अवसर दें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-2 के पाठ-3 से गतिविधि- हाथों से परछाई बनाना।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन (पाठ-3 आडू पृष्ठ सं 24) कक्षा 2: हाथ से जिन जानवरों की परछाई बनाई उनके नाम लिखवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगे।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "वर्ण व मात्रा/अक्षर पहचान पर दोहराव कार्य।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.4 की गतिविधियाँ पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "वाक्यों में शब्दों की पहचान।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.4 पर कार्य करवाना।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग-1 पृष्ठ सं. 25 पर मार्गदर्शन एवं स्वतंत्र में पठन।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "साझा पठन- बिगबुक- ‘बन्दर की पूँछ’"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "स्वतंत्र पठन।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order", "2.1: the first line 'ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग) मौखिक रूप से' is a bullet under the short heading 'ध्वनि चेतना'; its final danda may not be printed", "2.1 continues in the right column top", "1.2 'पृ. सं. 25)दी' spacing as printed"],
+  "notes": null
+}

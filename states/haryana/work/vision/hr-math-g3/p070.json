@@ -1,0 +1,24 @@
+{
+  "pdf_page": 70,
+  "printed_page": "57",
+  "page_kind": "unit_opener",
+  "header": "भरो और उठाओ",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book", "text": ""},
+        {"type": "bullet", "text": "धारिताः अवधारणा, अमानक इकाइयों से मापन, तुलना।"},
+        {"type": "bullet", "text": "मानक इकाइयों (लीटर) के साथ मापन करना।"},
+        {"type": "bullet", "text": "विभिन्न वस्तुओं को पकड़कर उनके वजन का अनुमान लगाना।"},
+        {"type": "bullet", "text": "भारी तथा हल्की वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "मानक इकाइयों (ग्राम, किलोग्राम) के साथ मापन करना।"},
+        {"type": "bullet", "text": "भार की इकाइयों में संबंधों की पहचान करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Chapter opener without an 'अध्याय N' tab; box is headed 'दक्षताएँ :' rather than 'जानें'. Page is split across the two images (title appears in both)."
+}

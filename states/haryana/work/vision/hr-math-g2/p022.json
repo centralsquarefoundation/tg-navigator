@@ -1,0 +1,29 @@
+{
+  "pdf_page": 22,
+  "printed_page": "10",
+  "page_kind": "unit_opener",
+  "header": "संख्याओं का आनन्द",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ :",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Chapter 3 opener illustration: a snakes-and-ladders board numbered 1 to 100 with animals, snakes and ladders, and a question panel below.", "text": "संख्याओं का आनन्द | साँप सीढ़ी पर संख्याएँ लिखो और खेलो | 100 | 1 | (क) बच्चे को गेंद तक पहुँचने के लिए किन-किन संख्याओं से गुजरना पड़ेगा? (ख) 100 तक पहुँचने में सबसे ज्यादा मदद करने वाली सीढ़ी किस संख्या से शुरू होती है तथा किस संख्या तक पहुँचती है? (ग) शेर से बचने के लिए बंदर किस संख्या वाली सीढ़ी पर पहुँचना चाहेगा? (घ) आप सबसे लम्बी सीढ़ी हटाकर किस संख्या से किस संख्या तक लगाना चाहोगे। आप भी ऐसे अन्य प्रश्न बनाकर अपने दोस्त से पूछो। | गणित भाग–1 | 29"},
+        {"type": "bullet", "text": "दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को देखकर 100 तक गणना करना और संख्या बोध।"},
+        {"type": "bullet", "text": "100 तक सीधी और फिर उल्टी गणना करना।"},
+        {"type": "bullet", "text": "100 तक गिनती कूद कर सीधी और उल्टी गणना करना।"},
+        {"type": "bullet", "text": "100 तक संख्या पैटर्न को देखते हुए क्रम आगे बढ़ाना।"},
+        {"type": "bullet", "text": "100 तक छूटी हुई संख्या पता करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Box is headed 'दक्षताएँ :' (not 'जानें') on this page; printed heading kept",
+    "Question panel text in the illustration is small; (घ) ends with 'चाहोगे।' printed with a danda, 'चाहोगे' read from small print",
+    "The number '29' on the signboard in the illustration (not the printed page number); numbers 100 and 1 are board corners"
+  ],
+  "notes": "Chapter 3 opener: tab 'अध्याय 3', chapter title 'संख्याओं का आनन्द'."
+}

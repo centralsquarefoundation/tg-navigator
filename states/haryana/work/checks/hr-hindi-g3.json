@@ -1,0 +1,3553 @@
+{
+ "guide": "hr-hindi-g3",
+ "counts": {
+  "error": 0,
+  "warn": 265,
+  "info": 240
+ },
+ "lessons": 156,
+ "groups": 26,
+ "textcheck": {
+  "checked": 5010,
+  "exact": 4031,
+  "close": 872,
+  "mismatch": 107
+ },
+ "issues": [
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.1 aim line, 1.2 and 1.3 aim lines (beside target icon) given as first text items",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1-2.3: printed as numbered paragraphs under unnumbered 'अभ्यास- वर्ण/मात्राओं की पुनरावृत्ति' bar; heading null",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Speech-box lines (question icon) given as bullets: in 1.1, 1.2 and 3.2",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 speech-box text 'अच्छा, क्या लिख रहा है?' read as printed",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells combined from bullets; column grouping approximate",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 letters 'न र ल क' read as printed",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «बच्चों को अपने विचारों या समझ को लिखकर अभिव्यक्त करवाना।»",
+   "lesson": "hr-hindi-g3-w01-d01",
+   "page": 19
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the question-icon box in the right column's top is a continuation of 1.2 discussion questions; placed after 'कविता पर चर्चा करें।' in section 1.2",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.3: the last bullet 'अभ्यास-पत्रक में दिए विजातीय / अलग नाम अलग नाम पहचान कर...' printed with repeated 'अलग नाम'; copied as printed. Its placement (under 2.3 or as separate bullet) is uncertain",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.3 'पाठ जलेबी' read as printed",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells combined from bullets; column grouping approximate",
+   "lesson": "hr-hindi-g3-w01-d02",
+   "page": 20
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the right column top bullet 'चित्र में दिए गए गुब्बारेवाले...' continues 1.2 (placed as last item of 1.2)",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2: bullets after 2.2 (starting 'अभ्यास-पत्रक में दिए गए...') are plain chevron bullets under the 20-minute sub-block; placed under 2.2 as they have no separate number; the bullet beginning 'अभ्यास-कार्य-' has bold 'अभ्यास-कार्य'",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Sub-block 'वर्ण/मात्राओं की पुनरावृत्ति' is an unnumbered bar with 20 minutes",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells combined from bullets; column grouping approximate",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.78): «पाठ आधारित बातचीत एवं लेखन अभ्यास»",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.73): «पाठ्यपुस्तक में दिए गए वाक्यों में किसी चीज़ का वर्णन दिया गया है बच्चों से उस चीज़ का नाम»",
+   "lesson": "hr-hindi-g3-w01-d03",
+   "page": 22
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w01-d04",
+   "page": 24
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 4 but found 3",
+   "lesson": "hr-hindi-g3-w01-d04",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.3 is printed at the top of the right column and belongs to section 1 (continued from the left column)",
+   "lesson": "hr-hindi-g3-w01-d04",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Speech-box lines given as bullets: 'हम एक कविता...', 'मैं एक पंक्ति...', 'चित्र में क्या-क्या दिख रहा है?...', 'अंश और उसकी बहन...', 'आप होली पर...'",
+   "lesson": "hr-hindi-g3-w01-d04",
+   "page": 24
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells combined from bullets; column grouping approximate",
+   "lesson": "hr-hindi-g3-w01-d04",
+   "page": 24
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w01-d05",
+   "page": 26
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन-लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w01-d05",
+   "page": 26
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Sections 2.1 and 2.2 sit under the sub-bar 'वर्ण/मात्राओं की पुनरावृत्ति' (20 मिनट), which has no printed number; headings for 2.1/2.2 are not printed (left empty)",
+   "lesson": "hr-hindi-g3-w01-d05",
+   "page": 26
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Nukta on 'कागज़' and 'पड़' approximate",
+   "lesson": "hr-hindi-g3-w01-d05",
+   "page": 26
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w01-d06",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-1, पृष्ठ सं. 13'",
+   "lesson": "hr-hindi-g3-w01-d06",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 has no printed 3rd period bar on this page (no 'पठन' period) although the table lists it",
+   "lesson": "hr-hindi-g3-w01-d06",
+   "page": 27
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 'पढ़कर बताना।' printed as such (verb form kept)",
+   "lesson": "hr-hindi-g3-w02-d01",
+   "page": 28
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w02-d01",
+   "page": 28
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Heading of 1.2 wraps over two lines beside the clock icon; joined as printed",
+   "lesson": "hr-hindi-g3-w02-d02",
+   "page": 29
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w02-d02",
+   "page": 29
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w02-d03",
+   "page": 30
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w02-d04",
+   "page": 31
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Nukta words 'तक़रीबन', 'चीज़ों' read as printed (nukta approximate)",
+   "lesson": "hr-hindi-g3-w02-d05",
+   "page": 32
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w02-d05",
+   "page": 32
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w02-d06",
+   "page": 33
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading is printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-2, पृष्ठ सं. 27'",
+   "lesson": "hr-hindi-g3-w02-d06",
+   "page": 33
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 bullet 3: 'उस चित्र में क्या हो रहा?' printed without 'है'",
+   "lesson": "hr-hindi-g3-w03-d01",
+   "page": 34
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Nukta words 'आवाज़', 'चीज़ों' approximate",
+   "lesson": "hr-hindi-g3-w03-d01",
+   "page": 34
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w03-d01",
+   "page": 34
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet 3: 'क्या हो रहा?' printed without 'है'",
+   "lesson": "hr-hindi-g3-w03-d02",
+   "page": 35
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last bullet at top of right column ('8-10 शब्द ...') continues section 2.1 from the left column; placed in 2.1",
+   "lesson": "hr-hindi-g3-w03-d02",
+   "page": 35
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3 heading wraps to a second line '( पृष्ठ सं. 30 )'",
+   "lesson": "hr-hindi-g3-w03-d02",
+   "page": 35
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w03-d02",
+   "page": 35
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 first bullet: 'पढ़कर बताना' printed as read",
+   "lesson": "hr-hindi-g3-w03-d03",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 fourth bullet: text read as 'अच्छा, क्या लिख रहा है? मिलाकर एक साथ दुबारा पढ़ने'",
+   "lesson": "hr-hindi-g3-w03-d03",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 second bullet wording as printed (possible misprint in 'चर्चा')",
+   "lesson": "hr-hindi-g3-w03-d03",
+   "page": 36
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w03-d03",
+   "page": 36
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w03-d04",
+   "page": 37
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the line beginning 'बच्चों को अपने आस-पास की चीजों...' has a different icon instead of '>' so typed as text",
+   "lesson": "hr-hindi-g3-w03-d05",
+   "page": 38
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 is in the right column top, placed under period 2 after 2.1 from left column",
+   "lesson": "hr-hindi-g3-w03-d05",
+   "page": 38
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w03-d05",
+   "page": 38
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w03-d06",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 first bullet: 'जोड़ों' as printed",
+   "lesson": "hr-hindi-g3-w03-d06",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: first line and 'कहानी पर अभिनय:-' typed as text (not '>' bullets)",
+   "lesson": "hr-hindi-g3-w03-d06",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the four dot-bulleted questions sit in a boxed callout after the colon line; typed as bullets",
+   "lesson": "hr-hindi-g3-w04-d01",
+   "page": 40
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w04-d01",
+   "page": 40
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2: 2.1 is bottom of left column, 2.2 and 2.3 top of right column",
+   "lesson": "hr-hindi-g3-w04-d02",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the four dot-bulleted questions are in a boxed callout; typed as bullets",
+   "lesson": "hr-hindi-g3-w04-d02",
+   "page": 41
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w04-d02",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3: last three bullets (चित्र देखकर वाक्य लिखें... श्रुतलेख) are in a continuation box at top of right column; assigned to 1.3 (box has no heading)",
+   "lesson": "hr-hindi-g3-w04-d03",
+   "page": 42
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w04-d03",
+   "page": 42
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 50-50",
+   "lesson": "hr-hindi-g3-w04-d04",
+   "page": 43
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet: 'पहेली बूझे' as printed",
+   "lesson": "hr-hindi-g3-w04-d04",
+   "page": 43
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w04-d04",
+   "page": 43
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the two lines after the gatividhi title (icon line) typed as text; 'Dumb Sharades' spelling as printed",
+   "lesson": "hr-hindi-g3-w04-d05",
+   "page": 44
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w04-d05",
+   "page": 44
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w04-d06",
+   "page": 45
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 first bullet: 'जोड़ों' as printed",
+   "lesson": "hr-hindi-g3-w04-d06",
+   "page": 45
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w05-d01",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column placement: periods 2 and 3 are in the right column; period 1 in the left column. Section 1.2 box bullets (questions) are inside a bordered box with a speech icon.",
+   "lesson": "hr-hindi-g3-w05-d01",
+   "page": 46
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w05-d01",
+   "page": 46
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w05-d02",
+   "page": 47
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 heading bar is in the left column; section 2.2 continues at top of right column without its own period bar.",
+   "lesson": "hr-hindi-g3-w05-d02",
+   "page": 47
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w05-d02",
+   "page": 47
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w05-d03",
+   "page": 48
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w05-d03",
+   "page": 48
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 3 (पठन) is in the right column at top; period 2 is in the left column below period 1 and spans the half-image overlap.",
+   "lesson": "hr-hindi-g3-w05-d03",
+   "page": 48
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w05-d03",
+   "page": 48
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w05-d04",
+   "page": 49
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w05-d04",
+   "page": 49
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w05-d05",
+   "page": 50
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: line 'बच्चे संकेतों के माध्यम से...' is printed with a spiral/target-like icon (aim line), written as type text. Section 2.1 heading text printed in the heading bar including minutes 10; 'मुंह' as printed.",
+   "lesson": "hr-hindi-g3-w05-d05",
+   "page": 50
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w05-d05",
+   "page": 50
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w05-d06",
+   "page": 51
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: first line 'बच्चों को पहले से सुनी...' printed with a spiral/target-like icon, written as type text. Section 2 heading prints minutes '60' in a lighter weight. 'समूह 1/2' lines are plain paragraphs (no arrow). Heading 2.2 is two printed lines: 'साप्ताहिक आकलन-' and 'मैंने सीख लिया-5, पृष्ठ सं. 65'.",
+   "lesson": "hr-hindi-g3-w05-d06",
+   "page": 51
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 box: 'मिठ्ठू' as printed.",
+   "lesson": "hr-hindi-g3-w06-d01",
+   "page": 52
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w06-d01",
+   "page": 52
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w06-d02",
+   "page": 53
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w06-d02",
+   "page": 53
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w06-d03",
+   "page": 54
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w06-d04",
+   "page": 55
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w06-d04",
+   "page": 55
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w06-d05",
+   "page": 56
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w06-d05",
+   "page": 56
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w06-d06",
+   "page": 57
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w07-d01",
+   "page": 58
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w07-d01",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two consecutive steps in period 2 are both printed with number 2.2 (मार्गदर्शन पठन and पाठ आधारित लेखन); kept as printed",
+   "lesson": "hr-hindi-g3-w07-d01",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 question box: written as one figure text item; the printed bullets are separate questions",
+   "lesson": "hr-hindi-g3-w07-d01",
+   "page": 58
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w07-d01",
+   "page": 58
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w07-d02",
+   "page": 59
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 question box written as one figure text item; printed bullets are separate questions",
+   "lesson": "hr-hindi-g3-w07-d02",
+   "page": 59
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w07-d02",
+   "page": 59
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 50-50",
+   "lesson": "hr-hindi-g3-w07-d03",
+   "page": 60
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w07-d03",
+   "page": 60
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w07-d03",
+   "page": 60
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w07-d04",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 first bullet: first word read as 'शेरू' (printed form)",
+   "lesson": "hr-hindi-g3-w07-d04",
+   "page": 61
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w07-d04",
+   "page": 61
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w07-d05",
+   "page": 62
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w07-d05",
+   "page": 62
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w07-d06",
+   "page": 63
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Heading of 3.2 printed 'पठन आकलन, अभ्यास-13' vs written with 'पठन अभ्यास-13': printed form is 'पठन आकलन, पठन अभ्यास-13' in the lower image (top image shows same); kept",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two consecutive steps in period 2 both printed 2.2; kept as printed",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 question box written as one figure text item",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w08-d01",
+   "page": 64
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w08-d02",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 question box written as one figure text item",
+   "lesson": "hr-hindi-g3-w08-d02",
+   "page": 65
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w08-d02",
+   "page": 65
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 50-50",
+   "lesson": "hr-hindi-g3-w08-d03",
+   "page": 66
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w08-d03",
+   "page": 66
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 heading printed with 'आकलन, पठन अभ्यास-15' (heading text slightly clipped at right edge)",
+   "lesson": "hr-hindi-g3-w08-d03",
+   "page": 66
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The last step in period 2 is printed with number 2.2 (duplicate of the preceding step), kept as printed",
+   "lesson": "hr-hindi-g3-w08-d03",
+   "page": 66
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w08-d03",
+   "page": 66
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w08-d04",
+   "page": 67
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 heading clipped at right edge",
+   "lesson": "hr-hindi-g3-w08-d04",
+   "page": 67
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w08-d04",
+   "page": 67
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w08-d05",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the line 'वस्तुओं की विशेषताओं...' is printed with a special icon instead of '>' (treated as aim line, type text)",
+   "lesson": "hr-hindi-g3-w08-d05",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Sections 2.2 heading wraps over two lines: 'स्वतंत्र पठन एवं पाठ आधारित लेखन ( पृष्ठ सं. 101 )'",
+   "lesson": "hr-hindi-g3-w08-d05",
+   "page": 68
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w08-d05",
+   "page": 68
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w08-d06",
+   "page": 69
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 first line (and bold 'कहानी पर अभिनय:-') printed with icon/bold rather than '>'; typed as text",
+   "lesson": "hr-hindi-g3-w08-d06",
+   "page": 69
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 heading is two printed lines: 'साप्ताहिक आकलन-' and 'मैंने सीख लिया-8, पृष्ठ सं. 103'",
+   "lesson": "hr-hindi-g3-w08-d06",
+   "page": 69
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 discussion questions are in a boxed list with round bullets (written as one figure item); the box spans the image overlap",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 line 'पढ़कर सुनाने के दौरान ... समझ रहे हैं-' ends with a dash as printed",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 mark printed as ']' (quote marks around it), reading as best seen",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.3 heading says 'पठन अभ्यास-2' as printed (3.1/3.2 say 'पठन अभ्यास-1')",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w09-d01",
+   "page": 70
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w09-d02",
+   "page": 71
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 question box is one figure item (round bullets); box spans the image overlap",
+   "lesson": "hr-hindi-g3-w09-d02",
+   "page": 71
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 mark printed as ']' with quote marks, reading as best seen",
+   "lesson": "hr-hindi-g3-w09-d02",
+   "page": 71
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w09-d02",
+   "page": 71
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The last two items in left-column 2.2 मार्गदर्शन पठन continue at the top of the right column ('यदि बच्चा...', '2-3 बच्चों को...'); merged into that section",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2's third step is printed with number 2.2 (duplicate), kept as printed",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'मजे़दार' printed with nukta",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 mark printed as ']'",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w09-d03",
+   "page": 72
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w09-d04",
+   "page": 73
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2 mark printed as ']'",
+   "lesson": "hr-hindi-g3-w09-d04",
+   "page": 73
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w09-d04",
+   "page": 73
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w09-d05",
+   "page": 74
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 line 'बच्चे अलग-अलग तरह की विधा...' printed with a special icon instead of '>' (treated as aim line, type text)",
+   "lesson": "hr-hindi-g3-w09-d05",
+   "page": 74
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w09-d05",
+   "page": 74
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w09-d06",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 first line (and bold 'कहानी पर अभिनय:-') printed with icon/bold rather than '>'; typed as text",
+   "lesson": "hr-hindi-g3-w09-d06",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'खराब' printed with nukta in 1.3",
+   "lesson": "hr-hindi-g3-w09-d06",
+   "page": 75
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w10-d01",
+   "page": 76
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w10-d01",
+   "page": 76
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.1 'ऊँगली' spelling as printed; 3.1 heading minutes not printed",
+   "lesson": "hr-hindi-g3-w10-d01",
+   "page": 76
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 has two sub-sections both numbered 2.2 as printed",
+   "lesson": "hr-hindi-g3-w10-d01",
+   "page": 76
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w10-d01",
+   "page": 76
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w10-d02",
+   "page": 77
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 text line printed 'पाठ-9' (not 10) as read",
+   "lesson": "hr-hindi-g3-w10-d02",
+   "page": 77
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w10-d02",
+   "page": 77
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w10-d03",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w10-d03",
+   "page": 78
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 has two steps numbered 2.2 as printed (second one in right column top)",
+   "lesson": "hr-hindi-g3-w10-d03",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w10-d03",
+   "page": 78
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w10-d04",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w10-d04",
+   "page": 79
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w10-d05",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w10-d05",
+   "page": 80
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 the first line under the activity title has a different (spiral) icon instead of '>'; treated as a bullet",
+   "lesson": "hr-hindi-g3-w10-d05",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w10-d05",
+   "page": 80
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w10-d06",
+   "page": 81
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first line has a spiral icon instead of '>'; treated as a bullet",
+   "lesson": "hr-hindi-g3-w10-d06",
+   "page": 81
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-10, पृष्ठ सं. 131'; no minutes printed for 2.1/2.2",
+   "lesson": "hr-hindi-g3-w10-d06",
+   "page": 81
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The five discussion questions under 1.2 are indented with round bullet dots; recorded as bullet items after the lead-in bullet",
+   "lesson": "hr-hindi-g3-w11-d01",
+   "page": 82
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g3-w11-d01",
+   "page": 82
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The five discussion questions under 1.2 are indented with round bullet dots; recorded as bullet items after the lead-in bullet",
+   "lesson": "hr-hindi-g3-w11-d02",
+   "page": 83
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g3-w11-d02",
+   "page": 83
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w11-d03",
+   "page": 84
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The last box in the right column has no printed heading; recorded as an unnamed section (number null, heading null) under period 2",
+   "lesson": "hr-hindi-g3-w11-d03",
+   "page": 84
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'समूह-2' bar is unnumbered; recorded as unnumbered section under period 2",
+   "lesson": "hr-hindi-g3-w11-d03",
+   "page": 84
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w11-d04",
+   "page": 85
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The last box in the right column has no printed heading; recorded as an unnamed section under period 2",
+   "lesson": "hr-hindi-g3-w11-d04",
+   "page": 85
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'समूह-2' bar is unnumbered; recorded as unnumbered section under period 2",
+   "lesson": "hr-hindi-g3-w11-d04",
+   "page": 85
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'पेंसिल' printed as रंगीन पेंसिल (anusvara form) as read",
+   "lesson": "hr-hindi-g3-w11-d04",
+   "page": 85
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w11-d05",
+   "page": 86
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2: the last unheaded box (items about सीखने में पिछड़े बच्चे) has no printed heading; placed as heading null under section 2.",
+   "lesson": "hr-hindi-g3-w11-d05",
+   "page": 86
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w11-d06",
+   "page": 87
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Tab 'दिवस 3' also has dark text but pale fill; day 6 has the strong fill so day=6 chosen.",
+   "lesson": "hr-hindi-g3-w11-d06",
+   "page": 87
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w11-d06",
+   "page": 87
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the question list in the boxed speech-icon panel is recorded as bullets.",
+   "lesson": "hr-hindi-g3-w12-d01",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d01",
+   "page": 88
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d02",
+   "page": 89
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d03",
+   "page": 90
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w12-d04",
+   "page": 91
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d04",
+   "page": 91
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w12-d05",
+   "page": 92
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d05",
+   "page": 92
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 group-2 box page number 146 as printed (same as days 3-4).",
+   "lesson": "hr-hindi-g3-w12-d05",
+   "page": 92
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w12-d06",
+   "page": 93
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last unheaded box under section 2 has no printed heading.",
+   "lesson": "hr-hindi-g3-w12-d06",
+   "page": 93
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 3.2 under 3",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The top table cells are bulleted lists flattened into one string per cell.",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right-column top box (लेखन कार्य के दौरान...; बच्चों द्वारा लिखे नाम...) follows section 1.3 in reading order, so placed under 1.3.",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Last item in 3.2 is cut off at the page bottom and continues on next page.",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.1 heading printed with the colon and 'पठन अभ्यास-9' as shown.",
+   "lesson": "hr-hindi-g3-w13-d01",
+   "page": 94
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table 'आज किए जाने वाले कार्य' cells flattened into one string per column; exact line breaks not preserved",
+   "lesson": "hr-hindi-g3-w13-d02",
+   "page": 96
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 closing mark ’]’ transcribed as printed",
+   "lesson": "hr-hindi-g3-w13-d02",
+   "page": 96
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w13-d03",
+   "page": 97
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w13-d03",
+   "page": 97
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w13-d03",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section numbering: the third step under period 2 is printed '2.2' (a second time), kept as printed",
+   "lesson": "hr-hindi-g3-w13-d03",
+   "page": 97
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells flattened",
+   "lesson": "hr-hindi-g3-w13-d03",
+   "page": 97
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w13-d04",
+   "page": 98
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells flattened",
+   "lesson": "hr-hindi-g3-w13-d04",
+   "page": 98
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading printed 'पठन आकलन, पठन अभ्यास-12' (without 'प्रवाहपूर्ण'), kept as printed",
+   "lesson": "hr-hindi-g3-w13-d04",
+   "page": 98
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w13-d05",
+   "page": 99
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w13-d05",
+   "page": 99
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells flattened",
+   "lesson": "hr-hindi-g3-w13-d05",
+   "page": 99
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w13-d06",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Summary table cells flattened",
+   "lesson": "hr-hindi-g3-w13-d06",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "First item of 1.2 has a different (spiral) bullet icon; treated as bullet",
+   "lesson": "hr-hindi-g3-w13-d06",
+   "page": 100
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'समूह 1:' and 'समूह 2:' lead-ins are bold in print; kept as text items",
+   "lesson": "hr-hindi-g3-w13-d06",
+   "page": 100
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w14-d01",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The five discussion questions printed in a boxed callout under 1.2 were written as bullets after the 'चर्चा करें :' item",
+   "lesson": "hr-hindi-g3-w14-d01",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No 'आज किए जाने वाले कार्य' summary table on this page",
+   "lesson": "hr-hindi-g3-w14-d01",
+   "page": 101
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w14-d01",
+   "page": 101
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The five discussion questions printed in a boxed callout under 1.2 were written as bullets",
+   "lesson": "hr-hindi-g3-w14-d02",
+   "page": 102
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No summary table on this page",
+   "lesson": "hr-hindi-g3-w14-d02",
+   "page": 102
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w14-d02",
+   "page": 102
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Printed page number read as 99 (previous page 97); recorded as printed",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Third step under period 2 is printed '2.2' (second time), kept as printed",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No summary table on this page",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w14-d03",
+   "page": 103
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w14-d04",
+   "page": 104
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No summary table on this page",
+   "lesson": "hr-hindi-g3-w14-d04",
+   "page": 104
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Printed page numbers on neighbouring pages (97, 99, 100) are not consecutive; recorded as read",
+   "lesson": "hr-hindi-g3-w14-d04",
+   "page": 104
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w14-d04",
+   "page": 104
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w14-d05",
+   "page": 105
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w14-d05",
+   "page": 105
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two boxed callouts under 1.2 (activity instructions) were written as bullets in reading order",
+   "lesson": "hr-hindi-g3-w14-d05",
+   "page": 105
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "No summary table on this page",
+   "lesson": "hr-hindi-g3-w14-d05",
+   "page": 105
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w14-d05",
+   "page": 105
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w14-d06",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2 heading printed on two lines: 'साप्ताहिक आकलन-' / 'मैंने सीख लिया-14, पृष्ठ सं. 174' joined with a space.",
+   "lesson": "hr-hindi-g3-w14-d06",
+   "page": 106
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Line 'बच्चों को पहले से सुनी कोई कहानी पुनः सुनाएँ ।' in 1.2 has a different icon (not '>'), recorded as text.",
+   "lesson": "hr-hindi-g3-w14-d06",
+   "page": 106
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w15-d01",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2: the sub-heading '15.1 ‘खट्टे अंगूर’ ( पृष्ठ सं. 180 )' is printed at top of right column under 2.2; recorded as text item.",
+   "lesson": "hr-hindi-g3-w15-d01",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the four questions are in a speech-bubble box (icon), recorded as bullets.",
+   "lesson": "hr-hindi-g3-w15-d01",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with 2.2 (continuation of period 2 from left column); period 2 minutes '40' printed in left column bar.",
+   "lesson": "hr-hindi-g3-w15-d01",
+   "page": 107
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w15-d01",
+   "page": 107
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the six questions are in a speech-bubble box, recorded as bullets.",
+   "lesson": "hr-hindi-g3-w15-d02",
+   "page": 108
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with 2.2 (continuation of period 2 from left column).",
+   "lesson": "hr-hindi-g3-w15-d02",
+   "page": 108
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w15-d02",
+   "page": 108
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w15-d03",
+   "page": 109
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w15-d03",
+   "page": 109
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two steps are both numbered '2.2' in print: 'मार्गदर्शन पठन' (left column, 20 मिनट) and 'पाठ आधारित लेखन 15.3 ( पृष्ठ सं. 184 )' (right column, 20 मिनट); kept as printed.",
+   "lesson": "hr-hindi-g3-w15-d03",
+   "page": 109
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "In step 2.2 मार्गदर्शन पठन the line '15.3 ‘गाजर ही गाजर’ ( पृष्ठ सं. 183 )10 मिनट' is printed with '10 मिनट' attached at its end.",
+   "lesson": "hr-hindi-g3-w15-d03",
+   "page": 109
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w15-d03",
+   "page": 109
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w15-d04",
+   "page": 110
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w15-d04",
+   "page": 110
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w15-d04",
+   "page": 110
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w15-d05",
+   "page": 111
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w15-d05",
+   "page": 111
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: 'गतिविधि:- महसूस करें' recorded as text; the aim line beside a different icon recorded as text.",
+   "lesson": "hr-hindi-g3-w15-d05",
+   "page": 111
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Word 'बक्कल' in 1.2 as printed (possibly 'बकल').",
+   "lesson": "hr-hindi-g3-w15-d05",
+   "page": 111
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w15-d05",
+   "page": 111
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w15-d06",
+   "page": 112
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Line 'बच्चों को पहले से सुनी कोई कहानी पुन: सुनाएँ ।' in 1.2 has a different icon (not '>'), recorded as text.",
+   "lesson": "hr-hindi-g3-w15-d06",
+   "page": 112
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w16-d01",
+   "page": 113
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with 2.2 (continuation of period 2 from left column).",
+   "lesson": "hr-hindi-g3-w16-d01",
+   "page": 113
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w16-d01",
+   "page": 113
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the five questions are in a speech-bubble box, recorded as bullets.",
+   "lesson": "hr-hindi-g3-w16-d02",
+   "page": 114
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column starts with 2.2 (continuation of period 2 from left column).",
+   "lesson": "hr-hindi-g3-w16-d02",
+   "page": 114
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Line 'पाठ-16 ‘लाल पतंग और लालू’' printed as पाठ-16 here (पाठ-13 on previous page's day 1).",
+   "lesson": "hr-hindi-g3-w16-d02",
+   "page": 114
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w16-d02",
+   "page": 114
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w16-d03",
+   "page": 115
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two steps are both numbered '2.2' in print: 'मार्गदर्शन पठन' (left column, 10 मिनट) and 'पाठ आधारित लेखन अभ्यास, 16.3 ( पृष्ठ सं. 198 )' (right column, 20 मिनट); kept as printed.",
+   "lesson": "hr-hindi-g3-w16-d03",
+   "page": 115
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "In मार्गदर्शन पठन the line '16.3 ‘अमियाँ’ ( पृष्ठ सं. 197 )10 मिनट' is printed with '10 मिनट' attached.",
+   "lesson": "hr-hindi-g3-w16-d03",
+   "page": 115
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w16-d03",
+   "page": 115
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w16-d04",
+   "page": 116
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Layout: sections 1 and 2 are in left column, section 3 in right column; unit column set to 1.",
+   "lesson": "hr-hindi-g3-w16-d04",
+   "page": 116
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w16-d04",
+   "page": 116
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w16-d05",
+   "page": 117
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w16-d05",
+   "page": 117
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Sections 1 in left column; sections 2 and 3 in right column.",
+   "lesson": "hr-hindi-g3-w16-d05",
+   "page": 117
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w16-d05",
+   "page": 117
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w16-d06",
+   "page": 118
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1 in left column; section 2 in right column. Unclear whether 2.2 heading line 'मैंने सीख लिया-16, पृष्ठ सं. 202' is part of heading (written as such).",
+   "lesson": "hr-hindi-g3-w16-d06",
+   "page": 118
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w17-d01",
+   "page": 119
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the four question bullets appear in a speech-bubble box beside a chat icon; kept as bullets after the discussion line. 2.1 is at bottom of left column; 2.2, 2.3 and section 3 are in right column (2.2 printed above 2.1 in the right column's top, reading order left then right).",
+   "lesson": "hr-hindi-g3-w17-d01",
+   "page": 119
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w17-d01",
+   "page": 119
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the five question bullets sit in a speech-bubble box beside a chat icon; kept as bullets. Sections 1 and 2.1 in left column; 2.2 and section 3 in right column.",
+   "lesson": "hr-hindi-g3-w17-d02",
+   "page": 120
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w17-d02",
+   "page": 120
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w17-d03",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w17-d03",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w17-d03",
+   "page": 121
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 has two sub-sections both numbered 2.2 as printed (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास in right column top); numbering kept as printed.",
+   "lesson": "hr-hindi-g3-w17-d03",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w17-d03",
+   "page": 121
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w17-d04",
+   "page": 122
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading printed 'पठन आकलन, पठन अभ्यास-28' while the first bullet says 'प्रवाहपूर्ण पठन आकलन'; copied as printed. Sections 1 and 2 in left column; section 3 in right column.",
+   "lesson": "hr-hindi-g3-w17-d04",
+   "page": 122
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w17-d04",
+   "page": 122
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w17-d05",
+   "page": 123
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w17-d05",
+   "page": 123
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the two question bullets (class work / smileys) sit in a speech-bubble box beside a chat icon; kept as bullets. Last 1.2 bullet has an opening parenthesis without a closing one as printed.",
+   "lesson": "hr-hindi-g3-w17-d05",
+   "page": 123
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w17-d05",
+   "page": 123
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w17-d06",
+   "page": 124
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1 in left column; section 2 in right column.",
+   "lesson": "hr-hindi-g3-w17-d06",
+   "page": 124
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w18-d01",
+   "page": 125
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the four question bullets sit in a speech-bubble box beside a chat icon; kept as bullets. Sections 1 and 2.1 in left column; 2.2, 2.3 and section 3 in right column.",
+   "lesson": "hr-hindi-g3-w18-d01",
+   "page": 125
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w18-d01",
+   "page": 125
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the boxed discussion questions are given as bullets (box with speech icon)",
+   "lesson": "hr-hindi-g3-w18-d02",
+   "page": 126
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3.2: the mark printed as ']' is read from a quoted symbol",
+   "lesson": "hr-hindi-g3-w18-d02",
+   "page": 126
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w18-d02",
+   "page": 126
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w18-d03",
+   "page": 127
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w18-d03",
+   "page": 127
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w18-d03",
+   "page": 127
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Two sections in section 2 are both printed with number 2.2 (left column 'मार्गदर्शन पठन' and right column 'पाठ आधारित लेखन अभ्यास, 18.3'); kept as printed",
+   "lesson": "hr-hindi-g3-w18-d03",
+   "page": 127
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w18-d03",
+   "page": 127
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w18-d04",
+   "page": 128
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w18-d04",
+   "page": 128
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w18-d04",
+   "page": 128
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w18-d05",
+   "page": 129
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w18-d05",
+   "page": 129
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.1 bar: the '2.1 आदर्श पठन' bar and its content straddle the page halves; read from the -b image",
+   "lesson": "hr-hindi-g3-w18-d05",
+   "page": 129
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w18-d05",
+   "page": 129
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w18-d06",
+   "page": 130
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: first line (marked with a swirl icon rather than '>') recorded as a text item",
+   "lesson": "hr-hindi-g3-w18-d06",
+   "page": 130
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2.2: heading printed on two lines ('साप्ताहिक आकलन-' / 'मैंने सीख लिया-18, पृष्ठ सं. 230') joined with a space",
+   "lesson": "hr-hindi-g3-w18-d06",
+   "page": 130
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w19-d01",
+   "page": 131
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the four boxed discussion questions (speech icon) are recorded as bullets after the preceding bullet that ends with ':'",
+   "lesson": "hr-hindi-g3-w19-d01",
+   "page": 131
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w19-d01",
+   "page": 131
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2: the five boxed discussion questions (speech icon) are recorded as bullets",
+   "lesson": "hr-hindi-g3-w19-d02",
+   "page": 132
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w19-d02",
+   "page": 132
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w19-d03",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w19-d03",
+   "page": 133
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 1.2 second bullet reads oddly as printed ('दिए गए क्या बनना पसंद करेंगे') - copied as printed",
+   "lesson": "hr-hindi-g3-w19-d03",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w19-d03",
+   "page": 133
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w19-d04",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w19-d04",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w19-d04",
+   "page": 134
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w19-d05",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w19-d05",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w19-d05",
+   "page": 135
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w19-d06",
+   "page": 136
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the line 'बच्चों को पहले से सुनी कोई कहानी पुनः सुनाएँ ।' is preceded by a spiral icon rather than '>'; recorded as text",
+   "lesson": "hr-hindi-g3-w19-d06",
+   "page": 136
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the line ending 'समझ रहे हैं –' appears to introduce nothing before the next bullet; copied as printed",
+   "lesson": "hr-hindi-g3-w20-d01",
+   "page": 137
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g3-w20-d01",
+   "page": 137
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «सावधिक आकलन-1»",
+   "lesson": "hr-hindi-g3-w20-d02",
+   "page": 138
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-25",
+   "lesson": "hr-hindi-g3-w20-d03",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "week key: band printed 'सप्ताह-11' although this is in the week-20 region; copied as printed",
+   "lesson": "hr-hindi-g3-w20-d03",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "last unheaded box under section 2 has no heading",
+   "lesson": "hr-hindi-g3-w20-d03",
+   "page": 139
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "week key: band printed 'सप्ताह-11'; copied as printed",
+   "lesson": "hr-hindi-g3-w20-d04",
+   "page": 140
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "last unheaded box under section 2 has no heading",
+   "lesson": "hr-hindi-g3-w20-d04",
+   "page": 140
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w20-d05",
+   "page": 141
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "week key: band printed 'सप्ताह-11'; copied as printed",
+   "lesson": "hr-hindi-g3-w20-d05",
+   "page": 141
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w20-d06",
+   "page": 142
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "week key: band printed 'सप्ताह-11'; copied as printed",
+   "lesson": "hr-hindi-g3-w20-d06",
+   "page": 142
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "day key: tab 3 also has dark text but pale fill; tab 6 judged highlighted",
+   "lesson": "hr-hindi-g3-w20-d06",
+   "page": 142
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 first line preceded by spiral icon rather than '>'; recorded as text",
+   "lesson": "hr-hindi-g3-w20-d06",
+   "page": 142
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the four discussion questions sit in a boxed speech-icon panel with round bullets; recorded as bullets",
+   "lesson": "hr-hindi-g3-w21-d01",
+   "page": 143
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the five discussion questions sit in a boxed speech-icon panel with round bullets; recorded as bullets",
+   "lesson": "hr-hindi-g3-w21-d02",
+   "page": 144
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w21-d04",
+   "page": 146
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2: the unnumbered heading 'समूह-2 ‘सावधिक पुनरावृत्ति’ दिवस 3-4' placed as an unnumbered sub-section of 2; the first item's bold 'अभ्यास-कार्य-' prefix kept inline",
+   "lesson": "hr-hindi-g3-w21-d04",
+   "page": 146
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: bullet inside the boxed speech-bubble 'चिड़िया को भूख लगने पर...' recorded as a bullet",
+   "lesson": "hr-hindi-g3-w21-d04",
+   "page": 146
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w21-d05",
+   "page": 147
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
+   "lesson": "hr-hindi-g3-w21-d05",
+   "page": 147
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: the two survey question lines are in a boxed table-form; recorded as one text item with newline",
+   "lesson": "hr-hindi-g3-w21-d05",
+   "page": 147
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w21-d06",
+   "page": 148
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
+   "lesson": "hr-hindi-g3-w21-d06",
+   "page": 148
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w22-d01",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 starts in the left column (2.1) and continues in the right column (2.2, 2.3); section 3 is in the right column; all kept in one unit (one day per page)",
+   "lesson": "hr-hindi-g3-w22-d01",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2: the text line '22.1 ‘हामिद और माचिस’ (पृष्ठ सं. 266)' printed under 2.2 heading (first line wrapped after the heading bar); 3.2: the mark ‘]’ read from print",
+   "lesson": "hr-hindi-g3-w22-d01",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: speech-box bullets in the boxed list recorded as plain bullets, in the same order as printed (first bullet 'मोरनी हिल्स के रास्ते में क्या-क्या देखा?' printed before the box)",
+   "lesson": "hr-hindi-g3-w22-d01",
+   "page": 149
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w22-d01",
+   "page": 149
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 starts in the left column (2.1) and continues in the right column (2.2); section 3 is in the right column; all kept in one unit (one day per page)",
+   "lesson": "hr-hindi-g3-w22-d02",
+   "page": 150
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2: the mark ‘]’ read from print",
+   "lesson": "hr-hindi-g3-w22-d02",
+   "page": 150
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: bullets in the boxed speech-bubble list recorded as plain bullets in printed order",
+   "lesson": "hr-hindi-g3-w22-d02",
+   "page": 150
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w22-d02",
+   "page": 150
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 starts in the left column (2.1, 2.2 मार्गदर्शन पठन) and continues in the right column where the heading 'पाठ आधारित लेखन 22.3' is printed with number 2.2 again (duplicate number as printed; not renumbered)",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2: the mark ‘]’ read from print",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w22-d03",
+   "page": 151
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w22-d04",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w22-d04",
+   "page": 152
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3 (पठन) is in the right column; sections 1 and 2 in the left column; all kept in one unit (one day per page)",
+   "lesson": "hr-hindi-g3-w22-d04",
+   "page": 152
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2: the mark ‘]’ read from print",
+   "lesson": "hr-hindi-g3-w22-d04",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w22-d04",
+   "page": 152
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w22-d05",
+   "page": 153
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 3 (पठन) is in the right column; sections 1 and 2 in the left column; all kept in one unit (one day per page)",
+   "lesson": "hr-hindi-g3-w22-d05",
+   "page": 153
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
+   "lesson": "hr-hindi-g3-w22-d05",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w22-d05",
+   "page": 153
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w22-d06",
+   "page": 154
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: 'सामग्री: प्रश्न-पत्र का नमूना और प्रश्न-पत्र' is printed with a bullet arrow on this page (plain text on the previous page); recorded as bullet",
+   "lesson": "hr-hindi-g3-w22-d06",
+   "page": 154
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table header cells: 'प्रश्न 1' spans the हाँ/नहीं columns; flattened into rows",
+   "lesson": "hr-hindi-g3-w22-d06",
+   "page": 154
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2: heading printed on two lines ('साप्ताहिक आकलन-' / 'मैंने सीख लिया-22, पृष्ठ सं. 274'); the 'समूह 1/2' lines are un-bulleted paragraphs with bold labels",
+   "lesson": "hr-hindi-g3-w22-d06",
+   "page": 154
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w23-d01",
+   "page": 155
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Section 2 starts in the left column (2.1) and continues in the right column (2.2, 2.3); section 3 is in the right column; all kept in one unit (one day per page)",
+   "lesson": "hr-hindi-g3-w23-d01",
+   "page": 155
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2: last speech-box bullet 'चाँद के बारे में आपको क्या-क्या पाता है?' printed so (पाता); 3.2: the mark ‘]’ read from print",
+   "lesson": "hr-hindi-g3-w23-d01",
+   "page": 155
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w23-d01",
+   "page": 155
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion box (bullets with speech icon) placed as items of 1.2; has no printed heading",
+   "lesson": "hr-hindi-g3-w23-d02",
+   "page": 156
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 timer bullet: the bracket mark printed as ']'",
+   "lesson": "hr-hindi-g3-w23-d02",
+   "page": 156
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w23-d02",
+   "page": 156
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w23-d03",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w23-d03",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w23-d03",
+   "page": 157
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The second step in period 2 in the right column is printed with number 2.2 (duplicate of the left-column 2.2 मार्गदर्शन पठन); kept as printed",
+   "lesson": "hr-hindi-g3-w23-d03",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w23-d03",
+   "page": 157
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w23-d04",
+   "page": 158
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 bullet about अनुनासिक: the chandrabindu mark inside quotes read as ‘ ँ ’",
+   "lesson": "hr-hindi-g3-w23-d04",
+   "page": 158
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading printed 'पाठ आकलन' (no 'प्रवाहपूर्ण पठन') on this page",
+   "lesson": "hr-hindi-g3-w23-d04",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w23-d04",
+   "page": 158
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w23-d05",
+   "page": 159
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table in 1.2: header cells flattened into two rows; blank row count read as 2 plus 'कुल' row",
+   "lesson": "hr-hindi-g3-w23-d05",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w23-d05",
+   "page": 159
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w23-d06",
+   "page": 160
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Survey table: header cells flattened; 2 blank rows plus 'कुल'",
+   "lesson": "hr-hindi-g3-w23-d06",
+   "page": 160
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w24-d01",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion box (speech icon) bullets placed as items of 1.2; no printed heading",
+   "lesson": "hr-hindi-g3-w24-d01",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'ऊँगली' printed spelling in 2.1 kept as read",
+   "lesson": "hr-hindi-g3-w24-d01",
+   "page": 161
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w24-d01",
+   "page": 161
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion box (speech icon) bullets placed as items of 1.2; no printed heading",
+   "lesson": "hr-hindi-g3-w24-d02",
+   "page": 162
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w24-d02",
+   "page": 162
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w24-d03",
+   "page": 163
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Title '24.3 फिर?...फुर्र...फुर?...फुर्र...' punctuation/spelling as read",
+   "lesson": "hr-hindi-g3-w24-d03",
+   "page": 163
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w24-d03",
+   "page": 163
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w24-d04",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w24-d04",
+   "page": 164
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 heading has an icon between title and minutes; heading spacing 'आओ  मिलकर' as printed",
+   "lesson": "hr-hindi-g3-w24-d04",
+   "page": 164
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading printed 'पाठ आकलन' (no 'प्रवाहपूर्ण पठन')",
+   "lesson": "hr-hindi-g3-w24-d04",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w24-d04",
+   "page": 164
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 25-27",
+   "lesson": "hr-hindi-g3-w24-d05",
+   "page": 165
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 bullet 3: 'उत्तर दूसरों से साथ साझा' read as printed 'दूसरों से साथ साझा'",
+   "lesson": "hr-hindi-g3-w24-d05",
+   "page": 165
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w24-d05",
+   "page": 165
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-24, पृष्ठ सं. 301'; joined with a space",
+   "lesson": "hr-hindi-g3-w24-d06",
+   "page": 166
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 reads in column 2 (right); its step 2.1 has no printed minutes",
+   "lesson": "hr-hindi-g3-w24-d06",
+   "page": 166
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion questions are in a bordered speech-icon box under the last bullet; written as bullets as printed",
+   "lesson": "hr-hindi-g3-w25-d01",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 mobile-timer bullet: closing bracket mark printed as ']'",
+   "lesson": "hr-hindi-g3-w25-d01",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 continues into the right column (steps 2.2 has no repeated period bar); period 3 bar is in the right column",
+   "lesson": "hr-hindi-g3-w25-d01",
+   "page": 167
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w25-d01",
+   "page": 167
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion questions are in a bordered speech-icon box; written as bullets as printed",
+   "lesson": "hr-hindi-g3-w25-d02",
+   "page": 168
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'हक्की' printed in the last question (looks like a misprint of हॉकी), copied as printed",
+   "lesson": "hr-hindi-g3-w25-d02",
+   "page": 168
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Step 3.1-3.3 minutes not printed individually",
+   "lesson": "hr-hindi-g3-w25-d02",
+   "page": 168
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w25-d02",
+   "page": 168
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 has two steps both printed as '2.2' (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास-25.3 at top of right column); numbers copied as printed",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.3 'महिला खिलाड़ियों से समाचार' copied as printed",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w25-d03",
+   "page": 169
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w25-d04",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w25-d04",
+   "page": 170
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 text 'पृष्ठ सं, 306' printed with a comma",
+   "lesson": "hr-hindi-g3-w25-d04",
+   "page": 170
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.2 heading printed as 'पठन आकलन, पठन अभ्यास-52' (no 'प्रवाहपूर्ण' unlike other days)",
+   "lesson": "hr-hindi-g3-w25-d04",
+   "page": 170
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w25-d04",
+   "page": 170
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 bullet says 'पाठ 26.5' while the day's text is 25.5; copied as printed",
+   "lesson": "hr-hindi-g3-w25-d05",
+   "page": 171
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'बनाएँ जा सकते हैं' copied as printed",
+   "lesson": "hr-hindi-g3-w25-d05",
+   "page": 171
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 quote marks around punch line: opening ' and closing ।' as printed (straight-looking quotes)",
+   "lesson": "hr-hindi-g3-w25-d05",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w25-d05",
+   "page": 171
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w25-d06",
+   "page": 172
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-25, पृष्ठ सं. 315'; joined with a space",
+   "lesson": "hr-hindi-g3-w25-d06",
+   "page": 172
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Step 2.1/2.2 minutes not printed",
+   "lesson": "hr-hindi-g3-w25-d06",
+   "page": 172
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion questions are in a bordered speech-icon box; written as bullets as printed",
+   "lesson": "hr-hindi-g3-w26-d01",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.3 'दिए गए कहानी' copied as printed",
+   "lesson": "hr-hindi-g3-w26-d01",
+   "page": 173
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w26-d01",
+   "page": 173
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 discussion questions are in a bordered speech-icon box; written as bullets as printed",
+   "lesson": "hr-hindi-g3-w26-d02",
+   "page": 174
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "3.1 says पठन अभ्यास-54 with page 329 (same page as 3.2 in print)",
+   "lesson": "hr-hindi-g3-w26-d02",
+   "page": 174
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w26-d02",
+   "page": 174
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w26-d03",
+   "page": 175
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 60-60",
+   "lesson": "hr-hindi-g3-w26-d03",
+   "page": 175
+  },
+  {
+   "level": "warn",
+   "code": "numbering",
+   "msg": "expected 3 but found 2.2 under 2",
+   "lesson": "hr-hindi-g3-w26-d03",
+   "page": 175
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Period 2 has two steps both printed as '2.2' (मार्गदर्शन पठन in left column, पाठ आधारित लेखन अभ्यास-26.3 at top of right column); copied as printed",
+   "lesson": "hr-hindi-g3-w26-d03",
+   "page": 175
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w26-d03",
+   "page": 175
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-37",
+   "lesson": "hr-hindi-g3-w26-d04",
+   "page": 176
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«डिकोडिंग एवं पठन लेखन» says 40 min, its steps add up to 30-30",
+   "lesson": "hr-hindi-g3-w26-d04",
+   "page": 176
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 'कहानी से आधार पर' and 'बच्चों के कुछ उदाहरण' copied as printed (possible misprints)",
+   "lesson": "hr-hindi-g3-w26-d04",
+   "page": 176
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w26-d04",
+   "page": 176
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 20-20",
+   "lesson": "hr-hindi-g3-w26-d05",
+   "page": 177
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 'बनाएँ जा सकते हैं' copied as printed",
+   "lesson": "hr-hindi-g3-w26-d05",
+   "page": 177
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "1.2 quote marks around punch line printed as straight-looking quotes",
+   "lesson": "hr-hindi-g3-w26-d05",
+   "page": 177
+  },
+  {
+   "level": "warn",
+   "code": "textlayer-mismatch",
+   "msg": "vision and PDF text differ (similarity 0.0): «पठन»",
+   "lesson": "hr-hindi-g3-w26-d05",
+   "page": 177
+  },
+  {
+   "level": "warn",
+   "code": "minutes",
+   "msg": "«मौखिक भाषा विकास एवं लेखन» says 30 min, its steps add up to 35-35",
+   "lesson": "hr-hindi-g3-w26-d06",
+   "page": 178
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "2.2 heading printed on two lines: 'साप्ताहिक आकलन-' then 'मैंने सीख लिया-26, पृष्ठ सं. 330'; joined with a space",
+   "lesson": "hr-hindi-g3-w26-d06",
+   "page": 178
+  }
+ ]
+}

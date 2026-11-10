@@ -1,0 +1,71 @@
+{
+  "pdf_page": 25,
+  "printed_page": "20",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; page begins with step bar '2.3 पाठ आधारित लेखन अभ्यास' (not inferred from neighbouring pages)",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {
+          "number": "2.3",
+          "heading": "पाठ आधारित लेखन अभ्यास",
+          "minutes": "10",
+          "items": [
+            {"type": "text", "text": "पढ़े गए पाठ पर बच्चों की समझ मजबूत करना और लेखन कौशल का विकास करना।"},
+            {"type": "bullet", "text": "पाठ के आधार पर दिए गए प्रश्नों के उत्तर लिखवाएँ।"},
+            {"type": "bullet", "text": "पाठ के नीचे कुछ प्रश्न दिए गए हैं। आपको उनके उत्तर लिखने हैं जैसे- पहला प्रश्न है- अंश और उसकी बहन ने बाज़ार से क्या खरीदा? इसका उत्तर क्या हो सकता है?"},
+            {"type": "bullet", "text": "इसी तरह अन्य प्रश्नों पर भी बात करते हुए बच्चों से उत्तर लिखवाएँ।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3",
+          "heading": "पठन",
+          "minutes": "20",
+          "items": [],
+          "sections": [
+            {
+              "number": "3.1",
+              "heading": "मार्गदर्शन में पठन",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "इससे बच्चों को पाठ को स्वतंत्र रूप से पढ़ने में मदद मिलती है।"},
+                {"type": "bullet", "text": "दिवस 3-4 पाठ्यपुस्तक पृष्ठ सं.12 से पाठ के संवादो को पढ़कर सुनाएँ। कविता को उतार-चढ़ाव के साथ पुन: पढ़कर सुनाएँ।"},
+                {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाएँ, पाठ को जोड़ी में पढ़ने के लिए कहें।"},
+                {"type": "bullet", "text": "अब अपने साथी के साथ मिलकर इस पाठ को पढ़ें।"},
+                {"type": "bullet", "text": "जोड़ियों में जाकर बच्चों की आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "अच्छा, क्या लिख रहा है? मिलाकर एक साथ दुबारा पढ़ने के लिए कहें।"},
+                {"type": "bullet", "text": "यदि बच्चा किसी शब्द को गलत पढ़ता है तो सही उच्चारण कर बताएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": "3.2",
+              "heading": "स्वतंत्र पठन",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को पाठ पर स्वतंत्र रूप से पठन अभ्यास करवाना।"},
+                {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से पढ़ने के लिए कहें। बच्चों के पास जाकर आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "2-3 बच्चों से बड़े समूह में पाठ को पढ़ने के लिए कहें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Keys week/day are null because no tabs or week band are printed; page appears to continue section 2 and section 3 of the previous page's day.",
+    "Step 2.3 appears without its parent period bar '2. डिकोडिंग एवं पठन-लेखन' on this page.",
+    "2.3 speech-box bullet and 3.1 'अच्छा, क्या लिख रहा है?' are speech-box lines, given as bullets.",
+    "3.1 'संवादो' read as printed (without chandrabindu)"
+  ],
+  "notes": "Overflow page: only left column (2.3 and section 3); right column blank."
+}

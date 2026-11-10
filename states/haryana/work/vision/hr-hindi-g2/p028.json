@@ -1,0 +1,95 @@
+{
+  "pdf_page": 28,
+  "printed_page": "26",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "2", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; band 'सप्ताह-2'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "सृजनात्मक गतिविधि", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "आलसी बिल्ली पर कार्य करवाना।"},
+               {"type": "bullet", "text": "बच्चों को निर्देश दें कि उन्हें आलसी बिल्ली का अभिनय करना है। एक ऐसी बिल्ली, जो देर तक गहरी नींद में सोने के बाद उठकर अंगड़ाई ले रही है।"},
+               {"type": "bullet", "text": "ऐसे ही अन्य जानवरों का अभिनय करवाएँ।"},
+               {"type": "bullet", "text": "सुनिश्चित करें कि सभी बच्चे सहजता से अभिनय में शामिल हों।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "text", "text": "‘बिल्ली का चेहरा’ बनवाना।"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"},
+               {"type": "bullet", "text": "बच्चों द्वारा बनाये चित्रों को देखें और उनके साथ बात करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग (अभ्यास एवं पुनरावृत्ति)", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ग्रिड से मात्रा ‘ ु , ू ’ का अभ्यास करवाना", "minutes": null,
+             "items": [{"type": "bullet", "text": "बच्चों को सामग्री दें और उन्हें उपसमूहों में अभ्यास करवाएँ।"}], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [{"type": "bullet", "text": "अभ्यास-पत्रक 2.5 (पृष्ठ सं. 23) पर सोचकर लिखें, ग्रिड से शब्द खोजें, श्रुतलेख का कार्य करवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पुस्तकालय से मनपसंद किताब चुनकर व्यक्तिगत रूप से पढ़ने को कहें और उनके स्तर की पुस्तक चयन करने में मदद करें।"},
+               {"type": "bullet", "text": "पाठ के अंत में कक्षा में कहानी के पात्रों, घटनाओं आदि पर चर्चा करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "‘अनुभव सुनना-सुनाना स्कूल से घर आने पर’"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: घर से स्कूल के बीच दिखी चीजों के नाम लिखें। कक्षा 2: पाठ आधारित लेखन (पाठ-2 पृष्ठ सं 16)"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगें।"},
+            {"type": "bullet", "text": "शब्दों में ध्वनि पहचान- अभ्यास-पत्रक 2.5 पर कार्य करवाना।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक 2.5 पर कार्य करवाना।"},
+            {"type": "bullet", "text": "साप्ताहिक आकलन-मैंने सीख लिया।"},
+            {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"},
+            {"type": "bullet", "text": "कहानियों की किताबें उलटना-पलटना।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र में पठन।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Section 2.1 heading: the matra marks between quotes printed as ‘ ु , ू ’ (small marks, hard to read)", "Multigrade box: row assignment of the last two bullets in 40/20 minute rows inferred from row layout; the 40-minute row has two sub-rows per class, the 20-minute row's class 2 has one bullet"],
+  "notes": "Printed page number is 26; the image shows column 1 (period 1) and column 2 (periods 2, 3); period 1 last bullet repeated in both halves and written once."
+}

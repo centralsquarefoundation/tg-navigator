@@ -1,0 +1,22 @@
+{
+  "pdf_page": 62,
+  "printed_page": "49",
+  "page_kind": "unit_opener",
+  "header": "सैकड़ों का घर – 2",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ:", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk", "text": ""},
+       {"type": "bullet", "text": "501 से 999 तक की संख्याओं को पढ़ना, गिनना और लिखना।"},
+       {"type": "bullet", "text": "999 तक की संख्याओं को इकाई, दहाई, सैकड़ा में लिखना।"},
+       {"type": "bullet", "text": "999 तक की संख्याओं को इकाई, दहाई और सैकड़ा को मिलाकर संख्या बनाना।"},
+       {"type": "bullet", "text": "999 तक की संख्याओं की तुलना करना।"},
+       {"type": "bullet", "text": "999 तक संख्याओं में पहले–बीच में–बाद में, आरोही–अवरोही क्रम का बोध होना।"},
+       {"type": "bullet", "text": "दो अंकीय संख्याएँ व तीन अंकीय संख्याएँ बनाना।"},
+       {"type": "bullet", "text": "999 तक संख्याओं में पैटर्न समझना।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["No 'अध्याय N' tab visible; box is headed 'दक्षताएँ:' rather than 'जानें'"],
+  "notes": "Chapter opener page: title 'सैकड़ों का घर – 2', illustration, orange box under yellow label 'दक्षताएँ:'."
+}

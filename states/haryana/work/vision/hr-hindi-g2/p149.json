@@ -1,0 +1,101 @@
+{
+  "pdf_page": 149,
+  "printed_page": "147",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "22", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; band 'सप्ताह-22'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "सृजनात्मक गतिविधि", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "स्कूल के बाहर दिन-1 सर्वेक्षण गतिविधि"},
+               {"type": "bullet", "text": "कक्षा को 3-5 समूहों में बाँटें।"},
+               {"type": "bullet", "text": "हर समूह को नीचे दिए गए 2 प्रश्नों वाला पत्र दें।"},
+               {"type": "bullet", "text": "बच्चे अपने घर/आसपास के 10 लोगों से पूछकर उत्तर भरें।"},
+               {"type": "bullet", "text": "सभी उत्तर जोड़कर कक्षा में बताएँ।"},
+               {"type": "figure", "desc": "speech bubble with two survey questions", "text": "क्या आप ट्रेन या बस में सफ़र करते हैं? (हाँ/नहीं) आपको किसका सफ़र अच्छा लगता है? (बस/ट्रेन)"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-22.5 ‘आम का रस’", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पाठ का स्पष्ट उच्चारण, उतार-चढ़ाव के साथ (आदर्श) पठन कर बताएँ।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक के अभ्यास 22.5 (पृष्ठ सं.258) पर कहानी को पढ़ने, प्रश्नोत्तर करने, आम के अलावा किन-किन फलों का रस बनाया जा सकता है। छाँटकर लिखने पर अभ्यास करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पुस्तकालय से मनपसंद किताब चुनकर व्यक्तिगत रूप से पढ़ने को कहें और उनके स्तर की पुस्तक चुनने में मदद करें।"},
+               {"type": "bullet", "text": "पाठ के अंत में कक्षा में कहानी के पात्रों, घटनाओं आदि पर चर्चा करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+     "items": [],
+     "sections": [
+       {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "गतिविधि - ‘अनुभव सुनना व सुनाना- ‘देखे हुए सपने पर’।"},
+             {"type": "bullet", "text": "लेखन: कक्षा 1: अपने किसी एक सपने के बारे में लिखो। कक्षा 2: पाठ आधारित लेखन (पाठ-22 पृष्ठ सं- 251)"}
+           ], "sections": []}
+        ]},
+       {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी।"},
+             {"type": "bullet", "text": "पुनरावृति कार्य: शब्द पठन व ग्रिड से अभ्यास। अभ्यास-पत्रक 22.5 (पृष्ठ सं. 258)साप्ताहिक आकलन: मैंने सीख लिया।"}
+           ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "आदर्श एवं स्वतंत्र पठन: अभ्यास 22.5 ‘आम का रस’ पृष्ठ सं. 258 साप्ताहिक आकलन: मैंने सीख लिया।"},
+             {"type": "bullet", "text": "बच्चे स्वतंत्र पठन करेंगे।"}
+           ], "sections": []}
+        ]},
+       {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य।"},
+             {"type": "bullet", "text": "आदर्श एवं मार्गदर्शन में पठन: पठन अभ्यास ‘चिड़िया की हंसी’ पृष्ठ सं. 261"}
+           ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"},
+             {"type": "bullet", "text": "स्वतंत्र पठन।"}
+           ], "sections": []}
+        ]}
+     ]}
+  ],
+  "uncertain": ["2.2 sentence reads as printed: 'आम के अलावा किन-किन फलों का रस बनाया जा सकता है। छाँटकर लिखने पर' (wording odd in print)", "'पुनरावृति' spelling as printed"],
+  "notes": null
+}

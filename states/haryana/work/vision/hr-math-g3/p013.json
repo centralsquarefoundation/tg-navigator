@@ -1,0 +1,41 @@
+{
+  "pdf_page": 13,
+  "printed_page": "V",
+  "page_kind": "plan",
+  "header": "कक्षा- 3 अकादमिक प्लान (2026 - 27)",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": null,
+      "minutes": null,
+      "items": [
+        {
+          "type": "table",
+          "rows": [
+            ["Month", "Chapter Name", "Competency Number", "Competencies to be achieved"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.1", "चित्रों और आकृतियों को देखकर उनमें पैटर्न समझना।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.2", "चित्रों को अलग–अलग दिशाओं से देखना।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.3", "चित्र को आधे भाग में बाँटना।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.4", "बिंदुओं से डिज़ाइन बनाना।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.5", "चित्र को पूरा करना।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.6", "पैटर्न टाइल्स और उनकी जमावट।"],
+            ["फरवरी 2027", "सूरजकुंड मेला", "14.7", "नक़्शे को समझना।"],
+            ["मार्च 2027", "पूर्ण पाठ्यक्रम का दोहराव और अभ्यास", "", ""],
+            ["मार्च 2027", "वार्षिक आकलन", "", ""]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "इस अकादमिक प्लान के आधार पर सावधिक आकलन –1 के लिए प्रस्तावित दक्षताएँ R. 1 से - 6.8 हैं और सावधिक आकलन – 2 के लिए प्रस्तावित दक्षताएँ 7.1 से 12.9 हैं।"
+        }
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Month and chapter cells span rows in print and are repeated per row here; the two March 2027 rows are full-width",
+    "Closing note text: spacing of 'R. 1 से - 6.8' as printed"
+  ],
+  "notes": "Last page of the academic plan table, with the table header repeated; a closing note below the table. Lines overlapping both image halves written once."
+}

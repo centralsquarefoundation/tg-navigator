@@ -1,0 +1,78 @@
+{
+  "pdf_page": 233,
+  "printed_page": "23",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "24", "day": "5"},
+      "keys_evidence": "top-left 'सप्ताह – 24'; tab 'दिवस 5' drawn darker/bold, other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+         "items": [
+           {"type": "bullet", "text": "सुनो–सुनाओ"},
+           {"type": "bullet", "text": "बड़े आकार के मोती, सुतली/ऊन"},
+           {"type": "bullet", "text": "अख़बार/पुरानी पत्रिका से सड़क का दृश्य"}
+         ], "sections": []},
+        {"number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30", "items": [], "sections": [
+          {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15", "items": [
+            {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+            {"type": "bullet", "text": "उपस्थिति चार्ट"},
+            {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+            {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+          ], "sections": []},
+          {"number": "1.2", "heading": "सामाजिक–भावनात्मक और नैतिक विकास (सड़क पर सावधानी)", "minutes": "15", "items": [
+            {"type": "text", "text": "सड़क सुरक्षा नियमों और यातायात प्रतीकों को समझना।"},
+            {"type": "bullet", "text": "बच्चों को चित्र दिखाकर चित्र के बारे में पूछें। ”स्कूटर, बस, ऑटो आदि कहाँ चलते हैं? सड़क पर या किनारे?“"},
+            {"type": "bullet", "text": "चर्चा करें गाड़ियाँ सड़क पर चलती हैं और पैदल लोग फुटपाथ का इस्तेमाल करते हैं।"},
+            {"type": "bullet", "text": "कहें कि हमेशा फुटपाथ/सड़क के किनारे चलें। सड़क किसी बड़े के साथ दाएँ और बाएँ देखकर ही पार करें।"}
+          ], "sections": []}
+        ]},
+        {"number": "2", "heading": "मुक्त खेल", "minutes": "50", "items": [
+          {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+          {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45", "items": [], "sections": [
+          {"number": "3.1", "heading": "चित्र कहानी पर चर्चा और साझा लेखन (सूरज और हवा की तकरार)", "minutes": "25", "items": [
+            {"type": "text", "text": "कहानी की 3–4 बड़ी घटनाओं और पात्रों के बारे में एक क्रम में बोलना।"},
+            {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें और अभ्यास पुस्तिका (भाग 2) की कहानी निकलवाएँ।"},
+            {"type": "bullet", "text": "चित्र दिखाते हुए कहानी दोबारा सुनाएँ। बच्चों का ध्यान कहानी की घटनाओं के क्रम की ओर ले जाएँ"},
+            {"type": "bullet", "text": "हर चित्र पर बच्चों से एक वाक्य बनवाएँ और बोर्ड पर लिखें।"},
+            {"type": "bullet", "text": "बोर्ड से कहानी को एक बार पढ़ें, फिर बच्चों को अपने साथ पढ़ने के लिए बोले।"}
+          ], "sections": []},
+          {"number": "3.2", "heading": "सृजनात्मक विकासः (माला बनाना)", "minutes": "20", "items": [
+            {"type": "text", "text": "सूक्ष्म माँसपेशियों और आँख–हाथ के बीच समन्वय का विकास।"},
+            {"type": "bullet", "text": "बच्चों के साथ ‘माला’ पर चर्चा करें और कहें आज हम माला बनाएँगे।"},
+            {"type": "bullet", "text": "बच्चों को सुतली और बड़ी मोती देते हुए माला बनाने के लिए कहें। एक बार स्वयं करके दिखाएँ।"},
+            {"type": "bullet", "text": "जब बच्चे माला बना लें तो आप उसके दोनों सिरों पर गांठ लगाकर बच्चों को इसे पहनने के लिए कहें।"}
+          ], "sections": []}
+        ]},
+        {"number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35", "items": [], "sections": [
+          {"number": "4.1", "heading": "गतिविधिः मैंने सीखा", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 89 की गतिविधि करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "5", "heading": "बाहरी खेल", "minutes": "30", "items": [], "sections": [
+          {"number": "5.1", "heading": "गतिविधिः भागों–पकड़ों", "minutes": null, "items": [
+            {"type": "text", "text": "शारीरिक विकास।"},
+            {"type": "bullet", "text": "बच्चों को बताएँ एक बच्चा ”पकड़ने वाला“ है, बाकी बच्चे भागेंगे।"},
+            {"type": "bullet", "text": "जिसे पकड़ लिया जाता है, वह नया पकड़ने वाला बनता है।"},
+            {"type": "bullet", "text": "इसी प्रकार खेल आगे बढ़ाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "6", "heading": "गुडबाय सर्कल", "minutes": "10", "items": [
+          {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": null, "heading": null, "minutes": null, "items": [
+          {"type": "text", "text": "अवलोकन ट्रैकर भरें और बच्चों के कार्य को पोर्टफ़ोलियो में रखें।"}
+        ], "sections": []}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.1: unbulleted line 'बच्चों का ध्यान कहानी की घटनाओं के क्रम की ओर ले जाएँ' at top of right column joined to the last left-column bullet (assumed continuation; its own sentence has no closing danda)", "Final boxed line with hand icon (अवलोकन ट्रैकर ...) placed as unnamed last section of the day", "prep box order (two columns) read left then right"],
+  "notes": "Left column: prep box, periods 1-3 (3.1 begins); right column continues 3.1, then 3.2, 4, 5, 6, then a boxed note with a pointing-hand icon. Header row 'दिनांक … हस्ताक्षर …' ignored."
+}

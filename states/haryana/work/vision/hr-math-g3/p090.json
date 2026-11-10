@@ -1,0 +1,99 @@
+{
+  "pdf_page": 90,
+  "printed_page": "77",
+  "page_kind": "lesson",
+  "header": "सूरजकुंड मेला",
+  "units": [
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "टाइलें बनाना।",
+        "टाइलों से पैटर्न बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका ज्ञात से अज्ञात की ओर बढ़ते हुए बच्चों के पूर्व ज्ञान का परीक्षण करें तथा–"},
+                {"type": "bullet", "text": "बच्चों से उनके घर के फ़र्श पर लगे टाइलों के पैटर्न को नोट बुक में बनाने को कहें।"},
+                {"type": "bullet", "text": "बच्चों को त्रिभुज का प्रयोग करके टाइल्स डिज़ाइन करने को कहें।"},
+                {"type": "bullet", "text": "बच्चों से पूछें कि क्या वे फूल या नाव की आकृतियों का बार–बार प्रयोग करके टाइल्स डिज़ाइन कर सकते हैं?"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अपने अनुभव के अनुसार दैनिक जीवन के अन्य उदाहरण भी ले सकते हैं।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका संदर्भ स्थापित करके अवधारणा का परिचय दें तथा–"},
+                {"type": "bullet", "text": "बच्चों को त्रिभुज के प्रयोग से इस तरह के टाइल्स डिज़ाइन करने के लिए प्रेरित करें।"},
+                {"type": "figure", "desc": "Strip of tile design made of grey and yellow triangles in three rows", "text": null},
+                {"type": "bullet", "text": "बच्चों को टाइल्स को एक पैटर्न में लगाने के बारे में बताएँ। जैसे-"},
+                {"type": "bullet", "text": "सारी टाइल्स एक-दूसरे से सटाकर लगानी चाहिए।"},
+                {"type": "bullet", "text": "टाइल्स को ऐसे लगाएँ कि किन्हीं दो टाइल्स के बीच बिल्कुल भी खाली जगह न बचे।"},
+                {"type": "bullet", "text": "किन्हीं भी दो टाइल्स को एक-दूसरे के ऊपर न रखें।"},
+                {"type": "bullet", "text": "पैटर्न को दोहराते हुए अन्य टाइल्स भी लगाएँ।"},
+                {"type": "bullet", "text": "बच्चों को टाइल्स बनाने के बारे में बताएँ। बच्चों को यह उदाहरण दे सकते हैं-"},
+                {"type": "bullet", "text": "एक वर्गाकार कागज़ लें। इसके चारों कोनों को वर्गाकार काट लें।"},
+                {"type": "figure", "desc": "Grey square, arrow, then a plus-shaped cross cut from the square with dashed outline of the square", "text": null}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "नक्शे को समझना।",
+        "नक्शे पर किसी स्थान को खोजना।"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका ज्ञात से अज्ञात की ओर बढ़ते हुए बच्चों के पूर्व ज्ञान का परीक्षण करें तथा–"},
+                {"type": "bullet", "text": "बच्चों से पूछें कि नक्शा क्या होता है? क्या उन्होंने कभी नक्शे के बारे में सुना है?"},
+                {"type": "bullet", "text": "बच्चों से उनके घर से स्कूल जाने के मार्ग के बारे में पूछें। जैसे घर से दाईं ओर मुड़कर एक चौक आता है, चौक से बाएँ मुड़कर चलने पर स्कूल पहुँचते हैं।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अपने अनुभव के अनुसार दैनिक जीवन के अन्य उदाहरण भी ले सकते हैं।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका संदर्भ स्थापित करके अवधारणा का परिचय दें तथा–"},
+                {"type": "bullet", "text": "बच्चों को बताएँ कि नक्शा किसी भूगोलीय क्षेत्र या स्थान को दिखाने के लिए बनाया गया एक आभासी चित्र होता है।"},
+                {"type": "bullet", "text": "बच्चों को बताएँ कि नदियाँ, समुद्र, पहाड़ियाँ, राजमार्ग, रेलवे, शहर, गाँव, आदि की स्थिति को दर्शाने एवं उन्हें आसानी से पहचानने के लिए नक्शे का उपयोग किया जाता है।"},
+                {"type": "bullet", "text": "बच्चों से घर से स्कूल जाने के रास्ते का एक रफ़ नक्शा बनाने को कहें।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Sub-bullets marked with » in Day 1-2 column recorded as bullet items (flat list)",
+    "Block 1 bar read as 'ब्लॉक 1 – मौखिक गणित बातचीत'"
+  ],
+  "notes": "Two columns. Block 1 and both grey level-2 bars span both columns. Text overlapping between halves written once."
+}

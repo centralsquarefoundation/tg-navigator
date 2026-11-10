@@ -1,0 +1,104 @@
+{
+  "pdf_page": 51,
+  "printed_page": "39",
+  "page_kind": "lesson",
+  "header": "रानी का उपहार",
+  "units": [
+    {
+      "keys": {"chapter": "रानी का उपहार", "days": "1-2"},
+      "keys_evidence": "orange band 'रानी का उपहार'; calendar badge 'Day 1-2' on left column yellow box",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "अमानक इकाइयों में लम्बाई और दूरी मापना।",
+        "दो वस्तुओं या वस्तुओं के समूह की लम्बाई की तुलना करना।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सके।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 95–96 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 93 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "रानी का उपहार", "days": "3-4"},
+      "keys_evidence": "orange band 'रानी का उपहार'; calendar badge 'Day 3-4' on right column yellow box",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "विभिन्न वस्तुओं को पकड़कर उनके वज़न का अनुमान लगाना।",
+        "‘भारी’ तथा ‘हल्की’ शब्दों को प्रयोग करना।",
+        "अमानक इकाइयों से भार मापना।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 99–103 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 98–99 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Page starts directly at block 3 bar (no continuation text)"],
+  "notes": "Two columns. Teaching/Learning Materials strip and QR box ignored."
+}

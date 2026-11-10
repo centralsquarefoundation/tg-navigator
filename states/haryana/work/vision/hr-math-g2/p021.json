@@ -1,0 +1,61 @@
+{
+  "pdf_page": 21,
+  "printed_page": "9",
+  "page_kind": "lesson",
+  "header": "ढोलक की बारात",
+  "units": [
+    {
+      "keys": {"chapter": "ढोलक की बारात", "days": "1-2"},
+      "keys_evidence": "orange band 'ढोलक की बारात'; badge 'Day 1-2' in the single yellow box (one full-width column)",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न त्रिआयामी आकृतियों (घनाभ, बेलन, शंकु, गोला, घन) को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 22, 23, 26, 27 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 11 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null,
+      "heading": null,
+      "minutes": null,
+      "items": [
+        {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Block 3 bar is not printed on this page; the first bar (textbook-questions sub-step) is placed under block 3 'कौशल अभ्यास' as continued from the previous page",
+    "Quote marks around सम्पर्क दीदी के सवाल are small; rendered as “ ”",
+    "Block 4 textbook page reference 'पृष्ठ संख्या 11' as printed"
+  ],
+  "notes": "Single-unit lesson page; final yellow bar at the bottom spans the whole width and is placed in shared. Teaching/Learning Materials strip and QR code ignored."
+}

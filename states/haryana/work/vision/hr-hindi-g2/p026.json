@@ -1,0 +1,109 @@
+{
+  "pdf_page": 26,
+  "printed_page": "24",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "2", "day": "3"},
+      "keys_evidence": "highlighted tab 'दिवस 3'; band 'सप्ताह-2'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "पाठ का दोहराव व चर्चा", "minutes": "20",
+             "items": [{"type": "bullet", "text": "पाठ-2 ‘जितने मुँह उतनी बात’ का दोहरान के लिए पढ़कर सुनाएँ एवं पृष्ठ सं.17 से साथियों के साथ बातचीत के प्रश्नों को काम में लेते हुए समूह व उप समूह में बातचीत करवाएँ।"}], "sections": []},
+            {"number": "1.3", "heading": "पाठ आधारित लेखन", "minutes": "5-7",
+             "items": [{"type": "bullet", "text": "पेज 17 पर दिए गए लेखन अभ्यास- उचित शब्द चुनकर वाक्य पूरा करना, जानवरों के बारे में ‘सोचें और लिखें’ पर कार्य करवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग (अभ्यास एवं पुनरावृत्ति)", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ग्रिड से मात्रा ‘ ु , ू ’ का अभ्यास करवाना", "minutes": null,
+             "items": [{"type": "bullet", "text": "बच्चों को सामग्री दें और उन्हें उपसमूहों में अभ्यास करवाएँ।"}], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [{"type": "bullet", "text": "अभ्यास-पत्रक 2.3 (पृष्ठ सं. 21) पर वर्ण/अक्षरों को मिलाकर शब्द के रूप में पढ़ने, चित्रों के नाम लिखने, श्रुतलेख का कार्य करवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "आदर्श पठन", "minutes": null,
+             "items": [
+               {"type": "text", "text": "दिवस 3-4 पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं. 25 से पठन"},
+               {"type": "bullet", "text": "पाठ को उचित उतार-चढ़ाव के साथ पढ़कर सुनाएँ।"},
+               {"type": "bullet", "text": "बच्चों को पाठ पर उंगली रखकर साथ-साथ देखने के लिए कहें।"},
+               {"type": "bullet", "text": "पाठ पढ़ने के बाद बच्चों से समझ आधारित चर्चा करें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "मार्गदर्शन में पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "आदर्श पठन के बाद बच्चों को जोड़ों/उपसमूहों में बिठाएँ और पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों के पास जाकर शब्दों/वाक्यों को पढ़ने में मदद करें।"},
+               {"type": "bullet", "text": "बच्चों की गलतियों को पहचानकर उन्हें सही करके दिखाएँ।"},
+               {"type": "bullet", "text": "किन्हीं दो-तीन बच्चों को बुलाकर स्वतंत्र रूप से पाठ पढ़वाकर सुनें। बाकी बच्चे अपनी-अपनी किताब में देखें।"},
+               {"type": "bullet", "text": "अंत में, प्रश्न पूछकर चर्चा करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-2 के पाठ-2 ‘जितने मुँह उतनी बात’ पढ़कर सुनाना व चर्चा।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन (पाठ-2 लालू पीलू, पृष्ठ सं 13) कक्षा 2: खच्चर का चित्र बनाना।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगें।"},
+              {"type": "bullet", "text": "वाक्यों में शब्दों की पहचान।"},
+              {"type": "bullet", "text": "अभ्यास-पत्रक 2.3 पर कार्य करवाना।"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "वर्ण व मात्रा/अक्षर पहचान पर दोहराव कार्य।"},
+              {"type": "bullet", "text": "अभ्यास-पत्रक 2.3 की गतिविधियाँ पर कार्य।"},
+              {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की गतिविधियों पर कार्य करेंगे।"},
+              {"type": "bullet", "text": "साझा पठन- बिगबुक- ‘हाथी और बकरी’"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सप्ताह 2 पाठ्यपुस्तक रागिनी भाग 1 पृ. 25 से आदर्श एवं मार्गदर्शन में पठन।"},
+              {"type": "bullet", "text": "बच्चे स्वतंत्र पठन करेंगे।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": [
+    "Section 2.1 heading: the matras inside the quotes read as ु , ू but the second glyph is small and may differ.",
+    "Multigrade 40 and 20 minute rows each have two printed sub-rows; merged under the group label in print order."
+  ],
+  "notes": "Single lesson day. Section 2 (left column) continues below section 1; section 3 is the right column. Multigrade box at bottom has pictogram icons not transcribed."
+}

@@ -1,0 +1,150 @@
+{
+  "pdf_page": 46,
+  "printed_page": "33",
+  "page_kind": "lesson",
+  "header": "सैकड़ों का घर – 1",
+  "units": [
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in yellow box of column 1; orange band 'सैकड़ों का घर – 1'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं के समूह बनाना, संख्या गिनना तथा लिखना (101-500 तक)"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in yellow box of column 2; orange band 'सैकड़ों का घर – 1'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "संख्याओं को इकाई, दहाई, सैकड़ा में लिखना।",
+        "इकाई, दहाई और सैकड़ा को मिलाकर संख्या बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "5-6"},
+      "keys_evidence": "calendar badge 'Day 5-6' in yellow box of column 3; orange band 'सैकड़ों का घर – 1'",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "संख्या रेखा पर संख्याओं को दर्शाना।",
+        "संख्या रेखा पर संख्याओं का सीधा क्रम और उल्टा क्रम।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "करवाएँ vs करवाएं spelling varies slightly between columns; copied as read from each column (col 1 and col 3 'प्रश्न करवाएँ।', col 2 'प्रश्न करवाएं।')"
+  ],
+  "notes": "Staircase bar for textbook questions printed as 'पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।'."
+}

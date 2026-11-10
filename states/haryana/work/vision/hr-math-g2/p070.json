@@ -1,0 +1,98 @@
+{
+  "pdf_page": 70,
+  "printed_page": "58",
+  "page_kind": "lesson",
+  "header": "मौसम का आनंद",
+  "units": [
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "5-6"},
+      "keys_evidence": "badge 'Day 5-6' in left yellow box; orange band 'मौसम का आनंद'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।",
+        "दिनचर्या समझना।",
+        "घड़ी देखकर घंटे की अवधि को समझना।",
+        "एक घंटे, आधे घंटे और पौने घंटे के समय का बोध।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"}],
+             "sections": []},
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 140–143 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ],
+             "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}],
+             "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "7-8"},
+      "keys_evidence": "badge 'Day 7-8' in right yellow box; orange band 'मौसम का आनंद'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["विभिन्न दिशाओं – पूर्व, पश्चिम, उत्तर, दक्षिण – की अवधारणा।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अध्यापक/अध्यापिका विषय-वस्तु को ध्यान में रखते हुए और भी सवाल बना सकते हैं।"},
+               {"type": "text", "text": "इस अवधारणा को और अच्छी तरह समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+             ],
+             "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका अब बच्चों को समूह में बाँटे और ब्लॉक 2 में दी गई गतिविधि करवाएँ। इस गतिविधि के दौरान बच्चों में मौखिक चर्चा को प्रोत्साहित करें जिससे कि वह अवधारणा को आपस में समझ सकें।"}],
+             "sections": []},
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 147 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ],
+             "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [{"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 148 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}],
+             "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": null, "minutes": null,
+     "items": [{"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}],
+     "sections": []}
+  ],
+  "uncertain": ["Top of page has continuation of Block 2 before any bar; column 1 continuation area is empty, column 2 text attributed to Block 2 / TLM step"],
+  "notes": "Yellow footer bar spans both columns; placed in shared. Block 2 continuation in column 1 is blank."
+}

@@ -1,0 +1,77 @@
+{
+  "pdf_page": 239,
+  "printed_page": "29",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "25", "day": "5"},
+      "keys_evidence": "top-left 'सप्ताह – 25'; tab 'दिवस 5' drawn darker/bold, other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+         "items": [
+           {"type": "bullet", "text": "सुनो–सुनाओ"},
+           {"type": "bullet", "text": "नदी का चित्र, चाक"}
+         ], "sections": []},
+        {"number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30", "items": [], "sections": [
+          {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15", "items": [
+            {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+            {"type": "bullet", "text": "उपस्थिति चार्ट"},
+            {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+            {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+          ], "sections": []},
+          {"number": "1.2", "heading": "सामाजिक–भावनात्मक और नैतिक विकास (आस–पास के लोग)", "minutes": "15", "items": [
+            {"type": "text", "text": "आस पास में होने वाले व्यवसायों के बारे में जानना।"},
+            {"type": "bullet", "text": "बताएँ ”कल मेरे पेट में दर्द था, डॉक्टर के पास गई, दवाई मिली और ठीक हो गई।“"},
+            {"type": "bullet", "text": "पूछें क्या आप कभी डॉक्टर के पास गए हैं? क्यों? क्या देखा? डॉक्टर ने क्या किया? आपको कैसा लगा?"},
+            {"type": "bullet", "text": "बच्चों को बारी–बारी अनुभव साझा करने दें। डॉक्टर से संबंधित कोई वस्तु कक्षा में दिखाएँ (जैसे दवाई, सिरिंज)।"}
+          ], "sections": []}
+        ]},
+        {"number": "2", "heading": "मुक्त खेल", "minutes": "50", "items": [
+          {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+          {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45", "items": [], "sections": [
+          {"number": "3.1", "heading": "चित्र कहानी पर चर्चा और साझा लेखन (पकड़ो–पकड़ो! उड़ा गुब्बारा)", "minutes": "25", "items": [
+            {"type": "text", "text": "कहानी की 3–4 बड़ी घटनाओं और पात्रों के बारे में एक क्रम में बोलना"},
+            {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें और अभ्यास पुस्तिका (भाग 2) की कहानी निकलवाएँ।"},
+            {"type": "bullet", "text": "चित्र दिखाते हुए कहानी दोबारा सुनाएँ। बच्चों का ध्यान कहानी की घटनाओं के क्रम की ओर ले जाएँ"},
+            {"type": "bullet", "text": "हर चित्र पर बच्चों से एक वाक्य बनवाएँ और बोर्ड पर लिखें।"},
+            {"type": "bullet", "text": "बोर्ड से कहानी को एक बार पढ़ें, फिर बच्चों को अपने साथ पढ़ने के लिए बोले।"}
+          ], "sections": []},
+          {"number": "3.2", "heading": "सृजनात्मक विकासः चाक से चित्रकारी", "minutes": "20", "items": [
+            {"type": "text", "text": "सूक्ष्म माँसपेशी एवं आँख–हाथ के बीच समन्वय का विकास।"},
+            {"type": "bullet", "text": "बच्चों से नदी पर चर्चा करें– नदी में क्या होता है?, कौन से जानवर और कैसे पौधे इसमे होते हैं, लोग नदी पर क्या–क्या करते हैं? आदि"},
+            {"type": "bullet", "text": "नदी का चित्र दिखाकर जमीन पर चॉक से नदी की एक आउट लाईन बनाएँ।"},
+            {"type": "bullet", "text": "चर्चा के आधार पर बच्चों को चॉक से नदी पर और चीज़े बनाएँ (जैसेः मछली, नाव, कमल, पौधे) और इसमे चॉक से रंग भरने को कहें।"}
+          ], "sections": []}
+        ]},
+        {"number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35", "items": [], "sections": [
+          {"number": "4.1", "heading": "गतिविधिः मैंने सीखा", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 94 की गतिविधि करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "5", "heading": "बाहरी खेल", "minutes": "30", "items": [], "sections": [
+          {"number": "5.1", "heading": "गतिविधिः जानवर या पक्षी ?", "minutes": null, "items": [
+            {"type": "text", "text": "सहारे/मदद के साथ एक पैर पर खड़े होना।"},
+            {"type": "bullet", "text": "बच्चों को एक–दूसरे का हाथ पकड़ कर घेरे में खड़ा करें।"},
+            {"type": "bullet", "text": "कहें पक्षी के नाम पर एक पैर और जानवर के नाम पर दोनों पैर पर खड़े होना है।"},
+            {"type": "bullet", "text": "बारी–बारी से जानवर और पक्षी का नाम लें और बच्चों को संतुलन बनाकर खड़े होने के लिए कहें।"}
+          ], "sections": []}
+        ]},
+        {"number": "6", "heading": "गुडबाय सर्कल", "minutes": "10", "items": [
+          {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": null, "heading": null, "minutes": null, "items": [
+          {"type": "text", "text": "अवलोकन ट्रैकर भरें और बच्चों के कार्य को पोर्टफ़ोलियो में रखें।"}
+        ], "sections": []}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Final boxed line with pointing-hand icon placed as unnamed last section of the day", "misprint-looking forms kept as printed: 'इसमे', 'आउट लाईन', 'चीज़े'"],
+  "notes": "Left column: prep box, periods 1-3 (3.1 begins); right column continues 3.1 bullets, then 3.2, 4, 5, 6, then boxed note. Header row 'दिनांक … हस्ताक्षर …' ignored."
+}

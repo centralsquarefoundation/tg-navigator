@@ -1,0 +1,140 @@
+{
+  "pdf_page": 16,
+  "printed_page": "3",
+  "page_kind": "lesson",
+  "header": "नाम में क्या है ?",
+  "units": [
+    {
+      "keys": {"chapter": "नाम में क्या है ?", "days": "1-2"},
+      "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 1-2' in first column yellow box",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं की संख्या गिनना तथा संख्याओं को आरोही-अवरोही क्रम में लिखने का दोहराव (1-100)"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका बच्चों को एक इकाई का ब्लॉक दिखाएँ और बच्चों से पूछें कि ये कितने ब्लॉक्स हैं?"},
+                {"type": "bullet", "text": "फिर बच्चों को बताएँ यह एक इकाई का ब्लॉक है।"},
+                {"type": "bullet", "text": "फिर इसी तरह उन्हें दो इकाई के ब्लॉक्स दिखाएँ और बताएँ ये दो इकाई के ब्लॉक्स हैं।"},
+                {"type": "bullet", "text": "इस प्रकार उन्हें 9 तक संख्याओं के लिए ब्लॉक्स दिखाकर, उन्हें गिनना सिखाएँ।"},
+                {"type": "bullet", "text": "9 ब्लॉक्स के बाद उन्हें दहाई का ब्लॉक दिखाएँ और बताएँ इस एक ब्लॉक का मतलब है 10।"},
+                {"type": "bullet", "text": "फिर उन्हें इकाई के ब्लॉक्स और दहाई के ब्लॉक्स लगाकर 100 तक गिनना सिखाएँ।"},
+                {"type": "text", "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "नाम में क्या है ?", "days": "3-4"},
+      "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 3-4' in second column yellow box",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": [
+        "अक्षरों और संख्याओं में पैटर्न समझना और क्रम आगे बढ़ाना।"
+      ],
+      "sections": [
+        {
+          "number": "1",
+          "heading": "मौखिक गणित बातचीत",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को समझाएँ कि संख्याओं और अक्षरों के साथ में बने पैटर्न के नियम को समझने के लिए संख्याओं और अक्षरों में अलग–अलग पैटर्न को पहचानना चाहिए।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका कक्षा में एक तरफ से शुरू करते हुए एक–एक बच्चे को उनकी जगह पर खड़ा करें और उनके नाम एक पैटर्न में बोलें।"},
+                {"type": "bullet", "text": "पहले बच्चे को बोलें 80A, दूसरे बच्चे को बोलें 81B, तीसरे बच्चे को बोलें 82C, चौथे बच्चे को बोलें 83D।"},
+                {"type": "bullet", "text": "इसके बाद अन्य बच्चों को इसी क्रम में ऐसा ही करने को कहें।"},
+                {"type": "bullet", "text": "बच्चे खड़े होंगे और अपने–अपने नाम बोलेंगे, इस प्रकार से 84E, 85F, 86G..."},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका अब हर 2 बच्चों को छोड़कर तीसरे बच्चे को आगे बुलाएँ और उनसे उनके नाम बोर्ड पर लिखने को कहें।"},
+                {"type": "bullet", "text": "इस प्रकार लिखे नामों के पैटर्न को कक्षा को दिखाएँ और उसके नियम पर चर्चा करें।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका अब हर 3 बच्चों को छोड़कर चौथे बच्चे को आगे बुलाएँ और उनसे उनके नाम बोर्ड पर लिखने को कहें।"},
+                {"type": "bullet", "text": "इस प्रकार लिखे नामों के पैटर्न कक्षा को दिखाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "नाम में क्या है ?", "days": "5-6"},
+      "keys_evidence": "orange band 'नाम में क्या है ?'; calendar badge 'Day 5-6' in third column yellow box",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "चित्रों को देखकर उनमें पैटर्न समझना।",
+        "आकृतियों और उनके पैटर्न को पहचानकर क्रम बढ़ाना।"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "सबसे पहले विभिन्न पैटर्न ब्लॉक्स को बच्चों के सामने रखें और उनसे उनके नाम पूछें जैसे त्रिभुज, वर्ग, आदि।"},
+                {"type": "bullet", "text": "फिर आकृतियों का प्रयोग करके नीचे दिया हुआ एक पैटर्न बनाएँ।"},
+                {"type": "figure", "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, empty box", "text": null},
+                {"type": "bullet", "text": "बच्चों से पूछें कि क्रम में आगे कौन-सी आकृति आएगी? उन्हें उत्तर देने के लिए प्रोत्साहित करें।"},
+                {"type": "bullet", "text": "उन्हें बताएँ कि जब आकृतियाँ या वस्तुएँ किसी नियम के अनुसार एक क्रम में रखी जाती हैं, तो उस नियम को आकृतियों अथवा वस्तुओं का पैटर्न कहते हैं।"},
+                {"type": "bullet", "text": "नियम के अनुसार वर्गाकार आकृति के बाद तिकोन आकृति का दोहराव होगा।"},
+                {"type": "figure", "desc": "Row of five boxes: pink triangle, blue square, pink triangle, blue square, pink triangle", "text": null}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Column 2 first lines (before the Block 2 bar) are the continuation of the Block 1 last sub-step from the previous page; the first bullet's start appears truncated/begins 'बच्चों को समझाएँ'",
+    "Columns 1 and 3 have empty space before the Block 2 bar (no continuation text)",
+    "Column 1 bullet 'फिर इसी तरह ... ' wording and 'ओर' as printed"
+  ],
+  "notes": "Lesson plan page; Teaching/Learning Materials and QR box ignored. Block 2 'ब्लॉक 2 – कौशल शिक्षण' bar and level-2 grey bar span all columns. Page continues onto the next page."
+}

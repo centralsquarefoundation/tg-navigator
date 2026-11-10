@@ -1,0 +1,99 @@
+{
+  "pdf_page": 71,
+  "printed_page": "68",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "9", "day": "6"},
+      "keys_evidence": "highlighted tab 'दिवस 6'; band 'सप्ताह-9'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "मौखिक खेल", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "बच्चों के साथ मिलकर कोई स्थानीय खेल गतिविधि निर्धारित करें और बच्चों से खेल करवाएँ।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "खेल में आई चीजों के चित्र बनवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग साप्ताहिक आकलन", "minutes": "60",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "‘मैंने सीख लिया’-9 पृष्ठ संख्या 98", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "1. आकलन से पहले शिक्षक सभी बच्चों को व्यक्तिगत रूप से अच्छे चित्रों वाली कहानी की किताबें देखने के लिए दें।"},
+               {"type": "bullet", "text": "सभी बच्चों को किताबें देने के बाद देखने व पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "2. जब बच्चे कहानी की किताबें पढ़ रहें हों तो उसी दौरान “मैंने सीख लिया” से एक-एक बच्चे का आकलन करें।"},
+               {"type": "bullet", "text": "निर्देश: (छात्र/छात्रा का नाम) आप अपनी किताब लेकर मेरे पास आओ। अब अपनी किताब मुझे दे दो और मेरी किताब आप ले लो और इन वर्ण/अक्षरों/शब्दों को पढ़ो।"},
+               {"type": "bullet", "text": "3. बच्चे से ‘मैंने सीख लिया’ में दिए वर्ण/अक्षरों को पहचानने और शब्द पढ़ने के लिए कहें।"},
+               {"type": "text", "text": "सुनकर लिखें : बच्चों से किताब में देखकर दक्षता आधारित श्रुतलेख करवाएँ।"},
+               {"type": "bullet", "text": "4. बच्चों द्वारा सही पढ़े वर्ण/अक्षरों/शब्दों की संख्या किताब में दर्ज करें।"},
+               {"type": "bullet", "text": "5. गलत पढ़े वर्ण/अक्षरों/शब्दों को घेरा या रेखांकित कर लें ताकि रेमेडिअल कार्य योजना बनाने में सहयोग मिल सके।"},
+               {"type": "text", "text": "समूह-1: दोनों दक्षताओं में 50% या उस से कम अंक प्राप्त करने वाले बच्चे (यदि किसी एक दक्षता में 50% से ज़्यादा अंक प्राप्त कर लेता/लेती हैं लेकिन दूसरी में 50% से कम तो भी बच्चा समूह 1 में ही रहेगा/रहेगी)"},
+               {"type": "text", "text": "समूह-2: दोनों दक्षताओं में 50% से अधिक अंक प्राप्त करने वाले बच्चे।"},
+               {"type": "bullet", "text": "6. आकलन के दौरान बच्चे को सहजता से पढ़ने दें और आकलन के बाद बच्चे के प्रदर्शन के आधार पर किसी भी प्रकार की टिप्पणी से बचें।"},
+               {"type": "bullet", "text": "नोट: इस आकलन के आधार पर शिक्षक अगले सप्ताह बच्चों के साथ रेमेडियल कार्य करें।"},
+               {"type": "text", "text": "कक्षा में बच्चों की संख्या अधिक होने की स्थिति में शिक्षक यह आकलन पाँचवें और छठे दिन भी कर सकते हैं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+     "items": [],
+     "sections": [
+       {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "गतिविधि– बच्चों द्वारा कहानी पर अभिनय।"},
+             {"type": "bullet", "text": "लेखन: कक्षा 1: कहानी में आये पात्रों के चित्र बनाना। कक्षा 2: पाठ आधारित लेखन (पाठ-9 शहरी सियार पृष्ठ सं. 104)"}
+           ], "sections": []}
+        ]},
+       {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+             {"type": "bullet", "text": "साप्ताहिक आकलन।"}
+           ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "आकलन के आधार पर समूहवार कार्य।"},
+             {"type": "bullet", "text": "बच्चे समूह में दोहरान कार्य करेंगे।"}
+           ], "sections": []}
+        ]},
+       {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+        "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "बच्चे समूह में दोहरान कार्य करेंगे।"},
+             {"type": "bullet", "text": "कहानियों की किताबें उलटना-पलटना।"}
+           ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null,
+           "items": [
+             {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"},
+             {"type": "bullet", "text": "बच्चे पठन कार्य करेंगे।"}
+           ], "sections": []}
+        ]}
+     ]}
+  ],
+  "uncertain": ["Section 2 is 60 minutes with only 2.1; no section 3 on this page", "Right column continues 2.1 (items after 'सुनकर लिखें'); numbering kept in item text as printed", "'ज़्यादा' in समूह-1 read with nukta; page 65 style printed 'ज्यादा' on earlier page, check", "Multigrade sub-rows merged per group"],
+  "notes": "Printed number 68 in footer."
+}

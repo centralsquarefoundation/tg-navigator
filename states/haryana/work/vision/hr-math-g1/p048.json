@@ -1,0 +1,59 @@
+{
+  "pdf_page": 48,
+  "printed_page": "34",
+  "page_kind": "lesson",
+  "header": "पेड़ की बात",
+  "units": [
+    {
+      "keys": {"chapter": "पेड़ की बात", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2'; orange band 'पेड़ की बात'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "मूर्त रूप में चित्रों को दिखाकर दो वस्तुओं को मिलाने की अवधारणा सीखना। (20 तक)"
+      ],
+      "sections": [
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 96 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "पेड़ की बात", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4'; orange band 'पेड़ की बात'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "अमूर्त रूप में बिना हासिल किये 20 तक संख्याओं का जोड़।"
+      ],
+      "sections": [
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [],
+  "notes": "Yellow objective boxes show only the first line (no bullets) on this page. Lower half of page is blank."
+}

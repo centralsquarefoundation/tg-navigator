@@ -1,0 +1,32 @@
+{
+ "hr-math-g1": {
+  "file": "Math_G1_TG_VF_HR Sep'26.pdf",
+  "pages": 121,
+  "sha256": "f4e8a896d0f245eca0d8b95a5337d9f2b4a42b3a5fda09474d7ada689187dfd6"
+ },
+ "hr-math-g2": {
+  "file": "Math_G2_TG_VF_HR Sep'26.pdf",
+  "pages": 124,
+  "sha256": "08dc404311aead5f974d68366827eac65043f3da1b1ce5541238ec3d192aeacf"
+ },
+ "hr-math-g3": {
+  "file": "Math_G3_TG_VF_HR Sep'26.pdf",
+  "pages": 154,
+  "sha256": "345b2e54629a1d6a45e31b5a825700f5e8a4f83ba8800ccb4fd55bfbf0c94f21"
+ },
+ "hr-hindi-g1": {
+  "file": "Hindi_G1-BV_TG_VF_Sep'26.pdf",
+  "pages": 248,
+  "sha256": "6f082c6c3f90f73f294bd565e77d31d38953db237ad67841166c5e83fba38500"
+ },
+ "hr-hindi-g2": {
+  "file": "Hindi_G2_TG_VF_Sep'26 (1).pdf",
+  "pages": 204,
+  "sha256": "0a5bb88b5e9063043bc6da9c9ca7d01c35d700b07fc84c4b27a860ae43397a16"
+ },
+ "hr-hindi-g3": {
+  "file": "Hindi_G3_TG_VF_Sep'26.pdf",
+  "pages": 204,
+  "sha256": "b2004d530bd9b770b3c031bcb39db0f1b5d43fa5506e50c8291fb0d14038cfdc"
+ }
+}

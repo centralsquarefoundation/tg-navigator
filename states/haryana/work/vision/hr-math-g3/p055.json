@@ -1,0 +1,95 @@
+{
+  "pdf_page": 55,
+  "printed_page": "42",
+  "page_kind": "lesson",
+  "header": "रक्षाबंधन",
+  "units": [
+    {
+      "keys": {"chapter": "रक्षाबंधन", "days": "7-8"},
+      "keys_evidence": "badge 'Day 7-8'; orange band 'रक्षाबंधन'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": ["मूर्त रूप में संख्याओं का गुणा।"],
+      "sections": [
+        {"number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+              {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+            ], "sections": []},
+           {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+            ], "sections": []}
+         ]},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+            ], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "रक्षाबंधन", "days": "9-10"},
+      "keys_evidence": "badge 'Day 9-10'; orange band 'रक्षाबंधन'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": ["गुणा के इबारती प्रश्न।"],
+      "sections": [
+        {"number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+              {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+            ], "sections": []},
+           {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+            ], "sections": []}
+         ]},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+            ], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "रक्षाबंधन", "days": "11-12"},
+      "keys_evidence": "badge 'Day 11-12'; orange band 'रक्षाबंधन'",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": ["बार-बार घटाकर भाग करना।"],
+      "sections": [
+        {"number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+              {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+            ], "sections": []},
+           {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+            ], "sections": []}
+         ]},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [],
+  "notes": "All three columns carry identical text under each bar. Orange bars ब्लॉक 3 – कौशल अभ्यास and ब्लॉक 4 – गणित खेल and dark-grey bars span all columns."
+}

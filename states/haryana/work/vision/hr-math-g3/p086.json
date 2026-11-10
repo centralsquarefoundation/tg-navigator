@@ -1,0 +1,27 @@
+{
+  "pdf_page": 86,
+  "printed_page": "73",
+  "page_kind": "unit_opener",
+  "header": "सूरजकुंड मेला",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a book", "text": null},
+        {"type": "bullet", "text": "चित्रों और आकृतियों को देखकर उनमें पैटर्न समझना।"},
+        {"type": "bullet", "text": "चित्रों को अलग–अलग दिशाओं से देखना।"},
+        {"type": "bullet", "text": "चित्र को आधे भाग में बाँटना।"},
+        {"type": "bullet", "text": "बिंदुओं से डिज़ाइन बनाना।"},
+        {"type": "bullet", "text": "चित्र को पूरा करना।"},
+        {"type": "bullet", "text": "पैटर्न टाइल्स और उनकी जमावट।"},
+        {"type": "bullet", "text": "नक़्शे को समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "No 'अध्याय N' tab or 'जानें' box visible; the box is headed 'दक्षताएँ:' (skills), treated as opener box"
+  ],
+  "notes": "Chapter opener page: line illustration of teacher at board, large orange title 'सूरजकुंड मेला', yellow pill 'दक्षताएँ:' and orange box listing skills."
+}

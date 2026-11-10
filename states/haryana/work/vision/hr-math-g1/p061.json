@@ -1,0 +1,22 @@
+{
+  "pdf_page": 61,
+  "printed_page": "47",
+  "page_kind": "unit_opener",
+  "header": "त्यौहार",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Illustration of festival scenes: a woman on a swing, a family holding sparklers, a kite, a drummer, children dancing around a bonfire, decorated pots; QR code N4K6N3", "text": "आई तीज़ बो गई बीज; लोहड़ी की आ गई बारी भंगड़े की करो तैयारी"},
+        {"type": "bullet", "text": "आकृतियों/वस्तुओं में पैटर्न को समझना।"},
+        {"type": "bullet", "text": "पैटर्न समझकर क्रम आगे बढ़ाना।"},
+        {"type": "bullet", "text": "99 तक छूटी हुई संख्या पता करना।"},
+        {"type": "bullet", "text": "99 तक संख्या पैटर्न को देखते हुए क्रम आगे बढ़ाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Opener's orange box is headed 'दक्षताएँ :' (not 'जानें'); heading copied as printed. Tab reads 'अध्याय 10'."],
+  "notes": "Chapter tab 'अध्याय 10', chapter title 'त्यौहार'."
+}

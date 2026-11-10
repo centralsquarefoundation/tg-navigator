@@ -1,0 +1,59 @@
+{
+  "pdf_page": 14,
+  "printed_page": "11",
+  "page_kind": "plan",
+  "header": null,
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "पाठ आधारित अभ्यास कार्यों सम्बन्धी निर्देश (जारी)", "minutes": null, "items": [],
+      "sections": [
+        {"number": null, "heading": "साथियों के साथ बातचीत", "minutes": null, "items": [
+          {"type": "text", "text": "जोड़ों में, उपसमूह में अपने साथियों के साथ किसी बिंदु पर बात करना, अपनी सहमति-असहमति अपने विचार रखने का कार्य शामिल है।"}
+        ], "sections": []},
+        {"number": null, "heading": "शब्दों का खेल", "minutes": null, "items": [
+          {"type": "text", "text": "शब्दों के खेल में शब्द की पहली आवाज़ पहचान, शब्द में आई आवाज़ों की पहचान, समूह से अलग पर घेरा लगाना, एक जैसी आवाज़ वाले शब्द लिखना, चित्र देखकर शब्द और वाक्य लिखना, कहानी/ कविता में से पंक्ति पूरी करना, पढ़ना, लिखने आदि कार्य शामिल हैं।"}
+        ], "sections": []},
+        {"number": null, "heading": "गतिविधि", "minutes": null, "items": [
+          {"type": "text", "text": "अभिनय, नाटक, सामग्री बनाना, खोजकर लिखना, मिट्टी का कार्य, पेपर फोल्डिंग, कोलाज आदि कार्य शामिल हैं।"}
+        ], "sections": []}
+      ]
+    },
+    {
+      "number": null, "heading": "खंड 2- शब्द पहचान (डिकोडिंग) और संबंधित लेखन कार्य", "minutes": "40", "items": [],
+      "sections": [
+        {"number": null, "heading": "सप्ताह 1-4 दिवस 1-5", "minutes": null, "items": [
+          {"type": "bullet", "text": "पुनरावृत्ति बालवाटिका 3 से संबंधित कार्यों की"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 5-26 दिवस 1-5", "minutes": null, "items": [
+          {"type": "bullet", "text": "पाठ वर्ण पहचान, अक्षर / मात्रा पहचान, मिलाकर पढ़ना, शब्द / वाक्यांश / वाक्य पठन (प्रत्येक दिन के लिए एक अभ्यास-पत्रक दिया गया है।)"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 5-26 दिवस 5-6", "minutes": null, "items": [
+          {"type": "bullet", "text": "पुनरावृत्ति / साप्ताहिक आकलन (मैंने सीख लिया) व निदानात्मक (रेमेडियल) कार्य"}
+        ], "sections": []}
+      ]
+    },
+    {
+      "number": null, "heading": "खंड 3- पढ़ना (पठन) कार्य", "minutes": "20", "items": [],
+      "sections": [
+        {"number": null, "heading": "सप्ताह 1-10 दिवस 1-4", "minutes": null, "items": [
+          {"type": "bullet", "text": "पढ़कर सुनाना, साझा पठन, लोगोग्राफिक पठन (प्रत्येक सप्ताह के लिए एक बिगबुक हैं।)"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 1-6 दिवस 5-6", "minutes": null, "items": [
+          {"type": "bullet", "text": "कहानियों की किताबें उलटना-पलटना"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 7-10 दिवस 5", "minutes": null, "items": [
+          {"type": "bullet", "text": "आदर्श पठन व मार्गदर्शन पठन (प्रत्येक सप्ताह के लिए 1 पठन अभ्यास दिया है)"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 13-26 दिवस 1-5", "minutes": null, "items": [
+          {"type": "bullet", "text": "आदर्श पठन, मार्गदर्शन पठन, स्वतंत्र पठन (प्रत्येक सप्ताह के लिए 3 पठन अभ्यास (डिकोडेबल व ग्रेडेड पाठ) दिए गए हैं)"}
+        ], "sections": []},
+        {"number": null, "heading": "सप्ताह 13-26 दिवस 6", "minutes": null, "items": [
+          {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन किया जाएगा।"}
+        ], "sections": []}
+      ]
+    }
+  ],
+  "uncertain": ["Row labels 'सप्ताह X-Y' (left red cell) and 'दिवस ...' (second cell) combined into section headings; खंड 3 'सप्ताह 7-10 दिवस 5' and 'सप्ताह 13-26' rows read as printed"],
+  "notes": "Continuation of strategy page: three activity-type boxes, then खंड 2 and खंड 3 tables. No day tabs/week band."
+}

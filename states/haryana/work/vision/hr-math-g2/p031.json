@@ -1,0 +1,71 @@
+{
+  "pdf_page": 31,
+  "printed_page": "19",
+  "page_kind": "lesson",
+  "header": "परछाइयाँ",
+  "units": [
+    {
+      "keys": {"chapter": "परछाइयाँ", "days": "1-2"},
+      "keys_evidence": "orange band 'परछाइयाँ'; badge 'Day 1-2' in left column",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["वस्तुओं को ट्रेस करके आकृति बनाना व जाँच करना।", "वस्तुओं की परछाइयों को पहचानना और बनाना"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 41, 45 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 41 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "परछाइयाँ", "days": "3-4"},
+      "keys_evidence": "orange band 'परछाइयाँ'; badge 'Day 3-4' in right column",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न द्विआयामी आकृतियों को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 46, 48 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["The page begins with a level-2 bar (textbook practice) without a printed block bar; it is placed under block 3 'कौशल अभ्यास' of the previous page by inference (the block 3 bar is on the previous page)."],
+  "notes": "Printed page number 19. Lower half of the page is blank. Overlapping lines written once."
+}

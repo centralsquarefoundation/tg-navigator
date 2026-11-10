@@ -1,0 +1,27 @@
+{
+  "pdf_page": 75,
+  "printed_page": "62",
+  "page_kind": "unit_opener",
+  "header": "कुछ लेना, कुछ देना",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a book", "text": ""},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं का जोड़।"},
+        {"type": "bullet", "text": "तीन अंकीय संख्याओं का जोड़ (हासिल और बिना हासिल)।"},
+        {"type": "bullet", "text": "दैनिक जीवन की समस्याओं को हल करने के लिए 3 अंकीय जोड़ के इबारती प्रश्न हल करना (हासिल और बिना हासिल)।"},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं को घटाना।"},
+        {"type": "bullet", "text": "तीन अंकीय संख्याओं को घटाना (हासिल और बिना हासिल)।"},
+        {"type": "bullet", "text": "दैनिक जीवन की समस्याओं को हल करने में घटा की अवधारणाओं का प्रयोग।"},
+        {"type": "bullet", "text": "जोड़–घटा तथ्य परिवार।"},
+        {"type": "bullet", "text": "रूपये और पैसे को लिखकर समझना, गिनना, जोड़ना और घटाना।"},
+        {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों को समझते हुए धनराशियों को जोड़ना और घटाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Opener box is headed 'दक्षताएँ :' rather than 'जानें'; no 'अध्याय N' tab visible"],
+  "notes": "Chapter opener page with large line illustration; box heading is 'दक्षताएँ :'."
+}

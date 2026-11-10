@@ -1,0 +1,26 @@
+{
+  "pdf_page": 48,
+  "printed_page": "36",
+  "page_kind": "unit_opener",
+  "header": "रानी का उपहार",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Chapter 8 opener comic: a king asks carpenters for a bed 10 balisht long; carpenters build it; it turns out only 8 balisht long and the queen cannot fit", "text": "रानी का उपहार। एक बार जगदीप नाम का राजा अपनी रानी के लिए नक्काशी वाला बहुत सुंदर पलंग बनवाना चाहता था। उसने अपने नगर का सबसे अच्छा बढ़ई बुलवाया। मैं चाहता हूँ कि पलंग 10 बालिश्त लंबा हो। जी, महाराज। 10। बढ़ई ने पलंग बनाना शुरु किया। 1, 2, 3, ..... 8 यह केवल 8 बालिश्त लंबा है। 8। मैं पलंग पर पूरी तरह नहीं आ पा रही हूँ। ऐसा कैसे हो सकता है?"},
+        {"type": "bullet", "text": "अमानक इकाइयों से लम्बाई व दूरी मापना।"},
+        {"type": "bullet", "text": "दो वस्तुओं या वस्तुओं के समूह की लम्बाई की तुलना करना।"},
+        {"type": "bullet", "text": "विभिन्न वस्तुओं को पकड़कर उनके वज़न का अनुमान लगाना।"},
+        {"type": "bullet", "text": "भारी तथा हल्की वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "अमानक इकाइयों से भार मापना।"},
+        {"type": "bullet", "text": "अमानक इकाइयों में बर्तनों की धारिता मापना और तुलना करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Opener box is headed 'दक्षताएँ' (not 'जानें'); used as printed."],
+  "notes": "Chapter 8 opener; figure text includes the comic's speech bubbles."
+}

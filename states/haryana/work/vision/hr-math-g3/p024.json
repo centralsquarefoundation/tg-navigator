@@ -1,0 +1,67 @@
+{
+  "pdf_page": 24,
+  "printed_page": "11",
+  "page_kind": "lesson",
+  "header": "दोहरा शतक",
+  "units": [
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "1-2"},
+      "keys_evidence": "badge 'Day 1-2'; orange band 'दोहरा शतक'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": ["वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना"],
+      "sections": [
+        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।", "minutes": null,
+         "items": [{"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}], "sections": []},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [{"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "3-4"},
+      "keys_evidence": "badge 'Day 3-4'; orange band 'दोहरा शतक'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई के रूप में लिखना।",
+        "इकाई, दहाई को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।", "minutes": null,
+         "items": [{"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}], "sections": []},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [{"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "5-6"},
+      "keys_evidence": "badge 'Day 5-6'; orange band 'दोहरा शतक'",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई और सैकड़े के रूप में लिखना।",
+        "इकाई, दहाई और सैकड़ा को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाइए।", "minutes": null,
+         "items": [{"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}], "sections": []},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [{"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Day 1-2 yellow box has no bullet marker; written as single intro line", "first level-2 bar printed before any block bar (number null)"],
+  "notes": null
+}

@@ -1,0 +1,96 @@
+{
+  "pdf_page": 78,
+  "printed_page": "76",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "11", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; band 'सप्ताह-11'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "बच्चों को सहज करने के लिए कोई कविता गाएँ। कविता को लय, हाव-भाव के साथ गाकर सुनाएँ।"}], "sections": []},
+            {"number": "1.2", "heading": "सुनाएँ एवं चर्चा करें", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक से पाठ-11 ‘सर्दी आई’ पढ़कर सुनाएँ एवं चर्चा करें।"},
+               {"type": "bullet", "text": "सबसे पहले शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ। उसके बाद पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें। पढ़कर सुनाने के दौरान प्रश्न पूछते हुए सुनिश्चित करें कि बच्चे समझ रहे हैं–"},
+               {"type": "bullet", "text": "नाक सबकी लाल क्यों हो गई थी?"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [{"type": "bullet", "text": "सर्दी में क्या-क्या पहनते हैं? अपनी नोटबुक में लिखें। बच्चों को लिखने के लिए प्रोत्साहित करें।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "सावधिक आकलन-1", "minutes": "60",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "आकलन के दौरान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक सावधिक आकलन के लिए प्राप्त निर्देशों के अनुसार सभी बच्चों का आकलन करना सुनिश्चित करें।"},
+               {"type": "bullet", "text": "बच्चों को आवश्यक दिशानिर्देश दें जैसे: समय पर उपस्थित होने, प्रश्नों को धैर्य से समझकर जवाब देने आदि।"},
+               {"type": "bullet", "text": "सावधिक आकलन एवं पुनरावृत्ति दो सप्ताह (12 दिन) चलेगी। पहले दो दिन में आकलन किया जायेगा। शेष 10 दिन में सावधिक पुनरावृत्ति पर कार्य किया जायेगा।"},
+               {"type": "bullet", "text": "आकलन प्रपत्र से एक-एक बच्चे का आकलन करें।"},
+               {"type": "bullet", "text": "आकलन में बच्चों की उपलब्धि को शिक्षक संदर्शिका और पाठ्यपुस्तक में दिए गए स्किल पासबुक ट्रैकर (सावधिक आकलन-1) में दर्ज करें। शिक्षक हर दक्षता के लिए किए गए आकलन के आधार पर इनमें उपयुक्त विकल्प– हाँ, (Competent learner: 75-100%), आंशिक (Recognized learner 41-74%) और नहीं (Supported learner: 0-40%), अंकित करें।"},
+               {"type": "text", "text": "समूह निर्धारित करने के लिए निर्देश:"},
+               {"type": "bullet", "text": "आकलन के आधार शिक्षक अगले 10 दिन 2 समूहों में कार्य करेंगे।"},
+               {"type": "bullet", "text": "समूह 1: वह बच्चे जो सावधिक आकलन में Recognized learner (41-74% दक्षताएँ प्राप्त करने वाले) और Supported learner (0-40% दक्षताएँ प्राप्त करने वाले) श्रेणी में हैं।"},
+               {"type": "bullet", "text": "समूह 2: Competent Learner (75-100% दक्षताएँ प्राप्त करने वाले) बच्चों का होगा।"},
+               {"type": "bullet", "text": "सावधिक आकलन-1 के बाद शिक्षक प्रतिदिन कार्य के लिए योजनाएँ दी जा रही हैं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-1 के पाठ -11 ‘गिलहरी और गौरैया’ पढ़कर सुनाना व चर्चा।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: अपने दोस्तों के साथ मिलकर क्या-क्या खाते हो, लिखो। कक्षा 2: गिलहरी के बारे 2-3 बातें लिखो"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे लेखन गतिविधि पर कार्य जारी रखेंगे।"},
+              {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक आकलन"},
+              {"type": "bullet", "text": "सावधिक आकलन"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन"},
+              {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक आकलन"},
+              {"type": "bullet", "text": "सावधिक आकलन"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: the 40 and 20 minute rows each have two sub-rows; items listed in printed top-to-bottom order per group"],
+  "notes": "Printed page number 76 (footer). Overlap between halves merged."
+}

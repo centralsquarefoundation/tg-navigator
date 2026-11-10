@@ -1,0 +1,52 @@
+{
+  "pdf_page": 13,
+  "printed_page": "11",
+  "page_kind": "plan",
+  "header": "भाषा शिक्षण की वार्षिक योजना",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "सप्ताह 1 से 4 तक", "minutes": null, "items": [
+      {"type": "bullet", "text": "कक्षा-1 की दक्षताओं का दोहरान (वर्ण मात्रा, शब्द पठन, वाक्यांश/वाक्य पठन)"},
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"},
+      {"type": "bullet", "text": "रागिनी-2 (भाग-1) के पाठों पर कार्य"},
+      {"type": "bullet", "text": "शब्द व वाक्य पठन अभ्यास"}
+    ], "sections": []},
+    {"number": null, "heading": "सप्ताह 5 से 10 तक", "minutes": null, "items": [
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"},
+      {"type": "bullet", "text": "रागिनी-2 (भाग-1) के पाठों पर कार्य"},
+      {"type": "bullet", "text": "पढ़कर समझना व अभ्यास-कार्य"},
+      {"type": "bullet", "text": "पठन / प्रवाहपूर्ण पठन अभ्यास व आकलन"}
+    ], "sections": []},
+    {"number": null, "heading": "सप्ताह 11-12 सावधिक आकलन 1 व सावधिक पुनरावृत्ति", "minutes": null, "items": [
+      {"type": "bullet", "text": "सप्ताह 10 तक सीखी हुई दक्षताओं का आकलन"},
+      {"type": "bullet", "text": "समूह बनाकर बच्चों के साथ पुनरावृत्ति और निदानात्मक कार्य"},
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"}
+    ], "sections": []},
+    {"number": null, "heading": "सप्ताह 13 से 19 तक", "minutes": null, "items": [
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"},
+      {"type": "bullet", "text": "रागिनी-2 (भाग-2) के पाठों पर कार्य"},
+      {"type": "bullet", "text": "पढ़कर समझना व अभ्यास-कार्य"},
+      {"type": "bullet", "text": "पठन / प्रवाहपूर्ण पठन अभ्यास व आकलन"}
+    ], "sections": []},
+    {"number": null, "heading": "सप्ताह 20-21 सावधिक आकलन 2 व सावधिक पुनरावृत्ति", "minutes": null, "items": [
+      {"type": "bullet", "text": "सप्ताह 19 तक सीखी हुई दक्षताओं का आकलन"},
+      {"type": "bullet", "text": "समूह बनाकर बच्चों के साथ पुनरावृत्ति और निदानात्मक कार्य"},
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"}
+    ], "sections": []},
+    {"number": null, "heading": "सप्ताह 22 से 26 तक", "minutes": null, "items": [
+      {"type": "bullet", "text": "मौखिक भाषा विकास की गतिविधियाँ"},
+      {"type": "bullet", "text": "रागिनी-2 (भाग-2) के पाठों पर कार्य"},
+      {"type": "bullet", "text": "पढ़कर समझना व अभ्यास-कार्य"},
+      {"type": "bullet", "text": "पठन / प्रवाहपूर्ण पठन अभ्यास व आकलन"}
+    ], "sections": []},
+    {"number": null, "heading": "अकादमिक सत्र के अंत में", "minutes": null, "items": [
+      {"type": "text", "text": "वार्षिक आकलन"}
+    ], "sections": []},
+    {"number": null, "heading": "साप्ताहिक शिक्षण योजना की रूपरेखा", "minutes": null, "items": [
+      {"type": "figure", "desc": "Flow diagram: दिवस 1 to दिवस 6 in sequence; days 1-4 lead to a box, day 5 leads to a box, day 6 leads to a box, then to a remedial note", "text": "दिवस 1 → दिवस 2 → दिवस 3 → दिवस 4 → दिवस 5 → दिवस 6; दिवस 1-4: नई दक्षताओं/शिक्षण उद्देश्यों पर कार्य; दिवस 5: साप्ताहिक पुनरावृत्ति; दिवस 6: साप्ताहिक आकलन"},
+      {"type": "text", "text": "साप्ताहिक आकलन के आधार पर समूह 1 के लिए प्रतिदिन 30 मिनट रेमेडियल कार्य प्रस्तावित है। इसके लिए कार्य पृ. स. 175 से 187 देखें।"}
+    ], "sections": []}
+  ],
+  "uncertain": [],
+  "notes": "Annual language teaching plan page with colour boxes by week ranges; no day tabs."
+}

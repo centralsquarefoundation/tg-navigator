@@ -1,0 +1,108 @@
+{
+  "pdf_page": 169,
+  "printed_page": "167",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "26", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; band 'सप्ताह-26'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "पाठ पर चर्चा", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "पाठ-26 ‘अधिक बलवान कौन’"},
+               {"type": "bullet", "text": "सबसे पहले शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "उसके बाद पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें।"},
+               {"type": "bullet", "text": "पढ़कर सुनाने के दौरान प्रश्न पूछते हुए सुनिश्चित करें कि बच्चे समझ रहे हैं।"},
+               {"type": "bullet", "text": "पाठ के बाद बच्चों से खुले व बंद छोर वाले प्रश्नों की मदद से पाठ पर चर्चा करें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "आपके अनुसार कौन बलवान है और क्यों? लिखें।"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-26.1 ‘आइसक्रीम’", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पाठ का स्पष्ट उच्चारण, उतार-चढ़ाव के साथ (आदर्श) पठन कर बताएँ।"},
+               {"type": "bullet", "text": "बच्चों को स्वयं व जोड़ों में पढ़वाएँ और पढ़ने में मदद करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [{"type": "text", "text": "अभ्यास-पत्रक 26.1 (पेज.न. 304) दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "text", "text": "दिवस 1-4 पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.310 से प्रवाह पूर्ण पठन-69"},
+               {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से चयनित पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "प्रवाह पूर्ण आकलन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "5 बच्चों को अपने पास बुलाएँ।"},
+               {"type": "bullet", "text": "अपनी प्रति बच्चे को दें और पाठ्यपुस्तक अपने पास रखें।"},
+               {"type": "bullet", "text": "मोबाइल पर 60 सेकंड का टाइमर लगाएँ।"},
+               {"type": "bullet", "text": "बच्चा पहला शब्द पढ़ना शुरू करे तभी टाइमर चालू करें।"},
+               {"type": "bullet", "text": "गलत पढ़े शब्द के नीचे एक लाइन खींचें।"},
+               {"type": "bullet", "text": "यदि वह तुरंत सही कर लें तो दूसरी लाइन खींचें।"},
+               {"type": "bullet", "text": "1 मिनट पूरा होने पर अंतिम शब्द पर ‘]’ का निशान लगाएँ।"},
+               {"type": "bullet", "text": "पाठ्यपुस्तक में बने डिब्बे में सही पढ़ गए शब्दों की संख्या लिखें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+     "items": [],
+     "sections": [
+       {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+           {"type": "bullet", "text": "रागिनी-1 के पाठ -26 ‘गर्मी की छुट्टियाँ’ पाठ पढ़कर सुनाना व चर्चा।"},
+           {"type": "bullet", "text": "लेखन: कक्षा 1: गर्मी की छुट्टियों में आप क्या-क्या करना चाहेंगे? लिखिए कक्षा 2: अपनी पिछली छुट्टियों के अनुभव लिखो।"}
+         ], "sections": []}
+       ]},
+       {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+           {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी रखें।"},
+           {"type": "bullet", "text": "वर्ण पहचान व गतिविधि- ‘ऋ’। ग्रिड के माध्यम से अभ्यास अभ्यास-पत्रक 26.1 पर कार्य पृष्ठ 310"}
+         ], "sections": []},
+         {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+           {"type": "bullet", "text": "आदर्श एवं मार्गदर्शन में पठन अभ्यास 26.1 ‘आइसक्रीम’ पृष्ठ सं. 303 पाठ आधारित लेखन पृष्ठ सं. 204"},
+           {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य।"}
+         ], "sections": []}
+       ]},
+       {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+           {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य जारी रखें।"},
+           {"type": "bullet", "text": "आदर्श एवं मार्गदर्शन में पठन: ‘जामुन का पेड़’ पृष्ठ सं. 315"}
+         ], "sections": []},
+         {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+           {"type": "bullet", "text": "स्वतंत्र पठन व प्रवाहपूर्ण पठन आकलन: पठन अभ्यास 69 पृष्ठ सं. 310"},
+           {"type": "bullet", "text": "स्वतंत्र पठन।"}
+         ], "sections": []}
+       ]}
+     ]}
+  ],
+  "uncertain": ["2.2 step bar has no minutes printed", "multigrade 40-min class 2: 'पृष्ठ सं. 204' as printed (likely misprint for 304)", "multigrade 40-min class 1: 'ऋ' letter read from grid label"],
+  "notes": "Left column: period 1; right column: periods 2 and 3."
+}

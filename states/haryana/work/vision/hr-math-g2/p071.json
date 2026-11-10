@@ -1,0 +1,21 @@
+{
+  "pdf_page": 71,
+  "printed_page": "59",
+  "page_kind": "unit_opener",
+  "header": "रूपये-पैसे",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Reproduced textbook page 149 titled 'रुपये-पैसे' (chapter 11): a fair with a Ferris wheel, carousel, swing ride, toy train and children, each ride with a price tag", "text": "रुपये-पैसे 11 ईशा अपने मित्रों के साथ मेले में गई। उसकी माँ ने उसे 100 रुपए दिए। ₹ 50 ₹ 32 ₹ 18 ₹ 40 ₹ 28 ₹ 28 ₹ 18 ₹ 32 ₹ 40 ₹ 50 बताओ ईशा किन तीन झूलों पर झूले कि उसके पूरे ₹100 खर्च हो जाएं? सबसे सस्ते और सबसे मंहगे झूलने में झूलने के बाद ईशा के पास कितने रुपये बचेंगें? 149"},
+        {"type": "bullet", "text": "नोट और सिक्कों का उपयोग 500 रुपये तक की राशि पहचानना।"},
+        {"type": "bullet", "text": "अलग–अलग मान वाले नोट या सिक्कों के समूह (समान/असमान मूल्यवर्ग के) बनाना।"},
+        {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों को समझते हुए धनराशियों को जोड़ना और घटाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Illustration text: second question printed small; read as 'सबसे सस्ते और सबसे मंहगे झूलों में झूलने के बाद ईशा के पास कितने रुपये बचेंगें?' — written text above may mis-render 'झूलने में'; best reading 'झूलों में झूलने के बाद'", "Price tag order in the figure is approximate"],
+  "notes": "Chapter 11 opener: tab 'अध्याय 11', title 'रूपये-पैसे' (illustration title printed 'रुपये-पैसे'). The orange box is headed 'दक्षताएँ:' rather than 'जानें'."
+}

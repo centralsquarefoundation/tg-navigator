@@ -1,0 +1,30 @@
+{
+  "pdf_page": 13,
+  "printed_page": "1",
+  "page_kind": "unit_opener",
+  "header": "कितने संतरे",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ :",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Chapter 1 opener illustration: children and a vendor street scene with many oranges scattered on a road, a fallen cart, a cow and an old man; a teacher note panel is overlaid at the bottom.", "text": "कितने संतरे | अरे! इतने संतरे | चलो गिनकर देखें कितने संतरे! | कितने संतरे | बच्चों के समूह बनाएँ। अब बच्चों के आगे कुछ चीज़ें जैसे बीज, कंकड़ बिखेर दें। शिक्षक बच्चों से कहे कि जो समूह ज़्यादा तरीकों से चीज़ों को गिनेगा वही विजेता होगा। अध्यापक ध्यान रखे कि तरीकों में दोहराव न हो। गिनने के तरीकों पर बच्चों से खुली चर्चा करें। चित्र का उद्देश्य गिनते समय समूह की आवश्यकता महसूस करवाना है कि चीज़ें समूह में आसानी से गिन सकते हैं। | गणित भाग–1 | 1"},
+        {"type": "bullet", "text": "वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना।"},
+        {"type": "bullet", "text": "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।"},
+        {"type": "bullet", "text": "संख्या को इकाई, दहाई, सैकड़ा के रूप में लिखना।"},
+        {"type": "bullet", "text": "इकाई, दहाई, सैकड़ा को मिलाकर संख्याएँ बनाना।"},
+        {"type": "bullet", "text": "99 तक संख्याओं की तुलना करके बड़ा–छोटा और बराबर की अवधारणा समझना।"},
+        {"type": "bullet", "text": "क्रमसूचक संख्याओं का परिचय और प्रयोग।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Box is headed 'दक्षताएँ :' (not 'जानें') on this page; printed heading kept",
+    "Text in the small teacher-note panel inside the illustration is tiny; reading is approximate (e.g. 'चीज़ें', 'बिखेर')",
+    "Tab 'अध्याय 1' printed at top"
+  ],
+  "notes": "Chapter 1 opener: tab 'अध्याय 1', chapter title 'कितने संतरे'."
+}

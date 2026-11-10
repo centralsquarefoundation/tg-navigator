@@ -1,0 +1,185 @@
+{
+  "pdf_page": 77,
+  "printed_page": "64",
+  "page_kind": "lesson",
+  "header": "कुछ लेना, कुछ देना",
+  "units": [
+    {
+      "keys": {"chapter": "कुछ लेना, कुछ देना", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2'; orange band 'कुछ लेना, कुछ देना'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["मूर्त रूप में तीन अंकीय संख्याओं का जोड़।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "फिर उन्हें समझाएँ कि ब्लॉक्स को लगाने पर ब्लॉक्स की संख्या बढ़ गयी और इन्हें किस तरह से जोड़ा जाता है।"},
+                {"type": "text", "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "कुछ लेना, कुछ देना", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4'; orange band 'कुछ लेना, कुछ देना'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["अमूर्त रूप में तीन अंकीय संख्याओं का जोड़।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "अब उन काउंटर्स के नीचे इसी प्रकार कुछ और काउंटर्स लगाएँ और पहले वाली संख्या के नीचे इन काउंटर्स से बनने वाली संख्या लिखें।"},
+                {"type": "bullet", "text": "अब दोनों संख्याओं का जोड़ काउंटर की संख्या को जोड़कर लिखें।"},
+                {"type": "bullet", "text": "इसके साथ ही बच्चों को हासिल लगाने पर आगे वाली संख्या में उसे जोड़ना समझाएँ।"},
+                {"type": "text", "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "कुछ लेना, कुछ देना", "days": "5-6"},
+      "keys_evidence": "calendar badge 'Day 5-6'; orange band 'कुछ लेना, कुछ देना'",
+      "column": 3,
+      "continues_from_previous_page": true,
+      "intro": ["दैनिक जीवन की समस्याओं को हल करने के लिए 3 अंकीय जोड़ के इबारती प्रश्न हल करना (हासिल और बिना हासिल)।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "फिर उन्हें समझाएँ कि 500, 100, 10 और 1 रुपये के सभी नोट मिला कर कितने रुपये हुए।"},
+                {"type": "bullet", "text": "इसी तरह किसी संख्या में कोई संख्या मिलाने को ही जोड़ना कहते हैं और किस प्रकार तीन अंकीय संख्याओं को जोड़ा जाता है।"},
+                {"type": "text", "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Column text before the first bar assigned to block 2 / TLM sub-step by inference from previous page", "Column 3: 'ओर अच्छी' printed as read (likely misprint for 'और')"],
+  "notes": "Continuation of the same lesson plan from the previous page; same Day badges."
+}

@@ -1,0 +1,77 @@
+{
+  "pdf_page": 69,
+  "printed_page": "57",
+  "page_kind": "lesson",
+  "header": "मौसम का आनंद",
+  "units": [
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "5-6"},
+      "keys_evidence": "badge 'Day 5-6' in left yellow box; orange band 'मौसम का आनंद'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।",
+        "दिनचर्या समझना।",
+        "घड़ी देखकर घंटे की अवधि को समझना।",
+        "एक घंटे, आधे घंटे और पौने घंटे के समय का बोध।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+               {"type": "text", "text": "अध्यापक/अध्यापिका पाठ्यपुस्तक में, पृष्ठ संख्या 137 पर दी गई गतिविधि करवाएँ। इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।"},
+               {"type": "bullet", "text": "घड़ी के मॉडल पर बच्चों को सेकेंड, मिनट और घंटे की सुई के बारे में बताएँ।"},
+               {"type": "bullet", "text": "फिर उन्हें घड़ी में 1 बजकर 30 मिनट के समय पर सुइयों की स्थिति को लगा कर बताएँ।"},
+               {"type": "bullet", "text": "उन्हें घंटे मिनट कि सुई की गति और सवा, साढ़े और पौने के बारे में समझाएँ।"},
+               {"type": "bullet", "text": "फिर उन्हें अलग–अलग समय पर सुइयों की स्थिति को दर्शाएँ।"}
+             ],
+             "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "मौसम का आनंद", "days": "7-8"},
+      "keys_evidence": "badge 'Day 7-8' in right yellow box; orange band 'मौसम का आनंद'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": ["विभिन्न दिशाओं – पूर्व, पश्चिम, उत्तर, दक्षिण – की अवधारणा।"],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+               {"type": "text", "text": "अध्यापक/अध्यापिका पाठ्यपुस्तक में, पृष्ठ संख्या 144 पर दी गई गतिविधि करवाएँ। इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।"},
+               {"type": "text", "text": "गतिविधि :"},
+               {"type": "bullet", "text": "अध्यापक/अध्यापिका ब्लैक बोर्ड पर इस प्रकार का एक नक्शा बना लें।"},
+               {"type": "figure", "desc": "Simple map with a vertical main road (मुख्य सड़क), a side road on the left with a shop and bank, a green oval cricket ground, a blue pond and an orange hotel on the right", "text": "दुकान क्रिकेट ग्राउंड तालाब मुख्य सड़क बैंक होटल"},
+               {"type": "bullet", "text": "अध्यापक/अध्यापिका कक्षा के सभी बच्चों को बराबर-बराबर दो टीमों में बाँट दें।"},
+               {"type": "bullet", "text": "अध्यापक/अध्यापिका बच्चों से कुछ सवाल पूछेंगे।"},
+               {"type": "bullet", "text": "सवाल का जवाब देने के लिए प्रत्येक टीम के बच्चों के पास 10 सेकेंड का समय होगा।"},
+               {"type": "bullet", "text": "जिस टीम का बच्चा सवाल का सही जवाब देगा, उस टीम को एक अंक मिलेगा।"},
+               {"type": "bullet", "text": "अध्यापक/अध्यापिका इस प्रकार से बच्चों से सवाल पूछें:"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के बाई ओर कितने स्थानों को दिखाया गया है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के दाईं ओर कितने स्थानों को दिखाया गया है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - दुकान के अधिक पास कौन-सा स्थान है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - तालाब मुख्य सड़क के किस ओर स्थित है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - क्रिकेट ग्राउंड सड़क के किस ओर स्थित है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क बैंक के किस ओर स्थित है?"},
+               {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क होटल के किस ओर स्थित है?"}
+             ],
+             "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Col 1: 'सेकेंड, मिनट और घंटे की सुई' and 'घंटे मिनट कि सुई' as printed", "Col 2 'बाई ओर' vs 'दाईं ओर' as printed; the question list is a boxed list of » items (recorded as bullets, last bullet before the box is its lead-in)", "Map labels read at small size"],
+  "notes": "Page starts with Block 2 bar. The rounded box with quick-quick questions in column 2 is part of the activity (» markers). Column 1 has empty space below its bullets."
+}

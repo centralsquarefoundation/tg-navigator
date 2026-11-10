@@ -1,0 +1,115 @@
+{
+  "pdf_page": 32,
+  "printed_page": "29",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "3", "day": "3"},
+      "keys_evidence": "highlighted tab 'दिवस 3'; band 'सप्ताह-3'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक से पाठ-3 ‘आडू’ (पृ. सं. 24)शिक्षक के मार्गदर्शन में बच्चे साथियों के साथ बातचीत करेंगे।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "पाठ आधारित लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को निर्देश दें कि पाठ्यपुस्तक (पृ. सं. 24) की गतिविधि में बिन्दुओं को मिलाकर आकृति में रंग भरेंगे और उसका नाम दिए गये स्थान में लिखेंगे।"},
+               {"type": "bullet", "text": "बच्चों से दो फलों के नाम पूछेंगे एक आडू से छोटा और दूसरा आडू से बड़ा। नाम बताने के बाद बच्चों को उनके चित्र पाठ्यपुस्तक में दिए स्थान में बनाने के लिए प्रेरित करेंगे।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ध्वनि चेतनाः ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग) मौखिक रूप से", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक 2-3 अलग-अलग शब्द लें।"},
+               {"type": "bullet", "text": "शिक्षक शब्द को अलग-अलग ध्वनियों में तोड़कर बताएँगे और उसके बाद प्रत्येक ध्वनि को जोड़कर शब्द को एक साथ उच्चारित करेंगे।"},
+               {"type": "bullet", "text": "फिर बच्चों को इस प्रक्रिया में अपने साथ शामिल करें।"},
+               {"type": "bullet", "text": "उसके बाद बच्चों को स्वयं से ब्लेंडिंग का अभ्यास मौखिक रूप से करने के लिए कहें और अभ्यास के दौरान शिक्षक बच्चों को अवश्यकता अनुसार सहयोग करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 3.3 (पृ. सं. 28) पर बच्चों को स्पष्ट निर्देश कार्य करवाएँ ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "साझा पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बिग बुक से कहानी ‘बंदर की पूँछ’ साझा पठन और चर्चा करना।"},
+               {"type": "bullet", "text": "पिछले दिन पढ़ी गई कहानी के बारे में बच्चों से कुछ प्रश्न पूछें और थोड़ी चर्चा करें।"},
+               {"type": "bullet", "text": "प्रत्येक पृष्ठ पर दिए गए चित्रों को दिखाते हुए शब्दों पर उंगली रखते हुए कहानी पढ़कर सुनाएँ।"},
+               {"type": "bullet", "text": "शिक्षक पृष्ठों को धीरे-धीरे पलटें जिससे बच्चों को यह समझने का मौका मिलता है कि बायें से दायें पढ़ा जाता हैं और आगे पढ़ने के लिए पृष्ठ पलटे जाते हैं। जहाँ लाइन खत्म होती हैं, वहाँ थोड़ा रुकते हैं।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों को अपने साथ-साथ कहानी पढ़ने के लिए प्रोत्साहित करें। पढ़ते समय मुख्य शब्दों पर थोड़ा रुकें ताकि बच्चों को साथ में पढ़ने का मौका मिले।"},
+               {"type": "bullet", "text": "इस प्रक्रिया को दो से तीन बार दोहराएँ ताकि बच्चे पठन सामग्री से परिचित हो जाएँ और साथ-साथ पढ़ने का प्रयास करने लगे।"},
+               {"type": "bullet", "text": "कहानी में आए मुख्य शब्दों को बोर्ड पर लिखते जाएँ और बाद में पेपर पर लिखकर शब्द दीवार पर लगा दें। जैसे: बंदर, गिलहरियाँ, पेड़, पूँछ, झूला"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-2 के पाठ-3 ‘ऊन का गोला’ पढ़कर सुनाना व चर्चा।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन (पाठ-3 आडू पृष्ठ सं 23) कक्षा 2: ऊन के गोले का चित्र बनाना।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगे।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "वर्ण व मात्रा/अक्षर पहचान पर दोहराव कार्य।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.3 की गतिविधियाँ।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग)"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.3 पर कार्य करवाना।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग-1 पृष्ठ सं. 38 पर मार्गदर्शन एवं स्वतंत्र में पठन।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "साझा पठन- बिगबुक- ‘बन्दर की पूँछ’"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "स्वतंत्र पठन।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order", "2.1 continues from left column into right column top (first right-column bullet)", "2.1 last bullet 'अवश्यकता' (left-col print) vs 'अवश्यकता' read; right-col top of this page read as 'अवश्यकता' - verify", "2.2 bullet printed 'स्पष्ट निर्देश कार्य करवाएँ ।' (no 'देकर')"],
+  "notes": null
+}

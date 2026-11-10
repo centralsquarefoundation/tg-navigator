@@ -1,0 +1,107 @@
+{
+  "pdf_page": 42,
+  "printed_page": "40",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "5", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; band 'सप्ताह-5'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "पाठ पढ़कर सुनाना एवं चर्चा", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "पाठ-5 ‘आलू-मालू-कालू’"},
+               {"type": "bullet", "text": "सबसे पहले शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "उसके बाद पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें।"},
+               {"type": "bullet", "text": "पढ़कर सुनाने के दौरान प्रश्न पूछते हुए सुनिश्चित करें कि बच्चे समझ रहे हैं।"},
+               {"type": "bullet", "text": "पाठ के बाद बच्चों से खुले व बंद छोर वाले प्रश्नों की मदद से पाठ पर चर्चा करें।"},
+               {"type": "figure", "desc": "box with question icon listing sample discussion questions", "text": "• मालू बगीचे में क्यों गया था? • क्या मालू को आलू मिले? • कालू अगर मदद नहीं करता तो मालू, आलू कैसे खोजता?"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "text", "text": "‘आलू से बनने वाली चीज़ों के नाम लिखो’"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"},
+               {"type": "bullet", "text": "बच्चों द्वारा बनाये चित्रों को देखें और उनके साथ बात करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "बच्चों को ब्लेंडिंग और शब्द पठन पर कार्य करवाएँ।", "minutes": null,
+             "items": [{"type": "bullet", "text": "बच्चों को सामग्री दें और उन्हें उपसमूहों में अभ्यास करवाएँ।"}], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [{"type": "bullet", "text": "अभ्यास-पत्रक 5.1 (पृष्ठ सं. 58) पर मिलाकर शब्द लिखने और पढ़ने, खाने वाली चीज़ों के नाम छांटने, चित्र में रंग और वस्तुओं के नाम लिखने, वाक्य पढ़ें और लिखें पर कार्य करवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "text", "text": "दिवस 1-4 पाठ्यपुस्तक रागिनी भाग 1, पृष्ठ सं.63, पाठ 1"},
+               {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से चयनित पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"},
+               {"type": "bullet", "text": "दो-तीन बच्चों को बुलाकर पूछें कि उन्होंने क्या पढ़ा?"},
+               {"type": "bullet", "text": "इसमें क्या-क्या था? कौन-से वाक्य पढ़े? इत्यादि।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "आकलन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "5 बच्चों का आकलन करें।"},
+               {"type": "bullet", "text": "जिस पाठ के साथ आकलन कर रहे हैं उसके आगे बने डिब्बों में सही पढ़े गए शब्दों की संख्या लिखें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-1 के पाठ-5 ‘जीव-जगत’ पर चर्चा।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ से अपनी पसंद के जानवर का चित्र बनाना। कक्षा 2: अपने गाँव में दिखने वाले जानवरों के नाम लिखना।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+            {"type": "bullet", "text": "वर्ण ‘न’ पहचान और गतिविधि।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 5.1 पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "ब्लेंडिंग और शब्द पठन पर कार्य।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 5.1 पर कार्य।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"},
+            {"type": "bullet", "text": "पढ़कर सुनाना व चर्चा- बिगबुक- ‘मुर्गी और मगरमच्छ’।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी भाग-1 पृष्ठ सं. 63 (पठन-1) से स्वतंत्र पठन, पाठ आधारित चर्चा व पठन आकलन।"},
+            {"type": "bullet", "text": "बच्चे पठन कार्य करेंगे।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Section 1.2 discussion-question box placed as figure item at end of 1.2"],
+  "notes": null
+}

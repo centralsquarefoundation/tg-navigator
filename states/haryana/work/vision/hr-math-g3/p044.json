@@ -1,0 +1,132 @@
+{
+  "pdf_page": 44,
+  "printed_page": "31",
+  "page_kind": "lesson",
+  "header": "सैकड़ों का घर – 1",
+  "units": [
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in yellow box of column 1; orange band 'सैकड़ों का घर – 1'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं के समूह बनाना, संख्या गिनना तथा लिखना (101-500 तक)"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को"},
+                {"type": "bullet", "text": "एक मुट्ठी चावल देकर उन्हें गिनने को कहें।"},
+                {"type": "bullet", "text": "अब उन्हें एक मुट्ठी गेहूँ में दानों की संख्या गिनने को कहें।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "वे अपने आस-पास की चीजों को देखकर उनकी गिनती करें।"},
+                {"type": "bullet", "text": "101 से 500 तक वस्तुओं को कैसे गिना जाता है?"},
+                {"type": "bullet", "text": "101 से 500 तक की संख्याओं को कैसे लिखा जाता है?"},
+                {"type": "bullet", "text": "101 से 500 तक की उल्टी और सीधी गिनती कैसे की जाती है?"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in yellow box of column 2; orange band 'सैकड़ों का घर – 1'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "संख्याओं को इकाई, दहाई, सैकड़ा में लिखना।",
+        "इकाई, दहाई और सैकड़ा को मिलाकर संख्या बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "बच्चों के साथ दो अंकीय संख्याओं को स्थानीय मान के अनुसार लिखना दोहराएं जैसे–"},
+                {"type": "bullet", "text": "कितनी इकाई मिलकर दहाई बनाती हैं ?"},
+                {"type": "bullet", "text": "5 दहाई मतलब कितनी इकाई होगा ?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "1 इकाई का अर्थ 1 होता है परन्तु 10 इकाई का अर्थ 1 दहाई होता है।"},
+                {"type": "bullet", "text": "10 दहाई मिलकर 1 सैकड़ा बनाती हैं।"},
+                {"type": "bullet", "text": "संख्याओं को इकाई, दहाई और सैकड़ा में कैसे लिखा जाता है।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 1", "days": "5-6"},
+      "keys_evidence": "calendar badge 'Day 5-6' in yellow box of column 3; orange band 'सैकड़ों का घर – 1'",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "संख्या रेखा पर संख्याओं को दर्शाना।",
+        "संख्या रेखा पर संख्याओं का सीधा क्रम और उल्टा क्रम।"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से संख्याओं के बारे में बातचीत करें। उदाहरण के लिए:"},
+                {"type": "bullet", "text": "99 से बड़ी संख्या कौन–सी है?"},
+                {"type": "bullet", "text": "120 से 5 कूदने पर कौन–सी संख्या आती है?"},
+                {"type": "bullet", "text": "क्या आप जानते हो कि संख्याओं की रेखा क्या होती है?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब सन्दर्भ के आधार पर बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "शिक्षक बच्चों को संख्याओं की रेखा का चित्र बोर्ड पर बनाकर दिखाएँ।"},
+                {"type": "bullet", "text": "संख्याओं की रेखा पर 20 का अंतर रखते हुए 0 से लेकर 200 तक की संख्याएँ लिखें और बच्चों को समझाएँ कि संख्याएँ एक के बाद एक बढ़ती जाती हैं।"},
+                {"type": "figure", "desc": "number line from 0 to 200 with marks every 20", "text": "0 20 40 60 80 100 120 140 160 180 200"},
+                {"type": "bullet", "text": "शिक्षक 150 को संख्या रेखा पर सही स्थान पर चिह्नित करें।"},
+                {"type": "bullet", "text": "इसी प्रकार, 78, 123, 170 जैसी संख्याओं को भी संख्या रेखा पर स्थानित करके दिखाएँ।"},
+                {"type": "bullet", "text": "शिक्षक संख्या रेखा पर कुछ तीन अंकों की संख्याएँ जैसे 110, 120, 132, 150, 200 आदि को चिह्नित करें।"},
+                {"type": "bullet", "text": "शिक्षक छात्रों से पूछें: “यदि हमें 110 से शुरुआत करके अगले संख्या को अंकित करना हो तो वह कहाँ होगी?”"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Column 3 section 'अवधारणा' bullet 2: 'संख्याओं की रेखा पर 20 का अंतर' read as printed",
+    "Column 3 last bullet: 'अगले संख्या को' printed as is"
+  ],
+  "notes": "Chapter title in orange band printed 'सैकड़ों का घर – 1'. Teaching/Learning Materials strip and Chapter QR Code ignored per profile. The staircase bars are repeated inside every column."
+}

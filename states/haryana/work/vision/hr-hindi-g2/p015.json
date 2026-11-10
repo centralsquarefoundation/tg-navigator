@@ -1,0 +1,36 @@
+{
+  "pdf_page": 15,
+  "printed_page": "13",
+  "page_kind": "plan",
+  "header": null,
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "खंड 2- शब्द पहचान (डिकोडिंग) और संबंधित लेखन कार्य", "minutes": "40", "items": [], "sections": [
+      {"number": null, "heading": "सप्ताह 1-4 दिवस 1-6", "minutes": null, "items": [
+        {"type": "bullet", "text": "पुनरावृत्ति (वर्ण/अक्षर व शब्द/वाक्य आधारित)"}
+      ], "sections": []},
+      {"number": null, "heading": "सप्ताह 5-26 दिवस 1-5", "minutes": null, "items": [
+        {"type": "bullet", "text": "पाठ पठन और अभ्यास-कार्य (प्रत्येक दिन के लिए एक अभ्यास-पत्रक दिया गया है।)"}
+      ], "sections": []},
+      {"number": null, "heading": "सप्ताह 5-26 दिवस 6", "minutes": null, "items": [
+        {"type": "bullet", "text": "आकलन (मैंने सीख लिया) व निदानात्मक कार्य"}
+      ], "sections": []}
+    ]},
+    {"number": null, "heading": "खंड 3- पढ़ना (पठन) कार्य", "minutes": "20", "items": [], "sections": [
+      {"number": null, "heading": "सप्ताह 1-4 दिवस 1-4", "minutes": null, "items": [
+        {"type": "bullet", "text": "पठन अभ्यास (प्रत्येक सप्ताह के लिए 2 पठन अभ्यास दिए गए हैं।)"}
+      ], "sections": []},
+      {"number": null, "heading": "सप्ताह 5-8 दिवस 1-4", "minutes": null, "items": [
+        {"type": "bullet", "text": "पठन अभ्यास (प्रत्येक सप्ताह के लिए 4 पठन अभ्यास दिए गए हैं।)"}
+      ], "sections": []},
+      {"number": null, "heading": "सप्ताह 9-26 दिवस 1-4", "minutes": null, "items": [
+        {"type": "bullet", "text": "प्रवाहपूर्ण पठन अभ्यास (प्रत्येक सप्ताह प्रवाहपूर्ण पठन आकलन के लिए 4 प्रवाहपूर्ण पठन अभ्यास दिए गए हैं।)"}
+      ], "sections": []},
+      {"number": null, "heading": "सप्ताह 1-26 दिवस 5-6", "minutes": null, "items": [
+        {"type": "bullet", "text": "पाँचवें और छठे दिन पुस्तकालय/पढ़ी गई कहानियों का स्वतंत्र/जोड़ों में पठन"}
+      ], "sections": []}
+    ]}
+  ],
+  "uncertain": [],
+  "notes": "Continuation of the textbook strategy tables (खंड 2 and खंड 3); no day tabs; the सप्ताह/दिवस labels are cells in a table, combined into each sub-section heading. The दिवस 1-4 cell spans the first three खंड 3 rows."
+}

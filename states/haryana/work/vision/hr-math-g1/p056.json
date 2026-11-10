@@ -1,0 +1,34 @@
+{
+  "pdf_page": 56,
+  "printed_page": "42",
+  "page_kind": "unit_opener",
+  "header": "गुलगुले का पेड़",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "गुलगुले का पेड़", "minutes": null,
+      "items": [
+        {"type": "text", "text": "गोलू की दादी ने बनाए गुलगुले। उसने जी भर के खाए, और सो गया। सोते-सोते आया सपना। सपने में बोये गुलगुले, पेड़ पर लगे गुलगुले ही गुलगुले। सब बच्चों ने खूब खाए।"},
+        {"type": "figure", "desc": "Illustration of a large tree laden with gulgule, children climbing and eating, a child collecting them in a basket, and a boy asleep in bed dreaming", "text": "रै! जी सा आग्या"}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को दिखाकर 50 तक गिनना।"},
+        {"type": "bullet", "text": "50 तक सीधी और फिर उल्टी गणना करना।"},
+        {"type": "bullet", "text": "50 तक वस्तुओं/संख्याओं को 10 के समूह बनाकर दर्शाना।"},
+        {"type": "bullet", "text": "50 तक इकाई और दहाई की अवधारणा समझना।"},
+        {"type": "bullet", "text": "दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को दिखाकर 99 तक गिनना।"},
+        {"type": "bullet", "text": "99 तक वस्तुओं/संख्याओं को 10 समूह बनाकर दर्शाना।"},
+        {"type": "bullet", "text": "99 तक इकाई और दहाई की अवधारणा समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Orange box is headed 'दक्षताएँ:' rather than 'जानें'; recorded as printed. Chapter tab 'अध्याय 9'. Small QR code labelled 'H3E1S1' near the title."
+  ],
+  "notes": "Chapter opener: tab 'अध्याय 9'. Story text is set on the illustration; line-break hyphen in 'सोते-सोते' kept as printed."
+}

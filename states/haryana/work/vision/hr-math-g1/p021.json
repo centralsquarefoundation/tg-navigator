@@ -1,0 +1,22 @@
+{
+  "pdf_page": 21,
+  "printed_page": "7",
+  "page_kind": "unit_opener",
+  "header": "क्या है लम्बा-क्या है गोल",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ:",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Classroom illustration with a teacher and children sitting on a rug with objects, labelled 'अपने आस-पास देखो', with speech bubbles and a teacher note box", "text": "क्या है लंबा? क्या है गोल? जल्दी बोल, जल्दी बोल। | पेंसिल बॉक्स है लंबा, गेंद है गोल। क्या है लंबा, क्या है गोल, जल्दी बोल, जल्दी बोल। | देखो, देखो मेरी टाँगें हैं लंबी, मेरा चेहरा है गोल। | यह खेल बच्चों के साथ कक्षा में खेलें। बच्चों को लंबाई एवं गोलाई के आधार पर दो-दो वस्तुओं के नाम बताने के लिए कहें। हर बार नई वस्तुओं का नाम लेना है, दोहराना नहीं है। बच्चे वस्तुओं के एक ही आयाम की ओर ध्यान देकर भी उनका वर्गीकरण कर सकते हैं। जैसे कोई गिलास को लंबा और कोई अन्य बच्चा उसे गोल कह सकता है। दोनों तरह के उत्तरों को तर्क के आधार पर सही माना जाए। बच्चों को अपने वर्गीकरण का तर्क देने के लिए कहें।"},
+        {"type": "bullet", "text": "दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न त्रिआयामी आकृतियों को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"},
+        {"type": "bullet", "text": "वस्तुओं के लुढ़कने और खिसकने का गुण समझना तथा इस गुण के आधार पर वस्तुओं को समूह में बाँटना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["The orange box is headed 'दक्षताएँ:' not 'जानें'; the printed heading was used. Teacher note box text is small and may contain minor misreadings."],
+  "notes": "Chapter opener with tab 'अध्याय 2'; illustration headed 'अपने आस-पास देखो'."
+}

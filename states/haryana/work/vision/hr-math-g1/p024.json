@@ -1,0 +1,26 @@
+{
+  "pdf_page": 24,
+  "printed_page": "10",
+  "page_kind": "unit_opener",
+  "header": "स्वादिष्ट आम",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ:",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Six-panel comic of a squirrel with a fallen mango and animals and birds arriving one by one to eat it", "text": "गिलहरी खा रही थी आम | आम पेड़ से गिरा | धड़ाम! | 1 पक्षी आता है। अब 2 पशु-पक्षी आम खा रहे हैं। | एक और पक्षी आता है। अब 3 पशु-पक्षी आम खा रहे हैं। | एक और पक्षी आता है। अब 4 पशु-पक्षी आम खा रहे हैं। | एक और अन्य पक्षी आता है। अब 5 पशु-पक्षी आम खा रहे हैं।"},
+        {"type": "bullet", "text": "दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को दिखाकर 1 से 9 तक गणना करना।"},
+        {"type": "bullet", "text": "मूर्त रूप में 1 से 9 तक संख्याओं की तुलना करना।"},
+        {"type": "bullet", "text": "9 तक संख्याओं के आकार समझना, पढ़ना और लिखना।"},
+        {"type": "bullet", "text": "संख्याओं को सीधे क्रम और उल्टे क्रम में लिखना।"},
+        {"type": "bullet", "text": "9 तक संख्याओं को आरोही–अवरोही के क्रम में लिखना।"},
+        {"type": "bullet", "text": "9 तक छूटी हुई संख्या पता करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["The orange box is headed 'दक्षताएँ:' not 'जानें'; the printed heading was used."],
+  "notes": "Chapter opener with tab 'अध्याय 3'; comic panels numbered 1 to 6."
+}

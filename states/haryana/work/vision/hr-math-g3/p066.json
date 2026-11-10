@@ -1,0 +1,116 @@
+{
+  "pdf_page": 66,
+  "printed_page": "53",
+  "page_kind": "lesson",
+  "header": "सैकड़ों का घर – 2",
+  "units": [
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 2", "days": "7-8"},
+      "keys_evidence": "orange band 'सैकड़ों का घर – 2'; badge 'Day 7-8' in column 1 yellow box",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["दो अंकों की सहायता से दो अंकीय संख्या बनाना।", "तीन अंकों की सहायता से तीन अंकीय संख्या बनाना"],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "इसी तरह बच्चों को तीन अंकीय संख्या बनाना सिखाएँ।"},
+            {"type": "text", "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सैकड़ों का घर – 2", "days": "9-10"},
+      "keys_evidence": "orange band 'सैकड़ों का घर – 2'; badge 'Day 9-10' in column 2 yellow box",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["छूटी हुई संख्या पता करना।", "100 से 999 तक की संख्याओं के बीच पैटर्न ढूँढना।", "पैटर्न को देखते हुए क्रम आगे बढ़ाना।"],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [
+            {"type": "bullet", "text": "इसी प्रकार प्ले मनी की सहायता से 100 से 999 के बीच की संख्याओं से जुड़े विभिन्न पैटर्न बनाकर बच्चों की अवधारणा को सुदृढ़ करें।"}
+          ],
+          "sections": []
+        },
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": null, "minutes": null,
+      "items": [
+        {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Block 4 game text ends 'करवाएं' (anusvara) in this page's print; Block 3 sub-sentence first uses 'करवाएँ'"],
+  "notes": "Two-column page; bottom half mostly blank. Full-width yellow bar at bottom put in shared."
+}

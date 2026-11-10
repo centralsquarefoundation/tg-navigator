@@ -1,0 +1,113 @@
+{
+  "pdf_page": 63,
+  "printed_page": "61",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "8", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; band 'सप्ताह-8'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "आओ फोटो फ्रेम बनाएँ’", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक पहले दिन पुराने अखबार, गोंद, गत्ते को इकठ्ठा कर सामग्री को रख दें।"},
+               {"type": "bullet", "text": "शिक्षक पहले बच्चों को फ्रेम बनाकर दिखाएँ।"},
+               {"type": "bullet", "text": "फिर बच्चों से बनवाएँ। प्रक्रिया पर अच्छे से बात करें।"},
+               {"type": "bullet", "text": "सभी बच्चों की भागीदारी सुनिश्चित करें और फ्रेम बनाने के लिए बच्चों को प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-8.3 ‘बादल बरसा’", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ सं.96 से पाठ ‘बादल बरसा’ को बच्चों को स्वतंत्र रूप से पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक 8.4 (पृष्ठ सं. 97) पर उचित शब्द चुनकर वाक्य पूरा करना, ग्रिड से शब्द ढूंढकर लिखने, बरसात में जीव-जन्तु और सुनकर लिखने पर अभ्यास करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "text", "text": "दिवस 1-4 पाठ्यपुस्तक रागिनी भाग 1 पृष्ठ 99 से पाठ 16"},
+               {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से चयनित पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर बातचीत करें कि बच्चे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"},
+               {"type": "bullet", "text": "दो-तीन बच्चों को बुलाकर पूछें कि उन्होंने क्या पढ़ा?"},
+               {"type": "bullet", "text": "इसमें क्या-क्या था? कौन-से वाक्य पढ़े? इत्यादि।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "आकलन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "5 बच्चों का आकलन करें।"},
+               {"type": "bullet", "text": "जिस पाठ के साथ आकलन कर रहे हैं उसके आगे बने डिब्बों में सही पढ़े गए शब्दों की संख्या लिखें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-2 के पाठ-8 से गतिविधि ‘फोटोफ्रेम बनाना’ पर चर्चा।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-7 पृष्ठ सं. 78) कक्षा 2: फोटोफ्रेम बनाने में उपयोग की गई सामग्री के नाम लिखना।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+              {"type": "bullet", "text": "वर्ण ‘त’ पहचान व अभ्यास गतिविधि। ग्रिड 1-2 से ब्लेंडिंग व शब्द पठन अभ्यास।"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "आदर्श पठन व चर्चा- ‘बादल बरसा’ (8.3)"},
+              {"type": "bullet", "text": "मार्गदर्शन में पठन (8.4) व पाठ आधारित लेखन।"},
+              {"type": "bullet", "text": "पाठ आधारित लेखन कार्य।"}
+            ], "sections": []}
+         ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चे अभ्यास-पत्रक की 8.4 गतिविधियों पर कार्य करेंगे।"},
+              {"type": "bullet", "text": "लोगोग्रफिक पठन- बिगबुक- ‘सुरीली और मोनी’"}
+            ], "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी भाग-1 पृष्ठ सं. 99 (पठन-16) से स्वतंत्र पठन, व पठन आकलन।"},
+              {"type": "bullet", "text": "बच्चे पठन कार्य करेंगे।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["Heading of 1.2 printed with a closing quote ’ but no opening quote; copied as printed.", "Multigrade box: 40 and 20 minute rows have two printed sub-rows each; items merged per class in row order."],
+  "notes": "Page printed 61."
+}

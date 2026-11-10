@@ -1,0 +1,74 @@
+{
+  "pdf_page": 23,
+  "printed_page": "18",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; page begins with period bar '3. पठन' (not inferred from neighbouring pages)",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {
+          "number": "3",
+          "heading": "पठन",
+          "minutes": "20",
+          "items": [],
+          "sections": [
+            {
+              "number": "3.1",
+              "heading": "आदर्श वाचन",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "पाठ में हो रही वार्तालाप पर अनुमान लगवाएँ एवं पढ़कर बताना।"},
+                {"type": "bullet", "text": "पाठ में हो रही वार्तालाप पर अनुमान लगवाएँ एवं पढ़कर बताना।"},
+                {"type": "bullet", "text": "आज हम पृष्ठ सं. 12 पर दिए गए पाठ पर काम करेंगे। सभी अपनी किताब खोलें।"},
+                {"type": "bullet", "text": "पाठ में दिए गए चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+                {"type": "bullet", "text": "चित्र में कौन-कौन दिखाई दे रहा है? कौन क्या कर रहा है? वे क्या बात कर रहे होंगे? आदि।"},
+                {"type": "bullet", "text": "हाव-भाव एवं उतार-चढ़ाव के साथ पाठ में हो रहे संवाद को पढ़कर बताएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": "3.2",
+              "heading": "मार्गदर्शन में पठन",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को ‘पठन अभ्यास पेज. 12 को’ पढ़ने में मदद करना।"},
+                {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाने, पाठ को जोड़ियों में पढ़ने के लिए कहें।"},
+                {"type": "bullet", "text": "अब आप सभी अपना एक साथी चुन लें और उसके साथ बैठ जाएँ।"},
+                {"type": "bullet", "text": "अब अपने साथी के साथ मिलकर यही पाठ पढ़ें।"},
+                {"type": "bullet", "text": "जोड़ियों में जाकर बच्चों की आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "अच्छा यह क्या लिखा रहा है? मिलाकर एक साथ दोबारा पढ़ें।"},
+                {"type": "bullet", "text": "यदि बच्चा किसी शब्द को गलत पढ़ता है तो सही उच्चारण कर बताएँ।"},
+                {"type": "bullet", "text": "2-3 बच्चों से बड़े समूह में पाठ को पढ़ने के लिए कहें।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": "3.3",
+              "heading": "स्वतंत्र पठन",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को पाठ पर स्वतंत्र रूप से पठन अभ्यास करवाना।"},
+                {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से पढ़ने के लिए कहें। बच्चों के पास जाकर आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "2-3 बच्चों से बड़े समूह में पाठ को पढ़ने के लिए कहें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "3.1: the first two bullets 'पाठ में हो रही वार्तालाप पर अनुमान लगवाएँ एवं पढ़कर बताना।' are printed twice identically; copied twice as printed",
+    "3.1/3.2: lines inside speech-box (question icon) given as bullets: 'आज हम पृष्ठ सं. 12...', 'चित्र में कौन-कौन...', 'हाव-भाव एवं...', 'अब आप सभी...', 'अच्छा यह क्या लिखा रहा है?...', 'यदि बच्चा...'",
+    "3.2 'अच्छा यह क्या लिखा रहा है?' read as printed (लिखा रहा)",
+    "3.2 'पठन अभ्यास पेज. 12 को’' quote marks as printed"
+  ],
+  "notes": "Overflow page: only section 3 (पठन) in the left column; right column blank. Probably continues day 3 of the previous page but not printed."
+}

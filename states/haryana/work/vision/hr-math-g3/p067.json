@@ -1,0 +1,23 @@
+{
+  "pdf_page": 67,
+  "printed_page": "54",
+  "page_kind": "unit_opener",
+  "header": "कक्षा में आनंद",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding chalk and a book", "text": ""},
+        {"type": "bullet", "text": "लम्बाई की अवधारणा समझना।"},
+        {"type": "bullet", "text": "अमानक इकाइयों से लम्बाई मापन करना।"},
+        {"type": "bullet", "text": "वस्तुओं की लम्बाई की तुलना।"},
+        {"type": "bullet", "text": "मानक इकाइयों (मीटर व सेंटीमीटर) के साथ मापन करना।"},
+        {"type": "bullet", "text": "लम्बाई की इकाइयों में संबंधों की पहचान करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Chapter opener without an 'अध्याय N' tab; box is headed 'दक्षताएँ :' rather than 'जानें'. Page is split across the two images (title appears in both)."
+}

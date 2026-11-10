@@ -1,0 +1,24 @@
+{
+  "pdf_page": 37,
+  "printed_page": "24",
+  "page_kind": "unit_opener",
+  "header": "आकृतियों का आनंद",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book", "text": null},
+        {"type": "bullet", "text": "बिंदुओं से डिज़ाइन बनाना।"},
+        {"type": "bullet", "text": "सीधी रेखा और वक्र रेखा (घुमावदार रेखा) को समझना तथा उनमें अंतर करना।"},
+        {"type": "bullet", "text": "सीधी रेखा को खड़ी, पड़ी व तिरछी रेख के रूप में पहचानना तथा बनाना।"},
+        {"type": "bullet", "text": "दैनिक जीवन में विभिन्न आकृति की वस्तुओं को देखकर द्विआयामी आकृतियों को समझना।"},
+        {"type": "bullet", "text": "विभिन्न गतिविधियों (कागज़ मोड़ना, डॉट ग्रिड पर आकृतियाँ बनाकर तथा पेपर कटिंग) की सहायता से द्विआयामी आकृतियों की समझ को विकसित करना।"},
+        {"type": "bullet", "text": "टैनग्राम समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Opener page; box is headed 'दक्षताएँ:' (not 'जानें') in print. No 'अध्याय N' tab visible on this page."
+}

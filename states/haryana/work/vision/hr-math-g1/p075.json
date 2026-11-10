@@ -1,0 +1,27 @@
+{
+  "pdf_page": 75,
+  "printed_page": "61",
+  "page_kind": "unit_opener",
+  "header": "फलों की पार्टी",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "फलों की पार्टी", "minutes": null,
+      "items": [
+        {"type": "text", "text": "बच्चों आज बाल दिवस है। चलो फलों की पार्टी करते हैं। मुझे हर एक बच्चे को उसकी पसंद का एक-एक ही फल देना है।"},
+        {"type": "figure", "desc": "Classroom scene: a teacher standing beside a blackboard reading 'बाल दिवस', children seated at desks, one child raising a hand; chapter number 14 on a rock and a small QR code at top", "text": "बाल दिवस; पर मुझे पता नहीं है किसको कौन सा फल पसंद है?; क्या आप कोई तरीका बता सकते हो जिससे पता लगाया जा सके कितने बच्चों को कौन-सा फल पसंद है?; हाँ, हम पर्ची पर बच्चे का नाम और फल का नाम लिखवा सकते हैं।"},
+        {"type": "text", "text": "अब शिक्षक कक्षा में बच्चों से उनके तरीके पूछे कि वो कैसे-कैसे पता लगाएंगे कि उनकी कक्षा में कितने बच्चों को कौन सा फल पसंद है। बच्चों द्वारा सुझाए गए तरीकों पर कक्षा में खुली चर्चा करें। बच्चों से पूछे कि यह पता लगाने के क्या और भी तरीके हो सकते हैं?"}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "आँकड़ों से उपयोगी जानकारी निकालना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Speech bubble text in figure read from small print; hyphenation 'कौन-सा' vs 'कौन सा' as printed"],
+  "notes": "Opener tab 'अध्याय 14'; the orange box is headed 'दक्षताएँ :' (not 'जानें')."
+}

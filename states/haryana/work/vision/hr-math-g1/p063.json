@@ -1,0 +1,77 @@
+{
+  "pdf_page": 63,
+  "printed_page": "49",
+  "page_kind": "lesson",
+  "header": "त्यौहार",
+  "units": [
+    {
+      "keys": {"chapter": "त्यौहार", "days": "1-2"},
+      "keys_evidence": "orange band 'त्यौहार'; calendar badge 'Day 1-2'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "आकृतियों/वस्तुओं में पैटर्न समझना।",
+        "पैटर्न समझकर क्रम आगे बढ़ाना।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में, पाठ्यपुस्तक, इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका पाठ्यपुस्तक में, पृष्ठ संख्या 138 पर दी गई गतिविधि करवाएँ। इसके पश्चात आप निम्नलिखित गतिविधि भी करवाएँ।"},
+                {"type": "bullet", "text": "सबसे पहले विभिन्न पैटर्न ब्लॉक्स को बच्चों के सामने रखें और उनसे उनके नाम पूछें जैसे त्रिभुज, वर्ग, आदि।"},
+                {"type": "bullet", "text": "फिर ब्लॉक्स का प्रयोग करके नीचे दिया हुआ एक पैटर्न बनाएँ।"},
+                {"type": "figure", "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, empty box", "text": ""},
+                {"type": "bullet", "text": "बच्चों से पूछें कि क्रम में आगे कौनसी आकृति आएगी? उन्हें उत्तर देने के लिए प्रोत्साहित करें।"},
+                {"type": "bullet", "text": "उत्तर बताने से पहले उन्हें पैटर्न का नियम समझाएँ। यहाँ गोलाकार और वर्गाकार आकृति का एक के बाद एक दोहराव हो रहा है। यही इस क्रम का नियम है।"},
+                {"type": "bullet", "text": "उन्हें बताएं कि जब आकृतियाँ या वस्तुएँ किसी नियम के अनुसार एक क्रम में रखी जाती हैं, तो उस नियम को आकृतियों अथवा वस्तुओं का पैटर्न कहते हैं।"},
+                {"type": "bullet", "text": "नियम के अनुसार वर्गाकार आकृति के बाद गोलाकार आकृति का दोहराव होगा।"},
+                {"type": "figure", "desc": "Row of five boxes: orange circle, blue square, orange circle, blue square, orange circle", "text": ""}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "त्यौहार", "days": "3-4"},
+      "keys_evidence": "orange band 'त्यौहार'; calendar badge 'Day 3-4'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "99 तक छूटी हुई संख्या पता करना।",
+        "99 तक संख्या पैटर्न को देखते हुए क्रम आगे बढ़ाना।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "बोर्ड पर एक पैटर्न से जुड़ा एक प्रश्न लिखें जैसे 61, 63, ____, 67, 69।"},
+                {"type": "bullet", "text": "उन्हें संख्या चार्ट दिखाएँ और संख्या चार्ट पर इस पैटर्न से जुड़ी पंक्ति ढूँढकर दिखाएँ।"},
+                {"type": "bullet", "text": "फिर संख्या चार्ट पर गिनकर कर बताएँ कि 61 और 63 के मध्य दो संख्याएँ कूदी गई हैं। ऐसे ही 67 तथा 69 के मध्य भी दो संख्याएँ कूदी गई हैं।"},
+                {"type": "bullet", "text": "इस प्रकार सभी बच्चों को दिए गए पैटर्न का नियम समझाएँ कि यहाँ बढ़ते क्रम में दो संख्याएँ कूदी जा रही हैं।"},
+                {"type": "bullet", "text": "फिर बच्चों को उत्तर निकाल कर दिखाएँ कि 63 से दो संख्याएँ कूदने पर 65 प्राप्त होगा।"},
+                {"type": "bullet", "text": "इसी प्रकार संख्या चार्ट की सहायता से ऊपर से नीचे, नीचे से ऊपर, दाएँ से बाएँ, बाएँ से दाएँ, आदि अलग-अलग संख्या पैटर्न बनाकर बच्चों को अवधारणा समझाएँ।"},
+                {"type": "bullet", "text": "बच्चों को उत्तर देने के लिए प्रोत्साहित करें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Col 2 'गिनकर कर बताएँ' printed with doubled 'कर' as seen", "Col 2 'सभी बच्चों को दिए गए पैटर्न का नियम' copied as printed", "Day 1-2 col: two pattern figures have no printed captions"],
+  "notes": "Day 3-4 column ends after last bullet with empty space; page begins directly with block 2 bar after yellow boxes (block 1 was on previous page)."
+}

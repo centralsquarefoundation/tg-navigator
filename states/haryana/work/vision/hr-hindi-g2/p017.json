@@ -1,0 +1,47 @@
+{
+  "pdf_page": 17,
+  "printed_page": "15",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; it starts with step 2.2 (continuation page)",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {"number": "2", "heading": "डिकोडिंग (अभ्यास एवं पुनरावृत्ति)", "minutes": null, "items": [], "sections": [
+          {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक 1.1 (पृष्ठ सं.6) पर वर्ण/अक्षरों को मिलाकर शब्द के रूप में पढ़ने एवं लिखने, शब्दों को पढ़ने, चित्र देखकर वाक्य पूरे करने व सुनकर लिखने का कार्य करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "3", "heading": "पठन", "minutes": "20", "items": [], "sections": [
+          {"number": "3.1", "heading": "आदर्श पठन", "minutes": null, "items": [
+            {"type": "bullet", "text": "दिवस 1-2 पाठयपुस्तक रागिनी भाग 1 पृष्ठ सं.11 से पठन अभ्यास।"},
+            {"type": "bullet", "text": "पठन सामग्री को आदर्श तरीके से पढ़कर दिखाना, ताकि बच्चे समझ सकें कि पाठ कैसे पढ़ा जाता है।"},
+            {"type": "bullet", "text": "आज हम किताब में ‘पठन अभ्यास से’ पढ़ेंगे। अपनी किताब में पेज 11 को खोलें।"},
+            {"type": "bullet", "text": "पाठ को उतार-चढ़ाव के साथ पढ़कर सुनाएँ।"},
+            {"type": "bullet", "text": "मैं पाठ पढ़ रहा/रही हूँ, आप सब ध्यान से सुनें।"},
+            {"type": "bullet", "text": "सुनिश्चित करें कि सभी बच्चे ध्यान दे रहे हैं।"},
+            {"type": "bullet", "text": "पाठ के आधार पर समझ पर संक्षिप्त चर्चा करें।"}
+          ], "sections": []},
+          {"number": "3.2", "heading": "मार्गदर्शन में पठन", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चों को ‘पठन अभ्यास पेज. 11 को ’ पढ़ने में मदद करना।"},
+            {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाने, पाठ को जोड़ियों में पढ़ने के लिए कहें।"},
+            {"type": "bullet", "text": "अब आप सभी अपना एक साथी चुन लें और उसके साथ बैठ जाएँ।"},
+            {"type": "bullet", "text": "अब अपने साथी के मिलकर यही पाठ पढ़ें।"},
+            {"type": "bullet", "text": "जोड़ियों में जाकर बच्चों की आवश्यकतानुसार पढ़ने में मदद करें।"},
+            {"type": "bullet", "text": "अच्छा यह क्या लिखा हुआ है? मिलाकर एक साथ दोबारा पढ़ें।"},
+            {"type": "bullet", "text": "यह चित्र किसका है?"},
+            {"type": "bullet", "text": "बकरे का रंग कैसा था?"},
+            {"type": "bullet", "text": "2-3 बच्चों से कक्षा के सामने पाठ को पढ़ने के लिए कहें।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.2 line 'अब अपने साथी के मिलकर यही पाठ पढ़ें।' printed 'अब अपने साथी के मिलकर' (as read; possibly 'साथ' omitted)", "3.2 first bullet has a stray space and quote: ‘पठन अभ्यास पेज. 11 को ’", "Prompt boxes given as bullet items", "Left column: 2.2 then period 3 with 3.1; right column: 3.2"],
+  "notes": "Continuation page: no tab row and no week band, so keys are null (this page continues the lesson of the previous page)."
+}

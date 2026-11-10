@@ -1,0 +1,83 @@
+{
+  "pdf_page": 33,
+  "printed_page": "20",
+  "page_kind": "lesson",
+  "header": "नानी माँ के साथ छुट्टियाँ",
+  "units": [
+    {
+      "keys": {"chapter": "नानी माँ के साथ छुट्टियाँ", "days": "7-8"},
+      "keys_evidence": "badge 'Day 7-8'; orange band 'नानी माँ के साथ छुट्टियाँ'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["अमूर्त रूप में दो अंकीय संख्या में से दो अंकीय संख्या को घटाना। (हासिल व बिना हासिल)"],
+      "sections": [
+        {"number": "2", "heading": "कौशल शिक्षण", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "काउंटर्स की सहायता से बच्चों को 34 पीले और 16 हरे काउंटर लगा कर दिखाएँ।"},
+              {"type": "bullet", "text": "अब बच्चों से 34 काउंटर्स और 16 काउंटर्स को मिलाकर काउंटर्स की कुल संख्या बताने को कहें।"},
+              {"type": "bullet", "text": "फिर उन्हें समझाएँ कि काउंटर्स को मिलाने से काउंटर्स की संख्या बढ़ गयी और इन्हें किस तरह से जोड़ा जाता है।"},
+              {"type": "text", "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+            ], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "नानी माँ के साथ छुट्टियाँ", "days": "9-10"},
+      "keys_evidence": "badge 'Day 9-10'; orange band 'नानी माँ के साथ छुट्टियाँ'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["संख्या रेखा पर जोड़ घटाव।"],
+      "sections": [
+        {"number": "2", "heading": "कौशल शिक्षण", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "शिक्षक बच्चों को संख्या रेखा का चित्र बोर्ड पर बनाकर दिखाएँ।"},
+              {"type": "bullet", "text": "शिक्षक बच्चों को संख्या रेखा पर जोड़ने का तरीका समझाएँ।"},
+              {"type": "bullet", "text": "फिर बच्चों को 3 + 2 का प्रश्न संख्या रेखा पर हल करके दिखाएँ।"},
+              {"type": "bullet", "text": "एक काउंटर लें और उसे संख्या रेखा पर संख्या 3 पर रख दें।"},
+              {"type": "bullet", "text": "फिर काउंटर को 2 कदम दाएँ ले जाएँ और काउंटर संख्या 5 पर रख दें।"},
+              {"type": "bullet", "text": "बच्चों को बताएँ कि “हमने 3 से शुरू किया और 2 कदम दाहिने बढ़कर 5 तक पहुँचे।”"},
+              {"type": "bullet", "text": "शिक्षक बच्चों को संख्या रेखा पर घटाने का तरीका समझाएँ।"},
+              {"type": "bullet", "text": "बच्चों को 6–3 का प्रश्न संख्या रेखा पर हल करके दिखाएँ।"},
+              {"type": "bullet", "text": "संख्या रेखा पर 6 से शुरू करें और काउंटर रखें। फिर 3 कदम बाएँ बढ़ें। और संख्या 3 पर काउंटर रखा।"},
+              {"type": "bullet", "text": "बच्चों को बताएँ कि “हमने 3 से शुरू किया और 3 कदम बाएँ बढ़कर 3 तक पहुँचे।”"},
+              {"type": "text", "text": "इस अवधारणा को ओर अच्छी तरह से समझाने के लिए आप अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+            ], "sections": []}
+         ]}
+      ]
+    },
+    {
+      "keys": {"chapter": "नानी माँ के साथ छुट्टियाँ", "days": "11-12"},
+      "keys_evidence": "badge 'Day 11-12'; orange band 'नानी माँ के साथ छुट्टियाँ'",
+      "column": 3,
+      "continues_from_previous_page": true,
+      "intro": [
+        "सैकड़ा चार्ट का परिचय।",
+        "सैकड़ा चार्ट की सहायता से जोड़।",
+        "सैकड़ा चार्ट की सहायता से घटाव।"
+      ],
+      "sections": [
+        {"number": "2", "heading": "कौशल शिक्षण", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "बच्चों को सैकड़ा चार्ट दिखायें।"},
+              {"type": "bullet", "text": "अब बच्चों को कोई दो संख्याएँ जैसे 24 और 36 को जोड़ने को कहें।"},
+              {"type": "bullet", "text": "फिर उन्हें समझाएँ की चार्ट पर दो संख्याओं को जोड़ने के लिए हम एक संख्या के आगे जो सख्या जोड़नी होती है उतनी संख्याएँ आगे कूदते हैं।"},
+              {"type": "bullet", "text": "जैसे 24 के आगे 36 संख्याएँ कूदने पर हमें 60 प्राप्त होता है।"},
+              {"type": "figure", "desc": "hundred chart (1 to 100, 10 per row) with arcs showing single-step jumps from 24 forward to 60", "text": "सैकड़ा चार्ट"},
+              {"type": "bullet", "text": "फिर उन्हें बताइये कि संख्या चार्ट पर जोड़ने के लिए हम एक साथ 10 संख्याएँ भी कूद सकते हैं।"},
+              {"type": "figure", "desc": "hundred chart (1 to 100) with arcs showing jumps of 10 down the column from 24 and then single steps", "text": "सैकड़ा चार्ट"},
+              {"type": "bullet", "text": "इस तरह बच्चों को संख्या चार्ट पर जोड़ने का अभ्यास करवाएँ।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Page begins directly with yellow boxes then column text without a block bar; continuation of block 2 / TLM sub-step inferred", "Day 11-12 'समझाएँ की', 'सख्या जोड़नी' (sic), 'दिखायें' copied as printed", "Day 9-10 'ओर अच्छी' copied as printed; bullet 'फिर 3 कदम बाएँ बढ़ें। और संख्या 3 पर काउंटर रखा।' as printed"],
+  "notes": "Hundred-chart figures contain only numbers 1-100 plus jump arcs; not transcribed cell by cell."
+}

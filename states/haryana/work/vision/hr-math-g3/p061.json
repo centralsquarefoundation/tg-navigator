@@ -1,0 +1,65 @@
+{
+  "pdf_page": 61,
+  "printed_page": "48",
+  "page_kind": "lesson",
+  "header": "उचित हिस्सा",
+  "units": [
+    {
+      "keys": {"chapter": "उचित हिस्सा", "days": "1-2"},
+      "keys_evidence": "badge 'Day 1-2'; orange band 'उचित हिस्सा'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [
+        "आधा, तिहाई और चौथाई को समझना।",
+        "चित्र के रंगीन भाग को देखकर भिन्न लिखना।",
+        "चित्र के आधे और एक चौथाई भाग को देखकर चित्र पूरा करना।"
+      ],
+      "sections": [
+        {"number": "2", "heading": "कौशल शिक्षण", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाइए।", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "इसके बाद बच्चों से भिन्न के इस तरह के सवाल पूछने को कहें, जैसे–"},
+              {"type": "bullet", "text": "‘एक बटे दो’ को क्या कहते हैं: आधा या एक–तिहाई?"},
+              {"type": "bullet", "text": "‘एक बटे तीन’ को क्या कहते हैं: एक–तिहाई या एक–चौथाई?"},
+              {"type": "bullet", "text": "‘एक बटे चार’ को क्या कहते हैं: आधा या एक–चौथाई?"},
+              {"type": "bullet", "text": "बच्चे के सही उत्तर देने पर सभी बच्चे बोलेंगे ‘खुल जा सिम सिम’ और हाथ छोड़कर उस बच्चे को घेरे में आने देंगे। वह घेरे के बीच में जाकर खड़ा हो जाएगा।"},
+              {"type": "bullet", "text": "यदि बच्चे ने गलत उत्तर दिया तो घेरे में खड़े बच्चे ‘खुल जा सिम सिम’ नहीं बोलेंगे और अंदर आने की जगह नहीं देंगे।"},
+              {"type": "bullet", "text": "अध्यापक/अध्यापिका उस बच्चे को एक और सवाल का उत्तर देने का मौका दें या कोई हिंट दें।"},
+              {"type": "bullet", "text": "इस बार सही उत्तर देने पर वह घेरे में आ जाएगा।"},
+              {"type": "bullet", "text": "अगर वह अब भी सही उत्तर नहीं दे पा रहा तो वह खेल से बाहर हो जाएगा।"},
+              {"type": "bullet", "text": "ऐसे बच्चों को और अभ्यास कराएँ।"},
+              {"type": "text", "text": "इस अवधारणा को और अच्छी तरह समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+            ], "sections": []}
+         ]},
+        {"number": "3", "heading": "कौशल अभ्यास", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+              {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+            ], "sections": []},
+           {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+            ], "sections": []}
+         ]},
+        {"number": "4", "heading": "गणित खेल", "minutes": null, "items": [],
+         "sections": [
+           {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+            "items": [
+              {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": null, "minutes": null,
+     "items": [
+       {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित ‘सम्पर्क दीदी के सवाल’ खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["Continuation: the first bullets continue the Block 2 TLM sub-step from previous page; assumed section 2 / TLM heading", "Last three ÷-marked lines on previous page vs here: items here use ÷/dash markers recorded as bullets", "Footer bar word read as 'स्किल' and quotes around 'सम्पर्क दीदी के सवाल' at small print"],
+  "notes": "Single-column unit continuing from previous page; page also repeats the yellow objectives box and Day 1-2 badge. Bottom yellow bar spans the page; placed in shared."
+}

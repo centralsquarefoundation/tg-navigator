@@ -1,0 +1,32 @@
+{
+  "pdf_page": 40,
+  "printed_page": "26",
+  "page_kind": "unit_opener",
+  "header": "चिड़िया उड़",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ :", "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "मूर्त रूप में चित्रों को दिखाकर वस्तुओं के समूह में से कुछ वस्तुओं को निकालकर घटा की अवधारणा को समझना।"},
+       {"type": "bullet", "text": "घटा के प्रतीक (symbol) को समझना।"},
+       {"type": "bullet", "text": "अमूर्त रूप में 9 तक संख्याओं को घटाना।"},
+       {"type": "bullet", "text": "मूर्त वस्तुओं/चित्रों के द्वारा तथा अमूर्त रूप में ’कुछ नहीं’ यानी 0 को निकालकर घटा की अवधारणा समझना।"},
+       {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों में सही संक्रिया का चुनाव करना।"},
+       {"type": "bullet", "text": "एक अंकीय जोड़–घटा के प्रश्न हल करना।"}
+     ], "sections": []},
+    {"number": null, "heading": "चिड़िया उड़", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Chapter illustration: a rock with the number 6, small birds in a market, on a wall playing horns, at a running track, at a birthday party, and a bird leaving a nest, with a QR code",
+        "text": "चिड़िया उड़ | पाँच छोटी चिड़ियाँ घूम रही बाज़ार एक चिड़िया उड़ गई बच गई चार | चार छोटी चिड़ियाँ बजा रही थी बीन एक चिड़िया उड़ गई बच गई तीन | तीन छोटी चिड़ियाँ खेल रही थी खो एक चिड़िया उड़ गई बच गई दो | दो छोटी चिड़ियाँ खा रही थी केक एक चिड़िया उड़ गई बच गई एक | एक छोटी चिड़िया बन रही थी हीरो वो भी उड़ गई अब बच गई जीरो"}
+     ], "sections": []},
+    {"number": null, "heading": "आओ बातचीत करें", "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "(क) शुरुआत में कितनी चिड़ियाँ थी?"},
+       {"type": "bullet", "text": "(ख) बाज़ार में से कितनी चिड़ियाँ उड़ गई?"},
+       {"type": "bullet", "text": "(ग) कितनी चिड़ियाँ बीन बजा रही थी?"},
+       {"type": "bullet", "text": "(घ) अंत में कितनी चिड़ियाँ शेष बची?"}
+     ], "sections": []}
+  ],
+  "uncertain": ["Box heading printed 'दक्षताएँ :' (not 'जानें'); used as printed.", "Bold words in rhyme (चार, तीन, दो, एक, जीरो) not marked."],
+  "notes": "Chapter opener: tab 'अध्याय 6', title 'चिड़िया उड़'. 'आओ बातचीत करें' questions added as a separate shared section."
+}

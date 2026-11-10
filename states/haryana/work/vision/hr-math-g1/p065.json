@@ -1,0 +1,22 @@
+{
+  "pdf_page": 65,
+  "printed_page": "51",
+  "page_kind": "unit_opener",
+  "header": "हँसता सूरज",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Illustration of a girl's daily routine around a smiling sun: waking up, brushing, combing, breakfast, leaving home, school, lunch, returning home; QR code F2P1B4", "text": "हैलो दोस्तों! मैं हूँ सूरज। चलो आज मैं आपको अपनी दोस्त शीनू से मिलवाता हूँ। देखो वह मेरे आने पर कितनी खुश होती है और क्या-क्या करती है? मुर्गा बोला कुक्कड़-कू तुम सोए हो अब तक क्यों? चिड़िया बोली चीं-चीं-चीं, तड़के उठ कर पानी पी। मेंढक करता टर-टर-टर ब्रश-कुल्ला रोज कर। अब मैं आसमान में ऊपर आ गया दोपहर का समय हो गया"},
+        {"type": "bullet", "text": "सुबह दोपहर, शाम और रात शब्दों का प्रयोग करते हुए क्रम से अपनी दिनचर्या का वर्णन।"},
+        {"type": "bullet", "text": "एक घटना में घटित होने में लगे समय का कम या ज्यादा के आधार पर अनुमान लगाना।"},
+        {"type": "bullet", "text": "घटनाओं को क्रम में लगाना।"},
+        {"type": "bullet", "text": "अलग–अलग ऋतुएँ जानना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Opener's orange box is headed 'दक्षताएँ :' (not 'जानें'); copied as printed. Tab reads 'अध्याय 11'.", "Small illustration text (speech bubbles/poem) is hard to read; transcribed best effort"],
+  "notes": "Chapter tab 'अध्याय 11', chapter title 'हँसता सूरज'."
+}

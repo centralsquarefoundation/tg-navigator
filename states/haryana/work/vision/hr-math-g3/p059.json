@@ -1,0 +1,18 @@
+{
+  "pdf_page": 59,
+  "printed_page": "46",
+  "page_kind": "unit_opener",
+  "header": "उचित हिस्सा",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ:", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank blackboard, holding a book and chalk", "text": ""},
+       {"type": "bullet", "text": "भिन्न की अवधारणा को दर्शाना।"},
+       {"type": "bullet", "text": "आधा, पूरा, पौने एवं पाव की अवधारणा समझना।"},
+       {"type": "bullet", "text": "भिन्नों को चित्रों और संख्याओं से दर्शाना।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["No 'अध्याय N' tab visible; box is headed 'दक्षताएँ:' rather than 'जानें'"],
+  "notes": "Chapter opener page: title 'उचित हिस्सा', illustration, orange box under yellow label 'दक्षताएँ:'."
+}

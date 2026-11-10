@@ -1,0 +1,121 @@
+{
+  "pdf_page": 70,
+  "printed_page": "68",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "9", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; band 'सप्ताह-9'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "सृजनात्मक गतिविधि", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "‘करके दिखाओ’"},
+               {"type": "bullet", "text": "शिक्षक बच्चों को गोल घेरे में बैठाएँ।"},
+               {"type": "bullet", "text": "शिक्षक पर्चियाँ तैयार रखें- जैसे कविता, कहानी, गाना, जानवर की आवाज़, चुटकुला आदि।"},
+               {"type": "bullet", "text": "एक बच्चे को कागज़ की गेंद दें।"},
+               {"type": "bullet", "text": "ताली बजवाएँ- जब तक ताली बजे, गेंद एक-दूसरे को पास करें।"},
+               {"type": "bullet", "text": "ताली रुकने पर जिसके पास गेंद है, वह एक पर्ची उठाए।"},
+               {"type": "bullet", "text": "पर्ची पढ़कर उसमें लिखा कार्य करके दिखाएगा।"},
+               {"type": "bullet", "text": "फिर से ताली बजाएँ और खेल को जारी रखेंगे।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "text", "text": "‘कोई एक बात /शब्दों को लिखें’"},
+               {"type": "bullet", "text": "इस गतिविधि में आपने क्या सुनाया उस बात को एक वाक्य में या शब्द में लिखने को कहें।"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-9.5 ‘शहद’", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पाठ का स्पष्ट उच्चारण, उतार-चढ़ाव के साथ (आदर्श) पठन कर बताएँ।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "उसके बाद बच्चों को स्वतंत्र रूप से पढ़ने और अभ्यास-कार्य- अभ्यास-पत्रक 9.5 (पृष्ठ सं.110) पर पाठ ‘शहद’ को पढ़ने, प्रश्नोत्तर करने, नये शब्द बनाने, वाक्यों को सही करने और सुनकर लिखने पर अभ्यास करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पुस्तकालय से मनपसंद किताब चुनकर व्यक्तिगत रूप से पढ़ने को कहें और उनके स्तर की पुस्तक चुनने में मदद करें।"},
+               {"type": "bullet", "text": "पाठ के अंत में कक्षा में कहानी के पात्रों, घटनाओं आदि पर चर्चा करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "गतिविधि – ‘अनुभव सुनना व सुनाना- ‘छुट्टी का दिन’"},
+               {"type": "bullet", "text": "लेखन: कक्षा 1: छुट्टी के दिन किये जाने वाले काम। कक्षा 2: पाठ आधारित लेखन (पाठ-9 शहरी सियार पृष्ठ सं. 103)"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+               {"type": "bullet", "text": "मात्रा पहचान ‘ा’ ‘ी’ ग्रिड 1, 4, 6, 7, 8 से अभ्यास। साप्ताहिक आकलन।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "आदर्श पठन व चर्चा- ‘शहद’"},
+               {"type": "bullet", "text": "स्वतंत्र पठन व पाठ आधारित लेखन।"},
+               {"type": "bullet", "text": "साप्ताहिक आकलन-मैंने सीख लिया।"},
+               {"type": "bullet", "text": "पाठ आधारित लेखन कार्य।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक की 9.5 गतिविधियों पर कार्य।"},
+               {"type": "bullet", "text": "रागिनी भाग-1 पृष्ठ सं-97 (पठन) से आदर्श एवं मार्गदर्शन में पठन करवाना। बच्चे स्वतंत्र पठन करेंगे।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"},
+               {"type": "bullet", "text": "बच्चे पठन कार्य करेंगे।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade 40-min class 1: matra glyphs between quotes read as ा and ी; exact quoting uncertain.", "Multigrade box: sub-rows merged per class group in printed order."],
+  "notes": "Left column holds period 1; right column holds periods 2 and 3."
+}

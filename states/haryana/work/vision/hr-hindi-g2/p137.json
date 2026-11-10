@@ -1,0 +1,92 @@
+{
+  "pdf_page": 137,
+  "printed_page": "135",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "20", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5' (strong blue fill, dark text); band 'सप्ताह-20'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}], "sections": []},
+            {"number": "1.2", "heading": "सृजनात्मक गतिविधि", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "‘अनोखी बातचीत’"},
+               {"type": "bullet", "text": "बच्चों को जोड़ों में बाँटें।"},
+               {"type": "bullet", "text": "हर जोड़े को 2 वस्तुओं/जानवरों/पक्षियों/पेड़ों के नाम पर्ची पर दें।"},
+               {"type": "bullet", "text": "उन्हें उन वस्तुओं की जगह रखकर मज़ेदार बातचीत लिखने को कहें (5-7 मिनट)।"},
+               {"type": "bullet", "text": "2-3 मिनट में अपनी लिखी बातचीत कक्षा में पढ़वाएँ।"},
+               {"type": "bullet", "text": "सभी का काम ‘बच्चों का काम कोना’ में लगाएँ।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को बादल का चित्र बनाने को कहें।"},
+               {"type": "bullet", "text": "लेखन कार्य के दौरान बच्चों को आवश्यकतानुसार मदद करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग ‘सावधिक पुनरावृत्ति’", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह-1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "चित्रों के नाम लिखने पर कार्य करवाएँ।"},
+               {"type": "bullet", "text": "2-3 वर्णों वाले शब्दों को सुनकर लिखने (श्रुतलेख) पर अभ्यास करवाएँ।"}
+             ], "sections": []},
+            {"number": null, "heading": "समूह-2", "minutes": null,
+             "items": [
+               {"type": "text", "text": "20.5 पेज 236"},
+               {"type": "bullet", "text": "समूह दो के बच्चों को शिक्षक सावधिक आकलन के साथ पाठ्यपुस्तक में दिए अभ्यास-पत्रक पर बातचीत करके स्वतंत्र रूप से कार्य करने दें।"},
+               {"type": "bullet", "text": "इसके अलावा बच्चों को अब तक पढ़े पाठों में से स्वतंत्र रूप से पढ़ने और अभ्यास प्रश्नों के जवाब देने का कार्य करने को कहें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "गतिविधि – ‘अनुभव सुनना व सुनाना- ‘स्कूल में एक दिन’।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: स्कूल के बारे में दो वाक्य लिखो। कक्षा 2: स्कूल के बारे में अच्छी लगने वाली बातें लिखो।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी।"},
+            {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 20.3 पृष्ठ 236"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 20.5 पृष्ठ सं. 236"},
+            {"type": "bullet", "text": "अभ्यास कार्य जारी रखें।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य।"},
+            {"type": "bullet", "text": "सीखने में पीछे रहे बच्चों के साथ रेमेडियल कार्य"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सीखने में पीछे रहे बच्चों के साथ रेमिडियल कार्य।"},
+            {"type": "bullet", "text": "बच्चे स्वतंत्र पठन करेंगे।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Period 2 'समूह-2': right-aligned label '20.5 पेज 236' placed as first text item.", "'रेमेडियल' (class 1) vs 'रेमिडियल' (class 2) spelled differently as printed."],
+  "notes": "Printed page 135 differs from pdf page 137. Left column holds period 1 (1.3 spills past the half-image overlap); right column holds period 2. Blank space above the multigrade box."
+}

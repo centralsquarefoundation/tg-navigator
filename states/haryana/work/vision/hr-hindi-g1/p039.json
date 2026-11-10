@@ -1,0 +1,124 @@
+{
+  "pdf_page": 39,
+  "printed_page": "36",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "4", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; band 'सप्ताह-4'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक (पृ. सं. 35) में दी गई कविता “गौरैया” कविता सुनाएँ और बच्चों को साथ में दोहरान करने के लिए कहें। शिक्षक कविता सुनाने से पहले बच्चों को कविता के चित्रों का अवलोकन करने के लिए कहें और बातचीत करें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को नोटबुक में कविता से संबंधित मनपसंद चित्र बनाने के प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ध्वनि चेतना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शब्द की प्रथम ध्वनि पहचान।"},
+               {"type": "bullet", "text": "शिक्षक किसी खास ध्वनि से शुरू होने वाले शब्द बोलें।"},
+               {"type": "bullet", "text": "शब्द की ध्वनि धीरे-धीरे (तोड़कर) बोलें।"},
+               {"type": "bullet", "text": "फिर शब्द की पहली ध्वनि का स्पष्ट उच्चारण करें!"},
+               {"type": "bullet", "text": "फिर उसी ध्वनि से प्रारम्भ होने वाले तीन-चार और शब्दों को बोलें।"},
+               {"type": "bullet", "text": "बच्चों का ध्यान शब्द की पहली ध्वनि के उच्चारण पर दिलाएँ।"},
+               {"type": "bullet", "text": "बच्चों को कुछ और शब्द बोलें और निर्देश दें कि यदिकिसी शब्द में ‘......’ ध्वनि है तो हाथ ऊपर करेंगे, यदि ‘......’ नहीं है तो हाथ ऊपर नहीं करेंगे।"},
+               {"type": "bullet", "text": "अंत में बच्चों को ‘......’ से शुरू होने वाले शब्द बताने को कहें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 4.4 (पृ. सं. 39) पर बच्चों को स्पष्ट निर्देश देकर कार्य करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "लोगोग्राफीक पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बिग बुक से कहानी ‘चिड़िया’ लोगोग्राफीक पठन।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों के साथ तीसरे दिन की तरह दो बार साझा पठन करें और उसके बाद शब्द दीवार का इस्तेमाल करते हुए बच्चों के साथ कहानी के मुख्य शब्दों को पढ़ने का अभ्यास करें। (लोगोग्राफिक पठन)। जैसे:- बिल्ली, चिड़िया, पानी, पंख।"},
+               {"type": "bullet", "text": "बच्चों को शब्द दीवार के पास आकर इन शब्दों पर उंगली रखकर पढ़ने में मदद करें।"},
+               {"type": "bullet", "text": "अंत में, 3–4 बच्चों को बिगबुक में से कहानी पढ़ने के लिए आमंत्रित करें। ऐसा करते समय उन्हें किताब पकड़ने और पन्नों पर बने चित्रों और शब्दों को देखते हुए कहानी सुनाने के लिए प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null, "heading": "(30 मिनट)", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "रागिनी-2 के पाठ-4 से खेल गतिविधि- तोता कहता है।"},
+               {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-4 दीदी और मैं पृष्ठ सं 34) कक्षा 2: तोते का चित्र बनाओ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "(40 मिनट)", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेगें।"},
+               {"type": "bullet", "text": "शब्द में प्रथम ध्वनि की पहचान।"},
+               {"type": "bullet", "text": "अभ्यास-पत्रक 4.4 पर कार्य करवाना।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "वर्ण मात्रा व अक्षर पहचान पर दोहरान कार्य।"},
+               {"type": "bullet", "text": "अभ्यास-पत्रक 4.4 पर कार्य करवाना।"},
+               {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "(20 मिनट)", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"},
+               {"type": "bullet", "text": "पढ़कर सुनाना व चर्चा- बिगबुक- ‘चिड़िया’।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग-1 पृष्ठ सं. 51 पर मार्गदर्शन एवं स्वतंत्र में पठन।"},
+               {"type": "bullet", "text": "स्वतंत्र पठन।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertain": ["1.3: 'प्रोत्साहित' preceded by 'के' as printed.", "2.1: 'यदिकिसी' printed run together.", "Multigrade box: bullets listed per group without sub-row separation; 'रखेगें' as printed."],
+  "notes": "Column 1 holds period 1 and start of 2.1; right column continues 2.1, then 2.2 and period 3."
+}

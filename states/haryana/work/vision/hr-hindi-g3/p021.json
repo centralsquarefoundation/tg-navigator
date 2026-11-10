@@ -1,0 +1,57 @@
+{
+  "pdf_page": 21,
+  "printed_page": "16",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; page begins with period bar '3. पठन' (not inferred from neighbouring pages)",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {
+          "number": "3",
+          "heading": "पठन",
+          "minutes": "20",
+          "items": [],
+          "sections": [
+            {
+              "number": "3.1",
+              "heading": "मार्गदर्शन में पठन",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "इससे बच्चों को पाठ को स्वतंत्र रूप से पढ़ने में मदद मिलती है।"},
+                {"type": "bullet", "text": "दिवस 1-2 पाठ्यपुस्तक पृष्ठ सं.11 से पाठ के शब्दों को शब्द की तरह पढ़कर सुनाएँ। कविता को उतार-चढ़ाव के साथ पुन: पढ़कर सुनाएँ।"},
+                {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाएँ, पाठ को जोड़ी में पढ़ने के लिए कहें।"},
+                {"type": "bullet", "text": "अब अपने साथी के साथ मिलकर इस पाठ को पढ़ें।"},
+                {"type": "bullet", "text": "जोड़ियों में जाकर बच्चों की आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "अच्छा, क्या लिख रहा है? मिलाकर एक साथ दुबारा पढ़ने के लिए कहें।"},
+                {"type": "bullet", "text": "यदि बच्चा किसी शब्द को गलत पढ़ता है तो सही उच्चारण कर बताएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": "3.2",
+              "heading": "स्वतंत्र पठन",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "बच्चों को पाठ पर स्वतंत्र रूप से पठन अभ्यास करवाना।"},
+                {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से पढ़ने के लिए कहें। बच्चों के पास जाकर आवश्यकतानुसार पढ़ने में मदद करें।"},
+                {"type": "bullet", "text": "2-3 बच्चों से बड़े समूह में पाठ को पढ़ने के लिए कहें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Keys week/day are null because no tabs or week band are printed; page appears to continue period 3 of the previous page's day.",
+    "3.1: first line 'इससे बच्चों को ...' is beside a target icon (aim line), given as text; the line 'अच्छा, क्या लिख रहा है?...' is a speech-box bullet."
+  ],
+  "notes": "Overflow page: only section 3 (पठन) in the left column; right column and lower part blank."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "haryana",
+  "label": {"hi": "हरियाणा", "en": "Haryana"},
+  "edition": "2026–27",
+  "appTitle": {"hi": "शिक्षक संदर्शिका · हरियाणा", "en": "Teacher Guide · Haryana"},
+  "sourceNotice": {
+    "hi": "हरियाणा शिक्षक संदर्शिका 2026–27 (सितंबर 2026 संस्करण) से। हर पाठ के साथ मूल पृष्ठ देखें।",
+    "en": "From the Haryana Teacher Guides 2026–27 (September 2026 edition). Each lesson links to its original page."
+  },
+  "brand": {
+    "colors": {"brand": "#00316b", "brand-dark": "#001f45", "accent": "#ffd400"},
+    "logos": [
+      {"file": "brand/haryana-emblem.png", "alt": {"hi": "हरियाणा सरकार", "en": "Government of Haryana"}},
+      {"file": "brand/nipun-haryana.png", "alt": {"hi": "निपुण हरियाणा", "en": "NIPUN Haryana"}}
+    ],
+    "footerLogos": [
+      {"file": "brand/csf-logo.png", "alt": {"hi": "सेंट्रल स्क्वेयर फाउंडेशन", "en": "Central Square Foundation"}}
+    ],
+    "department": {"hi": "विद्यालय शिक्षा विभाग, हरियाणा", "en": "School Education Department, Haryana"}
+  },
+  "documents": [
+    {"id": "hr-math-g1", "file": "Math_G1_TG_VF_HR Sep'26.pdf"},
+    {"id": "hr-math-g2", "file": "Math_G2_TG_VF_HR Sep'26.pdf"},
+    {"id": "hr-math-g3", "file": "Math_G3_TG_VF_HR Sep'26.pdf"},
+    {"id": "hr-hindi-g1", "file": "Hindi_G1-BV_TG_VF_Sep'26.pdf"},
+    {"id": "hr-hindi-g2", "file": "Hindi_G2_TG_VF_Sep'26 (1).pdf"},
+    {"id": "hr-hindi-g3", "file": "Hindi_G3_TG_VF_Sep'26.pdf"}
+  ],
+  "guides": [
+    {"id": "hr-math-g1", "doc": "hr-math-g1", "profile": "guides/math.profile.json", "subject": "math", "grade": 1,
+     "pages": {"plan": "9-14", "lessons": "15-77", "guide": "1-121"}},
+    {"id": "hr-math-g2", "doc": "hr-math-g2", "profile": "guides/math.profile.json", "subject": "math", "grade": 2,
+     "pages": {"plan": "9-12", "lessons": "13-76", "guide": "1-124"}},
+    {"id": "hr-math-g3", "doc": "hr-math-g3", "profile": "guides/math.profile.json", "subject": "math", "grade": 3,
+     "pages": {"plan": "9-13", "lessons": "14-93", "guide": "1-154"}},
+    {"id": "hr-hindi-bv", "doc": "hr-hindi-g1", "profile": "guides/hindi.profile.json", "subject": "hindi", "grade": 0,
+     "gradeLabel": {"hi": "बालवाटिका-3", "en": "Balvatika-3"},
+     "pages": {"lessons": "209-247", "guide": "209-248"}},
+    {"id": "hr-hindi-g1", "doc": "hr-hindi-g1", "profile": "guides/hindi.profile.json", "subject": "hindi", "grade": 1,
+     "pages": {"plan": "11-13", "lessons": "14-178", "guide": "1-208"}},
+    {"id": "hr-hindi-g2", "doc": "hr-hindi-g2", "profile": "guides/hindi.profile.json", "subject": "hindi", "grade": 2,
+     "pages": {"plan": "13-15", "lessons": "16-174", "guide": "1-204"}},
+    {"id": "hr-hindi-g3", "doc": "hr-hindi-g3", "profile": "guides/hindi.profile.json", "subject": "hindi", "grade": 3,
+     "pages": {"plan": "13-18", "lessons": "19-178", "guide": "1-204"}}
+  ]
+}

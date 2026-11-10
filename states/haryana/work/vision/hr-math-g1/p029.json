@@ -1,0 +1,22 @@
+{
+  "pdf_page": 29,
+  "printed_page": "15",
+  "page_kind": "unit_opener",
+  "header": "चिंकी का जन्मदिन",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Reproduced textbook page: squirrel on a rock, ladybirds with spots on flowers and leaves each with an empty answer box, a girl with seeds arranged in designs", "text": "चिंकी का जन्मदिन | बिंदियों वाला कीड़ा | क्या आपने कभी ऐसा कीड़ा देखा है? इसके शरीर पर बहुत सारी बिंदियाँ होती हैं। क्या आपने कभी इन बिंदियों की संख्या को ध्यान से देखा है? | कीड़े पर बनी बिंदियों की संख्या को दिए गए बॉक्स में लिखिए। | चुटकी कुछ बीज चुनकर लाई है उसने चुने हुए बीजों से कुछ डिजाइन बनाएँ हैं। आइए, प्रत्येक डिजाइन में लगे बीजों की संख्या का पता लगाने में चुटकी की मदद करें।"},
+        {"type": "bullet", "text": "0 की अवधारणा समझाना और उसका प्रयोग।"},
+        {"type": "bullet", "text": "दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को दिखाकर 10 से 20 तक सीधी और फिर उल्टी गणना करना।"},
+        {"type": "bullet", "text": "20 तक संख्याओं को पढ़ना और लिखना।"},
+        {"type": "bullet", "text": "20 तक संख्या निर्माण।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Orange box is headed 'दक्षताएँ :' (not 'जानें') on this page; heading kept as printed", "Tab 'अध्याय 4' printed at top"],
+  "notes": "Chapter 4 opener with reproduced textbook page illustration."
+}

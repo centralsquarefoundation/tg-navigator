@@ -1,0 +1,26 @@
+{
+  "pdf_page": 14,
+  "printed_page": "1",
+  "page_kind": "unit_opener",
+  "header": "नाम में क्या है ?",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ :",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book", "text": null},
+        {"type": "bullet", "text": "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं की संख्या गिनना तथा संख्याओं को लिखने का दोहराव (1–100)।"},
+        {"type": "bullet", "text": "खेल–खेल में संदेश और विशेष नाम।"},
+        {"type": "bullet", "text": "चित्रों और आकृतियों को देखकर उनमें पैटर्न समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Box heading printed as 'दक्षताएँ :' (not 'जानें'); recorded as printed",
+    "No 'अध्याय N' tab visible on this page"
+  ],
+  "notes": "Chapter opener: large line illustration, chapter title in orange, yellow label 'दक्षताएँ :' above an orange box of bullets."
+}

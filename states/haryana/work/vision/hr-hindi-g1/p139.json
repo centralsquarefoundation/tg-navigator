@@ -1,0 +1,103 @@
+{
+  "pdf_page": 139,
+  "printed_page": "136",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "20", "day": "3"},
+      "keys_evidence": "highlighted tab 'दिवस 3'; band 'सप्ताह-20'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30", "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक पाठ-20 ‘मेला’ (पृ. सं. 232) बच्चों को चित्र देखने को कहें और दी गई वस्तुओं को उनके कार्य से मिलान करवाएँ।"},
+               {"type": "text", "text": "शब्दों का खेल- अधूरे शब्दों को पूरा करने के लिए कहें।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "रेमेडियल कार्य", "minutes": "60", "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह 2 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक समूह 2 के बच्चों को अभ्यास-पत्रक 20.1 (पृ. सं. 234) पर कार्य के स्पष्ट उदाहरण और निर्देश देकर स्व अभ्यास /स्वतंत्र कार्य देंगे।"},
+               {"type": "bullet", "text": "कार्य पूरा होने के बाद इन बच्चों को पुस्तकालय से कहानी की किताबें पढ़ने के लिए दें जिनमें ज्यादा चित्र और शब्दों की संख्या बहुत कम हो।"}], "sections": []},
+            {"number": null, "heading": "समूह 1 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "समूह 2 के बच्चों को कार्य देने के बाद शिक्षक समूह 1 के बच्चों के साथ कार्य करवाएँगे।"}], "sections": []},
+            {"number": "2.1", "heading": "वर्ण पहचान (ज,य)", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक शुरूआती 10 सप्ताह के वर्ण (न,र,ल,क,स,ब,द,म. प,त,ट,ग) कार्ड लें और वर्णों को एक बार उच्चारित करके बताएँ और बच्चों से पूछकर वर्णों का दोहरान करें।"},
+               {"type": "bullet", "text": "अगले 2 वर्णों (ज,य) के कार्ड लें और वर्णों को एक बार उच्चारित करके बताएँ-ध्वनि आकृति सहसंबंध पुख्ता करें।"},
+               {"type": "bullet", "text": "फिर कोई एक वर्ण कार्ड उठाएँ और बच्चे का नाम लेकर पूछें यह कौन सा वर्ण है।"},
+               {"type": "bullet", "text": "यदि बच्चा सही पहचान करने में अटक रहा है तो बाकी बच्चों से पूछें, सही पहचान करने में कौन मदद करेगा। दूसरे किसी बच्चे द्वारा सही पहचान करने के बाद वर्ण पहचानने में अटक रहे बच्चे से दोबारा पूछें ताकि वर्ण पहचान पुख्ता हो सके।"},
+               {"type": "bullet", "text": "वर्ण पहचान के लिए कक्षा में उपलब्ध सामग्री से वर्ण ढूंढवाएँ।"}], "sections": []},
+            {"number": "2.2", "heading": "ब्लेंडिंग: (केवल अभी तक सिखाए वर्ण/अक्षरों से)", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बोर्ड पर दो बॉक्स बनाकर उनमे वर्ण/अक्षर बोलते हुए लिखें।"},
+               {"type": "bullet", "text": "फिर इनके सामने एक बड़े बॉक्स में वर्ण/अक्षर से मिलकर बनने वाले शब्द लिखें।"},
+               {"type": "bullet", "text": "बनाये हुए शब्द को 3-4 बार पढ़ें। इसी तरह बच्चों के साथ मिलकर शब्द बनाएँ और पढ़ें।"},
+               {"type": "bullet", "text": "उपसमूह में अभ्यास के लिए ग्रिड कार्ड से शब्द बनाने और लिखने का कार्य दें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर पढ़ते हुए सुनें और आवश्यकता के अनुसार सहयोग करें।"}], "sections": []},
+            {"number": "2.3", "heading": "श्रुतलेखन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों से अभी तक सिखाए वर्ण/अक्षर में से 2-3 वर्ण/अक्षर वाले शब्द लिखवाएँ।"}], "sections": []},
+            {"number": "2.4", "heading": "अभ्यास-पत्रक 20.1 (पृ. सं. 234)", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "जो बच्चे वर्ण/अक्षर पहचान का कार्य पहले समाप्त कर लें उन्हें अभ्यास-पत्रक 20.1 (पृ. सं. 234) पर कार्य के स्पष्ट उदाहरण देकर कार्य करने के लिए दें।"}], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null, "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-2 के पाठ -20 ‘नन्हा चूजा’ चित्रकथा पर चर्चा।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-20 मेला पृष्ठ 232) कक्षा 2: अपने दोस्त का चित्र बनाओ।"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "लेखन कार्य जारी रखें।"},
+              {"type": "bullet", "text": "सावधिक आकलन"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "पाठ आधारित लेखन ‘नन्हा चूजा’ पृष्ठ सं. 231"},
+              {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक आकलन"},
+              {"type": "bullet", "text": "सावधिक आकलन"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "पठन अभ्यास जारी।"},
+              {"type": "bullet", "text": "पठन अभ्यास जारी।"}],
+            "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["Section 2 sub-boxes 'समूह 2 के साथ कार्य योजना' and 'समूह 1 के साथ कार्य योजना' are unnumbered (number null); 2.1-2.4 placed under section 2 as printed", "Right column opening bullets (फिर कोई एक वर्ण कार्ड...) treated as continuation of 2.1 from the left column", "2.1 letter list '(न,र,ल,क,स,ब,द,म. प,त,ट,ग)' punctuation as printed"],
+  "notes": "Left column runs to 2.1; right column continues 2.1, then 2.2-2.4. Multigrade box has small icons (ignored)."
+}

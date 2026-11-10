@@ -1,0 +1,123 @@
+{
+  "pdf_page": 82,
+  "printed_page": "79",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "11", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; band 'सप्ताह-11'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "अनुभव सुनना-सुनाना-‘घर में पाले जाने वाले जानवर’", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक विषय से संबंधित अपने अनुभव बच्चों के साथ साझा करें जैसे उनके घर में कौन-कौन से जानवर पाले जाते हैं, चारे में क्या खिलाते हैं, कितने जानवर दूध देने वाले हैं।"},
+               {"type": "bullet", "text": "फिर प्रत्येक बच्चे को अपने अनुभव सुनाने का अवसर दें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "पालतू जानवरों के चित्र बनवाएँ और उनके नाम लिखवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "रेमेडियल कार्य", "minutes": "60",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह 2 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक समूह 2 के बच्चों को अभ्यास-पत्रक 11.3 (पृ. सं. 118) पर कार्य के स्पष्ट उदाहरण और निर्देश देकर स्व अभ्यास /स्वतंत्र कार्य देंगे।"},
+               {"type": "bullet", "text": "कार्य पूरा होने के बाद इन बच्चों को पुस्तकालय से कहानी की किताबें पढ़ने के लिए दें जिनमे ज्यादा चित्र और शब्दों की संख्या बहुत कम हो।"}
+             ], "sections": []},
+            {"number": null, "heading": "समूह 1 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "समूह 2 के बच्चों को कार्य देने के बाद शिक्षक समूह 1 के बच्चों के साथ कार्य करवाएँगें।"}
+             ],
+             "sections": [
+               {"number": "2.1", "heading": "वर्ण पहचान ( स,ब )", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "पिछले 2 दिन सिखाए वर्णों (न,र,ल,क) का 4-5 मिनट दोहरान करें।"},
+                  {"type": "bullet", "text": "अगले 2 वर्णों (स,ब) के कार्ड लें और वर्णों को एक बार उच्चारित करके बताएँ-ध्वनि आकृति सहसंबंध पुख्ता करें।"},
+                  {"type": "bullet", "text": "फिर कोई एक वर्ण कार्ड उठाएँ और बच्चे का नाम लेकर पूछें यह कौन सा वर्ण है।"},
+                  {"type": "bullet", "text": "यदि बच्चा सही पहचान करने में अटक रहा है तो बाकी बच्चों से पूछें सही पहचान करने में कौन मदद करेगा। दूसरे किसी बच्चे द्वारा सही पहचान करने के बाद वर्ण पहचानने में अटक रहे बच्चे से दोबारा पूछें ताकि वर्ण पहचान पुख्ता हो सके।"},
+                  {"type": "bullet", "text": "इसी प्रकार उस दिन के लिए निर्धारित सभी वर्णों की पहचान करवाएँ।"}
+                ], "sections": []},
+               {"number": "2.2", "heading": "अक्षर पहचान", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "बोर्ड पर ना, रा,ला, का, नी, री, ली, की अक्षर लिखकर उच्चारण करें और बच्चों को भी बोलने को कहें।"},
+                  {"type": "bullet", "text": "अक्षर का एक साथ उच्चारण करें व बच्चों से दोहराने के लिए कहें।"},
+                  {"type": "bullet", "text": "बच्चों को उपसमूहों में ग्रिड कार्ड देकर अभ्यास के लिए कहें और आवश्यकता के अनुसार पढ़ने में सहयोग करें।"}
+                ], "sections": []},
+               {"number": "2.3", "heading": "ब्लेंडिंग ( केवल अभी तक सिखाए वर्ण/अक्षरों से )", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "बोर्ड पर दो बॉक्स बनाकर उनमे वर्ण/अक्षर बोलते हुए लिखें। फिर इनके सामने एक बड़े बॉक्स में वर्ण/अक्षर से मिलकर बनने वाले शब्द लिखें। बनाये हुए शब्द को 3-4 बार पढ़ें। इसी तरह बच्चों के साथ मिलकर शब्द बनाएँ और पढ़ें। उपसमूह में अभ्यास के लिए ग्रिड कार्ड से शब्द बनाने और लिखने का कार्य दें। बच्चों के पास जाकर पढ़ते हुए सुनें और आवश्यकता के अनुसार सहयोग करें ।"}
+                ], "sections": []},
+               {"number": "2.4", "heading": "श्रुतलेखन", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "बच्चों से अभी तक सिखाए वर्ण/अक्षर लिखवाएँ।"}
+                ], "sections": []},
+               {"number": "2.5", "heading": "अभ्यास-पत्रक 11.3 ( पृ. सं. 118 )", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "जो बच्चे वर्ण/अक्षर पहचान का कार्य पहले समाप्त कर लें उन्हें अभ्यास-पत्रक 11.3 (पृ. सं. 118) पर कार्य के स्पष्ट उदाहरण देकर कार्य करने के लिए दें।"}
+                ], "sections": []}
+             ]}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "गतिविधि – ‘अनुभव सुनना व सुनाना- ‘घर में पाले जाने वाले जानवर’"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: अपने घरे के पालतू जानवरों के चित्र बनाना व नाम लिखना कक्षा 2: पाठ आधारित लेखन (पाठ-11 ‘सर्दी आई’ पृष्ठ सं 127)"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुरावृत्ति 11.3"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुनरावृति 11.5"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुरावृत्ति 11.3"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुनरावृति 11.5"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["2.3 blending: the printed paragraph is wrapped over many lines; I joined it as one bullet though it may contain several sentences/bullets", "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout", "multigrade misspellings copied as read: 'घरे', 'पुरावृत्ति' (40 and 20 minute rows)", "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"],
+  "notes": "Two columns; right column opens with the end of 2.1 bullet 2 (continuation from left column) which is merged into that bullet."
+}

@@ -1,0 +1,171 @@
+{
+  "pdf_page": 23,
+  "printed_page": "10",
+  "page_kind": "lesson",
+  "header": "दोहरा शतक",
+  "units": [
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "1-2"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 1-2' in first column yellow box",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "संख्या 16 को दर्शाने के लिए 16 पीले ब्लॉक्स निकालें।"},
+                {"type": "bullet", "text": "अब 8–8 ब्लॉक्स के 2 समूह से दर्शाएँ।"},
+                {"type": "bullet", "text": "फिर 4 ब्लॉक्स के 4 समूह, 2 ब्लॉक्स के 8 समूह बनाकर दर्शाएँ।"},
+                {"type": "bullet", "text": "अब संख्या 40 को पीले ब्लॉक्स के अलग–अलग संख्याओं के समूह बनाकर दर्शाएँ।"},
+                {"type": "bullet", "text": "फिर उन्हें समझाएँ कि संख्या को समूह में दर्शाने से गिनती करना आसान होता है।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "heading": "कौशल अभ्यास",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "3-4"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 3-4' in second column yellow box",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई के रूप में लिखना।",
+        "इकाई, दहाई को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका संख्या 45 को बेस–10 ब्लॉक्स की सहायता से प्रदर्शित करके दिखाएँ।"},
+                {"type": "bullet", "text": "सबसे पहले छोटे पीले ब्लॉक्स के द्वारा 5 इकाई को दर्शाएँ फिर 4 नीले ब्लॉक्स की सहायता से 4 दहाई को दर्शाएँ।"},
+                {"type": "bullet", "text": "अब संख्या 34 को बेस–10 ब्लॉक्स की सहायता से प्रदर्शित करके दिखाएँ।"},
+                {"type": "bullet", "text": "फिर उन्हें समझाएँ कि दो अंकीय संख्याओं में दाएं वाला अंक इकाई का अंक होता है और बाएं वाला अंक दहाई को दर्शाता है।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "heading": "कौशल अभ्यास",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "5-6"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 5-6' in third column yellow box",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई और सैकड़े के रूप में लिखना।",
+        "इकाई, दहाई और सैकड़ा को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "bullet", "text": "गणितमाला को दो कीलों पर सीधी खींच के लटका दे।"},
+                {"type": "bullet", "text": "बच्चों को समझाएँ कि गणितमाला में 10–10 के समूह में मोती लगे हुए हैं।"},
+                {"type": "bullet", "text": "10 सफेद, 10 लाल, फिर 10 सफेद और 10 लाल। गणित माला में यह 10 मोतियों का समूह हुआ 1 दहाई।"},
+                {"type": "bullet", "text": "गणितमाला का उपयोग करके ये संख्याएँ कक्षा में दर्शाएँ– 50, 76, 80, 90"},
+                {"type": "bullet", "text": "कुछ बच्चों को एक–एक कर बुलाएँ और निम्नलिखित संख्याओं को गणितमाला पर दर्शाने के लिए कहें: 5 दहाई, 6 दहाई, 7 दहाई और 7 इकाई, 6 दहाई और 6 इकाई, 95"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "heading": "कौशल अभ्यास",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Column 1 yellow box printed without bullet marker, wording 'समूह बनाकर बनाने की' as printed",
+    "Column 3 last bullet: 'कहें: 5 दहाई, 6 दहाई, 7 दहाई और 7 इकाई, 6 दहाई और 6 इकाई, 95' reading of the list items; 'सफेद/सफेद' spelling as printed",
+    "Column 3 bullet 'दे' (लटका दे) and 'दाएं/बाएं' spellings as printed"
+  ],
+  "notes": "Three-column lesson plan page with Blocks 2 and 3 (first sub-step of Block 3 only); Teaching/Learning Materials and QR box ignored. Overlapping lines in image halves written once."
+}

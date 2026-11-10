@@ -1,0 +1,145 @@
+{
+  "pdf_page": 22,
+  "printed_page": "9",
+  "page_kind": "lesson",
+  "header": "दोहरा शतक",
+  "units": [
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "1-2"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 1-2' in first column yellow box",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना"
+      ],
+      "sections": [
+        {
+          "number": "1",
+          "heading": "मौखिक गणित बातचीत",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से 99 तक गणना पर आधारित प्रश्न पूछें जैसे–"},
+                {"type": "bullet", "text": "कक्षा में कितने बच्चे हैं?"},
+                {"type": "bullet", "text": "44 के बाद कौन–सी संख्या आती है?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "वस्तुओं के 4 - 4, 5 - 5, 7 - 7 आदि के समूह बनाकर गिनना आसान होता है।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "3-4"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 3-4' in second column yellow box",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई के रूप में लिखना।",
+        "इकाई, दहाई को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "1",
+          "heading": "मौखिक गणित बातचीत",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से 50 तक गणना पर आधारित प्रश्न पूछें जैसे–"},
+                {"type": "bullet", "text": "हमारे हाथों में कितनी उँगलियाँ हैं?"},
+                {"type": "bullet", "text": "29 के बाद कौन–सी संख्या आती है?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "1 इकाई का अर्थ 1 होता है परंतु 10 इकाई का अर्थ 1 दहाई होता है।"},
+                {"type": "bullet", "text": "इकाई और दहाई के अंकों को आपस में बदल देने पर संख्या का मान बदल जाता है।"},
+                {"type": "bullet", "text": "वस्तुओं के 10–10 के समूह बनाकर गिनना आसान होता है।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "दोहरा शतक", "days": "5-6"},
+      "keys_evidence": "orange band 'दोहरा शतक'; calendar badge 'Day 5-6' in third column yellow box",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": [
+        "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।",
+        "संख्या को इकाई, दहाई और सैकड़े के रूप में लिखना।",
+        "इकाई, दहाई और सैकड़ा को मिलाकर संख्याएँ बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "1",
+          "heading": "मौखिक गणित बातचीत",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "बच्चों के साथ दक्षता पर आधारित मौखिक चर्चा करें।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से"},
+                {"type": "bullet", "text": "1-50 तक गणना एवं 1-50 की गणना में इकाई और दहाई पर आधारित प्रश्न पूछें। जैसे उनकी गणित की पुस्तक में कितने पन्ने हैं? कक्षा में बच्चों को गिने और फिर इस संख्या को बोर्ड पर लिखें। बच्चों से पूछें इस संख्या में कितनी इकाई और दहाई हैं?"},
+                {"type": "bullet", "text": "पूछें 42 में कितनी इकाई और दहाई होते हैं?"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों को समझाएँ कि"},
+                {"type": "bullet", "text": "1 इकाई यानी 1, 1 दहाई यानी 10 और 1 सैकड़ा यानी, 100 होता हैं।"},
+                {"type": "bullet", "text": "10 इकाई का मतलब 1 दहाई होता है और 100 इकाई या 10 दहाई का मतलब 1 सैकड़ा होता है।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Column 1 yellow box printed without bullet marker: 'वस्तुओं/संख्याओं के समूह बनाकर बनाने की अवधारणा समझना' (wording as printed, appears to repeat 'बनाकर बनाने')",
+    "Column 3 first bullet: 'पन्ने' and sentence boundaries read from small text",
+    "'यानी, 100 होता हैं' punctuation and anusvara as printed"
+  ],
+  "notes": "Three-column lesson plan page with Block 1 only; Teaching/Learning Materials and QR box ignored. Page continues onto the next page. Overlapping rows written once."
+}

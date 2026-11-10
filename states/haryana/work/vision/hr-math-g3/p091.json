@@ -1,0 +1,87 @@
+{
+  "pdf_page": 91,
+  "printed_page": "78",
+  "page_kind": "lesson",
+  "header": "सूरजकुंड मेला",
+  "units": [
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [
+        "टाइलें बनाना।",
+        "टाइलों से पैटर्न बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक गणित बातचीत", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "दक्षता संबंधित अवधारणा का सन्दर्भ स्थापित करें एवं अवधारणा से परिचय करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "आपको इस तरह का मॉडल मिलेगा।"},
+                {"type": "figure", "desc": "Grey plus-shaped cross model", "text": null},
+                {"type": "bullet", "text": "इस तरह के कुछ 12-15 मॉडल्स बना लें।"},
+                {"type": "bullet", "text": "अब इन मॉडलों को ऊपर बताए गए अनुसार सही क्रम में लगाएँ। इस तरह से-"},
+                {"type": "figure", "desc": "Grey plus-shaped cross models tiled in a grid pattern, rows of crosses interlocking with white square gaps", "text": null},
+                {"type": "bullet", "text": "उचित उदाहरणों के द्वारा विषय को प्रस्तुत करें।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका अवधारणा का सन्दर्भ स्थापित करें एवं परिचय दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "text", "text": "गतिविधि :-"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका ब्लैक बोर्ड पर इस तरह के एक पैटर्न का प्रारंभिक भाग बना दें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "नक्शे को समझना।",
+        "नक्शे पर किसी स्थान को खोजना।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका अब कक्षा में इस लेसन प्लान में दी गयी गतिविधियाँ करवा कर और विडियो की सहायता से अवधारणा को समझाएँ।"},
+                {"type": "text", "text": "गतिविधि :-"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका ब्लैक बोर्ड पर इस प्रकार का एक नक्शा बना लें।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Day 1-2 column begins with continuation text before any bar; assigned to Block 1 / its last grey bar from previous page (inferred)",
+    "Day 3-4 column is empty above the Block 2 bar (no continuation content)"
+  ],
+  "notes": "Two columns. Day 3-4 column is blank until Block 2. Block 2 bar spans both columns; the activity in each column ends at the page bottom and continues on the next page."
+}

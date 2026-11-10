@@ -1,0 +1,24 @@
+{
+  "pdf_page": 28,
+  "printed_page": "15",
+  "page_kind": "unit_opener",
+  "header": "नानी माँ के साथ छुट्टियाँ",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ:", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "line drawing of a teacher standing beside a blank board holding a pen and a book"},
+       {"type": "bullet", "text": "मूर्त रूप में चित्रों की सहायता से दो वस्तुओं को मिलाने की अवधारणा सीखना। (99 तक)"},
+       {"type": "bullet", "text": "अमूर्त रूप में दो अंकीय संख्या में दो अंकीय संख्या को जोड़ना। (हासिल व बिना हासिल)"},
+       {"type": "bullet", "text": "मूर्त रूप में चित्रों की सहायता से दो वस्तुओं को हटाने/कम करने की अवधारणा सीखना। (99 तक)"},
+       {"type": "bullet", "text": "अमूर्त रूप में दो अंकीय संख्या में से दो अंकीय संख्या को घटाना। (हासिल व बिना हासिल)"},
+       {"type": "bullet", "text": "संख्या रेखा पर जोड़ घटाव।"},
+       {"type": "bullet", "text": "सैकड़ा चार्ट की सहायता से जोड़ना और घटाना।"},
+       {"type": "bullet", "text": "छोटी संख्याओं के कई संयोजनों का उपयोग करके दो अंकीय संख्याएँ बनाना।"},
+       {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों में सही संक्रिया का चुनाव करना।"}
+     ],
+     "sections": []}
+  ],
+  "uncertain": ["No 'अध्याय N' tab and no 'जानें' box seen on this opener; the orange box is headed 'दक्षताएँ:' and was put in shared with that heading"],
+  "notes": "Chapter opener: large line illustration of a teacher at a board, title 'नानी माँ के साथ छुट्टियाँ', yellow label 'दक्षताएँ:' and orange box."
+}

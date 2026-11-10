@@ -1,0 +1,98 @@
+{
+  "pdf_page": 40,
+  "printed_page": "27",
+  "page_kind": "lesson",
+  "header": "आकृतियों का आनंद",
+  "units": [
+    {
+      "keys": {"chapter": "आकृतियों का आनंद", "days": "1-2"},
+      "keys_evidence": "badge 'Day 1-2' in column 1; orange band title at top",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["बिंदुओं से डिज़ाइन बनाना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "आकृतियों का आनंद", "days": "3-4"},
+      "keys_evidence": "badge 'Day 3-4' in column 2; orange band title at top",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["सीधी रेखा को खड़ी, पड़ी व तिरछी रेख के रूप में पहचानना तथा बनाना।", "सीधी रेखा और वक्र रेखा (घुमावदार रेखा) को समझना तथा उनमें अंतर करना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "आकृतियों का आनंद", "days": "5-6"},
+      "keys_evidence": "badge 'Day 5-6' in column 3; orange band title at top",
+      "column": 3,
+      "continues_from_previous_page": true,
+      "intro": ["दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न द्विआयामी आकृतियों को पहचानना तथा उन्हें अलग-अलग समूहों में रखना।"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Textbook-questions line: करवाएँ vs करवाएं (columns 1 and 3 read with ँ, column 2 with ं) could not be fully confirmed"],
+  "notes": "Page starts with the पाठ्यपुस्तक sub-step bar; the block 3 bar is on the previous page, so section 3 कौशल अभ्यास is inferred. Lower half of page is blank."
+}

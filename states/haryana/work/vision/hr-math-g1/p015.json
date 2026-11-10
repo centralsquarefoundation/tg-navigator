@@ -1,0 +1,28 @@
+{
+  "pdf_page": 15,
+  "printed_page": "1",
+  "page_kind": "unit_opener",
+  "header": "राजू का सपना",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ:",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Illustration of a village scene with a house, children and a mango tree, with four speech bubbles containing a rhyme and a QR code", "text": "चक धूम धूम – चक धूम धूम चक धूम धूम – चक। मम्मी मेरे पास, मामा मेरे दूर दादी का घर पास, नानी का घर दूर। | चक धूम धूम – चक धूम धूम चक धूम धूम – चक। किताबें बस्ते के अंदर, बोतल मेरी बाहर मटका घर के अंदर, नलका घर के बाहर। | चक धूम धूम – चक धूम धूम चक धूम धूम – चक। पंखा मेरे ऊपर, बस्ता मेरा नीचे फल लगा है ऊपर, पत्ते गिरे हैं नीचे। चक धूम धूम – चक।"},
+        {"type": "bullet", "text": "पास रखी वस्तुओं और दूर रखी वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "आगे और पीछे रखी वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "ऊपर और नीचे रखी वस्तु की पहचान करना।"},
+        {"type": "bullet", "text": "अंदर और बाहर के स्थान की अवधारणा को समझना।"},
+        {"type": "bullet", "text": "रंगों के आधार पर वस्तुओं को छांटना, मिलान करना और समूह बनाना।"},
+        {"type": "bullet", "text": "बनावट के आधार पर वस्तुओं को छांटना, मिलान करना और समूह बनाना।"},
+        {"type": "bullet", "text": "आकृतियों/वस्तुओं में पैटर्न समझना।"},
+        {"type": "bullet", "text": "पैटर्न समझकर क्रम आगे बढ़ाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["The orange box is headed 'दक्षताएँ:' on this page, not 'जानें'; the printed heading was used."],
+  "notes": "Chapter opener with tab 'अध्याय 1'."
+}

@@ -1,0 +1,10 @@
+# regenerable outputs (page renders, site, job sheets)
+build/
+# archived inspiration clone and scratch
+_inspiration/
+_work/
+# source PDFs are never committed (size + publisher rights); see states/<state>/sources.lock.json
+*.pdf
+__pycache__/
+*.pyc
+.claude/settings.local.json

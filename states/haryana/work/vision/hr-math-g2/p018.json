@@ -1,0 +1,98 @@
+{
+  "pdf_page": 18,
+  "printed_page": "6",
+  "page_kind": "lesson",
+  "header": "कितने संतरे",
+  "units": [
+    {
+      "keys": {"chapter": "कितने संतरे", "days": "7-8"},
+      "keys_evidence": "orange band 'कितने संतरे'; badge 'Day 7-8' in column 1 yellow box",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [
+        "दो अंकों की सहायता से दो अंकीय संख्या बनाना।",
+        "अंकों की पुनरावृति करके दो अंकीय संख्या बनाना।",
+        "दो अंकों की सबसे बड़ी और सबसे छोटी संख्या बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 15 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "कितने संतरे", "days": "9-10"},
+      "keys_evidence": "orange band 'कितने संतरे'; badge 'Day 9-10' in column 2 yellow box",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": [
+        "मूर्त और अमूर्त रूप में वस्तुओं के दो समूह बनाकर उनकी संख्या को (99 तक) पहचानना और तुलना करना। (बड़ा.छोटा और बराबर)",
+        "99 तक संख्याओं को आरोही–अवरोही के क्रम में लिखना।"
+      ],
+      "sections": [
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 17 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाए।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "कितने संतरे", "days": "11-12"},
+      "keys_evidence": "orange band 'कितने संतरे'; badge 'Day 11-12' in column 3 yellow box",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": ["क्रमसूचक संख्याओं का परिचय और प्रयोग।"],
+      "sections": [
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 18 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाए।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null,
+      "heading": null,
+      "minutes": null,
+      "items": [
+        {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Column 1 ends 'करवाएँ' while columns 2 and 3 end 'करवाए' as printed",
+    "Quote marks around सम्पर्क दीदी के सवाल are small; rendered as “ ”",
+    "Full-width yellow bar at page bottom placed in shared"
+  ],
+  "notes": "Last page of the chapter 1 lesson plan; remaining blocks only block 4. Teaching/Learning Materials strip and QR code ignored."
+}

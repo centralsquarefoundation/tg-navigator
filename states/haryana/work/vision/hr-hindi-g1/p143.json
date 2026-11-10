@@ -1,0 +1,104 @@
+{
+  "pdf_page": 143,
+  "printed_page": "140",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "21", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; band 'सप्ताह-21'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30", "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}], "sections": []},
+            {"number": "1.2", "heading": "पढ़कर सुनाना एवं चर्चा", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक पाठ-21 ‘खरगोश, बंदर और हाथी’ (पृ. सं. 238-239)।"},
+               {"type": "bullet", "text": "सबसे पहले शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "उसके बाद पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें।"},
+               {"type": "bullet", "text": "पाठ के बाद बच्चों से अनुमानों की समीक्षा, बंद व खुले छोर वाले प्रश्नों की मदद से पाठ पर चर्चा करें।"},
+               {"type": "bullet", "text": "अगर कहानी में बंदर नहीं होता, तो खरगोश झुला किससे बंधवाता?"},
+               {"type": "bullet", "text": "हाथी के वजन से रस्सी ही क्यों टूटी, पेड़ की डाल क्यों नहीं टूटी होगी।"}], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [{"type": "bullet", "text": "बच्चों से पाँच खेलों के नाम लिखवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "रेमेडियल कार्य", "minutes": "60", "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह 2 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक समूह 2 के बच्चों को अभ्यास-पत्रक 21.1 (पृ. सं. 243) पर कार्य के स्पष्ट उदाहरण और निर्देश देकर स्व अभ्यास /स्वतंत्र कार्य देंगे।"},
+               {"type": "bullet", "text": "कार्य पूरा होने के बाद इन बच्चों को पुस्तकालय से कहानी की किताबें पढ़ने के लिए दें, जिनमे ज्यादा चित्र और शब्दों की संख्या बहुत कम हो।"}], "sections": []},
+            {"number": null, "heading": "समूह 1 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "समूह 2 के बच्चों को कार्य देने के बाद शिक्षक समूह 1 के बच्चों के साथ कार्य करवाएँगे।"}], "sections": []},
+            {"number": "2.1", "heading": "‘ी’ मात्रा पहचान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "मात्रा के प्रतीक चिन्ह को बोर्ड पर लिखें और 2-3 बार उसको उच्चारण करके बताएँ।"},
+               {"type": "bullet", "text": "बोर्ड पर एक वर्ण लिखें, उस पर मात्रा लगाकर दिखाएँ व उच्चारण करें और बच्चों से दोहरान करवाएँ।"},
+               {"type": "bullet", "text": "5-6 वर्णों के साथ वही मात्रा लगाकर उच्चारण करें व बच्चों से दोहराने के लिए कहें।"},
+               {"type": "bullet", "text": "TLM के माध्यम से मात्रा ‘ी’ पहचान संबंधित खेल करवाएँ।"}], "sections": []},
+            {"number": "2.2", "heading": "शब्द पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक में दिए गये शब्दों को बोर्ड पर लिखकर आदर्श तरीके (बिना तोड़े, धारा प्रवाह) से 2-3 बार पढ़ें। फिर बच्चों को साथ में पढ़ने के लिए निर्देश दें और अंत में बच्चों को उपसमूह में शब्द पढ़ने का कार्य देकर आवश्यकता के अनुसार पढ़ने में सहयोग करें ।"}], "sections": []},
+            {"number": "2.3", "heading": "श्रुतलेखन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों से अभी तक सिखाए वर्ण/अक्षर में से 2-3 वर्ण/अक्षर वाले शब्द लिखवाएँ।"}], "sections": []},
+            {"number": "2.4", "heading": "अभ्यास-पत्रक 21.1 (पृ. सं. 243)", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "जो बच्चे वर्ण/अक्षर पहचान का कार्य पहले समाप्त कर लें उन्हें अभ्यास-पत्रक 21.1 (पृ. सं. 243) पर कार्य के स्पष्ट उदाहरण देकर कार्य करने के लिए दें।"}], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null, "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-1 के पाठ -21 ‘खरगोश, बन्दर व हाथी’ पढ़कर सुनाना।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: किन्हीं पांच खेलों के नाम लिखो। कक्षा 2: खरगोश, बन्दर और हाथी के बारे में एक-एक बात लिखो।"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी।"},
+              {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 21.1 पृष्ठ सं. 243 व सीखने में पीछे रहे बच्चों के साथ रेमेडियल कार्य।"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 21.1 पृष्ठ सं 243 व सीखने में पीछे रहे बच्चों के साथ रेमेडियल कार्य।"},
+              {"type": "bullet", "text": "बच्चे अभ्यास कार्य जारी रखें।"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "अभ्यास कार्य जारी रखें।"},
+              {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 21.1 पृष्ठ सं. 243 व सीखने में पीछे रहे बच्चों के साथ रेमेडियल कार्य।"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक पुनरावृत्ति अभ्यास 21.1 पृष्ठ सं. 243 व सीखने में पीछे रहे बच्चों के साथ रेमेडियल कार्य"},
+              {"type": "bullet", "text": "अभ्यास कार्य जारी रखें।"}],
+            "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["2.1 heading and TLM bullet: the matra shown inside quotes read as ‘ी’ (glyph small)", "Section 2 group boxes समूह 2/समूह 1 unnumbered (number null); समूह 1 box is at top of right column", "Multigrade 20 min cells have cramped/overlapping text; reading approximate", "1.2 dot sub-bullets recorded as bullet items; 'झुला' as printed"],
+  "notes": "Left column: 1, 2, समूह 2 box; right column: समूह 1 box then 2.1-2.4. Multigrade box has small icons (ignored)."
+}

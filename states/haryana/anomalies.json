@@ -1,0 +1,23 @@
+{
+  "_about": "Source misprints/quirks confirmed against the page image. Each entry turns the listed check codes for that guide+page into an acknowledged warning and shows `notice` on the lesson in the app. Never use this to hide a transcription error: fix the transcription instead.",
+  "hr-hindi-g3": [
+    {"page": 139, "keys": {"week": "20"}, "codes": ["sequence"],
+     "evidence": "Hindi G3 pdf p139-142: the green band prints 'सप्ताह-11' while the tabs show days 3-6 and pages 137-138 print 'सप्ताह-20' days 1-2; p143 starts 'सप्ताह-21'. The text layer of p137-138 also holds a stale 'सप्ताह-11' label under 'सप्ताह-20'. Checked on the page image 2026-11-10.",
+     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
+    {"page": 140, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
+     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
+    {"page": 141, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
+     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}},
+    {"page": 142, "keys": {"week": "20"}, "codes": ["sequence"], "evidence": "As p139.",
+     "notice": {"hi": "संदर्शिका के इस पृष्ठ पर ‘सप्ताह-11’ छपा है, पर क्रम के अनुसार यह सप्ताह 20 है।", "en": "This page prints ‘Week 11’, but by sequence it is Week 20."}}
+  ],
+  "hr-math-g3": [
+    {
+      "page": 90,
+      "codes": ["sequence", "duplicate"],
+      "evidence": "Math G3 pdf p90 (printed 77): column badges print 'Day 1-2' and 'Day 3-4' again for a second set of activities (tiles; maps) after pages 87-89 already covered Day 1-2 and Day 3-4 of 'सूरजकुंड मेला'. Checked on the page image 2026-11-10.",
+      "notice": {"hi": "संदर्शिका में इस अध्याय के ‘दिवस 1-2 / 3-4’ दो बार छपे हैं। यह दूसरा भाग है (मूल पृष्ठ देखें)।",
+                 "en": "The guide prints Day 1-2 / 3-4 twice in this chapter. This is the second set (see original page)."}
+    }
+  ]
+}

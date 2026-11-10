@@ -1,0 +1,31 @@
+{
+  "pdf_page": 21,
+  "printed_page": "8",
+  "page_kind": "unit_opener",
+  "header": "दोहरा शतक",
+  "units": [],
+  "shared": [
+    {
+      "number": null,
+      "heading": "दक्षताएँ :",
+      "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a marker and a book", "text": null},
+        {"type": "bullet", "text": "वस्तुओं/संख्याओं को 10 के समूह बनाकर स्थानीय मान की अवधारणा समझना।"},
+        {"type": "bullet", "text": "संख्या को इकाई, दहाई सैकड़ा के रूप में लिखना।"},
+        {"type": "bullet", "text": "इकाई, दहाई, सैकड़ा को मिलाकर संख्याएँ बनाना।"},
+        {"type": "bullet", "text": "चित्रों, प्रतीकों, वस्तुओं और TLM की सहायता से वस्तुओं के समूह बनाना, संख्या गिनना तथा लिखना। (101–500 तक)"},
+        {"type": "bullet", "text": "संख्या रेखा पर संख्याओं को दर्शाना।"},
+        {"type": "bullet", "text": "संख्या रेखा पर संख्याओं का सीधा क्रम और उल्टा क्रम।"},
+        {"type": "bullet", "text": "100 तक संख्याओं की तुलना करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Box heading printed as 'दक्षताएँ :' (not 'जानें'); recorded as printed",
+    "Last bullet prints '100 तक' whereas the academic plan prints '110 तक' for 3.9; recorded as printed here",
+    "No 'अध्याय N' tab visible on this page"
+  ],
+  "notes": "Chapter opener: large line illustration, chapter title in orange, yellow label 'दक्षताएँ :' above an orange box of bullets."
+}

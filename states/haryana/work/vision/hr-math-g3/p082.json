@@ -1,0 +1,24 @@
+{
+  "pdf_page": 82,
+  "printed_page": "69",
+  "page_kind": "unit_opener",
+  "header": "समय – समय की बात",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a book", "text": ""},
+        {"type": "bullet", "text": "दिन, सप्ताह, महीने और साल की अवधारणा तथा कैलेण्डर।"},
+        {"type": "bullet", "text": "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।"},
+        {"type": "bullet", "text": "दिनचर्या समझना।"},
+        {"type": "bullet", "text": "घड़ी देखकर घंटे की अवधि को समझना।"},
+        {"type": "bullet", "text": "एक घंटे, आधे घंटे और पौने घंटे के समय का बोध।"},
+        {"type": "bullet", "text": "गतिविधियों में समय का अनुमान लगाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Title dash between 'समय' and 'समय की बात' is a long dash as printed; no 'अध्यापक' tab 'अध्याय N' visible"],
+  "notes": "Chapter opener with large line illustration; box heading is 'दक्षताएँ :'."
+}

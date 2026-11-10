@@ -1,0 +1,119 @@
+{
+  "pdf_page": 32,
+  "printed_page": "18",
+  "page_kind": "lesson",
+  "header": "चिंकी का जन्मदिन",
+  "units": [
+    {
+      "keys": {"chapter": "चिंकी का जन्मदिन", "days": "1-2"},
+      "keys_evidence": "badge 'Day 1-2'; orange band 'चिंकी का जन्मदिन'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": ["ज़ीरो की अवधारणा समझाना और उसका प्रयोग।"],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 55, 56 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "चिंकी का जन्मदिन", "days": "3-4"},
+      "keys_evidence": "badge 'Day 3-4'; orange band 'चिंकी का जन्मदिन'",
+      "column": 2,
+      "continues_from_previous_page": false,
+      "intro": ["दैनिक जीवन के उदाहरणों, चित्रों, प्रतीकों और वस्तुओं को दिखाकर 10 से 20 तक सीधी और फिर उल्टी गणना करना।"],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 57 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "चिंकी का जन्मदिन", "days": "5-6"},
+      "keys_evidence": "badge 'Day 5-6'; orange band 'चिंकी का जन्मदिन'",
+      "column": 3,
+      "continues_from_previous_page": false,
+      "intro": ["20 तक संख्याओं को पढ़ना और लिखना।", "20 तक संख्या निर्माण।"],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 58, 59 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएं।"},
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 61 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Spelling variants करवाएं/करवाएँ transcribed as seen; col 1/2 first text prints 'करवाएँ'"],
+  "notes": "Page opens with the dark bar 'पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।' with no orange block bar above it on this page (it belongs to block 3 continued from previous page); wrapper section left unnumbered. The dark bar text printed with 'करवाएँ।'. Lower half of page is blank."
+}

@@ -1,0 +1,21 @@
+{
+  "pdf_page": 28,
+  "printed_page": "16",
+  "page_kind": "unit_opener",
+  "header": "परछाइयाँ",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ :", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Reproduced textbook opening page for chapter 4: two girls making hand shadows on a wall, with shadow animals and a signpost marked 40", "text": "परछाइयाँ | नीकू और सहज परछाई बना कर खेल रही हैं। | यो के बणा! | अरे वाह! ये कैसे किया ये परछाई क्या गज़ब है। | चलो ऐसी और परछाई बनाकर देखें। | वे दोनों अपनी उँगालियों से विभिन्न पशु/पक्षियों की परछाई बनाने का प्रयास करने लगी। | आप भी कुछ परछाइयाँ बनाने का प्रयास कीजिए। | 40 | गणित भाग-1"},
+       {"type": "bullet", "text": "वस्तुओं की परछाइयों को पहचानना और बनाना।"},
+       {"type": "bullet", "text": "वस्तुओं को ट्रेस करके आकृति बनाना व उसकी जाँच करना।"},
+       {"type": "bullet", "text": "दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न द्विआयामी आकृतियों (आयत, वृत्त, त्रिकोण, वर्ग) को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"},
+       {"type": "bullet", "text": "द्विआयामी आकृतियों की सतह, किनारों और कोनों की संख्या गिनना।"},
+       {"type": "bullet", "text": "आकृतियों/वस्तुओं में पैटर्न समझना।"},
+       {"type": "bullet", "text": "पैटर्न समझकर क्रम आगे बढ़ाना।"}
+     ], "sections": []}
+  ],
+  "uncertain": ["Orange box is headed 'दक्षताएँ :' (not 'जानें') on this page; printed heading kept", "Figure text from small print in illustration: 'उँगालियों' as printed"],
+  "notes": "Chapter opener with tab 'अध्याय 4', title 'परछाइयाँ' and a reproduced textbook page illustration (page marked 40)."
+}

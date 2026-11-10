@@ -1,0 +1,26 @@
+{
+  "pdf_page": 54,
+  "printed_page": "42",
+  "page_kind": "unit_opener",
+  "header": "बगीचे में बेलपत्र",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Four-panel comic of two boys counting bael leaves on branches in a garden", "text": "बगीचे में बेलपत्र; राजू के घर में बेलपत्र का पेड़ लगा है।; अरे देखो! हर छोटी टहनी पर 3-3 पत्ते लगे हैं।; हाँ! चलो देखें, बड़ी टहनी पर कुल कितने पत्ते हैं?; हर एक टहनी पर 3 पत्ते लगे हैं।; और 5 टहनियाँ हैं।; 109; गणित भाग-2"},
+        {"type": "bullet", "text": "बार–बार जोड़कर गुणा करना।"},
+        {"type": "bullet", "text": "5 तक पहाड़े बनाना।"},
+        {"type": "bullet", "text": "6–10 तक पहाड़े बनाना।"},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं का गुणा।"},
+        {"type": "bullet", "text": "गुणा के इबारती प्रश्न।"},
+        {"type": "bullet", "text": "बार–बार घटाकर भाग करना।"},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं का भाग करना।"},
+        {"type": "bullet", "text": "भाग के इबारती प्रश्न।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Speech bubble text in the comic read at small size ('पत्त लग हैं' bubble partly cut at the split)"],
+  "notes": "Chapter opener for अध्याय 9. The orange box is headed 'दक्षताएँ :' (not 'जानें'). Chapter tab 'अध्याय 9'."
+}

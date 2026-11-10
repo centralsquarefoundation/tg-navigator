@@ -1,0 +1,35 @@
+{
+  "pdf_page": 69,
+  "printed_page": "55",
+  "page_kind": "unit_opener",
+  "header": "घूमने का आनन्द",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "घूमने का आनन्द", "minutes": null,
+      "items": [
+        {"type": "text", "text": "दिव्या अपने दोस्तों के साथ, सुखना झील पर घूमने गई। आओ उसके साथ सुखना झील घूमें।"},
+        {"type": "figure", "desc": "Illustration of a lake with children in swan-shaped paddle boats, ducks, trees, benches, and a balloon seller with a girl on the shore; chapter number 12 on a rock and a small QR code at top", "text": "12 घूमने का आनन्द"}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "पता लगाओ", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "( क ) कितनी नाव, कितने बच्चे?"},
+        {"type": "bullet", "text": "( ख ) कितने गुब्बारे हैं?"},
+        {"type": "bullet", "text": "( ग ) झील में कितनी बतखें हैं?"}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "एक अंकीय संख्याओं को बार – बार जोड़ना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Opener tab reads 'अध्यापक अध्याय 12' as 'अध्याय 12'; the orange box is headed 'दक्षताएँ :' (not 'जानें') and has one bullet."
+}

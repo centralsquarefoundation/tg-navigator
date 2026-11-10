@@ -1,0 +1,26 @@
+{
+  "pdf_page": 43,
+  "printed_page": "30",
+  "page_kind": "unit_opener",
+  "header": "सैकड़ों का घर – 1",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Line drawing of a teacher standing beside a blank board, holding a pointer and a book", "text": null},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं को पढ़ना, गिनना और लिखना।"},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं को संख्या रेखा पर दर्शाना।"},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं का संख्या रेखा पर सीधा क्रम और उल्टा क्रम।"},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं को इकाई, दहाई, सैकड़ा में लिखना।"},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं को इकाई, दहाई और सैकड़ा को मिलाकर संख्या बनाना।"},
+        {"type": "bullet", "text": "101 से 500 तक की संख्याओं की तुलना करना।"},
+        {"type": "bullet", "text": "101 से 500 तक संख्याओं में पहले–बीच में–बाद में, आरोही–अवरोही क्रम का बोध होना।"},
+        {"type": "bullet", "text": "101 से 500 तक संख्याओं में पैटर्न समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Opener page; box is headed 'दक्षताएँ:' (not 'जानें') in print. No 'अध्याय N' tab visible on this page."
+}

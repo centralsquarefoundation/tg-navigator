@@ -1,0 +1,120 @@
+{
+  "pdf_page": 81,
+  "printed_page": "78",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "11", "day": "4"},
+      "keys_evidence": "highlighted tab 'दिवस 4'; band 'सप्ताह-11'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक (पृ. सं. 115) पर दी गई कविता ‘न्यौता’ सुनाएँ और बच्चों को साथ में दोहरान करने के लिए कहें। शिक्षक कविता सुनाने से पहले बच्चों को कविता के चित्रों का अवलोकन करने के लिए कहें और बातचीत करें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "कविता में आए मनपसंद पात्र का चित्र बनाएँ और उसका नाम लिखें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "रेमेडियल कार्य", "minutes": "60",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह 2 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक समूह 2 के बच्चों को अभ्यास-पत्रक 11.2 (पृ. सं. 117) पर कार्य के स्पष्ट उदाहरण और निर्देश देकर स्व अभ्यास /स्वतंत्र कार्य देंगे।"},
+               {"type": "bullet", "text": "कार्य पूरा होने के बाद इन बच्चों को पुस्तकालय से कहानी की किताबें पढ़ने के लिए दें जिनमे ज्यादा चित्र और शब्दों की संख्या बहुत कम हो ।"}
+             ], "sections": []},
+            {"number": null, "heading": "समूह 1 के साथ कार्य योजना", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "समूह 2 के बच्चों को कार्य देने के बाद शिक्षक समूह 1 के बच्चों के साथ कार्य करवाएँगें।"}
+             ],
+             "sections": [
+               {"number": "2.1", "heading": "वर्ण पहचान ( ल,क )", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "पिछले दिन सिखाए वर्णों (न,र) का 4-5 मिनट दोहरान करें।"},
+                  {"type": "bullet", "text": "अगले 2 वर्णों (ल,क) के कार्ड लें और वर्णों को एक बार उच्चारित करके बताएँ-ध्वनि आकृति सहसंबंध पुख्ता करें।"},
+                  {"type": "bullet", "text": "फिर कोई एक वर्ण कार्ड उठाएँ और बच्चे का नाम लेकर पूछें यह कौन सा वर्ण है।"},
+                  {"type": "bullet", "text": "यदि बच्चा सही पहचान करने में अटक रहा है तो बाकी बच्चों से पूछें कौन सही पहचान करने में मदद करेगा। दूसरे किसी बच्चे द्वारा सही पहचान करने के बाद वर्ण पहचानने में अटक रहे बच्चे से दोबारा पूछें ताकि वर्ण पहचान पुख्ता हो सके।"},
+                  {"type": "bullet", "text": "इसी प्रकार उस दिन के लिए निर्धारित सभी वर्णों की पहचान करवाएँ।"},
+                  {"type": "bullet", "text": "वर्ण पहचान के लिए कक्षा में उपलब्ध सामग्री से वर्ण ढूंढवाएँ।"},
+                  {"type": "bullet", "text": "अंत में पिछले दिनों में सिखाए वर्णों (न,र) के कार्ड को नए वर्णों के कार्ड में मिश्रित कर कोई खेल खिलाएँ।"}
+                ], "sections": []},
+               {"number": "2.2", "heading": "अक्षर पहचान", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "बोर्ड पर ना, रा, ला, का अक्षर लिखकर उच्चारण करें और बच्चों को भी बोलने को कहें।"},
+                  {"type": "bullet", "text": "अक्षर का एक साथ उच्चारण करें व बच्चों से दोहराने के लिए कहें।"},
+                  {"type": "bullet", "text": "बच्चों को उपसमूहों में ग्रिड कार्ड देकर अभ्यास के लिए कहें और आवश्यकता के अनुसार पढ़ने में सहयोग करें।"}
+                ], "sections": []},
+               {"number": "2.4", "heading": "श्रुतलेखन", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "बच्चों से अभी तक सिखाए वर्ण/अक्षर लिखवाएँ।"}
+                ], "sections": []},
+               {"number": "2.5", "heading": "अभ्यास-पत्रक 11.2 ( पृ. सं. 117 )", "minutes": null,
+                "items": [
+                  {"type": "bullet", "text": "जो बच्चे वर्ण/अक्षर पहचान का कार्य पहले समाप्त कर लें उन्हें अभ्यास-पत्रक 11.2 (पृ. सं. 117) पर कार्य के स्पष्ट उदाहरण देकर कार्य करने के लिए दें।"}
+                ], "sections": []}
+             ]}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "( 30 मिनट )", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-2 के पाठ- 11 से आओ मिलकर पढ़ें- ‘दोस्त के जूते’।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-11 ‘गिलहरी व गौरैया’ पृष्ठ सं. 114 कक्षा 2: अपने जूतों का चित्र बनायें"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 40 मिनट )", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुनरावृत्ति 11.4"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "( 20 मिनट )", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक पुनरावृत्ति 11.4"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "सावधिक आकलन"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Step numbering jumps 2.2 to 2.4 as printed (no 2.3 on page)", "Steps 2.1-2.5 nested under 'समूह 1 के साथ कार्य योजना' by layout; 2.1 bullets continue into the right column", "multigrade rows 40 and 20 have two sub-rows each; group labels repeated in order"],
+  "notes": "Two columns; right column opens with continuation of 2.1 bullets from left column."
+}

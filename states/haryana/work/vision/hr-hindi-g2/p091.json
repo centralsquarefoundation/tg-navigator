@@ -1,0 +1,49 @@
+{
+  "pdf_page": 91,
+  "printed_page": "89",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; it appears to continue the previous page's unit but keys are not inferred",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {"number": "2.2", "heading": "मार्गदर्शन में पठन", "minutes": "20",
+         "items": [
+           {"type": "bullet", "text": "बच्चों को ‘पठन अभ्यास पेज. 150 को’ पढ़ने में मदद करना।"},
+           {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाने, पाठ को जोड़ियों में पढ़ने के लिए कहें।"},
+           {"type": "bullet", "text": "अब आप सभी अपना एक साथी चुन लें और उसके साथ बैठ जाएँ।"}
+         ], "sections": []},
+        {"number": "2.3", "heading": "अभ्यास-कार्य", "minutes": null,
+         "items": [
+           {"type": "text", "text": "अभ्यास-पत्रक 13.1 (पेज.न.150) पर राखी की बकरी पाठ को पढ़ने व दिए गए प्रश्नों के उत्तर लिखने पर कार्य करवाएँ अब अपने साथी के साथ मिलकर यही पाठ पढ़ें।"}
+         ], "sections": []},
+        {"number": "3", "heading": "पठन", "minutes": "20",
+         "items": [],
+         "sections": [
+           {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "दिवस 1-4 पाठ्यपुस्तक रागिनी भाग 2 पृष्ठ सं.155 से पाठ 25 बच्चों को स्वतंत्र रूप से पाठ को पढ़ने के लिए कहें। बच्चों के पास जाकर बातचीत करें कि वे पाठ पढ़कर समझ रहे हैं या नहीं। आवश्यकता होने पर मदद करें।"}
+            ], "sections": []},
+           {"number": "3.2", "heading": "प्रवाह पूर्ण आकलन", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "5 बच्चों को अपने पास बुलाएँ।"},
+              {"type": "bullet", "text": "अपनी प्रति बच्चे को दें और पाठ्यपुस्तक अपने पास रखें।"},
+              {"type": "bullet", "text": "मोबाइल पर 60 सेकंड का टाइमर लगाएँ।"},
+              {"type": "bullet", "text": "बच्चा पहला शब्द पढ़ना शुरू करे तभी टाइमर चालू करें।"},
+              {"type": "bullet", "text": "गलत पढ़े शब्द के नीचे एक लाइन खींचें।"},
+              {"type": "bullet", "text": "यदि वह तुरंत सही कर लें तो दूसरी लाइन खींचें।"},
+              {"type": "bullet", "text": "1 मिनट पूरा होने पर अंतिम शब्द पर ‘]’ का निशान लगाएँ।"},
+              {"type": "bullet", "text": "पाठ्यपुस्तक में बने डिब्बे में सही पढ़े गए शब्दों की संख्या लिखें।"}
+            ], "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Keys week/day null: page prints no tabs or week band", "Sections 2.2/2.3 have no parent section 2 heading on this page; written as top-level sections", "2.3 has no printed minutes; heading 'अभ्यास-कार्य' is the bold lead word of its line"],
+  "notes": "Continuation page: no day tabs or week band. Section 3 'पठन' spans left column (3.1) and right column (3.2). Bottom half of page is empty."
+}

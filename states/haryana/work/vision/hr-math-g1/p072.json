@@ -1,0 +1,34 @@
+{
+  "pdf_page": 72,
+  "printed_page": "58",
+  "page_kind": "unit_opener",
+  "header": "गुल्लक",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "गुल्लक", "minutes": null,
+      "items": [
+        {"type": "text", "text": "पीहू छह महीने से अपनी मम्मी को जन्मदिन का उपहार देने के लिए गुल्लक में पैसे इकट्ठे कर रही है। कल उसकी मम्मी का जन्मदिन है, तो वह आज पापा के साथ उपहार लेने बाज़ार जाएगी। उसने अपना गुल्लक तोड़ा उसमें बहुत से सिक्के और नोट निकले। आओ देखें पीहू की गुल्लक से कौन-कौन से सिक्के और नोट निकले।"},
+        {"type": "figure", "desc": "Illustration of a girl kneeling on a blue mat beside a broken piggy bank with coins and notes spread out; chapter number 13 on a rock and a small QR code at top", "text": "13 गुल्लक"},
+        {"type": "table", "rows": [
+          ["सिक्के", "कितने", "नोट", "कितने"],
+          ["(picture: 1 rupee coin)", "", "(picture: 5 rupee note)", ""],
+          ["(picture: 5 rupee coin)", "", "(picture: 20 rupee note)", ""],
+          ["(picture: 2 rupee coin)", "", "(picture: 50 rupee note)", ""],
+          ["(picture: 10 rupee coin)", "", "(picture: 10 rupee note)", ""]
+        ]}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "दक्षताएँ :", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "50 तक के मान वाली मुद्रा (नोट/सिक्कों) को पहचानना।"},
+        {"type": "bullet", "text": "अलग–अलग मान वाले नोट या सिक्कों के समूह (समान/असमान मूल्यवर्ग के) बनाना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Table: first column cells contain coin pictures and the third column note pictures (denominations read from the images); the 'कितने' columns are blank answer lines"],
+  "notes": "Opener tab 'अध्याय 13'; the orange box is headed 'दक्षताएँ :' (not 'जानें')."
+}

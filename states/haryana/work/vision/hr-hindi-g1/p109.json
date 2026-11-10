@@ -1,0 +1,131 @@
+{
+  "pdf_page": 109,
+  "printed_page": "106",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "15", "day": "3"},
+      "keys_evidence": "highlighted tab 'दिवस 3'; band 'सप्ताह-15'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "साथियों के साथ बातचीत", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक से पाठ-15 ‘आम’ (पृ. सं. 162) शिक्षक के मार्गदर्शन में बच्चे साथियों के साथ बातचीत करेंगे।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "शब्दों का खेल", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "बच्चों से पूछें कि दी गई वस्तुओं की कैसी आवाज़ें होती हैं ?"},
+               {"type": "bullet", "text": "पढ़ें और चित्र में रंग भरें- बच्चों को पढ़ने के लिए कहें और चित्र में रंग भरवायें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "‘अ’ वर्ण पहचान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक किसी परिचित शब्द (जैसे-अदरक) से इसकी शुरुआत करें।"},
+               {"type": "bullet", "text": "परिचित शब्द की आवाज़ों को तोड़कर-जोड़कर बोलें (अदरक-अ/द/र/क), (अ/द/र/क-अदरक)। पहली आवाज़ ‘अ’ को अलग करें। ‘अ’ का स्पष्ट उच्चारण करें।"},
+               {"type": "bullet", "text": "‘अदरक’ शब्द बोर्ड पर लिखें और उसकी पहली आवाज़ के प्रतीक ‘अ’ पर घेरा लगाएँ।"},
+               {"type": "bullet", "text": "‘अ’ का कार्ड दिखाकर ‘अ’ का 3 से 4 बार उच्चारण करें। बच्चों से ‘अ’ की आवाज़ से शुरू होने वाले शब्द/नाम पूछें और उनको बोर्ड पर लिखें। शब्द को तोड़कर पहली ध्वनि ‘अ’ पर बल दें और ‘अ’ पर घेरा लगवाएँ।"},
+               {"type": "bullet", "text": "बच्चों को ‘अ’ वर्ण को कक्षा में प्रदर्शित सामग्रियों और उनकी पाठ्यपुस्तक से ढूँढकर बताने को कहें।"},
+               {"type": "bullet", "text": "अलग-अलग तरीके से वर्ण लेखन का अभ्यास करवाएँ।"}
+             ], "sections": []},
+            {"number": "2.3", "heading": "शब्द पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक में दिए गये शब्दों को बोर्ड पर लिखकर आदर्श तरीके (बिना तोड़े, धारा प्रवाह) से 2-3 बार पढ़ें। फिर बच्चों को साथ में पढ़ने के लिए निर्देश दें और अंत में बच्चों को उपसमूह में शब्द पढ़ने का कार्य देकर आवश्यकता के अनुसार पढ़ने में सहयोग करें ।"}
+             ], "sections": []},
+            {"number": "2.4", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 15.3 (पृ. सं. 166) पर कार्य। बच्चों को अभ्यास-पत्रक पर अभ्यास करने के उदाहरण देकर कार्य करने के स्पष्ट निर्देश दें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "आदर्श पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "रागिनी भाग 2 ‘बाज़ार में बारिश’ (पृ.स. 170) से पठन।"},
+               {"type": "bullet", "text": "पाठ को उचित प्रवाह के साथ पढ़कर सुनाएँ।"},
+               {"type": "bullet", "text": "बच्चों को शब्दों पर उंगली रखकर साथ-साथ देखने को कहें।"}
+             ], "sections": []},
+            {"number": "3.2", "heading": "मार्गदर्शन पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "आदर्श पठन के बाद बच्चों को जोड़ों/उपसमूहों में बैठाएँ और पाठ को पढ़ने के लिए कहें।"},
+               {"type": "bullet", "text": "बच्चों के पास जाकर पढ़ते हुए सुनें और आवश्यकता के अनुसार सहयोग करें ।"},
+               {"type": "bullet", "text": "किन्हीं दो-तीन बच्चों को बुलाकर स्वतंत्र रूप से पाठ पढ़वाकर सुनें।"},
+               {"type": "bullet", "text": "बाकी बच्चे अपनी-अपनी किताब में देखेंगे।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null, "heading": "( 30 मिनट )", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "रागिनी-2 के पाठ -15 ‘धान’ पढ़कर सुनाना और चर्चा।"},
+               {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन कार्य (पाठ-15 ‘आम’ पृष्ठ सं 159) कक्षा 2: चावल से क्या-क्या बनता है? नाम लिखो।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "( 40 मिनट )", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ आधारित लेखन कार्य।"},
+               {"type": "bullet", "text": "वर्ण पहचान पर कार्य ‘अ’ ग्रिड 4,6,9,11,12 से अभ्यास। अभ्यास-पत्रक 15.3 पर कार्य।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी (भाग-2) से अभ्यास 15.3 ‘बन्दर और खरगोश’ पृष्ठ सं 176 से आदर्श एवं मार्गदर्शन में पठन। पाठ आधारित लेखन: अभ्यास 15.3"},
+               {"type": "bullet", "text": "बच्चे पाठ आधारित लेखन कार्य करेंगे।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "( 20 मिनट )", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य।"},
+               {"type": "bullet", "text": "आदर्श एवं मार्गदर्शन में पठन: ‘बाजार में बारिश’ 17"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "स्वतंत्र पठन व प्रवाहपूर्ण पठन आकलन: पठन अभ्यास 35 पृष्ठ सं. 179"},
+               {"type": "bullet", "text": "स्वतंत्र पठन का कार्य।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertain": ["Section 2.2 absent on this page (2.1 then 2.3) as printed", "Multigrade class 1 20-min bullet ends with '17' as printed (page number appears truncated; main text says पृ.स. 170)", "Multigrade class 2 40-min first bullet is tightly set; reading reasonably certain", "2.1 last two bullets sit at the top of the right column"],
+  "notes": null
+}

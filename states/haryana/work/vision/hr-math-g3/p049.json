@@ -1,0 +1,29 @@
+{
+  "pdf_page": 49,
+  "printed_page": "36",
+  "page_kind": "unit_opener",
+  "header": "रक्षाबंधन",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "line drawing of a teacher standing beside a blank board holding chalk and a book"},
+        {"type": "bullet", "text": "बार–बार जोड़कर गुणा करना।"},
+        {"type": "bullet", "text": "2–5 तक पहाड़े बनाना।"},
+        {"type": "bullet", "text": "6–10 तक पहाड़े बनाना।"},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं का गुणा।"},
+        {"type": "bullet", "text": "गुणा के इबारती प्रश्न।"},
+        {"type": "bullet", "text": "बार–बार घटाकर भाग करना।"},
+        {"type": "bullet", "text": "मूर्त रूप में संख्याओं का भाग।"},
+        {"type": "bullet", "text": "दो अंकीय संख्या को एक अंकीय संख्या से भाग करना।"},
+        {"type": "bullet", "text": "भाग के इबारती प्रश्न।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Opener has a 'दक्षताएँ:' box instead of the usual 'जानें' box and no 'अध्याय N' tab was visible; classified as unit_opener on that basis"
+  ],
+  "notes": "Chapter title 'रक्षाबंधन' printed in orange below a line illustration of a teacher at a blank board."
+}

@@ -1,0 +1,101 @@
+{
+  "pdf_page": 60,
+  "printed_page": "48",
+  "page_kind": "lesson",
+  "header": "बगीचे में बेलपत्र",
+  "units": [
+    {
+      "keys": {"chapter": "बगीचे में बेलपत्र", "days": "7-8"},
+      "keys_evidence": "calendar badge 'Day 7-8' in first column; orange band 'बगीचे में बेलपत्र'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": ["मूर्त रूप में संख्याओं का गुणा"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 117 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों में, पाठ्यपुस्तक में पृष्ठ संख्या 122 पर दिए गए अवधारणा से संबंधित गणितीय खेल के माध्यम से अवधारणा सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "बगीचे में बेलपत्र", "days": "9-10"},
+      "keys_evidence": "calendar badge 'Day 9-10' in second column; orange band 'बगीचे में बेलपत्र'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": ["गुणा के इबारती प्रश्न"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 118–120 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "बगीचे में बेलपत्र", "days": "11-12"},
+      "keys_evidence": "calendar badge 'Day 11-12' in third column; orange band 'बगीचे में बेलपत्र'",
+      "column": 3,
+      "continues_from_previous_page": true,
+      "intro": ["बार-बार घटाकर भाग करना"],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका बच्चों से पाठ्यपुस्तक में पृष्ठ संख्या 124 पर दिए गए अवधारणा से संबंधित अभ्यास प्रश्न करवाएँ।"},
+               {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+             "items": [
+               {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में प्रस्तावित गतिविधि के आधार पर कक्षा–कक्ष में मौजूद संसाधनों का प्रयोग करके बच्चों को एक खेल खिलाएँ और अवधारणा को सुदृढ़ करवाएँ।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertain": ["Page opens with a block-3 sub-bar (textbook practice) without the block-3 orange bar; block 3 'कौशल अभ्यास' inferred from previous page"],
+  "shared": [],
+  "notes": "Three columns; bars span all columns and are repeated per unit. Teaching/Learning Materials strip and QR code skipped."
+}

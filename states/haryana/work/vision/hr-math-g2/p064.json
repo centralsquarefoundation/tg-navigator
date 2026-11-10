@@ -1,0 +1,24 @@
+{
+  "pdf_page": 64,
+  "printed_page": "52",
+  "page_kind": "unit_opener",
+  "header": "मौसम का आनंद",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Reproduced textbook page 129 titled 'मौसम का आनंद' (chapter 10) with illustrations of spring flowers and birds, children walking in the sun, and a peacock and frog in the rain, with four short poem stanzas", "text": "मौसम का आनंद 10 पहचानो मौसम भरे बगीचे फूलों से, कोयल, पपीहा गाना गाएँ। पेड़ों पर नए पत्ते आएँ, डाली झूलें, धूम मचाएँ। सूरज चमक रहा है खूब, धरती पर फैली है धूप। बहे पसीना, जलते पाँव, लगे भली पेड़ों की छाँव। बिजली कड़के कड़-कड़-कड़, बादल गरजे गड़-गड़-गड़। पानी बरसा झम-झम-झम, बच्चे दौड़े धम-धम-धम। 129 गणित भाग-2"},
+        {"type": "bullet", "text": "सप्ताह के दिनों और माहों के नाम बताना।"},
+        {"type": "bullet", "text": "अलग–अलग ऋतुएँ जानना।"},
+        {"type": "bullet", "text": "कैलेंडर देखकर वर्ष, माह और दिन पहचानना।"},
+        {"type": "bullet", "text": "किन्हीं दो घटनाओं के घटित होने में में लगने वाले समय की तुलना करना।"},
+        {"type": "bullet", "text": "समय का अनुमान लगाना तथा उसकी इकाइयों को समझना।"},
+        {"type": "bullet", "text": "चारों दिशाओं–पूर्व, पश्चिम, उत्तर, दक्षिण–की अवधारणा समझना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": ["Poem text inside the illustration is small; transcribed best reading (hyphen/nukta marks in कड़-कड़-कड़, गड़-गड़-गड़ may differ)", "Orange box is headed 'दक्षताएँ:' (not 'जानें') on this page"],
+  "notes": "Chapter 10 opener: tab 'अध्याय 10', title 'मौसम का आनंद'. The box printed is 'दक्षताएँ :' rather than 'जानें'. 'में में' in the fourth bullet is as printed."
+}

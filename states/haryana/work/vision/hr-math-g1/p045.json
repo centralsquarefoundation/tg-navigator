@@ -1,0 +1,23 @@
+{
+  "pdf_page": 45,
+  "printed_page": "31",
+  "page_kind": "unit_opener",
+  "header": "पेड़ की बात",
+  "units": [],
+  "shared": [
+    {"number": null, "heading": "दक्षताएँ :", "minutes": null,
+     "items": [
+       {"type": "bullet", "text": "मूर्त रूप में चित्रों को दिखाकर दो वस्तुओं को मिलाने की अवधारणा सीखना। (20 तक)"},
+       {"type": "bullet", "text": "अमूर्त रूप में बिना हासिल किये 20 तक संख्याओं का जोड़।"},
+       {"type": "bullet", "text": "दो अंकीय संख्या में से दो अंकीय या 1 अंकीय संख्या घटाना।"},
+       {"type": "bullet", "text": "दैनिक जीवन की परिस्थितियों में सही संक्रिया का चुनाव करना।"}
+     ], "sections": []},
+    {"number": null, "heading": "पेड़ की बात", "minutes": null,
+     "items": [
+       {"type": "figure", "desc": "Chapter illustration: a talking tree with a face and four children in a meadow, with a rock numbered 7 and a QR code",
+        "text": "मैं कहाँ से आया! कैसे हुआ इतना बड़ा? | कल तुम बीज गुठलियाँ लेकर आना, फिर सब बताऊँगा! | देखो! कितना बड़ा पेड़? | तुम कहाँ से आए? इतने बड़े कैसे हुए?"}
+     ], "sections": []}
+  ],
+  "uncertain": ["Box heading printed 'दक्षताएँ :' (not 'जानें'); used as printed.", "Speech bubble reading order is approximate."],
+  "notes": "Chapter opener: tab 'अध्याय 7', title 'पेड़ की बात'."
+}

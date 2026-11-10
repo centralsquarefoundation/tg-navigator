@@ -1,0 +1,79 @@
+{
+  "pdf_page": 238,
+  "printed_page": "28",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "25", "day": "4"},
+      "keys_evidence": "top-left 'सप्ताह – 25'; tab 'दिवस 4' drawn darker, other tabs pale",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": null, "heading": "आज के लिए तैयारी सामग्री", "minutes": null,
+         "items": [
+           {"type": "bullet", "text": "सुनो–सुनाओ"},
+           {"type": "bullet", "text": "गेंद"},
+           {"type": "bullet", "text": "तराजू, ब्लॉक्स, कंकड़, मोती, पेंसिल, बटन"}
+         ], "sections": []},
+        {"number": "1", "heading": "मॉर्निंग सर्कल टाइम", "minutes": "30", "items": [], "sections": [
+          {"number": "1.1", "heading": "मॉर्निंग रूटीन", "minutes": "15", "items": [
+            {"type": "text", "text": "नीचे दिए कार्य करवाएँ, निर्देश के लिए पीछे के पृष्ठ देखें।"},
+            {"type": "bullet", "text": "उपस्थिति चार्ट"},
+            {"type": "bullet", "text": "कैलेंडर गतिविधि"},
+            {"type": "bullet", "text": "कविता गाना – हिंदी और अंग्रेज़ी"}
+          ], "sections": []},
+          {"number": "1.2", "heading": "Introduction to English (Hello)", "minutes": "15", "items": [
+            {"type": "text", "text": "ध्यान से सुनना और छोटे वाक्यों में अपनी बात बताना।"},
+            {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें।"},
+            {"type": "bullet", "text": "कहें, जब हम किसी से मिलते हैं तो ”Hello, how are you?“ कहते हैं और दूसरा बच्चा जवाब देता है– ”I am fine, thank you.“"},
+            {"type": "bullet", "text": "बच्चों को जोड़ों में बाँटें और उनसे यह संवाद दोहराने को कहें।"},
+            {"type": "bullet", "text": "सभी जोड़ियों को कक्षा के सामने आकर यह संवाद करने दें।"}
+          ], "sections": []}
+        ]},
+        {"number": "2", "heading": "मुक्त खेल", "minutes": "50", "items": [
+          {"type": "bullet", "text": "बच्चों को चार कोनों में मुक्त खेल खेलने का मौका दें।"},
+          {"type": "bullet", "text": "मुक्त खेल के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []},
+        {"number": "3", "heading": "कहानियाँ और निर्देशित खेल", "minutes": "45", "items": [], "sections": [
+          {"number": "3.1", "heading": "चित्र देखकर कहानी बताना (पकड़ो–पकड़ो! उड़ा गुब्बारा)", "minutes": "25", "items": [
+            {"type": "text", "text": "कहानी की 3–4 बड़ी घटनाओं और पात्रों के बारे में एक क्रम में बोलना।"},
+            {"type": "bullet", "text": "बच्चों के साथ गोल घेरे में बैठें और अभ्यास पुस्तिका (भाग 2) की कहानी निकलवाएँ।"},
+            {"type": "bullet", "text": "चित्र कहानी का नाम बताएँ और कहानी के बारे में अनुमान लगाने को कहें। जैसेः कहानी किसके बारे में होगी?"},
+            {"type": "bullet", "text": "सभी चित्र दिखाकर प्रश्न पूछेंः इस चित्र में क्या हो रहा है?"},
+            {"type": "bullet", "text": "चित्र के मदद से कहानी सुनाएँ।"}
+          ], "sections": []},
+          {"number": "3.2", "heading": "संज्ञानात्मक विकासः भारी – हल्का", "minutes": "20", "items": [
+            {"type": "text", "text": "अवलोकन करना और सामान्यीकरण बनाना।"},
+            {"type": "bullet", "text": "बच्चों से तराजू के बारे में चर्चा करते हुए तराजू दिखाएँ।"},
+            {"type": "bullet", "text": "एक तरफ 5 ब्लॉक्स डालें और बच्चों से पूछें कि उन्होंने क्या देखा दूसरी तरफ ब्लॉक्स रखेंगे तो क्या होगा?"},
+            {"type": "bullet", "text": "अलग–अलग सामान दोनों तरफ डालकर बच्चों को अवलोकन करने दें कि तराजू किस तरफ झुकता है।"},
+            {"type": "bullet", "text": "बच्चों से चर्चा करें कि जिस पलड़े पर भारी चीज़ होगी वह नीचे जाएगा और हल्का वाला ऊपर जाएगा।"}
+          ], "sections": []}
+        ]},
+        {"number": "4", "heading": "गतिविधि और अभ्यास पुस्तिका पर कार्य", "minutes": "35", "items": [], "sections": [
+          {"number": "4.1", "heading": "गतिविधिः सुनो और बैठो", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास पुस्तिका के पाठ 93 की गतिविधि करवाएँ।"}
+          ], "sections": []}
+        ]},
+        {"number": "5", "heading": "बाहरी खेल", "minutes": "30", "items": [], "sections": [
+          {"number": "5.1", "heading": "गतिविधिः फेंकों और पकड़ो", "minutes": null, "items": [
+            {"type": "text", "text": "नियंत्रण के साथ गेंद को पकड़ना, फेंकना।"},
+            {"type": "bullet", "text": "आप और बच्चे को गोल घेरे में थोड़ी–थोड़ी दूरी बनाकर खड़े हो जाएँ।"},
+            {"type": "bullet", "text": "आप दाई ओर खड़े बच्चे को गेंद फेंककर दें।"},
+            {"type": "bullet", "text": "बच्चे को गेंद पकड़ कर अपनी दाई ओर खड़े बच्चे को देने के लिए कहें।"},
+            {"type": "bullet", "text": "इसी तरह खेल आगे बढ़ाएँ।"},
+            {"type": "bullet", "text": "बच्चों की क्षमता के अनुसार दूरी घटाई/बढ़ाई जा सकती है।"}
+          ], "sections": []}
+        ]},
+        {"number": "6", "heading": "गुडबाय सर्कल", "minutes": "10", "items": [
+          {"type": "bullet", "text": "दिन के अंत के निर्देश के लिए पीछे के पृष्ठ देखें।"}
+        ], "sections": []}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["3.1: top-of-right-column line 'जैसेः कहानी किसके बारे में होगी?' joined to the last left-column bullet as continuation", "prep box order (two columns) read left then right"],
+  "notes": "Left column: prep box, periods 1-3 (3.1 begins); right column continues 3.1, then 3.2, 4, 5, 6. Header row 'दिनांक … हस्ताक्षर …' ignored."
+}

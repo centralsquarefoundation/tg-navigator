@@ -1,0 +1,804 @@
+{
+ "guide": "hr-math-g2",
+ "counts": {
+  "error": 0,
+  "warn": 0,
+  "info": 113
+ },
+ "lessons": 43,
+ "groups": 12,
+ "textcheck": {},
+ "issues": [
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 yellow-box text has no bullet marker; written as one intro line without final danda as printed",
+   "lesson": "hr-math-g2-c01-d1-2",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 'पृष्ठ संख्या 1', column 2 'पृष्ठ संख्या 6', column 3 'पृष्ठ संख्या 9'",
+   "lesson": "hr-math-g2-c01-d1-2",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'होता हैं' as printed; 'सैकड़े' in the yellow box vs 'सैकड़ा' in the next bullet",
+   "lesson": "hr-math-g2-c01-d1-2",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 yellow-box text has no bullet marker; written as one intro line without final danda as printed",
+   "lesson": "hr-math-g2-c01-d3-4",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 'पृष्ठ संख्या 1', column 2 'पृष्ठ संख्या 6', column 3 'पृष्ठ संख्या 9'",
+   "lesson": "hr-math-g2-c01-d3-4",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'होता हैं' as printed; 'सैकड़े' in the yellow box vs 'सैकड़ा' in the next bullet",
+   "lesson": "hr-math-g2-c01-d3-4",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 yellow-box text has no bullet marker; written as one intro line without final danda as printed",
+   "lesson": "hr-math-g2-c01-d5-6",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1 'पृष्ठ संख्या 1', column 2 'पृष्ठ संख्या 6', column 3 'पृष्ठ संख्या 9'",
+   "lesson": "hr-math-g2-c01-d5-6",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'होता हैं' as printed; 'सैकड़े' in the yellow box vs 'सैकड़ा' in the next bullet",
+   "lesson": "hr-math-g2-c01-d5-6",
+   "page": 14
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 yellow box '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
+   "lesson": "hr-math-g2-c01-d7-8",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 bullet 'छोटी और बड़ी संख्या क्या होती हैं?' spacing/punctuation as printed",
+   "lesson": "hr-math-g2-c01-d7-8",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'समझाएँ की' (without ि) and 'बैठें बच्चों' as printed",
+   "lesson": "hr-math-g2-c01-d7-8",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 yellow box '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
+   "lesson": "hr-math-g2-c01-d9-10",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 bullet 'छोटी और बड़ी संख्या क्या होती हैं?' spacing/punctuation as printed",
+   "lesson": "hr-math-g2-c01-d9-10",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'समझाएँ की' (without ि) and 'बैठें बच्चों' as printed",
+   "lesson": "hr-math-g2-c01-d9-10",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 yellow box '(बड़ा.छोटा और बराबर)' printed with a full stop between बड़ा and छोटा",
+   "lesson": "hr-math-g2-c01-d11-12",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 bullet 'छोटी और बड़ी संख्या क्या होती हैं?' spacing/punctuation as printed",
+   "lesson": "hr-math-g2-c01-d11-12",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'समझाएँ की' (without ि) and 'बैठें बच्चों' as printed",
+   "lesson": "hr-math-g2-c01-d11-12",
+   "page": 16
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Page has a single full-width column (one unit)",
+   "lesson": "hr-math-g2-c02-d1-2",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 2 bullets 'आकृतियाँ को' and 'घनाभ' small print; read from the bottom image",
+   "lesson": "hr-math-g2-c02-d1-2",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'पृष्ठ संख्या 21, 25'",
+   "lesson": "hr-math-g2-c02-d1-2",
+   "page": 20
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1: 'कक्षा मं' printed as shown (possible misprint for में)",
+   "lesson": "hr-math-g2-c03-d1-2",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 2: 'पाठ्यपुस्तक में' text lines joined; wording checked once",
+   "lesson": "hr-math-g2-c03-d1-2",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1: 'कक्षा मं' printed as shown (possible misprint for में)",
+   "lesson": "hr-math-g2-c03-d3-4",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 2: 'पाठ्यपुस्तक में' text lines joined; wording checked once",
+   "lesson": "hr-math-g2-c03-d3-4",
+   "page": 23
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1: 'अंकिय', 'बीचे में' printed as shown",
+   "lesson": "hr-math-g2-c03-d5-6",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1 sub-step 2: 'छुपा होता,' printed without 'है'",
+   "lesson": "hr-math-g2-c03-d5-6",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'पेंसिल' spelling as printed",
+   "lesson": "hr-math-g2-c03-d5-6",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1: 'अंकिय', 'बीचे में' printed as shown",
+   "lesson": "hr-math-g2-c03-d7-8",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1 sub-step 2: 'छुपा होता,' printed without 'है'",
+   "lesson": "hr-math-g2-c03-d7-8",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'पेंसिल' spelling as printed",
+   "lesson": "hr-math-g2-c03-d7-8",
+   "page": 25
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 intro second bullet printed without final danda: 'पहचानना और बनाना'",
+   "lesson": "hr-math-g2-c04-d1-2",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'त्रिभुज', 'वृत' spellings as printed",
+   "lesson": "hr-math-g2-c04-d1-2",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 intro second bullet printed without final danda: 'पहचानना और बनाना'",
+   "lesson": "hr-math-g2-c04-d3-4",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'त्रिभुज', 'वृत' spellings as printed",
+   "lesson": "hr-math-g2-c04-d3-4",
+   "page": 29
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1: 'बराबर होती है आयत' (no comma) and 'सभी भुजाएँ बराबर होती है' as printed",
+   "lesson": "hr-math-g2-c04-d5-6",
+   "page": 32
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'छुपा होता,' printed without 'है'; 'पेंसिल' as printed",
+   "lesson": "hr-math-g2-c04-d5-6",
+   "page": 32
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1: 'बराबर होती है आयत' (no comma) and 'सभी भुजाएँ बराबर होती है' as printed",
+   "lesson": "hr-math-g2-c04-d7-8",
+   "page": 32
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'छुपा होता,' printed without 'है'; 'पेंसिल' as printed",
+   "lesson": "hr-math-g2-c04-d7-8",
+   "page": 32
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 first level-2 bullet: 'रेखाओं बनाकर' as printed; 'दोहरान' as printed (could be दोहरान).",
+   "lesson": "hr-math-g2-c05-d1-2",
+   "page": 36
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 2, first bullet: last word 'दिखाइं' (printed 'दिखाइए' or 'दिखाइं'?) - best reading 'दिखाइं'; check.",
+   "lesson": "hr-math-g2-c06-d1-2",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column block 2: a thin horizontal rule separates the first three bullets from the last three; kept as one list.",
+   "lesson": "hr-math-g2-c06-d1-2",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right col block 1 'बताने को कहें' lines read as printed; 'पेंसिल' with anusvara as printed.",
+   "lesson": "hr-math-g2-c06-d1-2",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 2, first bullet: last word 'दिखाइं' (printed 'दिखाइए' or 'दिखाइं'?) - best reading 'दिखाइं'; check.",
+   "lesson": "hr-math-g2-c06-d3-4",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right column block 2: a thin horizontal rule separates the first three bullets from the last three; kept as one list.",
+   "lesson": "hr-math-g2-c06-d3-4",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Right col block 1 'बताने को कहें' lines read as printed; 'पेंसिल' with anusvara as printed.",
+   "lesson": "hr-math-g2-c06-d3-4",
+   "page": 39
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 2 text: 'पृष्ठ संख्या 67' read as printed.",
+   "lesson": "hr-math-g2-c06-d5-6",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 1 sub-step bullet 1 'जोड़ की अवधारणा याद दिलाएँ' vowel marks small; best reading.",
+   "lesson": "hr-math-g2-c06-d5-6",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 2 text: 'पृष्ठ संख्या 67' read as printed.",
+   "lesson": "hr-math-g2-c06-d7-8",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Left column block 1 sub-step bullet 1 'जोड़ की अवधारणा याद दिलाएँ' vowel marks small; best reading.",
+   "lesson": "hr-math-g2-c06-d7-8",
+   "page": 41
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Both columns print 'समझाएँकि' with no space before कि",
+   "lesson": "hr-math-g2-c07-d1-2",
+   "page": 44
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block bars printed 'ब्लॉक 1 – मौखिक गणित बातचीत' and 'ब्लॉक 2 – कौशल शिक्षण'",
+   "lesson": "hr-math-g2-c07-d1-2",
+   "page": 44
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Both columns print 'समझाएँकि' with no space before कि",
+   "lesson": "hr-math-g2-c07-d3-4",
+   "page": 44
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block bars printed 'ब्लॉक 1 – मौखिक गणित बातचीत' and 'ब्लॉक 2 – कौशल शिक्षण'",
+   "lesson": "hr-math-g2-c07-d3-4",
+   "page": 44
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'सही संक्रियाएँ चुन कर कर सकते हैं' read as printed",
+   "lesson": "hr-math-g2-c07-d5-6",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 'जोड़-घटा' hyphen vs en dash in several bullets as best read",
+   "lesson": "hr-math-g2-c07-d5-6",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'सही संक्रियाएँ चुन कर कर सकते हैं' read as printed",
+   "lesson": "hr-math-g2-c07-d7-8",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 'जोड़-घटा' hyphen vs en dash in several bullets as best read",
+   "lesson": "hr-math-g2-c07-d7-8",
+   "page": 46
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1 bullet 2 printed 'बच्चों को  कि वस्तुओं को...' (apparent missing word, copied as printed)",
+   "lesson": "hr-math-g2-c08-d1-2",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 context heading printed 'अध्यापक/अध्यापिका अब संदर्भ के आधार पर' (no colon); col 2 'अध्यापक/अध्यापिका बच्चों को' (trailing, as printed)",
+   "lesson": "hr-math-g2-c08-d1-2",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 'अलग.अलग' printed with a period",
+   "lesson": "hr-math-g2-c08-d1-2",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 bullet 5: 'को कहते हैं लम्बाई मापने की अमानक इकाइयाँ' word order as printed",
+   "lesson": "hr-math-g2-c08-d1-2",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 bar only on this page (no block 2 yet)",
+   "lesson": "hr-math-g2-c08-d1-2",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 block 1 bullet 2 printed 'बच्चों को  कि वस्तुओं को...' (apparent missing word, copied as printed)",
+   "lesson": "hr-math-g2-c08-d3-4",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 context heading printed 'अध्यापक/अध्यापिका अब संदर्भ के आधार पर' (no colon); col 2 'अध्यापक/अध्यापिका बच्चों को' (trailing, as printed)",
+   "lesson": "hr-math-g2-c08-d3-4",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 'अलग.अलग' printed with a period",
+   "lesson": "hr-math-g2-c08-d3-4",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 bullet 5: 'को कहते हैं लम्बाई मापने की अमानक इकाइयाँ' word order as printed",
+   "lesson": "hr-math-g2-c08-d3-4",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 bar only on this page (no block 2 yet)",
+   "lesson": "hr-math-g2-c08-d3-4",
+   "page": 49
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Single full-width unit; the '–' sub-lines under the first bullet of block 1 are recorded as separate bullets keeping their leading dash",
+   "lesson": "hr-math-g2-c08-d5-6",
+   "page": 52
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Unit continues beyond this page (ends mid-block 2)",
+   "lesson": "hr-math-g2-c08-d5-6",
+   "page": 52
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Printed 'अध्यापक/अध्यापिका बच्चों से' heading line followed by a bullet that repeats the same opening words, as printed",
+   "lesson": "hr-math-g2-c08-d5-6",
+   "page": 52
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 bar: dash separator and exact name read from 'ब्लॉक 1 – मौखिक गणित बातचीत'",
+   "lesson": "hr-math-g2-c09-d1-2",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Spacing in 'एक बेंच पर बच्चों की कुल संख्या = 3' and 'पंक्तियों की कुल संख्या = 6' normalised (printed with wide gap)",
+   "lesson": "hr-math-g2-c09-d1-2",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 bar: dash separator and exact name read from 'ब्लॉक 1 – मौखिक गणित बातचीत'",
+   "lesson": "hr-math-g2-c09-d3-4",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Spacing in 'एक बेंच पर बच्चों की कुल संख्या = 3' and 'पंक्तियों की कुल संख्या = 6' normalised (printed with wide gap)",
+   "lesson": "hr-math-g2-c09-d3-4",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 bar: dash separator and exact name read from 'ब्लॉक 1 – मौखिक गणित बातचीत'",
+   "lesson": "hr-math-g2-c09-d5-6",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Spacing in 'एक बेंच पर बच्चों की कुल संख्या = 3' and 'पंक्तियों की कुल संख्या = 6' normalised (printed with wide gap)",
+   "lesson": "hr-math-g2-c09-d5-6",
+   "page": 55
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'चॉक्लेट' spelling as printed",
+   "lesson": "hr-math-g2-c09-d7-8",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Dash-prefixed lines in the context-setting blocks recorded as bullets with the dash kept",
+   "lesson": "hr-math-g2-c09-d7-8",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'चॉक्लेट' spelling as printed",
+   "lesson": "hr-math-g2-c09-d9-10",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Dash-prefixed lines in the context-setting blocks recorded as bullets with the dash kept",
+   "lesson": "hr-math-g2-c09-d9-10",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 3 'चॉक्लेट' spelling as printed",
+   "lesson": "hr-math-g2-c09-d11-12",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Dash-prefixed lines in the context-setting blocks recorded as bullets with the dash kept",
+   "lesson": "hr-math-g2-c09-d11-12",
+   "page": 58
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 names 'चटर' / 'पटर' (printed as such, may be misprints for different names)",
+   "lesson": "hr-math-g2-c09-d13-14",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1: 'कितनी लड्डू' kept as printed",
+   "lesson": "hr-math-g2-c09-d13-14",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 2 names 'चटर' / 'पटर' (printed as such, may be misprints for different names)",
+   "lesson": "hr-math-g2-c09-d15-16",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Column 1: 'कितनी लड्डू' kept as printed",
+   "lesson": "hr-math-g2-c09-d15-16",
+   "page": 61
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 2 col 2 bullet 'बच्चों पूछें' (printed without 'से'?) read as printed",
+   "lesson": "hr-math-g2-c10-d1-2",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 col 2 bullet 'माह के नाम' vs col 1 'माह तथा दिनों के नाम' as printed",
+   "lesson": "hr-math-g2-c10-d1-2",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 2 col 2 bullet 'बच्चों पूछें' (printed without 'से'?) read as printed",
+   "lesson": "hr-math-g2-c10-d3-4",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 col 2 bullet 'माह के नाम' vs col 1 'माह तथा दिनों के नाम' as printed",
+   "lesson": "hr-math-g2-c10-d3-4",
+   "page": 65
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 Block 1 bullets: 'आने कितना', 'काम समय', 'गीतिविधि' read as printed",
+   "lesson": "hr-math-g2-c10-d5-6",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'उदहारण', 'विसूरज', 'यदि स्केल ... की नक्शे' as printed; spaces before commas/question marks as printed",
+   "lesson": "hr-math-g2-c10-d5-6",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The 'यदि स्केल 1 cm = 5 km' line is a sub-item (» marker) under the scale bullet, recorded as bullet",
+   "lesson": "hr-math-g2-c10-d5-6",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 / first staircase bar are above the cut; both transcribed",
+   "lesson": "hr-math-g2-c10-d5-6",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 Block 1 bullets: 'आने कितना', 'काम समय', 'गीतिविधि' read as printed",
+   "lesson": "hr-math-g2-c10-d7-8",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'उदहारण', 'विसूरज', 'यदि स्केल ... की नक्शे' as printed; spaces before commas/question marks as printed",
+   "lesson": "hr-math-g2-c10-d7-8",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "The 'यदि स्केल 1 cm = 5 km' line is a sub-item (» marker) under the scale bullet, recorded as bullet",
+   "lesson": "hr-math-g2-c10-d7-8",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Block 1 / first staircase bar are above the cut; both transcribed",
+   "lesson": "hr-math-g2-c10-d7-8",
+   "page": 68
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 last bullet: printed 'अब बच्चों से कहें कि मान लो आपको किसी वस्तु के बदले उन्हें 85 रूपये का मूल्य चुकाना है' — word 'उन्हें' may be misread; best reading is 'आपको किसी वस्तु के बदले 85 रूपये का मूल्य चुकाना है'",
+   "lesson": "hr-math-g2-c11-d1-2",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'जब उनके बड़े दुकान से' and 'कौन कौन–सी' as printed",
+   "lesson": "hr-math-g2-c11-d1-2",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Page header printed 'रूपये–पैसे' with en dash",
+   "lesson": "hr-math-g2-c11-d1-2",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2 last bullet: printed 'अब बच्चों से कहें कि मान लो आपको किसी वस्तु के बदले उन्हें 85 रूपये का मूल्य चुकाना है' — word 'उन्हें' may be misread; best reading is 'आपको किसी वस्तु के बदले 85 रूपये का मूल्य चुकाना है'",
+   "lesson": "hr-math-g2-c11-d3-4",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'जब उनके बड़े दुकान से' and 'कौन कौन–सी' as printed",
+   "lesson": "hr-math-g2-c11-d3-4",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Page header printed 'रूपये–पैसे' with en dash",
+   "lesson": "hr-math-g2-c11-d3-4",
+   "page": 72
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 staircase text 'अध्यापक/अध्यापिका बच्चों से' printed as a short lead-in line with no continuation",
+   "lesson": "hr-math-g2-c12-d1-2",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'उन सबकी पसंद को ऐसे याद रखना पाना' read as printed",
+   "lesson": "hr-math-g2-c12-d1-2",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'चर्चा करें की' (की vs कि) as printed",
+   "lesson": "hr-math-g2-c12-d1-2",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'ज़्यादा' printed 'ज्यादा'? best reading with nukta, may be 'ज़्यादा'",
+   "lesson": "hr-math-g2-c12-d1-2",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 staircase text 'अध्यापक/अध्यापिका बच्चों से' printed as a short lead-in line with no continuation",
+   "lesson": "hr-math-g2-c12-d3-4",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 2: 'उन सबकी पसंद को ऐसे याद रखना पाना' read as printed",
+   "lesson": "hr-math-g2-c12-d3-4",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "'चर्चा करें की' (की vs कि) as printed",
+   "lesson": "hr-math-g2-c12-d3-4",
+   "page": 75
+  },
+  {
+   "level": "info",
+   "code": "transcriber-note",
+   "msg": "Col 1 'ज़्यादा' printed 'ज्यादा'? best reading with nukta, may be 'ज़्यादा'",
+   "lesson": "hr-math-g2-c12-d3-4",
+   "page": 75
+  }
+ ]
+}

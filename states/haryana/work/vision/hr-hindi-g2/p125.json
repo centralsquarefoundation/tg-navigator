@@ -1,0 +1,115 @@
+{
+  "pdf_page": 125,
+  "printed_page": "123",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "18", "day": "5"},
+      "keys_evidence": "highlighted tab 'दिवस 5'; band 'सप्ताह-18'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहरायें।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "सृजनात्मक गतिविधि", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "‘चलो अपना स्कूल बनाएँ’"},
+               {"type": "bullet", "text": "बच्चों से पहले गाँव के बारे में चर्चा करें (घर, पेड़, जानवर, खेत, स्कूल आदि)।"},
+               {"type": "bullet", "text": "अब विषय दें: अगर आपको एक स्कूल बनाना है तो किन-किन चीज़ों की ज़रूरत होगी?"},
+               {"type": "bullet", "text": "बच्चों को उत्तर देने दें और मुख्य बिंदु बोर्ड पर लिखें।"},
+               {"type": "bullet", "text": "फिर बच्चों को जोड़ों में बाँटकर 10 मिनट दें ताकि वे अपनी सूची बना सकें।"},
+               {"type": "bullet", "text": "आखिरी 10 मिनट में हर जोड़ी अपना प्रस्तुतिकरण करेगी।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "अभ्यास-18.5 ‘झूला’", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पाठ का स्पष्ट उच्चारण, उतार-चढ़ाव के साथ (आदर्श) पठन कर बताएँ।"},
+               {"type": "bullet", "text": "बच्चों को स्वयं व जोड़ों में पढ़वाएँ और पढ़ने में मदद करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास-कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक के अभ्यास 18.5 (पृष्ठ सं. 214) पर कहानी को पढ़ने, प्रश्नोत्तर करने, चित्र को देखकर उनके बारे में दो वाक्य लिखने और सुनकर लिखने पर अभ्यास करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "स्वतंत्र पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को पुस्तकालय से मनपसंद किताब चुनकर व्यक्तिगत रूप से पढ़ने को कहें और उनके स्तर की पुस्तक चुनने में मदद करें।"},
+               {"type": "bullet", "text": "पाठ के अंत में कक्षा में कहानी के पात्रों, घटनाओं आदि पर चर्चा करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {
+          "number": null, "heading": "( 30 मिनट )", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "गतिविधि – ‘अनुभव सुनना व सुनाना- ‘खेलों के बारे में’"},
+               {"type": "bullet", "text": "लेखन: कक्षा 1: अपने पसंदीदा खेलों के नाम लिखो। कक्षा 2: पाठ आधारित लेखन (पाठ-18 पृष्ठ सं- 207)"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "( 40 मिनट )", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "लेखन गतिविधि पर कार्य जारी।"},
+               {"type": "bullet", "text": "पुनरावृति कार्य: शब्द पठन व ग्रिड से अभ्यास। अभ्यास-पत्रक 18 .5 (पृष्ठ सं. 210)।"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "आदर्श एवं स्वतत्र पठन: अभ्यास 18.5 ‘झूला’ पृष्ठ सं. 214 साप्ताहिक आकलन: मैंने सीख लिया"},
+               {"type": "bullet", "text": "स्वतंत्र पठन।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "( 20 मिनट )", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "कक्षा 1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "अभ्यास-पत्रक पर कार्य।"},
+               {"type": "bullet", "text": "आदर्श एवं मार्गदर्शन में पठन: पठन अभ्यास ‘रामसहाय की साईकिल’ पृष्ठ 213"}
+             ], "sections": []},
+            {"number": null, "heading": "कक्षा 2", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"},
+               {"type": "bullet", "text": "स्वतंत्र पठन।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade class 2 40-min 'स्वतत्र' printed as such"],
+  "notes": null
+}

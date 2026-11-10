@@ -1,0 +1,127 @@
+{
+  "pdf_page": 30,
+  "printed_page": "27",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "3", "day": "1"},
+      "keys_evidence": "highlighted tab 'दिवस 1'; band 'सप्ताह-3'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "पाठ्यपुस्तक से", "minutes": "20",
+             "items": [
+               {"type": "text", "text": "पाठ-3 ‘आडू’"},
+               {"type": "bullet", "text": "(पृ. सं. 21-22)पढ़कर सुनाएँ एवं चर्चा करें-"},
+               {"type": "bullet", "text": "शीर्षक और चित्र दिखाकर पाठ के बारे में अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "पाठ को हाव-भाव व आवाज़ में उतार-चढ़ाव के साथ पढ़ें।"},
+               {"type": "bullet", "text": "पढ़कर सुनाने के दौरान प्रश्न पूछते हुए सुनिश्चित करें कि बच्चे समझ रहे हैं–"},
+               {"type": "bullet", "text": "माँ ने आडू गिनकर क्यों रखे होंगे ?"},
+               {"type": "bullet", "text": "पाठ के बाद बच्चों से अनुमानों की समीक्षा, बंद व खुले छोर वाले प्रश्नों की मदद से पाठ पर चर्चा करें।"},
+               {"type": "bullet", "text": "राकेश का मुँह लाल कैसे हुआ होगा ?"},
+               {"type": "bullet", "text": "राकेश क्यों रोने लगा होगा?"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "अपने मनपसंद फल का चित्र बनवाएँ।"},
+               {"type": "bullet", "text": "बच्चों को अपनी नोटबुक में मनपसंद फल का चित्र बनाने के लिए प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": "2.1", "heading": "ध्वनि चेतनाः ध्वनियों को मिलाकर शब्द बनाना (ब्लेंडिंग) मौखिक रूप से", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक 2-3 अलग-अलग शब्द लें।"},
+               {"type": "bullet", "text": "शिक्षक शब्द को अलग-अलग ध्वनियों में तोड़कर बताएँगे और उसके बाद प्रत्येक ध्वनि को जोड़कर शब्द को एक साथ उच्चारित करेंगे।"},
+               {"type": "bullet", "text": "फिर बच्चों को इस प्रक्रिया में अपने साथ शामिल करें।"},
+               {"type": "bullet", "text": "अंत में बच्चों को अभ्यास के अवसर दें और आवश्यकता अनुसार सहयोग करें।"}
+             ], "sections": []},
+            {"number": "2.2", "heading": "अभ्यास कार्य", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "पाठ्यपुस्तक अभ्यास-पत्रक 3.1(पृ. सं. 26) पर बच्चों को स्पष्ट निर्देश देकर कार्य करवाएँ।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "3", "heading": "पठन", "minutes": "20",
+          "items": [],
+          "sections": [
+            {"number": "3.1", "heading": "आदर्श पठन", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बिग बुक से कहानी ‘बंदर की पूँछ’ पढ़कर सुनाना और चर्चा करना।"},
+               {"type": "bullet", "text": "शिक्षक बच्चों के साथ गोल घेरे में बैठ जाएँ तथा शीर्षक और कहानी के नाम पर अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "शीर्षक और कहानी के नाम पर अनुमान लगवाएँ।"},
+               {"type": "bullet", "text": "कहानी में क्या हो रहा होगा?"},
+               {"type": "bullet", "text": "आपके अनुसार कहानी का क्या नाम हो सकता है"},
+               {"type": "bullet", "text": "आपने कौन-कौन से जानवर देखे हैं ?"},
+               {"type": "bullet", "text": "इसी तरह बिगबुक के सभी पृष्ठों पर बने चित्रों को एक-एक करके पलटते जाएँ और पृष्ठों पर बने चित्रों के आधार पर बच्चों से कहानी के घटनाक्रम का अनुमान लगाने को कहें।"},
+               {"type": "bullet", "text": "फिर शिक्षक पूरी कहानी को उचित गति और उतार-चढ़ाव के साथ पढ़कर सुनाएँ और अंत में चर्चा करें, जैसे–"},
+               {"type": "bullet", "text": "आप सभी ने कहानी सुनने से पहले जो अनुमान लगाया था, क्या कहानी उसी बारे में थी? यदि नहीं तो क्या अलग था?"},
+               {"type": "bullet", "text": "बंदर ने गिरने के बाद गुस्सा क्यों नहीं किया होगा?"},
+               {"type": "bullet", "text": "बंदर की जगह अगर कोई दूसरा जानवर होता तो कहानी में क्या होता ?"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+      "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+            {"type": "bullet", "text": "रागिनी-1 के पाठ-3 ‘आडू’ पढ़कर सुनाना व चर्चा।"},
+            {"type": "bullet", "text": "लेखन: कक्षा 1: अपने मनपसंद फलों के चित्र बनाना। कक्षा 2: अपने पसंदीदा फलों के नाम लिखना।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे चित्र बनाने का कार्य जारी रखेंगे।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "वर्ण व मात्रा/अक्षर पहचान पर दोहराव।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.1 की गतिविधियाँ।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "ध्वनियों को मिलाकर शब्द बनाना।"},
+            {"type": "bullet", "text": "अभ्यास-पत्रक 3.1 पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []}
+        ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "अभ्यास-पत्रक की गतिविधियों पर कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "पाठ्यपुस्तक रागिनी भाग-1 पृष्ठ सं. 37 पर आदर्श एवं मार्गदर्शन में पठन कार्य।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+            {"type": "bullet", "text": "पढ़कर सुनाना व चर्चा- बिगबुक- ‘बन्दर की पूँछ’।"}
+          ], "sections": []},
+          {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चे मार्गदर्शन में पठन कार्य करेंगे।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "uncertain": ["Multigrade box: sub-rows written as repeated कक्षा 1 / कक्षा 2 sub-sections in print order", "1.2: the two question lists are printed in speech-icon boxes; written as bullets", "3.1: sub-bullets (round dots) written as bullets; 'हो सकता है' printed without question mark", "2.1 continues in right column top (three-plus bullets)", "Big-book title printed 'बंदर की पूँछ' in 3.1 and 'बन्दर की पूँछ' in multigrade box"],
+  "notes": null
+}

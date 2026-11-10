@@ -1,0 +1,43 @@
+{
+  "pdf_page": 19,
+  "printed_page": "17",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; it starts with period 3 (continuation page)",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {"number": "3", "heading": "पठन", "minutes": "20", "items": [], "sections": [
+          {"number": "3.1", "heading": "मार्गदर्शन में पठन", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चों को ‘पठन अभ्यास पेज. 11 को’ पढ़ने में मदद करना।"},
+            {"type": "bullet", "text": "बच्चों की जोड़ियाँ बनाने, पाठ को जोड़ियों में पढ़ने के लिए कहें।"},
+            {"type": "bullet", "text": "अब आप सभी अपना एक साथी चुन लें और उसके साथ बैठ जाएँ।"},
+            {"type": "bullet", "text": "अब अपने साथी के साथ मिलकर यही पाठ पढ़ें।"},
+            {"type": "bullet", "text": "जोड़ियों में जाकर बच्चों की आवश्यकतानुसार पढ़ने में मदद करें।"},
+            {"type": "bullet", "text": "अच्छा यह क्या लिखा हुआ है? मिलाकर एक साथ दोबारा पढ़ें।"},
+            {"type": "bullet", "text": "यह चित्र किसका है?"},
+            {"type": "bullet", "text": "कमल के पास क्या था?"},
+            {"type": "bullet", "text": "कार किसकी थी?"}
+          ], "sections": []},
+          {"number": "3.2", "heading": "स्वतंत्र पठन व चर्चा", "minutes": null, "items": [
+            {"type": "bullet", "text": "बच्चों को पढ़ने पर स्वतंत्र अभ्यास करवाना।"},
+            {"type": "bullet", "text": "बच्चों को स्वतंत्र रूप से पढ़ने के लिए कहें।"},
+            {"type": "bullet", "text": "आप सभी अपनी-अपनी किताब में पठन अभ्यास पेज 11 को पढ़े।"},
+            {"type": "bullet", "text": "बच्चों के पास जाकर आवश्यकतानुसार पढ़ने में मदद करें।"},
+            {"type": "bullet", "text": "अच्छा पढ़ने में कोई दिक्कत तो नहीं आ रही?"},
+            {"type": "bullet", "text": "2-3 बच्चों से कक्षा के सामने पाठ को पढ़ने के लिए कहें।"},
+            {"type": "bullet", "text": "पठन अभ्यास के आधार पर बच्चों से चर्चा करें।"},
+            {"type": "bullet", "text": "आपको इस पाठ में क्या अच्छा लगा? क्यों।"}
+          ], "sections": []}
+        ]}
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Prompt boxes given as bullet items", "3.1 bullet 4: read as 'अब अपने साथी के साथ मिलकर यही पाठ पढ़ें।'", "3.2 prompt 'पढ़े।' printed with short e-matra as read", "Left column: 3 and 3.1; right column: 3.2"],
+  "notes": "Continuation page: no tab row and no week band, so keys are null. Page begins with the period 3 bar (new heading, not mid-item). Content probably belongs to the day on the previous page but this is not printed."
+}

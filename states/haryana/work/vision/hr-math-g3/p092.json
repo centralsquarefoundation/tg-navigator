@@ -1,0 +1,87 @@
+{
+  "pdf_page": 92,
+  "printed_page": "79",
+  "page_kind": "lesson",
+  "header": "सूरजकुंड मेला",
+  "units": [
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [
+        "टाइलें बनाना।",
+        "टाइलों से पैटर्न बनाना।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "figure", "desc": "Brick-like pattern of three rows of rectangles, middle row offset", "text": null},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका कक्षा के सभी बच्चों को बराबर-बराबर दो टीमों में बाँट दें।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका बच्चों से ब्लैक बोर्ड पर पैटर्न का सिर्फ़ एक भाग बनाकर इस पैटर्न को आगे बढ़ाने को कहें।"},
+                {"type": "bullet", "text": "प्रत्येक टीम से एक-एक बच्चा ब्लैक बोर्ड के पास जाकर पैटर्न को आगे बढ़ाएगा।"},
+                {"type": "bullet", "text": "पैटर्न के सिर्फ एक भाग को बनाने के लिए प्रत्येक टीम के बच्चों के पास 15 सेकंड का समय होगा।"},
+                {"type": "bullet", "text": "जिस टीम का बच्चा पैटर्न को सही तरीके से आगे बढ़ाएगा, उस टीम को एक अंक मिलेगा।"},
+                {"type": "bullet", "text": "अंत में अधिक अंक पाने वाली टीम को विजेता घोषित करें।"},
+                {"type": "bullet", "text": "गतिविधि को आगे बढ़ाने के लिए इस तरह के अनेक पैटर्न बच्चों को दिए जा सकते हैं।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका सभी बच्चों को खेल में सक्रिय भागीदारी के लिए प्रोत्साहित करें।"},
+                {"type": "text", "text": "इस अवधारणा को और अच्छी तरह समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": [
+        "नक्शे को समझना।",
+        "नक्शे पर किसी स्थान को खोजना।"
+      ],
+      "sections": [
+        {
+          "number": "2", "heading": "कौशल शिक्षण", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।", "minutes": null,
+              "items": [
+                {"type": "figure", "desc": "Simple map with a vertical main road, side roads, a shop, a bank (pink diamond), a cricket ground (green oval), a pond (blue oval) and a hotel (orange pentagon)", "text": "दुकान; बैंक; क्रिकेट ग्रांउड; तालाब; मुख्य सड़क; होटल"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका कक्षा के सभी बच्चों को बराबर-बराबर दो टीमों में बाँट दें।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका बच्चों से कुछ सवाल पूछेंगे।"},
+                {"type": "bullet", "text": "सवाल का जवाब देने के लिए प्रत्येक टीम के बच्चों के पास 10 सेकेंड का समय होगा।"},
+                {"type": "bullet", "text": "जिस टीम का बच्चा सवाल का सही जवाब देगा, उस टीम को एक अंक मिलेगा।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका इस प्रकार से बच्चों से सवाल पूछें:"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के बाईं ओर कितने स्थानों को दिखाया गया है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क के दाईं ओर कितने स्थानों को दिखाया गया है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - दुकान के अधिक पास कौन-सा स्थान है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - तालाब मुख्य सड़क के किस ओर स्थित है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - क्रिकेट ग्राउंड सड़क के किस ओर स्थित है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क बैंक के किस ओर स्थित है?"},
+                {"type": "bullet", "text": "क्विक-क्विक बी क्विक - मुख्य सड़क होटल के किस ओर स्थित है?"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका विषय-वस्तु को ध्यान में रखते हुए और भी सवाल बना सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Page starts with column text before any bar; assigned to Block 2 'कौशल शिक्षण' / its level-2 bar from previous page (inferred)",
+    "Map label printed 'क्रिकेट ग्रांउड' while question text prints 'क्रिकेट ग्राउंड'; both kept as printed",
+    "The seven » lines in the rounded box (Day 3-4) are recorded as flat bullets; the first of them follows 'सवाल पूछें:'"
+  ],
+  "notes": "Two columns, no bars on this page. Day 3-4 column has a map figure at the top and a rounded box listing 6 sample questions."
+}

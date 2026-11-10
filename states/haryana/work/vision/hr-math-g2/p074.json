@@ -1,0 +1,20 @@
+{
+  "pdf_page": 74,
+  "printed_page": "62",
+  "page_kind": "unit_opener",
+  "header": "गुब्बारे वाला",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "figure", "desc": "Reproduced textbook page 161 titled 'गुब्बारे वाला' (chapter 12): balloon seller with a bicycle and three children looking at many coloured balloons in the sky", "text": "गुब्बारे वाला 12 (क) कौन से रंग के गुब्बारे सबसे ज्यादा हैं? (ख) कौन से रंग के गुब्बारे सबसे कम हैं? 161 गणित भाग-2"},
+        {"type": "bullet", "text": "आँकड़ों का निरूपण करना तथा उससे उपयोगी जानकारी निकालना।"},
+        {"type": "bullet", "text": "पिक्टोग्राफ की अवधारणा।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [],
+  "notes": "Chapter 12 opener: tab 'अध्याय 12', title 'गुब्बारे वाला'. The orange box is headed 'दक्षताएँ:' rather than 'जानें'."
+}

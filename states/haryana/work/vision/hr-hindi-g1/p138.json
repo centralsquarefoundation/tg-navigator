@@ -1,0 +1,90 @@
+{
+  "pdf_page": 138,
+  "printed_page": "135",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "20", "day": "2"},
+      "keys_evidence": "highlighted tab 'दिवस 2'; band 'सप्ताह-20'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30", "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [{"type": "bullet", "text": "शिक्षक कविता/बालगीत को हाव-भाव और लय के साथ गाकर सुनाएँ। बच्चे पीछे-पीछे दोहराएँ।"}], "sections": []},
+            {"number": "1.2", "heading": "पाठ पुन:पढ़कर सुनाना व दिए प्रश्नों पर बातचीत", "minutes": "20",
+             "items": [{"type": "bullet", "text": "पाठ्यपुस्तक पाठ-20 ‘मेला’ पर पुन: चर्चा करें व पृ. सं. 231 पर दिए गए प्रश्नों के माध्यम से बच्चों से बातचीत करें।"}], "sections": []},
+            {"number": "1.3", "heading": "पाठ आधारित लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "सोचें और लिखें- बच्चों को पाठ से संबंधित प्रश्नों को पढ़कर उत्तर लिखने के लिए कहें।"},
+               {"type": "text", "text": "चित्रकारी- बच्चों को ठेले में उन चीजों के चित्र बनाने के लिए कहें, जिन्हें वे मेले में पसंद करते हैं। उनके नाम भी लिखवाएँ।"}], "sections": []}
+          ]
+        },
+        {
+          "number": null, "heading": "सावधिक आकलन-2", "minutes": "60", "items": [],
+          "sections": [
+            {"number": null, "heading": "आकलन के दौरान", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक सावधिक आकलन के लिए प्राप्त निर्देशों के अनुसार सभी बच्चों का आकलन करना सुनिश्चित करें।"},
+               {"type": "bullet", "text": "बच्चों को आवश्यक दिशानिर्देश दें जैसे: समय पर उपस्थित होने, प्रश्नों को धैर्य से समझकर जवाब देने आदि।"},
+               {"type": "bullet", "text": "सावधिक आकलन एवं पुनरावृत्ति दो सप्ताह (12 दिन) चलेगी। पहले दो दिन में आकलन किया जायेगा। शेष 10 दिन में सावधिक पुनरावृत्ति पर कार्य किया जायेगा।"},
+               {"type": "bullet", "text": "आकलन प्रपत्र/। चर्चा से एक-एक बच्चे का आकलन करें।"},
+               {"type": "bullet", "text": "आकलन में बच्चों की उपलब्धि को शिक्षक संदर्शिका और पाठ्यपुस्तक में दिए गए स्किल पासबुक ट्रैकर (सावधिक आकलन-2) में दर्ज करें। आकलन के आधार पर इनमें उपयुक्त विकल्प (हाँ (Competent learner: 75-100%), आंशिक (Recognized learner: 41-74%) और नहीं (supported learner: 0-40%) अंकित करें।"},
+               {"type": "bullet", "text": "समूह निर्धारित करने के लिए निर्देश"},
+               {"type": "bullet", "text": "आकलन के आधार पर शिक्षक अगले 10 दिन 2 समूहों में कार्य करेंगे।"},
+               {"type": "text", "text": "समूह 1- वह बच्चे जो सावधिक आकलन में Recognized learner (41-74% दक्षताएँ प्राप्त करने वाले) और supported learner (0-40% दक्षताएँ प्राप्त करने वाले) श्रेणी में हैं।"},
+               {"type": "text", "text": "समूह 2- Competent Learner (75-100% दक्षताएँ प्राप्त करने वाले) बच्चों का होगा।"},
+               {"type": "text", "text": "सावधिक आकलन-2 के बाद प्रतिदिन कार्य के लिए योजनाएँ दी जा रही हैं।"}], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null, "items": [],
+      "sections": [
+        {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "रागिनी-1 के पाठ-20 से चित्रकथा- ‘समझदार नन्हा मेंढक’ (पृष्ठ-233)।"},
+              {"type": "bullet", "text": "लेखन: कक्षा 1: पाठ आधारित लेखन पृष्ठ सं. 231 कक्षा 2: कहानी में क्या-क्या हुआ लिखो"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "लेखन कार्य जारी रखें।"},
+              {"type": "bullet", "text": "पुस्तकालय से स्वतंत्र पठन।"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक आकलन"},
+              {"type": "bullet", "text": "सावधिक आकलन"}],
+            "sections": []}
+         ]},
+        {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [],
+         "sections": [
+           {"number": null, "heading": "कक्षा 1", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "पुस्तकालय की किताबों से स्वतंत्र पठन।"},
+              {"type": "bullet", "text": "पठन अभ्यास जारी रखें।"}],
+            "sections": []},
+           {"number": null, "heading": "कक्षा 2", "minutes": null,
+            "items": [
+              {"type": "bullet", "text": "सावधिक आकलन"},
+              {"type": "bullet", "text": "सावधिक आकलन"}],
+            "sections": []}
+         ]}
+      ]
+    }
+  ],
+  "uncertain": ["Section 'सावधिक आकलन-2' has no printed number (null)", "'आकलन प्रपत्र/। चर्चा से' read as printed", "Section 1.2 heading 'पुन:पढ़कर' colon as printed"],
+  "notes": "Single-column full-width layout. Multigrade box has small icons (ignored)."
+}

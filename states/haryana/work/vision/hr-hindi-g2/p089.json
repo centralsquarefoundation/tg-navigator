@@ -1,0 +1,90 @@
+{
+  "pdf_page": 89,
+  "printed_page": "87",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": "12", "day": "6"},
+      "keys_evidence": "highlighted tab 'दिवस 6'; band 'सप्ताह-12'",
+      "column": 1,
+      "continues_from_previous_page": false,
+      "intro": [],
+      "sections": [
+        {
+          "number": "1", "heading": "मौखिक भाषा विकास एवं लेखन", "minutes": "30",
+          "items": [],
+          "sections": [
+            {"number": "1.1", "heading": "कविता/बालगीत गाना", "minutes": "5",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को सहज करने के लिए कोई कविता गाएँ।"},
+               {"type": "bullet", "text": "कविता को लय, हाव-भाव के साथ गाकर सुनाएँ।"},
+               {"type": "bullet", "text": "बच्चों को साथ में दोहराने के लिए कहें।"},
+               {"type": "bullet", "text": "लय और शब्दों पर बेहतर पकड़ बनाने के लिए 2-3 बार ऐसा करें।"},
+               {"type": "bullet", "text": "सुनिश्चित करें कि सभी बच्चे सहजता से कविता गाने में शामिल हों।"}
+             ], "sections": []},
+            {"number": "1.2", "heading": "बच्चों द्वारा अपने शब्दों में कहानी सुनाना", "minutes": "20",
+             "items": [
+               {"type": "bullet", "text": "बच्चों को जो भी कहानी उन्हें याद है, उसे अपने शब्दों में सुनाने को कहें, सुनिश्चित करें कि सभी बच्चे सहजता से इस गतिविधि में शामिल हों। उन्हें प्रोत्साहित करें।"}
+             ], "sections": []},
+            {"number": "1.3", "heading": "अभिव्यक्ति के लिए लेखन", "minutes": "5-7",
+             "items": [
+               {"type": "bullet", "text": "कहानी से किसी एक पात्र के बारे में लिखें।"},
+               {"type": "bullet", "text": "बच्चों ने जो कहानी सुनाई है उसमें से किसी एक पात्र के बारें में अपनी नोटबुक में लिखने के लिए प्रोत्साहित करें।"}
+             ], "sections": []}
+          ]
+        },
+        {
+          "number": "2", "heading": "डिकोडिंग ‘सावधिक पुनरावृत्ति’", "minutes": "40",
+          "items": [],
+          "sections": [
+            {"number": null, "heading": "समूह-1", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "बच्चों को कहानी सुनाकर मौखिक प्रश्नोत्तर करें।"}
+             ], "sections": []},
+            {"number": null, "heading": "समूह-2", "minutes": null,
+             "items": [
+               {"type": "text", "text": "12.6 पेज 146"},
+               {"type": "bullet", "text": "समूह दो के बच्चों को शिक्षक सावधिक आकलन के साथ पाठ्यपुस्तक में दिए अभ्यास-पत्रक पर बातचीत करके स्वतंत्र रूप से कार्य करने दें।"},
+               {"type": "bullet", "text": "इसके अलावा बच्चों को अब तक पढ़े पाठों में से स्वतंत्र रूप से पढ़ने और अभ्यास प्रश्नों के जवाब देने का कार्य करने को कहें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {"number": null, "heading": "बहुकक्षा शिक्षण हेतु पाठ योजना", "minutes": null,
+     "items": [],
+     "sections": [
+       {"number": null, "heading": "(30 मिनट)", "minutes": "30", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1 और कक्षा 2 साथ में", "minutes": null, "items": [
+           {"type": "bullet", "text": "सृजनात्मक गतिविधि- ‘मिट्टी से क्या-क्या बनाया जा सकता है’।"},
+           {"type": "bullet", "text": "लेखन: कक्षा 1: मिट्टी से आप और क्या-क्या बना सकते हो, लिखो। कक्षा 2: पाठ आधारित लेखन (पाठ- 12 पृष्ठ सं. 137)।"}
+         ], "sections": []}
+       ]},
+       {"number": null, "heading": "(40 मिनट)", "minutes": "40", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+           {"type": "bullet", "text": "मौखिक भाषा विकास संबंधित लेखन कार्य।"},
+           {"type": "bullet", "text": "सावधिक पुनरावृति 12.6"}
+         ], "sections": []},
+         {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+           {"type": "bullet", "text": "सावधिक पुनरावृति 12.6"},
+           {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+         ], "sections": []}
+       ]},
+       {"number": null, "heading": "(20 मिनट)", "minutes": "20", "items": [], "sections": [
+         {"number": null, "heading": "कक्षा 1", "minutes": null, "items": [
+           {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य।"},
+           {"type": "bullet", "text": "सावधिक पुनरावृति 12.6"}
+         ], "sections": []},
+         {"number": null, "heading": "कक्षा 2", "minutes": null, "items": [
+           {"type": "bullet", "text": "सावधिक पुनरावृति 12.6"},
+           {"type": "bullet", "text": "सीखने में पीछे बच्चों के साथ योजनाबद्ध तरीके से कार्य"}
+         ], "sections": []}
+       ]}
+     ]}
+  ],
+  "uncertain": ["Multigrade rows 40/20: left/right columns assigned to कक्षा 1/कक्षा 2 per header bars"],
+  "notes": null
+}

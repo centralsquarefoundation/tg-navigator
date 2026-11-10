@@ -1,0 +1,176 @@
+{
+  "pdf_page": 20,
+  "printed_page": "7",
+  "page_kind": "lesson",
+  "header": "खिलौनों का आनंद",
+  "units": [
+    {
+      "keys": {"chapter": "खिलौनों का आनंद", "days": "1-2"},
+      "keys_evidence": "orange band 'खिलौनों का आनंद'; calendar badge 'Day 1-2' in first column yellow box",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [
+        "दैनिक जीवन में उपयोग की जाने वाली वस्तुओं को देखकर विभिन्न त्रिआयामी आकृतियों (घनाभ, बेलन, शंकु, गोला) को पहचानना तथा उन्हें अलग–अलग समूहों में रखना।"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "अब इन आकृतियों को जोड़कर त्रिआयामी आकृतियाँ बनाइए जैसे वर्गों को जोड़कर घन और आयतों को जोड़कर घनाभ तथा उनके जैसी आकृति वाली वस्तुओं के नाम बच्चों से पूछें। लेकिन बच्चों के सामने इन शब्दों जैसे घन, घनाभ या शंकु का प्रयोग न करें।"},
+                {"type": "bullet", "text": "इस प्रकार विभिन्न पैटर्न ब्लॉक्स की सहायता से अवधारणा समझाएँ।"},
+                {"type": "text", "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "heading": "कौशल अभ्यास",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "heading": "गणित खेल",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "खिलौनों का आनंद", "days": "3-4"},
+      "keys_evidence": "orange band 'खिलौनों का आनंद'; calendar badge 'Day 3-4' in second column yellow box",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": [
+        "त्रिआयामी आकृतियों की सतह, किनारों और कोनों की संख्या गिनना।"
+      ],
+      "sections": [
+        {
+          "number": "2",
+          "heading": "कौशल शिक्षण",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM एवं गतिविधियों का उपयोग कर अवधारणा को समझाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "bullet", "text": "किसी एक समूह से एक बच्चे को बुलाएँ और उस त्रिआयामी आकृति की एक वस्तु का नाम बोर्ड पर लिखने को कहें।"},
+                {"type": "bullet", "text": "सही उत्तर लिखने पर उस समूह को 1 अंक दें, अन्यथा शून्य अंक।"},
+                {"type": "bullet", "text": "फिर दूसरे समूह से एक बच्चे को बुलाएँ और त्रिआयामी आकृति की एक वस्तु का नाम बोर्ड पर लिखने को कहें।"},
+                {"type": "bullet", "text": "इसी प्रकार से गतिविधि को आगे बढ़ाएँ।"},
+                {"type": "bullet", "text": "अध्यापक/अध्यापिका सभी बच्चों को खेल में सक्रिय भागीदारी के लिए प्रोत्साहित करें।"},
+                {"type": "text", "text": "इस अवधारणा को और अच्छी तरह से समझाने के लिए अध्यापक/अध्यापिका अन्य शिक्षण सामग्री का भी उपयोग कर सकते हैं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "heading": "कौशल अभ्यास",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "TLM तथा गतिविधियों के द्वारा बच्चों से अवधारणा का अभ्यास करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "यहाँ अध्यापक/अध्यापिका पाठ्यपुस्तक में अवधारणा पर आधारित दी गयी गतिविधियाँ करवाएँ।"},
+                {"type": "text", "text": "अध्यापक/अध्यापिका ब्लॉक 2 में करवायी गयी गतिविधि को बच्चों के साथ समूह बनाकर करवाएँ।"}
+              ],
+              "sections": []
+            },
+            {
+              "number": null,
+              "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "heading": "गणित खेल",
+          "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null,
+              "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।",
+              "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [
+    {
+      "number": null,
+      "heading": null,
+      "minutes": null,
+      "items": [
+        {"type": "text", "text": "अध्यापक/अध्यापिका पाठ के अंत में अवधारणा पर आधारित “सम्पर्क दीदी के सवाल” खेल के माध्यम से करवाएँ एवं स्किल पासबुक पर अंकित करें।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Columns start with continuation of Block 2 sub-step from the previous page; the sub-step bar text is carried from the previous page",
+    "The 'पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएं।' bar printed with 'करवाएं' (anusvara) as written",
+    "Quotation marks around सम्पर्क दीदी के सवाल printed as straight-style marks; written as “ ”"
+  ],
+  "notes": "Two-column lesson plan page; the yellow strip across the bottom spans both columns and is recorded in shared. Teaching/Learning Materials and QR box ignored."
+}

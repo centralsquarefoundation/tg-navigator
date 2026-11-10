@@ -1,0 +1,37 @@
+{
+  "pdf_page": 95,
+  "printed_page": "90",
+  "page_kind": "lesson",
+  "header": null,
+  "units": [
+    {
+      "keys": {"week": null, "day": null},
+      "keys_evidence": "no day tabs and no 'सप्ताह-N' band printed on this page; it visibly continues the previous page's unit (section 3.2 text continues), but keys are not inferred",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [],
+      "sections": [
+        {
+          "number": null, "heading": null, "minutes": null,
+          "items": [],
+          "sections": [
+            {"number": "3.2", "heading": null, "minutes": null,
+             "items": [
+               {"type": "text", "text": "की पाठ्यपुस्तक अपने पास रख लें और अपनी प्रति उसे दे दें।"},
+               {"type": "bullet", "text": "मोबाइल में 60 सेकंड का टाइमर लगा लें। बच्चे को पठन अभ्यास का पाठ पढ़ने के लिए कहें। जब कोई शब्द गलत पढ़ा जाए तो उसके नीचे लाइन खींच दें। लेकिन यदि वह दोबारा उसे सही पढ़ ले तो शब्द के नीचे एक लाइन और खींच दें। 1 मिनट पूरा हो जाने पर अंतिम पढ़े गए शब्द पर ']' का निशान लगा दें। जिस पाठ के साथ आकलन कर रहे हैं उसके आगे बने डिब्बों में सही पढ़े गए शब्दों की संख्या लिखें। पढ़ने में लिया गया समय दर्ज करें।"},
+               {"type": "bullet", "text": "बच्चे द्वारा पढ़ने के तरीके अनुसार बच्चे का स्तर भरें।"}
+             ], "sections": []},
+            {"number": "3.3", "heading": "पाठ आधारित चर्चा : पठन अभ्यास-9", "minutes": null,
+             "items": [
+               {"type": "bullet", "text": "शिक्षक आकलन के बाद बच्चों से समझ आधारित चर्चा भी करें।"},
+               {"type": "bullet", "text": "शिक्षक पाठ से जुड़े खुले एवं बंद छोर के प्रश्न करें।"}
+             ], "sections": []}
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": ["Week and day keys null: page has no tabs/band; context suggests week 13 day 1 continuation (section 3.2 begins mid-sentence).", "The mark printed as ']' in quotes (read as '] ')."],
+  "notes": "Continuation page: left column box only, lower half blank. Printed page number 90."
+}

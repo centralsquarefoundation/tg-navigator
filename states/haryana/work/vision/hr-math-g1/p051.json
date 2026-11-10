@@ -1,0 +1,33 @@
+{
+  "pdf_page": 51,
+  "printed_page": "37",
+  "page_kind": "unit_opener",
+  "header": "अनवी का परिवार",
+  "units": [],
+  "shared": [
+    {
+      "number": null, "heading": "अनवी के परिवार का मिलना-जुलना", "minutes": null,
+      "items": [
+        {"type": "text", "text": "अनवी अपने परिवार के साथ एक गाँव में रहती है। वह अपने दादा–दादी, माता–पिता और एक भाई अवि के साथ रहती है। उसके चाचा–चाची और चचेरे भाई–बहन उनके घर के पास रहते हैं।"},
+        {"type": "figure", "desc": "Illustration of Anvi's family standing together: father, mother, grandmother, grandfather, a boy with crutches and a girl standing on a stool", "text": "अनवी स्टूल पर खड़ी है। उसे लंबा दिखना बहुत पसंद है।"}
+      ],
+      "sections": []
+    },
+    {
+      "number": null, "heading": "दक्षताएँ:", "minutes": null,
+      "items": [
+        {"type": "bullet", "text": "लंबी तथा छोटी वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "अमानक इकाइयों से लम्बाई मापन करना।"},
+        {"type": "bullet", "text": "मोटी और पतली वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "भारी तथा हल्की वस्तुओं की पहचान करना।"},
+        {"type": "bullet", "text": "धारिता की अवधारणा समझना।"},
+        {"type": "bullet", "text": "अलग–अलग बर्तनों में धारिता की तुलना करना।"}
+      ],
+      "sections": []
+    }
+  ],
+  "uncertain": [
+    "Orange box is headed 'दक्षताएँ:' rather than 'जानें'; recorded as printed. Chapter tab 'अध्याय 8'. Small QR code labelled 'G8L7R1' present beside the title."
+  ],
+  "notes": "Chapter opener: tab 'अध्याय 8'."
+}

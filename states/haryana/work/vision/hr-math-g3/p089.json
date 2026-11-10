@@ -1,0 +1,90 @@
+{
+  "pdf_page": 89,
+  "printed_page": "76",
+  "page_kind": "lesson",
+  "header": "सूरजकुंड मेला",
+  "units": [
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "1-2"},
+      "keys_evidence": "calendar badge 'Day 1-2' in left yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 1,
+      "continues_from_previous_page": true,
+      "intro": [
+        "चित्रों को देखकर उनमें पैटर्न समझना।",
+        "आकृतियों और उनके पैटर्न को पहचानकर क्रम बढ़ाना।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "keys": {"chapter": "सूरजकुंड मेला", "days": "3-4"},
+      "keys_evidence": "calendar badge 'Day 3-4' in right yellow box; orange band 'सूरजकुंड मेला'",
+      "column": 2,
+      "continues_from_previous_page": true,
+      "intro": [
+        "चित्रों को अलग-अलग दिशाओं से देखना।",
+        "बिंदुओं से डिज़ाइन बनाना।",
+        "चित्र को आधे भाग में बाँटना।"
+      ],
+      "sections": [
+        {
+          "number": "3", "heading": "कौशल अभ्यास", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "पाठ्यपुस्तक से अवधारणा संबंधित प्रश्नों का अभ्यास करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक से अवधारणा आधारित प्रश्न करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        },
+        {
+          "number": "4", "heading": "गणित खेल", "minutes": null,
+          "items": [],
+          "sections": [
+            {
+              "number": null, "heading": "गणितीय खेल के माध्यम से अवधारणा को सुदृढ़ करवाएँ।", "minutes": null,
+              "items": [
+                {"type": "text", "text": "पाठ्यपुस्तक में दिए गए खेल, शिक्षक अपने स्तर पर खेल ढूंढे, STV device और स्मार्ट शाला ऐप, Math के TLM में दिए गए खेल करवाएं।"}
+              ],
+              "sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shared": [],
+  "uncertain": [
+    "Page begins with a grey level-2 bar and no block bar; assigned to Block 3 'कौशल अभ्यास' as continuation from previous page (inferred)"
+  ],
+  "notes": "Two columns. Lower half of page is blank. Unlike page 85 there is no yellow bottom note."
+}
