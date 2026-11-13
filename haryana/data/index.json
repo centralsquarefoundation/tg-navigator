@@ -1,0 +1,490 @@
+{
+ "version": "7ad41d48d6",
+ "state": {
+  "id": "haryana",
+  "label": {
+   "hi": "हरियाणा",
+   "en": "Haryana"
+  },
+  "edition": "2026–27",
+  "appTitle": {
+   "hi": "शिक्षक संदर्शिका · हरियाणा",
+   "en": "Teacher Guide · Haryana"
+  },
+  "sourceNotice": {
+   "hi": "हरियाणा शिक्षक संदर्शिका 2026–27 (सितंबर 2026 संस्करण) से। हर पाठ के साथ मूल पृष्ठ देखें।",
+   "en": "From the Haryana Teacher Guides 2026–27 (September 2026 edition). Each lesson links to its original page."
+  },
+  "brand": {
+   "colors": {
+    "brand": "#00316b",
+    "brand-dark": "#001f45",
+    "accent": "#ffd400"
+   },
+   "logos": [
+    {
+     "src": "brand/haryana-emblem.png",
+     "alt": {
+      "hi": "हरियाणा सरकार",
+      "en": "Government of Haryana"
+     }
+    },
+    {
+     "src": "brand/nipun-haryana.png",
+     "alt": {
+      "hi": "निपुण हरियाणा",
+      "en": "NIPUN Haryana"
+     }
+    }
+   ],
+   "footerLogos": [
+    {
+     "src": "brand/csf-logo.png",
+     "alt": {
+      "hi": "सेंट्रल स्क्वेयर फाउंडेशन",
+      "en": "Central Square Foundation"
+     }
+    }
+   ],
+   "department": {
+    "hi": "विद्यालय शिक्षा विभाग, हरियाणा",
+    "en": "School Education Department, Haryana"
+   }
+  }
+ },
+ "guides": [
+  {
+   "id": "hr-hindi-bv",
+   "doc": "hr-bv-p1",
+   "subject": "hindi",
+   "subjectLabel": {
+    "hi": "हिन्दी",
+    "en": "Hindi"
+   },
+   "grade": 0,
+   "gradeLabel": {
+    "hi": "बालवाटिका-3",
+    "en": "Balvatika-3"
+   },
+   "labels": {
+    "week": {
+     "hi": "सप्ताह",
+     "en": "Week"
+    },
+    "day": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "week",
+    "day"
+   ],
+   "groupBy": "week",
+   "pageCounts": {
+    "hr-bv-p1": 120,
+    "hr-hindi-g1": 248
+   },
+   "sections": [
+    {
+     "doc": "hr-bv-p1",
+     "pages": [
+      13,
+      13
+     ],
+     "title": {
+      "hi": "बालवाटिका-3 की दैनिक योजना",
+      "en": "Balvatika-3 daily schedule"
+     }
+    },
+    {
+     "doc": "hr-bv-p1",
+     "pages": [
+      14,
+      16
+     ],
+     "title": {
+      "hi": "तैयारी सप्ताह 1–2 और सप्ताह 3–6 की योजना",
+      "en": "Preparation weeks 1–2 and weeks 3–6 plan"
+     }
+    },
+    {
+     "doc": "hr-bv-p1",
+     "pages": [
+      81,
+      82
+     ],
+     "title": {
+      "hi": "खेल मेला (सप्ताह 17)",
+      "en": "Games fair (week 17)"
+     }
+    },
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना (भाग-1)",
+      "en": "Annual / academic plan (part 1)"
+     },
+     "doc": "hr-bv-p1",
+     "pages": [
+      15,
+      16
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से (भाग-1)",
+      "en": "Whole guide from the first page (part 1)"
+     },
+     "doc": "hr-bv-p1",
+     "pages": [
+      1,
+      120
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से (भाग-2)",
+      "en": "Whole guide from the first page (part 2)"
+     },
+     "doc": "hr-hindi-g1",
+     "pages": [
+      209,
+      248
+     ]
+    }
+   ],
+   "lessonCount": 118,
+   "file": "data/hr-hindi-bv.json"
+  },
+  {
+   "id": "hr-hindi-g1",
+   "doc": "hr-hindi-g1",
+   "subject": "hindi",
+   "subjectLabel": {
+    "hi": "हिन्दी",
+    "en": "Hindi"
+   },
+   "grade": 1,
+   "gradeLabel": null,
+   "labels": {
+    "week": {
+     "hi": "सप्ताह",
+     "en": "Week"
+    },
+    "day": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "week",
+    "day"
+   ],
+   "groupBy": "week",
+   "pageCounts": {
+    "hr-hindi-g1": 248
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-hindi-g1",
+     "pages": [
+      11,
+      13
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-hindi-g1",
+     "pages": [
+      1,
+      208
+     ]
+    }
+   ],
+   "lessonCount": 156,
+   "file": "data/hr-hindi-g1.json"
+  },
+  {
+   "id": "hr-math-g1",
+   "doc": "hr-math-g1",
+   "subject": "math",
+   "subjectLabel": {
+    "hi": "गणित",
+    "en": "Mathematics"
+   },
+   "grade": 1,
+   "gradeLabel": null,
+   "labels": {
+    "chapter": {
+     "hi": "अध्याय",
+     "en": "Chapter"
+    },
+    "days": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "chapter",
+    "days"
+   ],
+   "groupBy": "chapter",
+   "pageCounts": {
+    "hr-math-g1": 121
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-math-g1",
+     "pages": [
+      9,
+      14
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-math-g1",
+     "pages": [
+      1,
+      121
+     ]
+    }
+   ],
+   "lessonCount": 46,
+   "file": "data/hr-math-g1.json"
+  },
+  {
+   "id": "hr-hindi-g2",
+   "doc": "hr-hindi-g2",
+   "subject": "hindi",
+   "subjectLabel": {
+    "hi": "हिन्दी",
+    "en": "Hindi"
+   },
+   "grade": 2,
+   "gradeLabel": null,
+   "labels": {
+    "week": {
+     "hi": "सप्ताह",
+     "en": "Week"
+    },
+    "day": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "week",
+    "day"
+   ],
+   "groupBy": "week",
+   "pageCounts": {
+    "hr-hindi-g2": 204
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-hindi-g2",
+     "pages": [
+      13,
+      15
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-hindi-g2",
+     "pages": [
+      1,
+      204
+     ]
+    }
+   ],
+   "lessonCount": 156,
+   "file": "data/hr-hindi-g2.json"
+  },
+  {
+   "id": "hr-math-g2",
+   "doc": "hr-math-g2",
+   "subject": "math",
+   "subjectLabel": {
+    "hi": "गणित",
+    "en": "Mathematics"
+   },
+   "grade": 2,
+   "gradeLabel": null,
+   "labels": {
+    "chapter": {
+     "hi": "अध्याय",
+     "en": "Chapter"
+    },
+    "days": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "chapter",
+    "days"
+   ],
+   "groupBy": "chapter",
+   "pageCounts": {
+    "hr-math-g2": 124
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-math-g2",
+     "pages": [
+      9,
+      12
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-math-g2",
+     "pages": [
+      1,
+      124
+     ]
+    }
+   ],
+   "lessonCount": 43,
+   "file": "data/hr-math-g2.json"
+  },
+  {
+   "id": "hr-hindi-g3",
+   "doc": "hr-hindi-g3",
+   "subject": "hindi",
+   "subjectLabel": {
+    "hi": "हिन्दी",
+    "en": "Hindi"
+   },
+   "grade": 3,
+   "gradeLabel": null,
+   "labels": {
+    "week": {
+     "hi": "सप्ताह",
+     "en": "Week"
+    },
+    "day": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "week",
+    "day"
+   ],
+   "groupBy": "week",
+   "pageCounts": {
+    "hr-hindi-g3": 204
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-hindi-g3",
+     "pages": [
+      13,
+      18
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-hindi-g3",
+     "pages": [
+      1,
+      204
+     ]
+    }
+   ],
+   "lessonCount": 156,
+   "file": "data/hr-hindi-g3.json"
+  },
+  {
+   "id": "hr-math-g3",
+   "doc": "hr-math-g3",
+   "subject": "math",
+   "subjectLabel": {
+    "hi": "गणित",
+    "en": "Mathematics"
+   },
+   "grade": 3,
+   "gradeLabel": null,
+   "labels": {
+    "chapter": {
+     "hi": "अध्याय",
+     "en": "Chapter"
+    },
+    "days": {
+     "hi": "दिवस",
+     "en": "Day"
+    }
+   },
+   "keys": [
+    "chapter",
+    "days"
+   ],
+   "groupBy": "chapter",
+   "pageCounts": {
+    "hr-math-g3": 154
+   },
+   "sections": [
+    {
+     "title": {
+      "hi": "वार्षिक / अकादमिक योजना",
+      "en": "Annual / academic plan"
+     },
+     "doc": "hr-math-g3",
+     "pages": [
+      9,
+      13
+     ]
+    },
+    {
+     "title": {
+      "hi": "पूरी संदर्शिका, पहले पृष्ठ से",
+      "en": "Whole guide from the first page"
+     },
+     "doc": "hr-math-g3",
+     "pages": [
+      1,
+      154
+     ]
+    }
+   ],
+   "lessonCount": 63,
+   "file": "data/hr-math-g3.json"
+  }
+ ]
+}

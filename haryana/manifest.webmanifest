@@ -1,0 +1,9 @@
+{
+  "name": "संदर्शिका",
+  "short_name": "संदर्शिका",
+  "start_url": "./#/today",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#286f99",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

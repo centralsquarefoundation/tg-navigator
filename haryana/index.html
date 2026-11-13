@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#286f99">
+<title>संदर्शिका</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css?v=7ad41d48d6">
+</head>
+<body>
+<a class="skip" href="#main">मुख्य भाग पर जाएँ</a>
+<header class="top">
+  <div class="brand-row">
+    <a class="brand" href="#/today"><span class="brand-mark" aria-hidden="true">▤</span><span id="brand-name">संदर्शिका</span></a>
+    <div class="textsize"><button type="button" data-size="-1" aria-label="अक्षर छोटे करें">अ−</button><button type="button" data-size="1" aria-label="अक्षर बड़े करें">अ+</button></div>
+    <div class="pickers">
+      <label><span class="sr">कक्षा</span><select id="grade-select" aria-label="कक्षा"></select></label>
+      <label><span class="sr">विषय</span><select id="subject-select" aria-label="विषय"></select></label>
+    </div>
+  </div>
+  <nav class="tabs" aria-label="मुख्य">
+    <a id="today-link" href="#/today"><span aria-hidden="true">◷</span> <span data-t="today">आज</span></a>
+    <a id="year-link" href="#/year"><span aria-hidden="true">▦</span> <span data-t="year">पूरा साल</span></a>
+    <a id="find-link" href="#/find"><span aria-hidden="true">☰</span> <span data-t="find">सभी पाठ</span></a>
+  </nav>
+</header>
+<main id="main" tabindex="-1"><p class="loading">पाठ खुल रहे हैं…</p></main>
+<div id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="app.js?v=7ad41d48d6"></script>
+</body>
+</html>
