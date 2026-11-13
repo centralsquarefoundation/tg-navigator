@@ -74,7 +74,7 @@ def main():
                             **({'printed_keys': l['printed_keys']} if l.get('printed_keys') else {}),
                             'check': 'flagged' if l['id'] in warned else 'auto-checked'})
         used = {l['group'] for l in lessons}
-        groups = [{k: grp.get(k) for k in ('id', 'key', 'title', 'ordinal', 'opener_page', 'doc')} |
+        groups = [{k: grp.get(k) for k in ('id', 'key', 'title', 'name', 'ordinal', 'opener_page', 'doc') if grp.get(k) is not None or k != 'name'} |
                   {'intro': [slim_section(s) for s in grp.get('intro', [])]} for grp in pack['groups'] if grp['id'] in used]
         out = {'guide': g['id'], 'groups': groups, 'lessons': lessons}
         name = f"data/{g['id']}.json"

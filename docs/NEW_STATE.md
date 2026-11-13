@@ -24,6 +24,10 @@ its original page, plus a report showing what was checked. Expect every state to
 2. **Create `states/<state>/state.json`**: copy `states/haryana/state.json`; list `documents`
    (file names) and `guides` (grade, subject, profile, page ranges: `plan`, `lessons`, `guide`).
    One PDF can hold several guides (Haryana Hindi G1 also holds Balvatika-3).
+   Optional `groupNames` on a guide gives numbered groups a printed name, e.g. week → the
+   textbook lesson taught that week (`{"1": "चित्र चार्ट (परिवार)", …}`); the app shows
+   "सप्ताह 1 · चित्र चार्ट (परिवार)". Copy each name exactly as printed in that week's lessons:
+   `verify.py` blocks publishing if the name is not found there.
 3. **Render**: `python engine/render.py <state>`. Look at contact sheets of each guide
    (`_work/wsheet.py` style) to find where lessons start/end and how a page marks its place.
 4. **Write the profile(s)** (`states/<state>/guides/*.profile.json`):

@@ -211,6 +211,12 @@ def assemble(cfg, g):
             missing.append({'doc': doc, 'page': p})
             continue
         plan.append({'doc': doc, 'page': p, 'kind': data.get('page_kind'), 'shared': [clean_section(s) for s in data.get('shared', [])]})
+    # optional printed names for numbered groups (state.json guide.groupNames, e.g. week -> textbook lesson);
+    # verify.py checks each name against the group's own transcribed text
+    for grp in groups:
+        name = (g.get('groupNames') or {}).get(grp['key'])
+        if name:
+            grp['name'] = norm(name)
     return {'guide': g['id'], 'doc': g['doc'], 'subject': g['subject'], 'grade': g['grade'],
             'gradeLabel': g.get('gradeLabel'), 'hierarchy': prof['hierarchy'], 'groups': groups,
             'lessons': lessons, 'plan': plan, 'page_index': page_index, 'missing_pages': missing}

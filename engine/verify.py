@@ -12,6 +12,7 @@ import argparse
 import difflib
 import json
 import re
+import unicodedata
 
 from common import guide, load_state, parse_pages, read_json, read_page, work, write_json
 
@@ -106,6 +107,19 @@ def verify(cfg, g, pack):
                             for i in range(0, max(1, len(squash) - len(t)), 2)), default=0)
                 if best < 0.8:
                     add('warn', 'group-not-in-plan', f"«{grp['title']}» not found in the academic plan pages (best match {best:.2f})", page=grp['pages'][0])
+    # group names from state.json (groupNames) must be printed in that group's own lessons
+    squeeze = lambda s: re.sub(r'\s+', '', unicodedata.normalize('NFC', s or ''))
+    for key in (g.get('groupNames') or {}):
+        if not any(grp['key'] == key for grp in pack['groups']):
+            add('error', 'group-name-unused', f"groupNames has {key!r} but the guide has no such {prof['hierarchy']['group_by']}")
+    for grp in pack['groups']:
+        if not grp.get('name'):
+            continue
+        ls = [l for l in pack['lessons'] if l['group'] == grp['id']]
+        text = squeeze(' '.join(t for l in ls for t in [*l['intro'], *all_text(l['sections'] + l.get('shared', []))]))
+        if squeeze(grp['name']) not in text:
+            add('error', 'group-name-not-in-source', f"name «{grp['name']}» for {grp['key']!r} is not printed in that group's lessons",
+                page=grp['pages'][0], doc=grp.get('doc'))
     for grp in pack['groups']:
         if seq == 'chapter-days' and not grp.get('opener_page'):
             add('warn', 'group-without-opener', f"«{grp['title']}» has no opener page (a page may be mis-assigned)", page=grp['pages'][0])

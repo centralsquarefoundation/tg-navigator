@@ -42,7 +42,8 @@ const isNum = (v) => /^\d+$/.test(String(v ?? ''));
 
 function groupLabel(group) {
   const name = GUIDE.groupBy;
-  if (isNum(group.key)) return `${keyLabel(name)} ${group.key}`;
+  // a numbered group (week) may carry a printed name (state.json guide.groupNames)
+  if (isNum(group.key)) return `${keyLabel(name)} ${group.key}${group.name ? ' · ' + group.name : ''}`;
   return `${keyLabel(name)} ${group.ordinal}: ${group.title}`;
 }
 function groupShort(group) { return isNum(group.key) ? `${keyLabel(GUIDE.groupBy)} ${group.key}` : group.title; }
@@ -369,7 +370,7 @@ function weekStrip(lesson) {
   const days = PACK.lessons.filter((l) => l.group === lesson.group);
   if (days.length < 2) return '';
   const g = groupById(lesson.group);
-  const title = isNum(g.key) ? `${t('यह', 'This')} ${groupShort(g)}` : `${t('यह अध्याय', 'This chapter')}: ${g.title}`;
+  const title = isNum(g.key) ? `${t('यह', 'This')} ${groupLabel(g)}` : `${t('यह अध्याय', 'This chapter')}: ${g.title}`;
   return `<section class="card week"><h2>${esc(title)}</h2><div class="days">${days.map((l) => {
     const done = store.data.taught[l.id];
     const next = l.id === lesson.id;
@@ -388,7 +389,7 @@ function viewToday() {
   <section class="hero">
     <div class="kicker">${esc(gradeOf(GUIDE))} · ${esc(subjectOf(GUIDE))} · ${pos.next ? t('अगला पाठ', 'Next lesson') : t('सभी पाठ पढ़ा दिए गए', 'All lessons taught')}</div>
     <h1>${esc(whereLabel(lesson))}</h1>
-    ${isNum(g.key) ? '' : `<p>${esc(g.title)}</p>`}
+    ${isNum(g.key) ? (g.name ? `<p>${esc(g.name)}</p>` : '') : `<p>${esc(g.title)}</p>`}
     <p>${esc(summaryOf(lesson))}</p>
     ${prepOf(lesson, 'material').length || prepOf(lesson, 'book').length ? `<div class="hero-prep"><strong>${t('तैयारी — तैयार रखें', 'Prepare — keep ready')}:</strong>
       ${prepOf(lesson, 'material').length ? `<span>${esc(keepReady(lesson, 6))}</span>` : ''}
@@ -454,7 +455,7 @@ function viewFind(q) {
       const sq = squash(text);
       const j = nq ? sq.out.indexOf(nq) : -1;
       const g = groupById(l.group);
-      if (j >= 0 || whereLabel(l).includes(query) || (g.title || '').includes(query)) {
+      if (j >= 0 || whereLabel(l).includes(query) || (g.title || '').includes(query) || (g.name || '').normalize('NFC').includes(query)) {
         let snip = '', mark = '';
         if (j >= 0) {
           const a = sq.map[j], b = sq.map[j + nq.length - 1] + 1;
@@ -523,8 +524,8 @@ function viewLesson(id) {
   return `
   <section class="banner">
     <span class="where">${esc(gradeOf(GUIDE))} · ${esc(subjectOf(GUIDE))} · ${esc(whereLabel(l))}</span>
-    <h1>${esc(isNum(g.key) ? groupLabel(g) + ' · ' + unitLabel(l) : g.title)}</h1>
-    ${isNum(g.key) ? '' : `<div class="group-title">${esc(keyLabel(GUIDE.groupBy))} ${g.ordinal} · ${esc(unitLabel(l))}</div>`}
+    <h1>${esc(isNum(g.key) ? groupShort(g) + ' · ' + unitLabel(l) : g.title)}</h1>
+    ${isNum(g.key) ? (g.name ? `<div class="group-title">${esc(g.name)}</div>` : '') : `<div class="group-title">${esc(keyLabel(GUIDE.groupBy))} ${g.ordinal} · ${esc(unitLabel(l))}</div>`}
     ${l.intro?.length ? `<ul class="objectives">${l.intro.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
     <div class="btn-row banner-actions"><a class="btn accent" href="#/teach/${l.id}/0">▶ ${t('कक्षा में पढ़ाएँ (एक-एक चरण)', 'Teach step by step')}</a>
       <button class="btn secondary" data-act="share">${t('साझा करें', 'Share')}</button></div>
