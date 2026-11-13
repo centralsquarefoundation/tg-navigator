@@ -1,4 +1,7 @@
-# mobile-tg-maker
+# TG Navigator — teacher guides to a mobile lesson app, for any state
+
+- **Live (Haryana):** https://centralsquarefoundation.github.io/tg-navigator/haryana/
+- **Add a state (MP, …):** follow [docs/NEW_STATE.md](docs/NEW_STATE.md) — a new folder `states/<state>/`, no app or engine code.
 
 Turns a state's printed **Teacher Guide PDFs** into a **mobile lesson app** for teachers: pick
 class and subject, see today's lesson, browse the year by week/chapter, open a day's plan with its
